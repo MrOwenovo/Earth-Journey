@@ -1,0 +1,23 @@
+{
+  "selectedProfile": "(Default)",
+  "profiles": {
+    "(Default)": {
+      "name": "(Default)"
+    }
+  },
+  "clientToken": "05e893930563452ea7ab804e4247bee9",
+  "authenticationDatabase": {
+    "00000111112222233333444445555566": {
+      "username": "MiRosao",
+      "profiles": {
+        "66666555554444433333222221111100": {
+          "displayName": "MiRosao"
+        }
+      }
+    }
+  },
+  "selectedUser": {
+    "account": "00000111112222233333444445555566",
+    "profile": "66666555554444433333222221111100"
+  }
+}

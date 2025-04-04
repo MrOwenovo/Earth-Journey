@@ -1,0 +1,392 @@
+[19:23:34.371] [Start] 程序版本：Release 2.9.1 (352)
+[19:23:34.373] [Start] 识别码：2DBC-7D8B-E112-1EDC
+[19:23:34.373] [Start] 程序路径：C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\Plain Craft Launcher 2.exe
+[19:23:34.373] [Start] 系统编码：gb2312 (936, GBK=True)
+[19:23:34.373] [Start] 管理员权限：False
+[19:23:34.400] [Start] 第一阶段加载用时：484 ms
+[19:23:34.588] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[19:23:34.589] [Start] 第二阶段加载用时：188 ms
+[19:23:34.598] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[19:23:34.946] [System] 窗口已置顶，位置：(270, 151), 900 x 550
+[19:23:34.951] [Animation] 动画线程开始
+[19:23:34.951] [Start] 第三阶段加载用时：78 ms
+[19:23:34.953] [Start] 加载 DLL：Json
+[19:23:34.954] [System] 获取资源：Json
+[19:23:34.964] [Launch] Minecraft 文件夹：C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\
+[19:23:35.007] [Loader] 加载器 Loader Skin Auth 状态改变：Loading
+[19:23:35.018] [Loader] 加载器 Loader Skin Auth 状态改变：Finished
+[19:23:35.057] [Java] 缓存中有 3 个可用的 Java：
+[19:23:35.058] [Java]  - JDK 21 (21.0.1)：C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\Java21\bin\
+[19:23:35.058] [Java]  - JDK 17 (17.0.14)：C:\Program Files\Zulu\zulu-17\bin\
+[19:23:35.058] [Java]  - JDK 8 (8.0.392)：C:\Application\Zulu\bin\
+[19:23:35.081] [Page] 实例化：清空自定义主页 UI，来源为空
+[19:23:35.094] [Skin] 载入头像成功：Loader Skin Auth
+[19:23:35.110] [Minecraft] 启动按钮：Minecraft 版本：C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\versions\Earth3_Ver0.21\
+[19:23:35.116] [Loader] 加载器 登录 状态改变：Loading
+[19:23:35.120] [Launch] 登录加载已开始
+[19:23:35.121] [Loader] 加载器 Loader Login Auth 状态改变：Loading
+[19:23:35.126] [Launch] 登录方式：Authlib-Injector（lmq122677@qq.com）
+[19:23:35.128] [Launch] 验证登录开始（Validate, Auth）
+[19:23:35.133] [Net] 发起网络请求（POST，https://littleskin.cn/api/yggdrasil/authserver/validate），最大超时 15000
+[19:23:35.266] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[19:23:35.267] [Loader] 加载器 PCL 服务 状态改变：Loading
+[19:23:35.268] [Server] 正在连接到 PCL 服务器
+[19:23:35.269] [System] 开始清理任务缓存文件夹
+[19:23:35.272] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，超时 10000ms，要求 json
+[19:23:35.276] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1743704615-38463ebf-0-162bc1a37cc0e9d95f6cd62157c6b4e2，超时 10000ms
+[19:23:35.300] [System] 已清理任务缓存文件夹
+[19:23:35.665] [System] DPI：192，系统版本：Microsoft Windows NT 10.0.26100.0，PCL 位置：C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\Plain Craft Launcher 2.exe
+[19:23:35.793] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[19:23:36.735] [Launch] 验证登录成功（Validate, Auth）
+[19:23:36.736] [Loader] 加载器 Loader Login Auth 状态改变：Finished
+[19:23:36.747] [Launch] 登录加载已结束
+[19:23:36.747] [Loader] 加载器 登录 状态改变：Finished
+[19:23:36.959] [Server] 服务器公告：162|353|352|5，无需更新
+[19:23:36.960] [Server] 复制自身为最新正式版：版本号升高到 352
+[19:23:36.968] [Loader] 加载器 PCL 服务 状态改变：Finished
+[19:24:29.049] [Control] 按下单选按钮：设置
+[19:24:29.179] [Control] 切换主要页面：Setup, -1
+[19:24:29.274] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[19:24:29.276] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[19:24:38.767] [Animation] 两个动画帧间隔 203 ms
+[19:24:38.861] [Animation] 两个动画帧间隔 219 ms
+[19:24:39.970] [Animation] 两个动画帧间隔 219 ms
+[19:24:40.034] [Animation] 两个动画帧间隔 265 ms
+[19:24:41.517] [Animation] 两个动画帧间隔 203 ms
+[19:24:42.604] [Control] 按下单选按钮：启动
+[19:24:42.624] [Control] 切换主要页面：Launch, -1
+[19:24:42.985] [Animation] 两个动画帧间隔 203 ms
+[19:24:50.461] [Control] 按下按钮：版本设置
+[19:24:50.485] [Control] 切换主要页面：VersionSetup, 0
+[19:24:51.623] [Report] FPS 0, 动画 6, 下载中 0（0 B/s）
+[19:24:52.456] [Control] 按下单选列表项：设置
+[19:24:52.514] [Report] FPS 0, 动画 16, 下载中 0（0 B/s）
+[19:24:56.609] [Control] 按下按钮：设置为 LittleSkin
+[19:25:08.862] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[19:25:08.869] [Minecraft] 文件夹列表变更，重载所有版本
+[19:25:08.929] [Setup] 当前选择的 Minecraft 版本：Earth3_Ver0.21
+[19:25:08.929] [Minecraft] 选择该文件夹储存的 Minecraft 版本：C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\versions\Earth3_Ver0.21\
+[19:25:08.929] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[19:25:10.697] [Control] 按下图标按钮：BtnTitleInner
+[19:25:10.698] [Control] 切换主要页面：Launch, -1
+[19:25:17.744] [Control] 按下按钮：登录
+[19:25:17.747] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[19:25:17.748] [Launch] 登录方式：正版（尚未登录）
+[19:25:17.749] [Launch] 开始微软登录步骤 1/6（原始登录）
+[19:25:17.749] [Net] 发起网络请求（POST，https://login.microsoftonline.com/consumers/oauth2/v2.0/devicecode），最大超时 15000
+[19:25:19.294] [Launch] 网页登录地址：https://www.microsoft.com/link
+[19:25:19.314] [Control] 登录弹窗：登录 Minecraft
+登录网页将自动开启，请在网页中输入 EJB9GDNN（已自动复制）。
+
+如果网络环境不佳，网页可能一直加载不出来，届时请使用 VPN 并重试。
+你也可以用其他设备打开 https://www.microsoft.com/link 并输入上述代码。
+[19:25:22.319] [System] 正在打开网页：https://www.microsoft.com/link
+[19:25:22.425] [UI] 弹出提示：已成功复制！
+[19:25:22.564] [Control] 按下按钮：重新打开网页
+[19:25:22.567] [Control] 执行自定义事件：打开网页, https://www.microsoft.com/link
+[19:25:22.567] [System] 正在打开网页：https://www.microsoft.com/link
+[19:25:22.620] [UI] 弹出提示：正在开启中，请稍候……
+[19:28:22.299] [Animation] 两个动画帧间隔 219 ms
+[19:28:24.398] [Control] 按下按钮：复制代码
+[19:28:24.398] [Control] 执行自定义事件：复制文本, EJB9GDNN
+[19:28:24.413] [UI] 弹出提示：已成功复制！
+[19:28:31.943] [Animation] 两个动画帧间隔 234 ms
+[19:28:41.377] [Control] 按下按钮：重新打开网页
+[19:28:41.377] [Control] 执行自定义事件：打开网页, https://www.microsoft.com/link
+[19:28:41.377] [System] 正在打开网页：https://www.microsoft.com/link
+[19:28:41.406] [UI] 弹出提示：正在开启中，请稍候……
+[19:28:58.425] [Launch] 令牌过期时间：3600 秒
+[19:28:58.455] [UI] 弹出提示：网页登录成功！
+[19:28:58.501] [Launch] 开始微软登录步骤 2/6
+[19:28:58.504] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[19:28:58.656] [System] 窗口已置顶，位置：(270, 151), 900 x 550
+[19:28:58.763] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[19:28:59.273] [Launch] 开始微软登录步骤 3/6
+[19:28:59.273] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[19:28:59.540] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[19:29:00.042] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[19:29:00.808] [Launch] 开始微软登录步骤 4/6
+[19:29:00.808] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 15000
+[19:29:01.689] [Launch] 开始微软登录步骤 5/6
+[19:29:01.689] [Net] 发起网络请求（GET，https://api.minecraftservices.com/entitlements/mcstore），最大超时 30000
+[19:29:01.940] [Net] 发起网络请求（GET，https://api.minecraftservices.com/entitlements/mcstore），最大超时 30000
+[19:29:02.455] [Launch] 开始微软登录步骤 6/6
+[19:29:02.456] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[19:29:02.722] [Launch] 微软登录完成
+[19:29:02.723] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[19:29:02.864] [Loader] 加载器 Loader Skin Ms 状态改变：Loading
+[19:29:02.865] [Net] 获取网络结果：https://sessionserver.mojang.com/session/minecraft/profile/05e893930563452ea7ab804e4247bee9，超时 10000ms
+[19:29:03.251] [Skin] UUID 05e893930563452ea7ab804e4247bee9 对应的皮肤文件为 http://textures.minecraft.net/texture/2c6dfdc87980b5a8b25eec52308b090af99675e80ab90700ec727ad95f4e619c
+[19:29:03.252] [Net] 直接下载文件：http://textures.minecraft.net/texture/2c6dfdc87980b5a8b25eec52308b090af99675e80ab90700ec727ad95f4e619c
+[19:29:03.375] [Minecraft] 皮肤下载成功：C:\Users\lmq12\AppData\Local\Temp\PCL\Cache\Skin\1945120260740720910.png
+[19:29:03.375] [Loader] 加载器 Loader Skin Ms 状态改变：Finished
+[19:29:03.377] [Skin] 载入头像成功：Loader Skin Ms
+[19:29:06.591] [Control] 按下图标按钮：BtnSkin
+[19:29:10.875] [Animation] 两个动画帧间隔 328 ms
+[19:29:13.739] [UI] 选择单个文件返回：
+[19:29:13.739] [Animation] 两个动画帧间隔 235 ms
+[19:32:12.025] [Control] 按下图标按钮：BtnSkin
+[19:33:19.501] [UI] 选择单个文件返回：C:\Users\lmq12\OneDrive\桌面\liaomengran.png
+[19:33:19.516] [Control] 普通弹窗：选择皮肤种类
+此皮肤为 Steve 模型（粗手臂）还是 Alex 模型（细手臂）？
+[19:33:21.437] [Control] 按下按钮：Steve 模型
+[19:33:21.438] [Control] 普通弹框返回：1
+[19:33:21.497] [UI] 弹出提示：正在更改皮肤……
+[19:33:22.165] [Skin] 皮肤修改返回值：
+{
+  "id" : "05e893930563452ea7ab804e4247bee9",
+  "name" : "MiRosao",
+  "skins" : [ {
+    "id" : "647f9035-f23f-4b24-957d-040c8be53dce",
+    "state" : "ACTIVE",
+    "url" : "http://textures.minecraft.net/texture/a85f17769337ceedf3b40958da22c07c42f85ecd01f850be19a0d88e431a446a",
+    "textureKey" : "a85f17769337ceedf3b40958da22c07c42f85ecd01f850be19a0d88e431a446a",
+    "variant" : "CLASSIC"
+  } ],
+  "capes" : [ ],
+  "profileActions" : { }
+}
+[19:33:22.168] [Skin] 已写入皮肤地址缓存 05e893930563452ea7ab804e4247bee9 -> http://textures.minecraft.net/texture/a85f17769337ceedf3b40958da22c07c42f85ecd01f850be19a0d88e431a446a
+[19:33:22.168] [Loader] 加载器 Loader Skin Ms 状态改变：Loading
+[19:33:22.169] [Net] 直接下载文件：http://textures.minecraft.net/texture/a85f17769337ceedf3b40958da22c07c42f85ecd01f850be19a0d88e431a446a
+[19:33:22.294] [Minecraft] 皮肤下载成功：C:\Users\lmq12\AppData\Local\Temp\PCL\Cache\Skin\11227568213784669506.png
+[19:33:22.294] [Loader] 加载器 Loader Skin Ms 状态改变：Finished
+[19:33:22.295] [Skin] 载入头像成功：Loader Skin Ms
+[19:33:22.307] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[19:33:22.308] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[19:33:22.367] [UI] 弹出提示：更改皮肤成功！
+[19:33:24.410] [Control] 按下图标按钮：BtnSkin
+[19:33:26.954] [UI] 弹出提示：正在获取披风列表，请稍候……
+[19:33:26.965] [Control] 选择弹窗：选择披风
+[19:33:28.575] [Control] 按下单选框：无披风
+[19:33:30.145] [Control] 按下按钮：确定
+[19:33:30.147] [Control] 选择弹框返回：0
+[19:33:30.147] [Net] 发起网络请求（DELETE，https://api.minecraftservices.com/minecraft/profile/capes/active），最大超时 15000
+[19:33:30.555] [UI] 弹出提示：更改披风成功！
+[19:34:00.824] [Animation] 两个动画帧间隔 219 ms
+[19:34:01.862] [Control] 按下图标按钮：BtnTitleMin
+[19:43:34.068] [Control] 按下图标按钮：BtnSkin
+[19:43:35.533] [UI] 弹出提示：正在获取披风列表，请稍候……
+[19:43:35.541] [Control] 选择弹窗：选择披风
+[19:43:37.596] [Control] 按下按钮：取消
+[19:43:37.596] [Control] 选择弹框返回：null
+[19:43:40.203] [Control] 按下图标按钮：BtnExit
+[19:43:41.735] [Control] 按下按钮：登录
+[19:43:41.736] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[19:43:41.736] [Launch] 登录方式：正版（尚未登录）
+[19:43:41.736] [Launch] 开始微软登录步骤 1/6（原始登录）
+[19:43:41.736] [Net] 发起网络请求（POST，https://login.microsoftonline.com/consumers/oauth2/v2.0/devicecode），最大超时 15000
+[19:43:44.009] [Launch] 网页登录地址：https://www.microsoft.com/link
+[19:43:44.071] [Control] 登录弹窗：登录 Minecraft
+登录网页将自动开启，请在网页中输入 QRUFGEJC（已自动复制）。
+
+如果网络环境不佳，网页可能一直加载不出来，届时请使用 VPN 并重试。
+你也可以用其他设备打开 https://www.microsoft.com/link 并输入上述代码。
+[19:43:45.816] [Control] 按下按钮：取消
+[19:43:45.860] [Loader] 加载器 Loader Login Ms 状态改变：Aborted
+[19:43:46.033] [System] 窗口已置顶，位置：(270, 151), 900 x 550
+[19:43:46.033] [UI] 弹出提示：已取消登录！
+[19:43:46.046] [Animation] 两个动画帧间隔 219 ms
+[19:43:48.769] [Control] 按下按钮：登录
+[19:43:48.770] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[19:43:48.771] [Launch] 登录方式：正版（MiRosao）
+[19:43:48.771] [Launch] 开始微软登录步骤 1/6（刷新登录）
+[19:43:48.772] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[19:43:49.030] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[19:43:49.544] [Launch] 开始微软登录步骤 2/6
+[19:43:49.544] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[19:43:49.808] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[19:43:50.323] [Launch] 开始微软登录步骤 3/6
+[19:43:50.325] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[19:43:50.584] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[19:43:51.086] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[19:43:51.849] [Launch] 开始微软登录步骤 4/6
+[19:43:51.849] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 15000
+[19:43:52.544] [Launch] 开始微软登录步骤 5/6
+[19:43:52.545] [Net] 发起网络请求（GET，https://api.minecraftservices.com/entitlements/mcstore），最大超时 30000
+[19:43:52.801] [Net] 发起网络请求（GET，https://api.minecraftservices.com/entitlements/mcstore），最大超时 30000
+[19:43:53.314] [Launch] 开始微软登录步骤 6/6
+[19:43:53.315] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[19:43:53.579] [Launch] 微软登录完成
+[19:43:53.579] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[19:43:55.902] [Control] 按下图标按钮：BtnEdit
+[19:43:57.506] [Control] 按下图标按钮：BtnSkin
+[19:43:59.383] [Skin] 正在清空皮肤缓存
+[19:43:59.386] [Loader] 加载器 Loader Skin Ms 状态改变：Loading
+[19:43:59.386] [Net] 获取网络结果：https://sessionserver.mojang.com/session/minecraft/profile/05e893930563452ea7ab804e4247bee9，超时 10000ms
+[19:43:59.405] [UI] 弹出提示：正在刷新头像……
+[19:43:59.723] [Skin] UUID 05e893930563452ea7ab804e4247bee9 对应的皮肤文件为 http://textures.minecraft.net/texture/a85f17769337ceedf3b40958da22c07c42f85ecd01f850be19a0d88e431a446a
+[19:43:59.723] [Net] 直接下载文件：http://textures.minecraft.net/texture/a85f17769337ceedf3b40958da22c07c42f85ecd01f850be19a0d88e431a446a
+[19:43:59.903] [Minecraft] 皮肤下载成功：C:\Users\lmq12\AppData\Local\Temp\PCL\Cache\Skin\11227568213784669506.png
+[19:43:59.903] [Loader] 加载器 Loader Skin Ms 状态改变：Finished
+[19:43:59.904] [Skin] 载入头像成功：Loader Skin Ms
+[19:43:59.917] [UI] 弹出提示：已刷新头像！
+[19:44:01.273] [Control] 按下图标按钮：BtnSkin
+[19:44:02.614] [UI] 弹出提示：正在获取披风列表，请稍候……
+[19:44:02.620] [Control] 选择弹窗：选择披风
+[19:44:04.421] [Control] 按下单选框：Home
+[19:44:05.543] [Control] 按下按钮：确定
+[19:44:05.543] [Control] 选择弹框返回：1
+[19:44:05.543] [Net] 发起网络请求（PUT，https://api.minecraftservices.com/minecraft/profile/capes/active），最大超时 15000
+[19:44:05.810] [UI] 弹出提示：更改披风成功！
+[19:44:11.332] [Control] 按下按钮：启动游戏
+[19:44:11.333] [Loader] 加载器 Loader Launch 状态改变：Loading
+[19:44:11.345] [Launch] 预检测已通过
+[19:44:11.349] [Download] 开始后台检查资源文件索引
+[19:44:11.350] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[19:44:11.351] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[19:44:11.352] [Loader] 加载器 登录 状态改变：Waiting
+[19:44:11.352] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[19:44:11.352] [Loader] 加载器 获取 Java 状态改变：Loading
+[19:44:11.353] [Download] 版本 Earth3_Ver0.21 对应的资源文件索引为 5
+[19:44:11.355] [Loader] 加载器 登录 状态改变：Loading
+[19:44:11.355] [Download] 无需更新资源文件索引，取消
+[19:44:11.356] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Aborted
+[19:44:11.356] [Loader] 加载器 补全文件 状态改变：Loading
+[19:44:11.356] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[19:44:11.356] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[19:44:11.356] [Launch] 登录加载已开始
+[19:44:11.356] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[19:44:11.356] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[19:44:11.356] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[19:44:11.356] [Loader] 加载器 后台更新资源文件索引 状态改变：Aborted
+[19:44:11.356] [Launch] Java 版本需求：最低 1.17.0.0，最高 999.999.999.999
+[19:44:11.357] [Loader] 加载器 内存优化 状态改变：Loading
+[19:44:11.357] [Loader] 加载器 后台下载资源文件索引 状态改变：Aborted
+[19:44:11.357] [Download] 后台下载资源文件索引 已取消！
+[19:44:11.357] [Loader] 加载线程 后台分析资源文件索引地址 (23) 已中断但线程正常运行至结束，输出被弃用（最新线程：-1）
+[19:44:11.357] [Launch] 登录方式：正版（MiRosao）
+[19:44:11.357] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[19:44:11.358] [Download] 版本 Earth3_Ver0.21 对应的资源文件索引为 5
+[19:44:11.358] [Launch] 内存优化开始
+[19:44:11.358] [Taskbar] Minecraft 启动 已加入任务列表
+[19:44:11.360] [Test] 没有管理员权限，将以命令行方式进行内存优化
+[19:44:11.367] [Java] 开始完全遍历查找：C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\
+[19:44:11.371] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[19:44:11.372] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[19:44:11.376] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[19:44:11.376] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[19:44:11.377] [Java] 开始完全遍历查找：C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\
+[19:44:11.377] [Launch] 登录加载已结束
+[19:44:11.377] [Loader] 加载器 登录 状态改变：Finished
+[19:44:11.399] [Java] 开始完全遍历查找：C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\versions\Earth3_Ver0.21\
+[19:44:11.427] [Minecraft] 获取支持库列表：Earth3_Ver0.21
+[19:44:11.441] [Java] 开始确认列表 Java 状态，共 1 项
+[19:44:11.446] [System] 执行外部命令并等待返回结果：C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\Java21\bin\java.exe -version
+[19:44:11.626] [Java] 检查后找到 1 个特定路径下的 Java：
+[19:44:11.626] [Java]  - JDK 21 (21.0.1)：C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\Java21\bin\
+[19:44:11.626] [System] 执行外部命令并等待返回结果：C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\Java21\bin\java.exe -version
+[19:44:11.701] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[19:44:11.702] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[19:44:11.703] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[19:44:11.703] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[19:44:11.777] [Java] 用户指定的 Java：JDK 21 (21.0.1)：C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\Java21\bin\
+[19:44:11.777] [Java] 使用用户指定的 Java：C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\Java21\bin\
+[19:44:11.777] [Java] 排序后的 Java 优先顺序：
+[19:44:11.777] [Java]  - JDK 21 (21.0.1)：C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\Java21\bin\
+[19:44:11.777] [Java] 最终选定的 Java：JDK 21 (21.0.1)：C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\Java21\bin\
+[19:44:11.777] [Launch] 选择的 Java：JDK 21 (21.0.1)：C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\Java21\bin\
+[19:44:11.777] [Loader] 加载器 获取 Java 状态改变：Finished
+[19:44:12.164] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[19:44:12.164] [Loader] 加载器 下载资源文件 状态改变：Loading
+[19:44:12.164] [Loader] 加载器 下载资源文件 状态改变：Finished
+[19:44:12.164] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[19:44:12.164] [Loader] 加载器 补全文件 状态改变：Finished
+[19:44:25.626] [Test] 内存优化完成，可用内存改变量：5.32 G，大致剩余内存：23 G
+[19:44:25.657] [Loader] 加载器 内存优化 状态改变：Finished
+[19:44:25.667] [Loader] 加载器 获取启动参数 状态改变：Loading
+[19:44:25.689] [Launch] 开始获取 Minecraft 启动参数
+[19:44:25.689] [Launch] 获取新版 JVM 参数
+[19:44:25.700] [Launch] 当前剩余内存：23G
+[19:44:25.702] [Java] 选定的 Java Wrapper 路径：C:\Users\lmq12\AppData\Roaming\PCL\JavaWrapper.jar
+[19:44:25.702] [System] 获取资源：JavaWrapper
+[19:44:25.705] [Launch] 新版 JVM 参数获取成功：
+[19:44:25.705] [Launch] -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Djdk.lang.Process.allowAmbiguousCommands=true -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Djava.library.path=${natives_directory} -Djna.tmpdir=${natives_directory} -Dorg.lwjgl.system.SharedLibraryExtractPath=${natives_directory} -Dio.netty.native.workdir=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,events-47.2.2.jar,core-47.2.2.jar,language-java,language-lowcode,language-minecraft,client-extra,forge-,${version_name}.jar,${primary_jar_name} -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar -Dfml.pluginLayerLibraries=core-47.2.2.jar,language-java-47.2.2.jar,language-lowcode-47.2.2.jar,language-minecraft-47.2.2.jar -Dfml.gameLayerLibraries=events-47.2.2.jar -DlibraryDirectory=${library_directory} -p ${library_directory}/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar${classpath_separator}${library_directory}/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-commons/9.5/asm-commons-9.5.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-util/9.5/asm-util-9.5.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-analysis/9.5/asm-analysis-9.5.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-tree/9.5/asm-tree-9.5.jar${classpath_separator}${library_directory}/org/ow2/asm/asm/9.5/asm-9.5.jar${classpath_separator}${library_directory}/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn3072m -Xmx20480m --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -Doolloo.jlw.tmpdir="C:\Users\lmq12\AppData\Roaming\PCL" -jar "C:\Users\lmq12\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.bootstraplauncher.BootstrapLauncher
+[19:44:25.705] [Launch] 获取新版 Game 参数
+[19:44:25.710] [Launch] 新版 Game 参数获取成功
+[19:44:25.717] [Minecraft] 获取支持库列表：Earth3_Ver0.21
+[19:44:25.727] [Launch] Minecraft 启动参数：
+[19:44:25.730] [Launch] -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Djdk.lang.Process.allowAmbiguousCommands=true -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Djava.library.path="C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\versions\Earth3_Ver0.21\Earth3_Ver0.21-natives" -Djna.tmpdir="C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\versions\Earth3_Ver0.21\Earth3_Ver0.21-natives" -Dorg.lwjgl.system.SharedLibraryExtractPath="C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\versions\Earth3_Ver0.21\Earth3_Ver0.21-natives" -Dio.netty.native.workdir="C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\versions\Earth3_Ver0.21\Earth3_Ver0.21-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=352 -cp "C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\net\neoforged\fancymodloader\loader\47.2.2\loader-47.2.2.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\net\neoforged\fancymodloader\earlydisplay\47.2.2\earlydisplay-47.2.2.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\cpw\mods\securejarhandler\2.1.10\securejarhandler-2.1.10.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\ow2\asm\asm\9.5\asm-9.5.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\ow2\asm\asm-commons\9.5\asm-commons-9.5.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\ow2\asm\asm-tree\9.5\asm-tree-9.5.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\ow2\asm\asm-util\9.5\asm-util-9.5.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\ow2\asm\asm-analysis\9.5\asm-analysis-9.5.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\net\minecraftforge\accesstransformers\8.0.4\accesstransformers-8.0.4.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\net\minecraftforge\eventbus\6.0.5\eventbus-6.0.5.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\net\minecraftforge\forgespi\7.0.1\forgespi-7.0.1.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\net\minecraftforge\coremods\5.0.1\coremods-5.0.1.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\cpw\mods\modlauncher\10.0.9\modlauncher-10.0.9.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\net\minecraftforge\mergetool\1.1.5\mergetool-1.1.5-api.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\com\electronwill\night-config\core\3.6.4\core-3.6.4.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\com\electronwill\night-config\toml\3.6.4\toml-3.6.4.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\apache\maven\maven-artifact\3.8.5\maven-artifact-3.8.5.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\net\jodah\typetools\0.6.3\typetools-0.6.3.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\jline\jline-reader\3.12.1\jline-reader-3.12.1.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\jline\jline-terminal\3.12.1\jline-terminal-3.12.1.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\spongepowered\mixin\0.8.5\mixin-0.8.5.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\openjdk\nashorn\nashorn-core\15.3\nashorn-core-15.3.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\net\minecraftforge\JarJarSelector\0.3.19\JarJarSelector-0.3.19.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\net\minecraftforge\JarJarMetadata\0.3.19\JarJarMetadata-0.3.19.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\cpw\mods\bootstraplauncher\1.1.2\bootstraplauncher-1.1.2.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\net\minecraftforge\JarJarFileSystems\0.3.19\JarJarFileSystems-0.3.19.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\net\neoforged\fancymodloader\events\47.2.2\events-47.2.2.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\net\neoforged\fancymodloader\core\47.2.2\core-47.2.2.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\net\neoforged\fancymodloader\language-java\47.2.2\language-java-47.2.2.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\net\neoforged\fancymodloader\language-lowcode\47.2.2\language-lowcode-47.2.2.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\net\neoforged\fancymodloader\language-minecraft\47.2.2\language-minecraft-47.2.2.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\com\github\oshi\oshi-core\6.2.2\oshi-core-6.2.2.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\com\google\code\gson\gson\2.10\gson-2.10.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\com\google\guava\guava\31.1-jre\guava-31.1-jre.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\com\ibm\icu\icu4j\71.1\icu4j-71.1.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\com\mojang\authlib\4.0.43\authlib-4.0.43.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\com\mojang\brigadier\1.1.8\brigadier-1.1.8.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\com\mojang\datafixerupper\6.0.8\datafixerupper-6.0.8.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\com\mojang\logging\1.1.1\logging-1.1.1.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\com\mojang\text2speech\1.17.9\text2speech-1.17.9.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\io\netty\netty-buffer\4.1.82.Final\netty-buffer-4.1.82.Final.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\io\netty\netty-codec\4.1.82.Final\netty-codec-4.1.82.Final.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\io\netty\netty-common\4.1.82.Final\netty-common-4.1.82.Final.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\io\netty\netty-handler\4.1.82.Final\netty-handler-4.1.82.Final.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\io\netty\netty-resolver\4.1.82.Final\netty-resolver-4.1.82.Final.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\io\netty\netty-transport-classes-epoll\4.1.82.Final\netty-transport-classes-epoll-4.1.82.Final.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\io\netty\netty-transport-native-unix-common\4.1.82.Final\netty-transport-native-unix-common-4.1.82.Final.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\io\netty\netty-transport\4.1.82.Final\netty-transport-4.1.82.Final.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.9\fastutil-8.5.9.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\net\java\dev\jna\jna-platform\5.12.1\jna-platform-5.12.1.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\net\java\dev\jna\jna\5.12.1\jna-5.12.1.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.15\httpcore-4.4.15.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.19.0\log4j-api-2.19.0.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.19.0\log4j-core-2.19.0.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j2-impl\2.19.0\log4j-slf4j2-impl-2.19.0.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\joml\joml\1.10.5\joml-1.10.5.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-arm64.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-x86.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-arm64.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-x86.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-arm64.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-x86.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-arm64.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-x86.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-arm64.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-x86.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-arm64.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-x86.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-arm64.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-x86.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries\org\slf4j\slf4j-api\2.0.1\slf4j-api-2.0.1.jar;C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\versions\Earth3_Ver0.21\Earth3_Ver0.21.jar" -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,events-47.2.2.jar,core-47.2.2.jar,language-java,language-lowcode,language-minecraft,client-extra,forge-,Earth3_Ver0.21.jar,${primary_jar_name} -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar -Dfml.pluginLayerLibraries=core-47.2.2.jar,language-java-47.2.2.jar,language-lowcode-47.2.2.jar,language-minecraft-47.2.2.jar -Dfml.gameLayerLibraries=events-47.2.2.jar -DlibraryDirectory="C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries" -p "C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries"/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar;"C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries"/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar;"C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries"/org/ow2/asm/asm-commons/9.5/asm-commons-9.5.jar;"C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries"/org/ow2/asm/asm-util/9.5/asm-util-9.5.jar;"C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries"/org/ow2/asm/asm-analysis/9.5/asm-analysis-9.5.jar;"C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries"/org/ow2/asm/asm-tree/9.5/asm-tree-9.5.jar;"C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries"/org/ow2/asm/asm/9.5/asm-9.5.jar;"C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\libraries"/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn3072m -Xmx20480m --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -Doolloo.jlw.tmpdir="C:\Users\lmq12\AppData\Roaming\PCL" -jar "C:\Users\lmq12\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.bootstraplauncher.BootstrapLauncher --username MiRosao --version Earth3_Ver0.21 --gameDir "C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\versions\Earth3_Ver0.21" --assetsDir "C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\assets" --assetIndex 5 --uuid 05e893930563452ea7ab804e4247bee9 --accessToken eyJra*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************SCIjA --clientId ${clientid} --xuid ${auth_xuid} --userType msa --versionType PCL --width 873 --height 479 --launchTarget forgeclient --fml.forgeVersion 47.1.100 --fml.fmlVersion 47.2.2 --fml.mcVersion 1.20.1 --fml.mcpVersion 20230612.114412 
+[19:44:25.730] [Loader] 加载器 获取启动参数 状态改变：Finished
+[19:44:25.736] [Loader] 加载器 解压文件 状态改变：Loading
+[19:44:25.747] [Launch] 正在解压 Natives 文件
+[19:44:25.748] [Launch] 删除：C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\versions\Earth3_Ver0.21\Earth3_Ver0.21-natives\glfw.dll
+[19:44:25.749] [Launch] 删除：C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\versions\Earth3_Ver0.21\Earth3_Ver0.21-natives\jemalloc.dll
+[19:44:25.749] [Launch] 删除：C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\versions\Earth3_Ver0.21\Earth3_Ver0.21-natives\jna7820421148424170604.dll
+[19:44:25.750] [Launch] 删除：C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\versions\Earth3_Ver0.21\Earth3_Ver0.21-natives\jna7820421148424170604.dll.x
+[19:44:25.751] [Launch] 删除：C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\versions\Earth3_Ver0.21\Earth3_Ver0.21-natives\lwjgl.dll
+[19:44:25.752] [Launch] 删除：C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\versions\Earth3_Ver0.21\Earth3_Ver0.21-natives\lwjgl_opengl.dll
+[19:44:25.753] [Launch] 删除：C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\versions\Earth3_Ver0.21\Earth3_Ver0.21-natives\lwjgl_stb.dll
+[19:44:25.753] [Launch] 删除：C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\versions\Earth3_Ver0.21\Earth3_Ver0.21-natives\OpenAL.dll
+[19:44:25.754] [Loader] 加载器 解压文件 状态改变：Finished
+[19:44:25.809] [Loader] 加载器 预启动处理 状态改变：Loading
+[19:44:25.855] [Launch] 已更新 launcher_profiles.json
+[19:44:25.858] [Launch] 需要的语言为 zh_cn，当前语言为 zh_cn，无需修改
+[19:44:25.858] [Loader] 加载器 预启动处理 状态改变：Finished
+[19:44:25.884] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[19:44:25.894] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[19:44:25.949] [Loader] 加载器 启动进程 状态改变：Loading
+[19:44:26.021] [Launch] 已启动游戏进程：C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\Java21\bin\javaw.exe
+[19:44:26.022] [Loader] 加载器 启动进程 状态改变：Finished
+[19:44:26.090] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[19:44:26.093] [Launch] 
+[19:44:26.093] [Launch] ~ 基础参数 ~
+[19:44:26.093] [Launch] PCL 版本：Release 2.9.1 (352)
+[19:44:26.093] [Launch] 游戏版本：1.20.1, NeoForge 47.1.100（识别为 1.20.1）
+[19:44:26.093] [Launch] 资源版本：5
+[19:44:26.093] [Launch] 版本继承：无
+[19:44:26.093] [Launch] 分配的内存：20 GB（20480 MB）
+[19:44:26.093] [Launch] MC 文件夹：C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\
+[19:44:26.093] [Launch] 版本文件夹：C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\versions\Earth3_Ver0.21\
+[19:44:26.093] [Launch] 版本隔离：True
+[19:44:26.093] [Launch] HMCL 格式：False
+[19:44:26.093] [Launch] Java 信息：JDK 21 (21.0.1)：C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\Java21\bin\
+[19:44:26.094] [Launch] 环境变量：未设置
+[19:44:26.094] [Launch] Natives 文件夹：C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\versions\Earth3_Ver0.21\Earth3_Ver0.21-natives
+[19:44:26.094] [Launch] 
+[19:44:26.094] [Launch] ~ 登录参数 ~
+[19:44:26.094] [Launch] 玩家用户名：MiRosao
+[19:44:26.094] [Launch] AccessToken：eyJra*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************SCIjA
+[19:44:26.094] [Launch] ClientToken：05e893930563452ea7ab804e4247bee9
+[19:44:26.094] [Launch] UUID：05e893930563452ea7ab804e4247bee9
+[19:44:26.094] [Launch] 登录方式：Microsoft
+[19:44:26.094] [Launch] 
+[19:44:26.109] [Launch] [37952] 开始 Minecraft 日志监控
+[19:44:26.110] [Launch] [全局] 出现运行中的 Minecraft
+[19:44:27.211] [Report] FPS 0, 动画 10, 下载中 0（0 B/s）
+[19:44:30.341] [Launch] [37952] 日志 1/5：已出现日志输出
+[19:44:36.455] [Launch] [37952] Minecraft 窗口已加载：Minecraft: Forge Loading...（856944）
+[19:44:36.455] [Launch] [37952] Minecraft 加载已完成
+[19:44:36.504] [Loader] 加载器 等待游戏窗口出现 状态改变：Finished
+[19:44:36.527] [Loader] 加载器 结束处理 状态改变：Loading
+[19:44:36.529] [Launch] 开始启动结束处理
+[19:44:36.529] [Launch] 启动器可见性：4
+[19:44:36.529] [Launch] 已根据设置，在启动后最小化启动器
+[19:44:36.531] [Loader] 加载器 结束处理 状态改变：Finished
+[19:44:36.583] [Loader] 加载器 Minecraft 启动 状态改变：Finished
+[19:44:36.585] [Taskbar] Minecraft 启动 已移出任务列表
+[19:44:36.735] [Loader] 加载器 Loader Launch 状态改变：Finished
+[19:44:36.785] [UI] 弹出提示：Earth3_Ver0.21 启动成功！
+[19:44:36.942] [Report] FPS 0, 动画 10, 下载中 0（0 B/s）
+[19:45:21.194] [Launch] [37952] 日志 2/5：游戏用户已设置
+[19:45:23.073] [Launch] [37952] 日志 3/5：LWJGL 版本已确认
+[19:47:27.207] [Launch] [37952] 日志 5/5：材质已加载
+[19:52:52.677] [Animation] 两个动画帧间隔 703 ms
+[19:52:53.144] [Animation] 两个动画帧间隔 421 ms
+[19:52:54.307] [Animation] 两个动画帧间隔 218 ms
+[19:53:19.869] [Animation] 两个动画帧间隔 281 ms
+[19:53:47.688] [Animation] 两个动画帧间隔 219 ms
+[19:54:44.487] [System] 收到置顶信息：197900
+[19:54:44.555] [System] 窗口已置顶，位置：(270, 151), 900 x 550
+[19:54:52.056] [Animation] 两个动画帧间隔 204 ms
+[19:54:55.125] [Animation] 两个动画帧间隔 250 ms
+[19:54:55.641] [Control] 按下按钮：版本选择
+[19:54:55.690] [Control] 切换主要页面：VersionSelect, 0
+[19:54:55.825] [Minecraft] 有效的 Minecraft 文件夹：当前文件夹 > C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\
+[19:54:55.827] [Minecraft] 有效的 Minecraft 文件夹：官方启动器文件夹 > C:\Users\lmq12\AppData\Roaming\.minecraft\
+[19:54:55.836] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[19:54:55.848] [Minecraft] 选择该文件夹储存的 Minecraft 版本：C:\Users\lmq12\OneDrive\桌面\Earth3 ver0.21fix\.minecraft\versions\Earth3_Ver0.21\
+[19:54:55.881] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[19:55:00.272] [Control] 按下图标按钮：BtnTitleClose
+[19:55:00.277] [System] 收到关闭指令
+[19:55:00.516] [System] 程序已退出，返回值：Success
