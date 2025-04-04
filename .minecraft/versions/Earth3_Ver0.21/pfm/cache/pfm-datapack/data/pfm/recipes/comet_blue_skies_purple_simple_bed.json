@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "blue_skies:comet_planks"
+    },
+    {
+      "item": "blue_skies:comet_planks"
+    },
+    {
+      "item": "blue_skies:comet_planks"
+    },
+    {
+      "item": "blue_skies:comet_planks"
+    },
+    {
+      "item": "blue_skies:comet_planks"
+    },
+    {
+      "item": "minecraft:purple_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:comet_blue_skies_purple_simple_bed"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "monsters_and_girls:soul_wanderer_stem"
+    },
+    {
+      "item": "monsters_and_girls:soul_wanderer_stem"
+    },
+    {
+      "item": "monsters_and_girls:soul_wanderer_stem"
+    },
+    {
+      "item": "monsters_and_girls:soul_wanderer_planks"
+    },
+    {
+      "item": "monsters_and_girls:soul_wanderer_planks"
+    },
+    {
+      "item": "monsters_and_girls:soul_wanderer_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:soul_wanderer_monsters_and_girls_chair_dinner"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "betterarcheology:rotten_planks"
+    },
+    {
+      "item": "betterarcheology:rotten_planks"
+    },
+    {
+      "item": "betterarcheology:rotten_planks"
+    },
+    {
+      "item": "betterarcheology:rotten_planks"
+    },
+    {
+      "item": "betterarcheology:rotten_planks"
+    },
+    {
+      "item": "minecraft:magenta_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:rotten_betterarcheology_magenta_simple_bed"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "luphieclutteredmod:luphie_flowering_pink_log"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_flowering_pink_log"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_flowering_pink_log"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_flowering_pink_log"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_flowering_pink_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:luphie_flowering_pink_luphieclutteredmod_raw_table_log"
+  }
+}

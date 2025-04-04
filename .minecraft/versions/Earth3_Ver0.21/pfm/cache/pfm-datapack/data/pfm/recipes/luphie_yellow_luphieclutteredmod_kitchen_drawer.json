@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "luphieclutteredmod:luphie_yellow_log"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_yellow_log"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_yellow_log"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_yellow_log"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_yellow_log"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_yellow_planks"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_yellow_planks"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_yellow_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:luphie_yellow_luphieclutteredmod_kitchen_drawer"
+  }
+}

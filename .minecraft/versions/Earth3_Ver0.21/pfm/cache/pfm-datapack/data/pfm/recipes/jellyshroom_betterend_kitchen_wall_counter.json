@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "betterend:jellyshroom_log"
+    },
+    {
+      "item": "betterend:jellyshroom_log"
+    },
+    {
+      "item": "betterend:jellyshroom_log"
+    },
+    {
+      "item": "betterend:jellyshroom_log"
+    },
+    {
+      "item": "betterend:jellyshroom_log"
+    },
+    {
+      "item": "betterend:jellyshroom_log"
+    },
+    {
+      "item": "betterend:jellyshroom_log"
+    },
+    {
+      "item": "betterend:jellyshroom_log"
+    },
+    {
+      "item": "betterend:jellyshroom_log"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:jellyshroom_betterend_kitchen_wall_counter"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "betterend:lacugrove_planks"
+    },
+    {
+      "item": "betterend:lacugrove_planks"
+    },
+    {
+      "item": "betterend:lacugrove_planks"
+    },
+    {
+      "item": "betterend:lacugrove_planks"
+    },
+    {
+      "item": "betterend:lacugrove_planks"
+    },
+    {
+      "item": "minecraft:magenta_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:lacugrove_betterend_magenta_simple_bed"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "betterend:end_lotus_log"
+    },
+    {
+      "item": "betterend:end_lotus_log"
+    },
+    {
+      "item": "betterend:end_lotus_log"
+    },
+    {
+      "item": "betterend:end_lotus_log"
+    },
+    {
+      "item": "betterend:end_lotus_log"
+    },
+    {
+      "item": "betterend:end_lotus_log"
+    },
+    {
+      "item": "betterend:end_lotus_planks"
+    },
+    {
+      "item": "betterend:end_lotus_planks"
+    },
+    {
+      "item": "betterend:end_lotus_planks"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:end_lotus_betterend_kitchen_counter"
+  }
+}

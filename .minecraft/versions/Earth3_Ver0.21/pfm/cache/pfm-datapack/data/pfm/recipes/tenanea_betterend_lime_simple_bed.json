@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "betterend:tenanea_planks"
+    },
+    {
+      "item": "betterend:tenanea_planks"
+    },
+    {
+      "item": "betterend:tenanea_planks"
+    },
+    {
+      "item": "betterend:tenanea_planks"
+    },
+    {
+      "item": "betterend:tenanea_planks"
+    },
+    {
+      "item": "minecraft:lime_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:tenanea_betterend_lime_simple_bed"
+  }
+}

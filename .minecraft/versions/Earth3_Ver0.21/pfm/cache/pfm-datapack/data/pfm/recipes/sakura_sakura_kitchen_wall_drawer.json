@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "sakura:sakura_log"
+    },
+    {
+      "item": "sakura:sakura_log"
+    },
+    {
+      "item": "sakura:sakura_log"
+    },
+    {
+      "item": "sakura:sakura_log"
+    },
+    {
+      "item": "sakura:sakura_log"
+    },
+    {
+      "item": "sakura:sakura_log"
+    },
+    {
+      "item": "sakura:sakura_log"
+    },
+    {
+      "item": "sakura:sakura_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:sakura_sakura_kitchen_wall_drawer"
+  }
+}

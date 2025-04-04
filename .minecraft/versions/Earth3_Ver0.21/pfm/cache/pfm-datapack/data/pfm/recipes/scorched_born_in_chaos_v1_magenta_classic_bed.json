@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "born_in_chaos_v1:scorched_planks"
+    },
+    {
+      "item": "born_in_chaos_v1:scorched_planks"
+    },
+    {
+      "item": "born_in_chaos_v1:scorched_planks"
+    },
+    {
+      "item": "minecraft:magenta_bed"
+    },
+    {
+      "item": "born_in_chaos_v1:scorched_planks_fence"
+    },
+    {
+      "item": "born_in_chaos_v1:scorched_planks_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:scorched_born_in_chaos_v1_magenta_classic_bed"
+  }
+}

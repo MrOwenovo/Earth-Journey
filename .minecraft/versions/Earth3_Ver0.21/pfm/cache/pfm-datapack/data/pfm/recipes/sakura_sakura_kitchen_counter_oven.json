@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "sakura:sakura_log"
+    },
+    {
+      "item": "sakura:sakura_log"
+    },
+    {
+      "item": "sakura:sakura_log"
+    },
+    {
+      "item": "sakura:sakura_log"
+    },
+    {
+      "item": "sakura:sakura_log"
+    },
+    {
+      "item": "sakura:plank_sakura"
+    },
+    {
+      "item": "sakura:plank_sakura"
+    },
+    {
+      "item": "sakura:plank_sakura"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:sakura_sakura_kitchen_counter_oven"
+  }
+}

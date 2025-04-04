@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "betterend:tenanea_log"
+    },
+    {
+      "item": "betterend:tenanea_log"
+    },
+    {
+      "item": "betterend:tenanea_log"
+    },
+    {
+      "item": "betterend:tenanea_log"
+    },
+    {
+      "item": "betterend:tenanea_log"
+    },
+    {
+      "item": "betterend:tenanea_log"
+    },
+    {
+      "item": "betterend:tenanea_log"
+    },
+    {
+      "item": "betterend:tenanea_log"
+    },
+    {
+      "item": "betterend:tenanea_log"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:tenanea_betterend_kitchen_wall_counter"
+  }
+}

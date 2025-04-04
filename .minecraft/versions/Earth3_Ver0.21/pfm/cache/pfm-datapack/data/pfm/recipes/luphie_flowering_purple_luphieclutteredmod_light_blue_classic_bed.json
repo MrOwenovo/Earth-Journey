@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "luphieclutteredmod:luphie_flowering_purple_planks"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_flowering_purple_planks"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_flowering_purple_planks"
+    },
+    {
+      "item": "minecraft:light_blue_bed"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_flowering_purple_fence"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_flowering_purple_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:luphie_flowering_purple_luphieclutteredmod_light_blue_classic_bed"
+  }
+}

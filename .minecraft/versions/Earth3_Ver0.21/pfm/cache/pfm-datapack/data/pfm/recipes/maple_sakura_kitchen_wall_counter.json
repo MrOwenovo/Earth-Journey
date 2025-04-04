@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "sakura:maple_log"
+    },
+    {
+      "item": "sakura:maple_log"
+    },
+    {
+      "item": "sakura:maple_log"
+    },
+    {
+      "item": "sakura:maple_log"
+    },
+    {
+      "item": "sakura:maple_log"
+    },
+    {
+      "item": "sakura:maple_log"
+    },
+    {
+      "item": "sakura:maple_log"
+    },
+    {
+      "item": "sakura:maple_log"
+    },
+    {
+      "item": "sakura:maple_log"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:maple_sakura_kitchen_wall_counter"
+  }
+}

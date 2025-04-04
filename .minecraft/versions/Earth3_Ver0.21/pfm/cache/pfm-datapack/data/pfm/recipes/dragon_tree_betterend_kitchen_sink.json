@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "betterend:dragon_tree_log"
+    },
+    {
+      "item": "betterend:dragon_tree_log"
+    },
+    {
+      "item": "betterend:dragon_tree_log"
+    },
+    {
+      "item": "betterend:dragon_tree_log"
+    },
+    {
+      "item": "betterend:dragon_tree_log"
+    },
+    {
+      "item": "betterend:dragon_tree_planks"
+    },
+    {
+      "item": "betterend:dragon_tree_planks"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:dragon_tree_betterend_kitchen_sink"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "vinery:dark_cherry_planks"
+    },
+    {
+      "item": "vinery:dark_cherry_planks"
+    },
+    {
+      "item": "vinery:dark_cherry_planks"
+    },
+    {
+      "item": "minecraft:lime_bed"
+    },
+    {
+      "item": "vinery:dark_cherry_fence"
+    },
+    {
+      "item": "vinery:dark_cherry_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:dark_cherry_vinery_lime_classic_bed"
+  }
+}

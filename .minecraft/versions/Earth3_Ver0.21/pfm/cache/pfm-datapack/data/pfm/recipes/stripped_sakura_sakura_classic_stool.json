@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "sakura:plank_sakura"
+    },
+    {
+      "item": "sakura:plank_sakura"
+    },
+    {
+      "item": "sakura:plank_sakura"
+    },
+    {
+      "item": "sakura:stripped_sakura_log"
+    },
+    {
+      "item": "sakura:stripped_sakura_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_sakura_sakura_classic_stool"
+  }
+}

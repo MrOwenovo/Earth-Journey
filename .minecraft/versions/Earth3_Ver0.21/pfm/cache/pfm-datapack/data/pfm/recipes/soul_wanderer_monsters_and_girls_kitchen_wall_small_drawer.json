@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "monsters_and_girls:soul_wanderer_stem"
+    },
+    {
+      "item": "monsters_and_girls:soul_wanderer_stem"
+    },
+    {
+      "item": "monsters_and_girls:soul_wanderer_stem"
+    },
+    {
+      "item": "monsters_and_girls:soul_wanderer_stem"
+    },
+    {
+      "item": "monsters_and_girls:soul_wanderer_stem"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:soul_wanderer_monsters_and_girls_kitchen_wall_small_drawer"
+  }
+}

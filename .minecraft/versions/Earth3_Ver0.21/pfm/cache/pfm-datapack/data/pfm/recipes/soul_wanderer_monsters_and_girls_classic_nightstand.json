@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "monsters_and_girls:soul_wanderer_stem"
+    },
+    {
+      "item": "monsters_and_girls:soul_wanderer_stem"
+    },
+    {
+      "item": "monsters_and_girls:soul_wanderer_stem"
+    },
+    {
+      "item": "monsters_and_girls:soul_wanderer_stem"
+    },
+    {
+      "item": "monsters_and_girls:soul_wanderer_stem"
+    },
+    {
+      "item": "monsters_and_girls:soul_wanderer_stem"
+    },
+    {
+      "item": "monsters_and_girls:soul_wanderer_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:soul_wanderer_monsters_and_girls_classic_nightstand"
+  }
+}

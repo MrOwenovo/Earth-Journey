@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:lunar_blue_skies_chair"
+        }
+      ],
+      "name": "lunar_blue_skies_chair",
+      "rolls": 1.0
+    }
+  ]
+}

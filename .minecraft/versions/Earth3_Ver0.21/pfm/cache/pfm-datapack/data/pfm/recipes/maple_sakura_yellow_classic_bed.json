@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "sakura:plank_maple"
+    },
+    {
+      "item": "sakura:plank_maple"
+    },
+    {
+      "item": "sakura:plank_maple"
+    },
+    {
+      "item": "minecraft:yellow_bed"
+    },
+    {
+      "item": "sakura:plank_maple"
+    },
+    {
+      "item": "sakura:plank_maple"
+    }
+  ],
+  "result": {
+    "item": "pfm:maple_sakura_yellow_classic_bed"
+  }
+}

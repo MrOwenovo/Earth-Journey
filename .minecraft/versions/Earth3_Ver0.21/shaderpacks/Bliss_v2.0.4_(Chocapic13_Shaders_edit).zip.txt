@@ -1,0 +1,5 @@
+#Fri Mar 28 00:09:53 GMT 2025
+Haze_amount=0.6
+TOD_Fog_mult=0.5
+WAVY_SPEED=0.5
+WAVY_STRENGTH=0.5

@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "betterend:end_lotus_stripped_log"
+    },
+    {
+      "item": "betterend:end_lotus_stripped_log"
+    },
+    {
+      "item": "betterend:end_lotus_stripped_log"
+    },
+    {
+      "item": "betterend:end_lotus_stripped_log"
+    },
+    {
+      "item": "betterend:end_lotus_stripped_log"
+    },
+    {
+      "item": "betterend:end_lotus_stripped_log"
+    },
+    {
+      "item": "betterend:end_lotus_stripped_log"
+    },
+    {
+      "item": "betterend:end_lotus_stripped_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_end_lotus_betterend_kitchen_cabinet"
+  }
+}

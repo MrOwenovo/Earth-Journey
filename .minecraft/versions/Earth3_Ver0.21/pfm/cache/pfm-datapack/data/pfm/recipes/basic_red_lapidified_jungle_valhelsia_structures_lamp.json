@@ -1,0 +1,29 @@
+{
+  "type": "pfm:furniture",
+  "ingredients": [
+    {
+      "item": "minecraft:red_wool"
+    },
+    {
+      "item": "minecraft:red_wool"
+    },
+    {
+      "item": "minecraft:red_wool"
+    },
+    {
+      "item": "valhelsia_structures:lapidified_jungle_planks"
+    },
+    {
+      "item": "valhelsia_structures:lapidified_jungle_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:basic_lamp",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "red",
+        "variant": "valhelsia_structures:lapidified_jungle"
+      }
+    }
+  }
+}

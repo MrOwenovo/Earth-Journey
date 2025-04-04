@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "luphieclutteredmod:luphie_flowering_yellow_log"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_flowering_yellow_log"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_flowering_yellow_log"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_flowering_yellow_log"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_flowering_yellow_log"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_flowering_yellow_log"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_flowering_yellow_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:luphie_flowering_yellow_luphieclutteredmod_classic_nightstand"
+  }
+}

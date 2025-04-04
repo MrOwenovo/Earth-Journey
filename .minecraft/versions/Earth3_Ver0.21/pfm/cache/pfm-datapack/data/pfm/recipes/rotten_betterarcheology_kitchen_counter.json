@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "betterarcheology:rotten_log"
+    },
+    {
+      "item": "betterarcheology:rotten_log"
+    },
+    {
+      "item": "betterarcheology:rotten_log"
+    },
+    {
+      "item": "betterarcheology:rotten_log"
+    },
+    {
+      "item": "betterarcheology:rotten_log"
+    },
+    {
+      "item": "betterarcheology:rotten_log"
+    },
+    {
+      "item": "betterarcheology:rotten_planks"
+    },
+    {
+      "item": "betterarcheology:rotten_planks"
+    },
+    {
+      "item": "betterarcheology:rotten_planks"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:rotten_betterarcheology_kitchen_counter"
+  }
+}

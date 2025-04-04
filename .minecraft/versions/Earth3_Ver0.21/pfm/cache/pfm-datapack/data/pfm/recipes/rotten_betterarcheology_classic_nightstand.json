@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "betterarcheology:rotten_log"
+    },
+    {
+      "item": "betterarcheology:rotten_log"
+    },
+    {
+      "item": "betterarcheology:rotten_log"
+    },
+    {
+      "item": "betterarcheology:rotten_log"
+    },
+    {
+      "item": "betterarcheology:rotten_log"
+    },
+    {
+      "item": "betterarcheology:rotten_log"
+    },
+    {
+      "item": "betterarcheology:rotten_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:rotten_betterarcheology_classic_nightstand"
+  }
+}

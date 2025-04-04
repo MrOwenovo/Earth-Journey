@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "sakura:sakura_log"
+    },
+    {
+      "item": "sakura:sakura_log"
+    },
+    {
+      "item": "sakura:sakura_log"
+    },
+    {
+      "item": "sakura:sakura_log"
+    },
+    {
+      "item": "sakura:sakura_log"
+    },
+    {
+      "item": "sakura:sakura_log"
+    },
+    {
+      "item": "sakura:plank_sakura"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:sakura_sakura_classic_nightstand"
+  }
+}

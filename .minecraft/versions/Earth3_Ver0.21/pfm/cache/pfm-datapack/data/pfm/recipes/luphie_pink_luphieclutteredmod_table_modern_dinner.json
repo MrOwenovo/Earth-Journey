@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "luphieclutteredmod:luphie_pink_log"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_pink_log"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_pink_log"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_pink_log"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_pink_log"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_pink_planks"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_pink_planks"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_pink_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:luphie_pink_luphieclutteredmod_table_modern_dinner"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "sakura:plank_sakura"
+    },
+    {
+      "item": "sakura:plank_sakura"
+    },
+    {
+      "item": "sakura:plank_sakura"
+    },
+    {
+      "item": "minecraft:lime_bed"
+    },
+    {
+      "item": "sakura:plank_sakura"
+    },
+    {
+      "item": "sakura:plank_sakura"
+    }
+  ],
+  "result": {
+    "item": "pfm:sakura_sakura_lime_classic_bed"
+  }
+}

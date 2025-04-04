@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "sakura:maple_log"
+    },
+    {
+      "item": "sakura:maple_log"
+    },
+    {
+      "item": "sakura:maple_log"
+    },
+    {
+      "item": "sakura:maple_log"
+    },
+    {
+      "item": "sakura:maple_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:maple_sakura_raw_table_log"
+  }
+}

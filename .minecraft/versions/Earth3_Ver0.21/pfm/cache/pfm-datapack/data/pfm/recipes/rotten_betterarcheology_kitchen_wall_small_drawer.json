@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "betterarcheology:rotten_log"
+    },
+    {
+      "item": "betterarcheology:rotten_log"
+    },
+    {
+      "item": "betterarcheology:rotten_log"
+    },
+    {
+      "item": "betterarcheology:rotten_log"
+    },
+    {
+      "item": "betterarcheology:rotten_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:rotten_betterarcheology_kitchen_wall_small_drawer"
+  }
+}

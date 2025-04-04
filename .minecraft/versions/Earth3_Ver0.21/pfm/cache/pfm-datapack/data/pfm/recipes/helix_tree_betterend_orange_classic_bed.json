@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "betterend:helix_tree_planks"
+    },
+    {
+      "item": "betterend:helix_tree_planks"
+    },
+    {
+      "item": "betterend:helix_tree_planks"
+    },
+    {
+      "item": "minecraft:orange_bed"
+    },
+    {
+      "item": "betterend:helix_tree_fence"
+    },
+    {
+      "item": "betterend:helix_tree_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:helix_tree_betterend_orange_classic_bed"
+  }
+}

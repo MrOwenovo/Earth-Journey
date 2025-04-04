@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:dreadwood_iceandfire_kitchen_sink"
+        }
+      ],
+      "name": "dreadwood_iceandfire_kitchen_sink",
+      "rolls": 1.0
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "betterarcheology:rotten_log"
+    },
+    {
+      "item": "betterarcheology:rotten_log"
+    },
+    {
+      "item": "betterarcheology:rotten_log"
+    },
+    {
+      "item": "betterarcheology:rotten_planks"
+    },
+    {
+      "item": "betterarcheology:rotten_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:rotten_betterarcheology_classic_stool"
+  }
+}

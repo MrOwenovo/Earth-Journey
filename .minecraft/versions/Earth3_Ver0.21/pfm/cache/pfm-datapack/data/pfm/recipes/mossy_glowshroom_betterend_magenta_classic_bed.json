@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "betterend:mossy_glowshroom_planks"
+    },
+    {
+      "item": "betterend:mossy_glowshroom_planks"
+    },
+    {
+      "item": "betterend:mossy_glowshroom_planks"
+    },
+    {
+      "item": "minecraft:magenta_bed"
+    },
+    {
+      "item": "betterend:mossy_glowshroom_fence"
+    },
+    {
+      "item": "betterend:mossy_glowshroom_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:mossy_glowshroom_betterend_magenta_classic_bed"
+  }
+}

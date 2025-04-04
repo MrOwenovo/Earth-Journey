@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "betterend:pythadendron_planks"
+    },
+    {
+      "item": "betterend:pythadendron_planks"
+    },
+    {
+      "item": "betterend:pythadendron_planks"
+    },
+    {
+      "item": "minecraft:white_bed"
+    },
+    {
+      "item": "betterend:pythadendron_fence"
+    },
+    {
+      "item": "betterend:pythadendron_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:pythadendron_betterend_white_classic_bed"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "luphieclutteredmod:stripped_luphie_flowering_pinklog"
+    },
+    {
+      "item": "luphieclutteredmod:stripped_luphie_flowering_pinklog"
+    },
+    {
+      "item": "luphieclutteredmod:stripped_luphie_flowering_pinklog"
+    },
+    {
+      "item": "luphieclutteredmod:stripped_luphie_flowering_pinklog"
+    },
+    {
+      "item": "luphieclutteredmod:stripped_luphie_flowering_pinklog"
+    },
+    {
+      "item": "luphieclutteredmod:stripped_luphie_flowering_pinklog"
+    },
+    {
+      "item": "luphieclutteredmod:stripped_luphie_flowering_pinklog"
+    },
+    {
+      "item": "luphieclutteredmod:stripped_luphie_flowering_pinklog"
+    },
+    {
+      "item": "luphieclutteredmod:stripped_luphie_flowering_pinklog"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:stripped_luphie_flowering_pink_luphieclutteredmod_kitchen_wall_counter"
+  }
+}

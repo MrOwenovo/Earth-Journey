@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "betterend:jellyshroom_stripped_log"
+    },
+    {
+      "item": "betterend:jellyshroom_stripped_log"
+    },
+    {
+      "item": "betterend:jellyshroom_stripped_log"
+    },
+    {
+      "item": "betterend:jellyshroom_stripped_log"
+    },
+    {
+      "item": "betterend:jellyshroom_stripped_log"
+    },
+    {
+      "item": "betterend:jellyshroom_planks"
+    },
+    {
+      "item": "betterend:jellyshroom_planks"
+    },
+    {
+      "item": "betterend:jellyshroom_planks"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_jellyshroom_betterend_kitchen_counter_oven"
+  }
+}

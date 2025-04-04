@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "betterend:mossy_glowshroom_log"
+    },
+    {
+      "item": "betterend:mossy_glowshroom_log"
+    },
+    {
+      "item": "betterend:mossy_glowshroom_log"
+    },
+    {
+      "item": "betterend:mossy_glowshroom_log"
+    },
+    {
+      "item": "betterend:mossy_glowshroom_log"
+    },
+    {
+      "item": "betterend:mossy_glowshroom_planks"
+    },
+    {
+      "item": "betterend:mossy_glowshroom_planks"
+    },
+    {
+      "item": "betterend:mossy_glowshroom_planks"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:mossy_glowshroom_betterend_kitchen_counter_oven"
+  }
+}

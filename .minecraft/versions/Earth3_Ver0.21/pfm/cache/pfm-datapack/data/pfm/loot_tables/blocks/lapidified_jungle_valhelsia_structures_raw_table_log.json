@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:lapidified_jungle_valhelsia_structures_raw_table_log"
+        }
+      ],
+      "name": "lapidified_jungle_valhelsia_structures_raw_table_log",
+      "rolls": 1.0
+    }
+  ]
+}

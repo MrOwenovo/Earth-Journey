@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:comet_blue_skies_simple_bunk_ladder"
+        }
+      ],
+      "name": "comet_blue_skies_simple_bunk_ladder",
+      "rolls": 1.0
+    }
+  ]
+}

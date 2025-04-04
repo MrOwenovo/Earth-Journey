@@ -1,0 +1,29 @@
+{
+  "type": "pfm:furniture",
+  "ingredients": [
+    {
+      "item": "minecraft:gray_wool"
+    },
+    {
+      "item": "minecraft:gray_wool"
+    },
+    {
+      "item": "minecraft:gray_wool"
+    },
+    {
+      "item": "luphieclutteredmod:stripped_luphie_purple_log"
+    },
+    {
+      "item": "luphieclutteredmod:stripped_luphie_purple_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:basic_lamp",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "gray",
+        "variant": "luphieclutteredmod:luphie_purple"
+      }
+    }
+  }
+}

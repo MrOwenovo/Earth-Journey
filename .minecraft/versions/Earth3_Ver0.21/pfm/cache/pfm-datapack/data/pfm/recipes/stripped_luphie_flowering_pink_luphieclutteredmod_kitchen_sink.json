@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "luphieclutteredmod:stripped_luphie_flowering_pinklog"
+    },
+    {
+      "item": "luphieclutteredmod:stripped_luphie_flowering_pinklog"
+    },
+    {
+      "item": "luphieclutteredmod:stripped_luphie_flowering_pinklog"
+    },
+    {
+      "item": "luphieclutteredmod:stripped_luphie_flowering_pinklog"
+    },
+    {
+      "item": "luphieclutteredmod:stripped_luphie_flowering_pinklog"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_flowering_pink_planks"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_flowering_pink_planks"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_luphie_flowering_pink_luphieclutteredmod_kitchen_sink"
+  }
+}

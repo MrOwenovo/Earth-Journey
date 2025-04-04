@@ -1,0 +1,29 @@
+{
+  "type": "pfm:furniture",
+  "ingredients": [
+    {
+      "item": "minecraft:white_wool"
+    },
+    {
+      "item": "minecraft:white_wool"
+    },
+    {
+      "item": "minecraft:white_wool"
+    },
+    {
+      "item": "luphieclutteredmod:stripped_luphie_flowering_log"
+    },
+    {
+      "item": "luphieclutteredmod:stripped_luphie_flowering_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:basic_lamp",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "white",
+        "variant": "luphieclutteredmod:luphie_flowering_yellow"
+      }
+    }
+  }
+}

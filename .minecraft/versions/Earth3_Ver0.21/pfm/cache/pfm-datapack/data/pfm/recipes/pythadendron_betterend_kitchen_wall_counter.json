@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "betterend:pythadendron_log"
+    },
+    {
+      "item": "betterend:pythadendron_log"
+    },
+    {
+      "item": "betterend:pythadendron_log"
+    },
+    {
+      "item": "betterend:pythadendron_log"
+    },
+    {
+      "item": "betterend:pythadendron_log"
+    },
+    {
+      "item": "betterend:pythadendron_log"
+    },
+    {
+      "item": "betterend:pythadendron_log"
+    },
+    {
+      "item": "betterend:pythadendron_log"
+    },
+    {
+      "item": "betterend:pythadendron_log"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:pythadendron_betterend_kitchen_wall_counter"
+  }
+}

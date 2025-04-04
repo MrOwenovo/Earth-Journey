@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "luphieclutteredmod:luphie_green_log"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_green_log"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_green_log"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_green_log"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_green_log"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_green_planks"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_green_planks"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_green_planks"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:luphie_green_luphieclutteredmod_kitchen_counter_oven"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "born_in_chaos_v1:scorched_log"
+    },
+    {
+      "item": "born_in_chaos_v1:scorched_log"
+    },
+    {
+      "item": "born_in_chaos_v1:scorched_log"
+    },
+    {
+      "item": "born_in_chaos_v1:scorched_log"
+    },
+    {
+      "item": "born_in_chaos_v1:scorched_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:scorched_born_in_chaos_v1_kitchen_wall_small_drawer"
+  }
+}

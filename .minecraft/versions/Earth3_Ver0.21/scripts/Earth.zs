@@ -1,0 +1,31 @@
+craftingTable.remove(<item:lucky:lucky_block>);
+craftingTable.remove(<item:cgm:workbench>);
+craftingTable.remove(<item:taming_flute:taming_flute>);
+craftingTable.remove(<item:duckmoney:coin1>);
+craftingTable.remove(<item:duckmoney:coin2>);
+craftingTable.remove(<item:duckmoney:coin5>);
+craftingTable.remove(<item:duckmoney:note1>);
+craftingTable.remove(<item:duckmoney:note2>);
+craftingTable.remove(<item:duckmoney:note5>);
+craftingTable.remove(<item:duckmoney:note10>);
+craftingTable.remove(<item:duckmoney:note20>);
+craftingTable.remove(<item:duckmoney:note50>);
+craftingTable.remove(<item:duckmoney:note100>);
+craftingTable.remove(<item:duckmoney:note200>);
+craftingTable.remove(<item:duckmoney:note500>);
+craftingTable.remove(<item:duckmoney:note1000>);
+craftingTable.remove(<item:duckmoney:bundle1>);
+craftingTable.remove(<item:duckmoney:bundle2>);
+craftingTable.remove(<item:duckmoney:bundle5>);
+craftingTable.remove(<item:duckmoney:bundle10>);
+craftingTable.remove(<item:duckmoney:bundle20>);
+craftingTable.remove(<item:duckmoney:bundle50>);
+craftingTable.remove(<item:duckmoney:bundle100>);
+craftingTable.remove(<item:duckmoney:bundle200>);
+craftingTable.remove(<item:duckmoney:bundle500>);
+craftingTable.remove(<item:duckmoney:bundle1000>);
+
+craftingTable.addShapeless(
+    "55624",<item:minecraft:andesite>,[
+        <item:minecraft:cobblestone>]
+);   

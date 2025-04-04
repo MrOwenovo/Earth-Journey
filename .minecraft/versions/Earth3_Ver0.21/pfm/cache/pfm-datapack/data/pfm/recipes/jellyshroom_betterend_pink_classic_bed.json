@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "betterend:jellyshroom_planks"
+    },
+    {
+      "item": "betterend:jellyshroom_planks"
+    },
+    {
+      "item": "betterend:jellyshroom_planks"
+    },
+    {
+      "item": "minecraft:pink_bed"
+    },
+    {
+      "item": "betterend:jellyshroom_fence"
+    },
+    {
+      "item": "betterend:jellyshroom_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:jellyshroom_betterend_pink_classic_bed"
+  }
+}

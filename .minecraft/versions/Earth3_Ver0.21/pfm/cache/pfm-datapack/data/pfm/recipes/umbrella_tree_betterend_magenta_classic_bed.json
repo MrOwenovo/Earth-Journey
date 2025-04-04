@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "betterend:umbrella_tree_planks"
+    },
+    {
+      "item": "betterend:umbrella_tree_planks"
+    },
+    {
+      "item": "betterend:umbrella_tree_planks"
+    },
+    {
+      "item": "minecraft:magenta_bed"
+    },
+    {
+      "item": "betterend:umbrella_tree_fence"
+    },
+    {
+      "item": "betterend:umbrella_tree_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:umbrella_tree_betterend_magenta_classic_bed"
+  }
+}

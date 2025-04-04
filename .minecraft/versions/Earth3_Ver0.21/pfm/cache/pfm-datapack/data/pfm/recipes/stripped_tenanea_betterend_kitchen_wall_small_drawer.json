@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "betterend:tenanea_stripped_log"
+    },
+    {
+      "item": "betterend:tenanea_stripped_log"
+    },
+    {
+      "item": "betterend:tenanea_stripped_log"
+    },
+    {
+      "item": "betterend:tenanea_stripped_log"
+    },
+    {
+      "item": "betterend:tenanea_stripped_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:stripped_tenanea_betterend_kitchen_wall_small_drawer"
+  }
+}

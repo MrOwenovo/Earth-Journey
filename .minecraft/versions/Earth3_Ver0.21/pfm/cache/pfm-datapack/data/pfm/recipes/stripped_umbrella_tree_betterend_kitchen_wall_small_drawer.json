@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "betterend:umbrella_tree_stripped_log"
+    },
+    {
+      "item": "betterend:umbrella_tree_stripped_log"
+    },
+    {
+      "item": "betterend:umbrella_tree_stripped_log"
+    },
+    {
+      "item": "betterend:umbrella_tree_stripped_log"
+    },
+    {
+      "item": "betterend:umbrella_tree_stripped_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:stripped_umbrella_tree_betterend_kitchen_wall_small_drawer"
+  }
+}

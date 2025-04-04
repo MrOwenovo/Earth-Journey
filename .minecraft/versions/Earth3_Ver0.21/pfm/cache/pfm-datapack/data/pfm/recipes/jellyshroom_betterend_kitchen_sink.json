@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "betterend:jellyshroom_log"
+    },
+    {
+      "item": "betterend:jellyshroom_log"
+    },
+    {
+      "item": "betterend:jellyshroom_log"
+    },
+    {
+      "item": "betterend:jellyshroom_log"
+    },
+    {
+      "item": "betterend:jellyshroom_log"
+    },
+    {
+      "item": "betterend:jellyshroom_planks"
+    },
+    {
+      "item": "betterend:jellyshroom_planks"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:jellyshroom_betterend_kitchen_sink"
+  }
+}

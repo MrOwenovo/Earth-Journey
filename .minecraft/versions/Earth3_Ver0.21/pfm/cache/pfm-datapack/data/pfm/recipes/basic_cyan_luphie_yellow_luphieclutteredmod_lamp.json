@@ -1,0 +1,29 @@
+{
+  "type": "pfm:furniture",
+  "ingredients": [
+    {
+      "item": "minecraft:cyan_wool"
+    },
+    {
+      "item": "minecraft:cyan_wool"
+    },
+    {
+      "item": "minecraft:cyan_wool"
+    },
+    {
+      "item": "luphieclutteredmod:stripped_luphie_yellow_log"
+    },
+    {
+      "item": "luphieclutteredmod:stripped_luphie_yellow_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:basic_lamp",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "cyan",
+        "variant": "luphieclutteredmod:luphie_yellow"
+      }
+    }
+  }
+}

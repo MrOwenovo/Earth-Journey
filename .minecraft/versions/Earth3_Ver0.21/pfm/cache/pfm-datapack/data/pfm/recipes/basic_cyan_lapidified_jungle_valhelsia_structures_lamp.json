@@ -1,0 +1,29 @@
+{
+  "type": "pfm:furniture",
+  "ingredients": [
+    {
+      "item": "minecraft:cyan_wool"
+    },
+    {
+      "item": "minecraft:cyan_wool"
+    },
+    {
+      "item": "minecraft:cyan_wool"
+    },
+    {
+      "item": "valhelsia_structures:lapidified_jungle_planks"
+    },
+    {
+      "item": "valhelsia_structures:lapidified_jungle_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:basic_lamp",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "cyan",
+        "variant": "valhelsia_structures:lapidified_jungle"
+      }
+    }
+  }
+}

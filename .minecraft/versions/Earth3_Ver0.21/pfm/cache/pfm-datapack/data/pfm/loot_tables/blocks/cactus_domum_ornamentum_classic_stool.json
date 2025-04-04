@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:cactus_domum_ornamentum_classic_stool"
+        }
+      ],
+      "name": "cactus_domum_ornamentum_classic_stool",
+      "rolls": 1.0
+    }
+  ]
+}

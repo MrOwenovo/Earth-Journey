@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:rotten_betterarcheology_kitchen_wall_counter"
+        }
+      ],
+      "name": "rotten_betterarcheology_kitchen_wall_counter",
+      "rolls": 1.0
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "valhelsia_structures:lapidified_jungle_log"
+    },
+    {
+      "item": "valhelsia_structures:lapidified_jungle_log"
+    },
+    {
+      "item": "valhelsia_structures:lapidified_jungle_log"
+    },
+    {
+      "item": "valhelsia_structures:lapidified_jungle_log"
+    },
+    {
+      "item": "valhelsia_structures:lapidified_jungle_log"
+    },
+    {
+      "item": "valhelsia_structures:lapidified_jungle_log"
+    },
+    {
+      "item": "valhelsia_structures:lapidified_jungle_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:lapidified_jungle_valhelsia_structures_classic_nightstand"
+  }
+}

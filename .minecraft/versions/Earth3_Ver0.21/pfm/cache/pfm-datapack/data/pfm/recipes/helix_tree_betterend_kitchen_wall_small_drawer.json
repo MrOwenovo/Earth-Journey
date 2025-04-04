@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "betterend:helix_tree_log"
+    },
+    {
+      "item": "betterend:helix_tree_log"
+    },
+    {
+      "item": "betterend:helix_tree_log"
+    },
+    {
+      "item": "betterend:helix_tree_log"
+    },
+    {
+      "item": "betterend:helix_tree_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:helix_tree_betterend_kitchen_wall_small_drawer"
+  }
+}

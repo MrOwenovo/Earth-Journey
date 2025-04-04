@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "valhelsia_structures:lapidified_jungle_planks"
+    },
+    {
+      "item": "valhelsia_structures:lapidified_jungle_planks"
+    },
+    {
+      "item": "valhelsia_structures:lapidified_jungle_planks"
+    },
+    {
+      "item": "valhelsia_structures:lapidified_jungle_planks"
+    },
+    {
+      "item": "valhelsia_structures:lapidified_jungle_planks"
+    },
+    {
+      "item": "minecraft:light_blue_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:lapidified_jungle_valhelsia_structures_light_blue_simple_bed"
+  }
+}

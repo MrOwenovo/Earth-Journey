@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "luphieclutteredmod:luphie_purple_planks"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_purple_planks"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_purple_planks"
+    },
+    {
+      "item": "minecraft:magenta_bed"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_purple_planks"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_purple_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:luphie_purple_luphieclutteredmod_magenta_classic_bed"
+  }
+}

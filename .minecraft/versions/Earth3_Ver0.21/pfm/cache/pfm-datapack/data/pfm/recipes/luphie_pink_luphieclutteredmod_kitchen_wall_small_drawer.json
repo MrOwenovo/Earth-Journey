@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "luphieclutteredmod:luphie_pink_log"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_pink_log"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_pink_log"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_pink_log"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_pink_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:luphie_pink_luphieclutteredmod_kitchen_wall_small_drawer"
+  }
+}

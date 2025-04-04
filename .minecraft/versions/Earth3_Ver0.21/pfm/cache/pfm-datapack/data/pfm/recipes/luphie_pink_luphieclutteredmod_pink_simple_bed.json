@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "luphieclutteredmod:luphie_pink_planks"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_pink_planks"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_pink_planks"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_pink_planks"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_pink_planks"
+    },
+    {
+      "item": "minecraft:pink_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:luphie_pink_luphieclutteredmod_pink_simple_bed"
+  }
+}

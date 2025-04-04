@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "sakura:stripped_maple_log"
+    },
+    {
+      "item": "sakura:stripped_maple_log"
+    },
+    {
+      "item": "sakura:stripped_maple_log"
+    },
+    {
+      "item": "sakura:stripped_maple_log"
+    },
+    {
+      "item": "sakura:stripped_maple_log"
+    },
+    {
+      "item": "sakura:stripped_maple_log"
+    },
+    {
+      "item": "sakura:stripped_maple_log"
+    },
+    {
+      "item": "sakura:stripped_maple_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_maple_sakura_kitchen_cabinet"
+  }
+}

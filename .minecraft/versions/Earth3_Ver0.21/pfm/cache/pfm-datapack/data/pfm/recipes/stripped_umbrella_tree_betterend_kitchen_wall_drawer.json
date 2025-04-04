@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "betterend:umbrella_tree_stripped_log"
+    },
+    {
+      "item": "betterend:umbrella_tree_stripped_log"
+    },
+    {
+      "item": "betterend:umbrella_tree_stripped_log"
+    },
+    {
+      "item": "betterend:umbrella_tree_stripped_log"
+    },
+    {
+      "item": "betterend:umbrella_tree_stripped_log"
+    },
+    {
+      "item": "betterend:umbrella_tree_stripped_log"
+    },
+    {
+      "item": "betterend:umbrella_tree_stripped_log"
+    },
+    {
+      "item": "betterend:umbrella_tree_stripped_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_umbrella_tree_betterend_kitchen_wall_drawer"
+  }
+}

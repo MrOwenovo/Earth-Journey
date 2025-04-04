@@ -1,0 +1,29 @@
+{
+  "type": "pfm:furniture",
+  "ingredients": [
+    {
+      "item": "minecraft:orange_wool"
+    },
+    {
+      "item": "minecraft:orange_wool"
+    },
+    {
+      "item": "minecraft:orange_wool"
+    },
+    {
+      "item": "luphieclutteredmod:stripped_luphie_flowering_pinklog"
+    },
+    {
+      "item": "luphieclutteredmod:stripped_luphie_flowering_pinklog"
+    }
+  ],
+  "result": {
+    "item": "pfm:basic_lamp",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "orange",
+        "variant": "luphieclutteredmod:luphie_flowering_pink"
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "luphieclutteredmod:stripped_luphie_purple_log"
+    },
+    {
+      "item": "luphieclutteredmod:stripped_luphie_purple_log"
+    },
+    {
+      "item": "luphieclutteredmod:stripped_luphie_purple_log"
+    },
+    {
+      "item": "luphieclutteredmod:stripped_luphie_purple_log"
+    },
+    {
+      "item": "luphieclutteredmod:stripped_luphie_purple_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:stripped_luphie_purple_luphieclutteredmod_kitchen_wall_small_drawer"
+  }
+}

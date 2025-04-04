@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "betterarcheology:rotten_log"
+    },
+    {
+      "item": "betterarcheology:rotten_log"
+    },
+    {
+      "item": "betterarcheology:rotten_log"
+    },
+    {
+      "item": "betterarcheology:rotten_log"
+    },
+    {
+      "item": "betterarcheology:rotten_log"
+    },
+    {
+      "item": "betterarcheology:rotten_log"
+    },
+    {
+      "item": "betterarcheology:rotten_log"
+    },
+    {
+      "item": "betterarcheology:rotten_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:rotten_betterarcheology_kitchen_cabinet"
+  }
+}

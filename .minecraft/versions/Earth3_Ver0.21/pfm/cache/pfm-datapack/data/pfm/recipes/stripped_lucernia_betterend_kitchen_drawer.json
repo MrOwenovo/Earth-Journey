@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "betterend:lucernia_stripped_log"
+    },
+    {
+      "item": "betterend:lucernia_stripped_log"
+    },
+    {
+      "item": "betterend:lucernia_stripped_log"
+    },
+    {
+      "item": "betterend:lucernia_stripped_log"
+    },
+    {
+      "item": "betterend:lucernia_stripped_log"
+    },
+    {
+      "item": "betterend:lucernia_planks"
+    },
+    {
+      "item": "betterend:lucernia_planks"
+    },
+    {
+      "item": "betterend:lucernia_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_lucernia_betterend_kitchen_drawer"
+  }
+}

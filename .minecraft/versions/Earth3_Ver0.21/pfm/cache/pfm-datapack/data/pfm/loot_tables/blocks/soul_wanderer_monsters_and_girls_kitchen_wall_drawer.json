@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:soul_wanderer_monsters_and_girls_kitchen_wall_drawer"
+        }
+      ],
+      "name": "soul_wanderer_monsters_and_girls_kitchen_wall_drawer",
+      "rolls": 1.0
+    }
+  ]
+}

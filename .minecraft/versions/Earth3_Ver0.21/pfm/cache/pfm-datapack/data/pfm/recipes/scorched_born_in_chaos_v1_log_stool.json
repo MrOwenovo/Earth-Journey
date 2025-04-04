@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "born_in_chaos_v1:scorched_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:scorched_born_in_chaos_v1_log_stool"
+  }
+}

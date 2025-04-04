@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "betterend:helix_tree_stripped_log"
+    },
+    {
+      "item": "betterend:helix_tree_stripped_log"
+    },
+    {
+      "item": "betterend:helix_tree_stripped_log"
+    },
+    {
+      "item": "betterend:helix_tree_stripped_log"
+    },
+    {
+      "item": "betterend:helix_tree_stripped_log"
+    },
+    {
+      "item": "betterend:helix_tree_planks"
+    },
+    {
+      "item": "betterend:helix_tree_planks"
+    },
+    {
+      "item": "betterend:helix_tree_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_helix_tree_betterend_kitchen_drawer"
+  }
+}

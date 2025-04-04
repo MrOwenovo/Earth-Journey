@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "betterend:end_lotus_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:end_lotus_betterend_log_stool"
+  }
+}

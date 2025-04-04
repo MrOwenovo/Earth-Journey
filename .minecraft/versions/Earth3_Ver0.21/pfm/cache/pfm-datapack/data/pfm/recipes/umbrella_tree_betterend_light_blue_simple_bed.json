@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "betterend:umbrella_tree_planks"
+    },
+    {
+      "item": "betterend:umbrella_tree_planks"
+    },
+    {
+      "item": "betterend:umbrella_tree_planks"
+    },
+    {
+      "item": "betterend:umbrella_tree_planks"
+    },
+    {
+      "item": "betterend:umbrella_tree_planks"
+    },
+    {
+      "item": "minecraft:light_blue_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:umbrella_tree_betterend_light_blue_simple_bed"
+  }
+}

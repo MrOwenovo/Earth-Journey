@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "sakura:sakura_log"
+    },
+    {
+      "item": "sakura:sakura_log"
+    },
+    {
+      "item": "sakura:sakura_log"
+    },
+    {
+      "item": "sakura:sakura_log"
+    },
+    {
+      "item": "sakura:sakura_log"
+    },
+    {
+      "item": "sakura:plank_sakura"
+    },
+    {
+      "item": "sakura:plank_sakura"
+    },
+    {
+      "item": "sakura:plank_sakura"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:sakura_sakura_table_modern_dinner"
+  }
+}

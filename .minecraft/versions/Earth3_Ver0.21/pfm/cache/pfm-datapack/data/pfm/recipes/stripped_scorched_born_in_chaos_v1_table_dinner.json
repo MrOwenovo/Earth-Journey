@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "born_in_chaos_v1:scorched_planks"
+    },
+    {
+      "item": "born_in_chaos_v1:scorched_planks"
+    },
+    {
+      "item": "born_in_chaos_v1:scorched_planks"
+    },
+    {
+      "item": "born_in_chaos_v1:stripped_scorched_log"
+    },
+    {
+      "item": "born_in_chaos_v1:stripped_scorched_log"
+    },
+    {
+      "item": "born_in_chaos_v1:stripped_scorched_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_scorched_born_in_chaos_v1_table_dinner"
+  }
+}

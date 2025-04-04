@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "betterend:tenanea_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:tenanea_betterend_log_stool"
+  }
+}

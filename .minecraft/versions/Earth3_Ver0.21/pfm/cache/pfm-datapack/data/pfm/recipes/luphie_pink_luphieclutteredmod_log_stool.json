@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "luphieclutteredmod:luphie_pink_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:luphie_pink_luphieclutteredmod_log_stool"
+  }
+}

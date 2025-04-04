@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "valhelsia_structures:lapidified_jungle_log"
+    },
+    {
+      "item": "valhelsia_structures:lapidified_jungle_log"
+    },
+    {
+      "item": "valhelsia_structures:lapidified_jungle_log"
+    },
+    {
+      "item": "valhelsia_structures:lapidified_jungle_log"
+    },
+    {
+      "item": "valhelsia_structures:lapidified_jungle_log"
+    },
+    {
+      "item": "valhelsia_structures:lapidified_jungle_log"
+    },
+    {
+      "item": "valhelsia_structures:lapidified_jungle_log"
+    },
+    {
+      "item": "valhelsia_structures:lapidified_jungle_log"
+    },
+    {
+      "item": "valhelsia_structures:lapidified_jungle_log"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:lapidified_jungle_valhelsia_structures_kitchen_wall_counter"
+  }
+}

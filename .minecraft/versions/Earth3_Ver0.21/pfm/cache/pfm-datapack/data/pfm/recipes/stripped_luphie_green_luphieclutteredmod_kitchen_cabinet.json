@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "luphieclutteredmod:stripped_luphie_green_log"
+    },
+    {
+      "item": "luphieclutteredmod:stripped_luphie_green_log"
+    },
+    {
+      "item": "luphieclutteredmod:stripped_luphie_green_log"
+    },
+    {
+      "item": "luphieclutteredmod:stripped_luphie_green_log"
+    },
+    {
+      "item": "luphieclutteredmod:stripped_luphie_green_log"
+    },
+    {
+      "item": "luphieclutteredmod:stripped_luphie_green_log"
+    },
+    {
+      "item": "luphieclutteredmod:stripped_luphie_green_log"
+    },
+    {
+      "item": "luphieclutteredmod:stripped_luphie_green_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_luphie_green_luphieclutteredmod_kitchen_cabinet"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "betterarcheology:rotten_planks"
+    },
+    {
+      "item": "betterarcheology:rotten_planks"
+    },
+    {
+      "item": "betterarcheology:rotten_planks"
+    },
+    {
+      "item": "minecraft:lime_bed"
+    },
+    {
+      "item": "betterarcheology:rotten_fence"
+    },
+    {
+      "item": "betterarcheology:rotten_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:rotten_betterarcheology_lime_classic_bed"
+  }
+}

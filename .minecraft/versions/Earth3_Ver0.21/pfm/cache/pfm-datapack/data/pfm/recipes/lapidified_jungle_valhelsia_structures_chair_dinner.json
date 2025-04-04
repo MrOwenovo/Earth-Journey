@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "valhelsia_structures:lapidified_jungle_log"
+    },
+    {
+      "item": "valhelsia_structures:lapidified_jungle_log"
+    },
+    {
+      "item": "valhelsia_structures:lapidified_jungle_log"
+    },
+    {
+      "item": "valhelsia_structures:lapidified_jungle_planks"
+    },
+    {
+      "item": "valhelsia_structures:lapidified_jungle_planks"
+    },
+    {
+      "item": "valhelsia_structures:lapidified_jungle_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:lapidified_jungle_valhelsia_structures_chair_dinner"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "valhelsia_structures:lapidified_jungle_log"
+    },
+    {
+      "item": "valhelsia_structures:lapidified_jungle_log"
+    },
+    {
+      "item": "valhelsia_structures:lapidified_jungle_log"
+    },
+    {
+      "item": "valhelsia_structures:lapidified_jungle_log"
+    },
+    {
+      "item": "valhelsia_structures:lapidified_jungle_log"
+    },
+    {
+      "item": "valhelsia_structures:lapidified_jungle_log"
+    },
+    {
+      "item": "valhelsia_structures:lapidified_jungle_log"
+    },
+    {
+      "item": "valhelsia_structures:lapidified_jungle_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:lapidified_jungle_valhelsia_structures_kitchen_wall_drawer"
+  }
+}

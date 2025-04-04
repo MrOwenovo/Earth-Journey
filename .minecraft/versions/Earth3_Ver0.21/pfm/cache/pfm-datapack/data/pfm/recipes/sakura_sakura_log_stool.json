@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "sakura:sakura_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:sakura_sakura_log_stool"
+  }
+}

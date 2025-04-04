@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:soul_wanderer_monsters_and_girls_chair"
+        }
+      ],
+      "name": "soul_wanderer_monsters_and_girls_chair",
+      "rolls": 1.0
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "blue_skies:comet_planks"
+    },
+    {
+      "item": "blue_skies:comet_planks"
+    },
+    {
+      "item": "blue_skies:comet_planks"
+    },
+    {
+      "item": "blue_skies:comet_planks"
+    },
+    {
+      "item": "blue_skies:comet_planks"
+    },
+    {
+      "item": "blue_skies:comet_planks"
+    },
+    {
+      "item": "blue_skies:stripped_comet_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_comet_blue_skies_classic_nightstand"
+  }
+}

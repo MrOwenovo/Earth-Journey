@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "valhelsia_structures:lapidified_jungle_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:lapidified_jungle_valhelsia_structures_log_stool"
+  }
+}

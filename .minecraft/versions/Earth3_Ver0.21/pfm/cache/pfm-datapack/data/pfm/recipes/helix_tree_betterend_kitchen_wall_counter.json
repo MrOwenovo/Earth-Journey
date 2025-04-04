@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "betterend:helix_tree_log"
+    },
+    {
+      "item": "betterend:helix_tree_log"
+    },
+    {
+      "item": "betterend:helix_tree_log"
+    },
+    {
+      "item": "betterend:helix_tree_log"
+    },
+    {
+      "item": "betterend:helix_tree_log"
+    },
+    {
+      "item": "betterend:helix_tree_log"
+    },
+    {
+      "item": "betterend:helix_tree_log"
+    },
+    {
+      "item": "betterend:helix_tree_log"
+    },
+    {
+      "item": "betterend:helix_tree_log"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:helix_tree_betterend_kitchen_wall_counter"
+  }
+}

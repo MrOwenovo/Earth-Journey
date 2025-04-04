@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "luphieclutteredmod:luphie_green_log"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_green_log"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_green_log"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_green_log"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_green_log"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_green_log"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_green_planks"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_green_planks"
+    },
+    {
+      "item": "luphieclutteredmod:luphie_green_planks"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:luphie_green_luphieclutteredmod_kitchen_counter"
+  }
+}

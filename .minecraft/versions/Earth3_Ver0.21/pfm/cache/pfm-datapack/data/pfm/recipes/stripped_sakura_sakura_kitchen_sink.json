@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "sakura:stripped_sakura_log"
+    },
+    {
+      "item": "sakura:stripped_sakura_log"
+    },
+    {
+      "item": "sakura:stripped_sakura_log"
+    },
+    {
+      "item": "sakura:stripped_sakura_log"
+    },
+    {
+      "item": "sakura:stripped_sakura_log"
+    },
+    {
+      "item": "sakura:plank_sakura"
+    },
+    {
+      "item": "sakura:plank_sakura"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_sakura_sakura_kitchen_sink"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "betterend:tenanea_planks"
+    },
+    {
+      "item": "betterend:tenanea_planks"
+    },
+    {
+      "item": "betterend:tenanea_planks"
+    },
+    {
+      "item": "betterend:tenanea_planks"
+    },
+    {
+      "item": "betterend:tenanea_planks"
+    },
+    {
+      "item": "betterend:tenanea_planks"
+    },
+    {
+      "item": "betterend:tenanea_stripped_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_tenanea_betterend_classic_nightstand"
+  }
+}

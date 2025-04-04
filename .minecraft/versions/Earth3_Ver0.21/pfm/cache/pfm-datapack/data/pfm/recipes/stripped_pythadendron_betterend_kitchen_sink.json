@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "betterend:pythadendron_stripped_log"
+    },
+    {
+      "item": "betterend:pythadendron_stripped_log"
+    },
+    {
+      "item": "betterend:pythadendron_stripped_log"
+    },
+    {
+      "item": "betterend:pythadendron_stripped_log"
+    },
+    {
+      "item": "betterend:pythadendron_stripped_log"
+    },
+    {
+      "item": "betterend:pythadendron_planks"
+    },
+    {
+      "item": "betterend:pythadendron_planks"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_pythadendron_betterend_kitchen_sink"
+  }
+}

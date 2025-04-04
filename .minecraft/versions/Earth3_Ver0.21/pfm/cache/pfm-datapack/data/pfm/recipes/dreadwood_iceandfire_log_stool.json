@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "iceandfire:dreadwood_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:dreadwood_iceandfire_log_stool"
+  }
+}
