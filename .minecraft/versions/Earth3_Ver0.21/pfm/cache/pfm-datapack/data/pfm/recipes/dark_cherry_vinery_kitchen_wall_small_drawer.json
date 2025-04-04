@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "vinery:dark_cherry_log"
+    },
+    {
+      "item": "vinery:dark_cherry_log"
+    },
+    {
+      "item": "vinery:dark_cherry_log"
+    },
+    {
+      "item": "vinery:dark_cherry_log"
+    },
+    {
+      "item": "vinery:dark_cherry_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:dark_cherry_vinery_kitchen_wall_small_drawer"
+  }
+}

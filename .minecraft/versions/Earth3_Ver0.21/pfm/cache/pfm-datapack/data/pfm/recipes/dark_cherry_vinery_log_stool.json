@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "vinery:dark_cherry_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:dark_cherry_vinery_log_stool"
+  }
+}

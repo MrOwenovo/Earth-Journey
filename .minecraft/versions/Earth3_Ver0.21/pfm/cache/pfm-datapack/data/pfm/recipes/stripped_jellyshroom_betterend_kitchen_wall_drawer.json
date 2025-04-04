@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "betterend:jellyshroom_stripped_log"
+    },
+    {
+      "item": "betterend:jellyshroom_stripped_log"
+    },
+    {
+      "item": "betterend:jellyshroom_stripped_log"
+    },
+    {
+      "item": "betterend:jellyshroom_stripped_log"
+    },
+    {
+      "item": "betterend:jellyshroom_stripped_log"
+    },
+    {
+      "item": "betterend:jellyshroom_stripped_log"
+    },
+    {
+      "item": "betterend:jellyshroom_stripped_log"
+    },
+    {
+      "item": "betterend:jellyshroom_stripped_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_jellyshroom_betterend_kitchen_wall_drawer"
+  }
+}
