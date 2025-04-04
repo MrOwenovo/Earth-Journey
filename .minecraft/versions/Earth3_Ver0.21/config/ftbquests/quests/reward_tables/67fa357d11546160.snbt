@@ -1,0 +1,35 @@
+{
+	id: "67FA357D11546160"
+	loot_size: 1
+	order_index: 24
+	rewards: [
+		{
+			item: {
+				Count: 1b
+				id: "divine_weaponry:iron_dagger"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "divine_weaponry:iron_sickle"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "l2weaponry:iron_claw"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+	]
+	title: "盗贼新手装备"
+}

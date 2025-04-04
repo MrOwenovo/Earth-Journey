@@ -1,0 +1,128 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "06FCD6C3558341E6"
+	group: "0934557C74B8973A"
+	icon: "mca:engagement_ring"
+	id: "06FCD6C3558341E6"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"拓展内容 请添加村庄婚姻拓展模组"
+				"对游戏特别是村庄地区有较大的性能影响，配置不好的慎重添加"
+			]
+			id: "0371DD32B9BD45D0"
+			rewards: [
+				{
+					id: "435E2AE6A638FF17"
+					item: "mca:book_death"
+					type: "item"
+				}
+				{
+					id: "12E9CEB743BEB4A0"
+					item: "mca:book_romance"
+					type: "item"
+				}
+				{
+					id: "76FBA929DA60A3BE"
+					item: "mca:book_family"
+					type: "item"
+				}
+				{
+					id: "34A0852FF7905B7A"
+					item: "mca:book_blueprint"
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 2.0d
+			tasks: [{
+				id: "0B70C1D703F7817C"
+				type: "checkmark"
+			}]
+			title: "模拟人生"
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			description: ["刷好感"]
+			id: "2E69B4669E21891C"
+			tasks: [{
+				id: "04CF112D9C67DEBC"
+				item: "mca:engagement_ring"
+				type: "item"
+			}]
+			title: "结婚"
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			id: "60E280CB8150FFE1"
+			tasks: [{
+				id: "1CB3C894AC54FE48"
+				title: "生育"
+				type: "checkmark"
+			}]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			id: "0DBF809171522229"
+			tasks: [
+				{
+					id: "05AE17FE929B7FAE"
+					title: "发展村庄建设"
+					type: "checkmark"
+				}
+				{
+					id: "25DFB4F718B9073D"
+					item: "mca:blueprint"
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			id: "66E6DBEE4C9F29B7"
+			tasks: [{
+				id: "6C012FF47C0A768F"
+				title: "击败死神"
+				type: "checkmark"
+			}]
+			x: 6.5d
+			y: 0.0d
+		}
+		{
+			description: ["与绿宝石块一起放置 次日可招聘村民  详细教程转至实用道具栏"]
+			id: "72066200BBEAC1AA"
+			tasks: [{
+				id: "3B73DA028D4D4780"
+				item: "helpwanted:villagerpost"
+				type: "item"
+			}]
+			title: "招募村民"
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			description: [
+				"想玩科技养老推荐添加模组 有性能影响"
+				"L键查看机械动力成就任务"
+			]
+			id: "0F883510E1E56809"
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				id: "0ABC340820A3ADCE"
+				title: "机械动力"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 2.5d
+		}
+	]
+	title: "村庄婚姻生育（拓展）"
+}

@@ -1,0 +1,1257 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "0F2D3742DF92231C"
+	group: ""
+	icon: "supplementaries:present_blue"
+	id: "0F2D3742DF92231C"
+	images: [
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 4.0d
+			hover: [ ]
+			image: "mmorpg:textures/ftb/wuqiku.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 3.0d
+			hover: [ ]
+			image: "mmorpg:textures/ftb/qiangzhi.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: 9.0d
+			y: 3.0d
+		}
+	]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			description: [
+				"装备抽奖券主要来源"
+				"枪械抽奖券来源"
+				"冒险地图升级球 来源"
+			]
+			disable_toast: true
+			icon: "duckmoney:note20"
+			id: "10214DE5BBCE2F4D"
+			repeatable: true
+			rewards: [{
+				auto: "no_toast"
+				id: "38104FA8EA50D93C"
+				table_id: 6276753265917583462L
+				type: "random"
+			}]
+			shape: "diamond"
+			size: 2.0d
+			subtitle: "获取抽奖券"
+			tasks: [{
+				consume_items: true
+				count: 30L
+				id: "53EBE765836CBA34"
+				item: "lightmanscurrency:coin_diamond"
+				type: "item"
+			}]
+			title: "装备武器枪械抽奖"
+			x: 5.0d
+			y: 7.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["3A0676F4B20C7E14"]
+			description: [
+				"奖池："
+				"人造&9珍稀品质装备灵魂"
+				"人造&d史诗品质装备灵魂"
+				"人造&e传说品质装备灵魂"
+				"人造&5神话品质装备灵魂"
+				"部位：武器/防具/饰品/副手"
+				"更高品质装备只能通过打怪宝箱获取"
+				"冒险地图副本是获取极品装备的好去处"
+			]
+			disable_toast: true
+			icon: {
+				Count: 1b
+				id: "aquamirae:coral_lance"
+				tag: {
+					Damage: 0
+					Enchantments: [{
+						id: "minecraft:unbreaking"
+						lvl: 4s
+					}]
+				}
+			}
+			id: "0449966C2396A8B2"
+			repeatable: true
+			rewards: [{
+				auto: "no_toast"
+				icon: {
+					Count: 1b
+					id: "mmorpg:stat_soul"
+					tag: {
+						CustomModelData: 11
+						mmorpg_stat_soul: "{\"tier\":0,\"slot\":\"shield\",\"rar\":\"uncommon\",\"fam\":\"NONE\",\"uniq\":\"\",\"force_tag\":\"\",\"can_sal\":true}"
+					}
+				}
+				id: "56D9B3AAF55FB45F"
+				table_id: 3189676900479435527L
+				type: "random"
+			}]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				consume_items: true
+				id: "7D2E6AC60FA284B8"
+				item: "duckmoney:bundle1"
+				type: "item"
+			}]
+			title: "装备灵魂抽奖 LV1-20"
+			x: 1.5d
+			y: 4.5d
+		}
+		{
+			can_repeat: true
+			description: ["奖池各类枪械"]
+			disable_toast: true
+			icon: {
+				Count: 1b
+				id: "cgm:mini_gun"
+				tag: {
+					AmmoCount: 100
+				}
+			}
+			id: "3E6C957C0FA2BF8C"
+			repeatable: true
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "262C4A97D91F5291"
+				table_id: 8278938215601235541L
+				type: "random"
+			}]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				consume_items: true
+				id: "27F37C846589E5FD"
+				item: "duckmoney:bundle1000"
+				type: "item"
+			}]
+			title: "枪械抽奖"
+			x: 9.0d
+			y: 4.5d
+		}
+		{
+			id: "03D827A44E7598A6"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3742549A1FCF0059"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "48AE74C30777E897"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "5E7C4DC5E29A5CB9"
+					item: "duckmoney:bundle1"
+					type: "item"
+				}
+			]
+			subtitle: "不附加灵魂，武器伤害非常低"
+			tasks: [
+				{
+					id: "203C113EF6182FB4"
+					item: "mmorpg:offhand/tome/wood"
+					type: "item"
+				}
+				{
+					id: "64F00BE6EB74591F"
+					item: "mmorpg:offhand/dodge/wood"
+					type: "item"
+				}
+				{
+					id: "245EABF22AB817B4"
+					item: {
+						Count: 1b
+						id: "minecraft:iron_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "50E73EF61B5E4E08"
+					item: {
+						Count: 1b
+						id: "mmorpg:weapon/staff/iron"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6C0C0734C5CBDB89"
+					item: {
+						Count: 1b
+						id: "nyfsarcheryplus:iron_bow"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "01B8AAEDDD9F801F"
+					item: {
+						Count: 1b
+						id: "mmorpg:jewelry/ring/gold"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4FE6607996A01A95"
+					item: {
+						Count: 1b
+						id: "mmorpg:jewelry/necklace/iron"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "35DD89A841DB9CA1"
+					item: {
+						Count: 1b
+						id: "divine_weaponry:diamond_longsword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "制作基础装备用于灵魂附加"
+			x: 3.0d
+			y: 4.5d
+		}
+		{
+			can_repeat: true
+			icon: "cgm:advanced_bullet"
+			id: "62945A795F073968"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "04077198ED01B42B"
+				table_id: 6979425636676940443L
+				type: "choice"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 200L
+				id: "50EE6A7F28924A64"
+				item: "lightmanscurrency:coin_diamond"
+				type: "item"
+			}]
+			title: "弹药补给"
+			x: 10.5d
+			y: 4.5d
+		}
+		{
+			description: ["在右侧装备灵魂抽奖任务提交抽奖券，获得装备灵魂或战利品"]
+			id: "3A0676F4B20C7E14"
+			rewards: [{
+				count: 3
+				id: "728D7BEE8BF0490F"
+				item: "duckmoney:bundle1"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1D5A4D35BE07CE34"
+				item: "duckmoney:bundle1"
+				type: "item"
+			}]
+			title: "尝试抽取装备"
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			can_repeat: true
+			description: ["奖池：女仆召唤券/万用驯服长笛"]
+			icon: "touhou_little_maid:smart_slab_init"
+			id: "28D1D0816DCD6D74"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "345E676934953F90"
+				table_id: 6730472543809602651L
+				type: "random"
+			}]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				consume_items: true
+				count: 3L
+				id: "49C989A9202C3915"
+				item: "lightmanscurrency:coin_diamond"
+				type: "item"
+			}]
+			title: "道具抽奖"
+			x: 7.5d
+			y: 9.75d
+		}
+		{
+			can_repeat: true
+			disable_toast: true
+			icon: {
+				Count: 1b
+				id: "aquamirae:coral_lance"
+				tag: {
+					Damage: 0
+					Enchantments: [{
+						id: "minecraft:unbreaking"
+						lvl: 4s
+					}]
+				}
+			}
+			id: "0C9D57A23B703866"
+			rewards: [{
+				auto: "enabled"
+				exclude_from_claim_all: true
+				id: "2DF8CD77FBB9E959"
+				table_id: 2266825615106732018L
+				type: "random"
+			}]
+			shape: "diamond"
+			size: 1.0d
+			tasks: [{
+				consume_items: true
+				id: "6F17288DFF49AA7C"
+				item: "duckmoney:bundle2"
+				type: "item"
+			}]
+			title: "装备灵魂抽奖 LV20-40"
+			x: 1.5d
+			y: 6.0d
+		}
+		{
+			can_repeat: true
+			disable_toast: true
+			icon: {
+				Count: 1b
+				id: "aquamirae:coral_lance"
+				tag: {
+					Damage: 0
+					Enchantments: [{
+						id: "minecraft:unbreaking"
+						lvl: 4s
+					}]
+				}
+			}
+			id: "4678CF0FE72DDABA"
+			rewards: [{
+				auto: "enabled"
+				exclude_from_claim_all: true
+				id: "1864CC5274145662"
+				table_id: 1926386823075796605L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				consume_items: true
+				disable_toast: true
+				id: "40651FA3E7B57B6D"
+				item: "duckmoney:bundle5"
+				type: "item"
+			}]
+			title: "装备灵魂抽奖 LV40-60"
+			x: 1.5d
+			y: 7.0d
+		}
+		{
+			can_repeat: true
+			disable_toast: true
+			icon: {
+				Count: 1b
+				id: "aquamirae:coral_lance"
+				tag: {
+					Damage: 0
+					Enchantments: [{
+						id: "minecraft:unbreaking"
+						lvl: 4s
+					}]
+				}
+			}
+			id: "0FD966C0E3E8694E"
+			rewards: [{
+				auto: "enabled"
+				id: "61C480C597DBC2E5"
+				table_id: 8225988815765809970L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				consume_items: true
+				disable_toast: true
+				id: "59482C4BDDBE3B2E"
+				item: "duckmoney:bundle10"
+				type: "item"
+			}]
+			title: "装备灵魂抽奖 LV60-80"
+			x: 1.5d
+			y: 8.0d
+		}
+		{
+			can_repeat: true
+			disable_toast: true
+			icon: {
+				Count: 1b
+				id: "aquamirae:coral_lance"
+				tag: {
+					Damage: 0
+					Enchantments: [{
+						id: "minecraft:unbreaking"
+						lvl: 4s
+					}]
+				}
+			}
+			id: "192921E9E1B1914C"
+			rewards: [{
+				auto: "enabled"
+				exclude_from_claim_all: true
+				id: "5B22F0A5BF8566D9"
+				table_id: 3823953062127173342L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				consume_items: true
+				disable_toast: true
+				id: "7F8A70BA2D7C81BD"
+				item: "duckmoney:bundle20"
+				type: "item"
+			}]
+			title: "装备灵魂抽奖 LV80-99"
+			x: 1.5d
+			y: 9.0d
+		}
+		{
+			can_repeat: true
+			disable_toast: true
+			icon: {
+				Count: 1b
+				id: "aquamirae:coral_lance"
+				tag: {
+					Damage: 0
+					Enchantments: [{
+						id: "minecraft:unbreaking"
+						lvl: 4s
+					}]
+				}
+			}
+			id: "79F4A6541760177F"
+			rewards: [{
+				auto: "enabled"
+				id: "522C9FBF15166526"
+				table_id: 6477013716764248736L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				consume_items: true
+				disable_toast: true
+				id: "249282CF50EF32C9"
+				item: "duckmoney:bundle50"
+				type: "item"
+			}]
+			title: "装备灵魂抽奖LV100"
+			x: 1.5d
+			y: 10.0d
+		}
+		{
+			can_repeat: true
+			icon: "cgm:medium_scope"
+			id: "13F9369EF04E7761"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "66A1D49BB0FBB338"
+				table_id: 5938270689165913207L
+				type: "choice"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 3L
+				id: "28DB6AC794099B92"
+				item: "lightmanscurrency:coin_diamond"
+				type: "item"
+			}]
+			title: "枪械配件"
+			x: 7.5d
+			y: 4.5d
+		}
+		{
+			can_repeat: true
+			description: ["奖池：各类帽子头饰"]
+			icon: "simplehats:floatinghearts"
+			id: "7158773FEC5647AC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3F894549AD7CD9B1"
+				table_id: 8088581514780685549L
+				type: "random"
+			}]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				consume_items: true
+				count: 6L
+				id: "1E6BE5A6B5F9C9E3"
+				item: "lightmanscurrency:coin_diamond"
+				type: "item"
+			}]
+			title: "头饰盲盒"
+			x: 9.0d
+			y: 9.75d
+		}
+		{
+			can_repeat: true
+			disable_toast: true
+			id: "1506A32D43E99612"
+			rewards: [{
+				id: "2E8C23808090DC33"
+				item: "duckmoney:bundle2"
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 5L
+				disable_toast: true
+				id: "2BA59DA41D043DFE"
+				item: "duckmoney:bundle1"
+				type: "item"
+			}]
+			title: "交换LV40抽奖券"
+			x: -1.5d
+			y: 6.0d
+		}
+		{
+			can_repeat: true
+			disable_toast: true
+			id: "560C7C09EAE5780C"
+			rewards: [{
+				id: "02210D2C816BBF70"
+				item: "duckmoney:bundle5"
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 4L
+				disable_toast: true
+				id: "4CC75B02005E2FFC"
+				item: "duckmoney:bundle2"
+				type: "item"
+			}]
+			title: "交换LV60抽奖券"
+			x: -1.5d
+			y: 7.0d
+		}
+		{
+			can_repeat: true
+			disable_toast: true
+			id: "16BEF5C55138BC71"
+			rewards: [{
+				id: "0C5C526F815262FF"
+				item: "duckmoney:bundle10"
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 3L
+				disable_toast: true
+				id: "0D44B4C74442C67C"
+				item: "duckmoney:bundle5"
+				type: "item"
+			}]
+			title: "交换LV80抽奖券"
+			x: -1.5d
+			y: 8.0d
+		}
+		{
+			can_repeat: true
+			disable_toast: true
+			id: "7A1C8AE5E84F9133"
+			rewards: [{
+				id: "68A02B26187C66BF"
+				item: "duckmoney:bundle20"
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 3L
+				disable_toast: true
+				id: "6DDBC772B75482FF"
+				item: "duckmoney:bundle10"
+				type: "item"
+			}]
+			title: "交换LV99抽奖券"
+			x: -1.5d
+			y: 9.0d
+		}
+		{
+			can_repeat: true
+			disable_toast: true
+			id: "0A3FAAD134C4CE6D"
+			rewards: [{
+				id: "6B0C323D84AACE45"
+				item: "duckmoney:bundle50"
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 2L
+				disable_toast: true
+				id: "6D8DF8534DBE113E"
+				item: "duckmoney:bundle20"
+				type: "item"
+			}]
+			title: "交换LV100抽奖券"
+			x: -1.5d
+			y: 10.0d
+		}
+		{
+			id: "0BFC4312C0301865"
+			tasks: [{
+				id: "6F5FE4A66CE1EAEC"
+				title: "待更新"
+				type: "checkmark"
+			}]
+			x: 9.0d
+			y: 7.5d
+		}
+		{
+			can_repeat: true
+			description: [""]
+			disable_toast: true
+			icon: {
+				Count: 1b
+				id: "mmorpg:stat_soul"
+				tag: {
+					CustomModelData: 1
+					mmorpg_stat_soul: "{\"tier\":0,\"slot\":\"sword\",\"rar\":\"unique\",\"fam\":\"NONE\",\"uniq\":\"\",\"can_sal\":true}"
+				}
+			}
+			id: "0D468D0CB59C7670"
+			repeatable: true
+			rewards: [
+				{
+					auto: "enabled"
+					id: "7BFC4FC0E37841A6"
+					table_id: 3189676900479435527L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "002C417D9515D5E0"
+					table_id: 3189676900479435527L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "739F15B53FBB8CCF"
+					table_id: 3189676900479435527L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "00CD15AD516060D8"
+					table_id: 3189676900479435527L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "5C762D2617FEEE4A"
+					table_id: 3189676900479435527L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "31D3B448013719DA"
+					table_id: 3189676900479435527L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "74FA10CC037162D4"
+					table_id: 3189676900479435527L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "265CB1841BDBE919"
+					table_id: 3189676900479435527L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "73D9EA20844F1808"
+					table_id: 3189676900479435527L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "70B8E3F82B224F7D"
+					table_id: 3189676900479435527L
+					type: "random"
+				}
+			]
+			shape: "diamond"
+			size: 1.0d
+			tasks: [{
+				consume_items: true
+				count: 10L
+				id: "53567C2AA478FF37"
+				item: "duckmoney:bundle1"
+				type: "item"
+			}]
+			title: "装备灵魂十连抽奖 LV1-20"
+			x: -3.0d
+			y: 5.0d
+		}
+		{
+			can_repeat: true
+			disable_toast: true
+			icon: {
+				Count: 1b
+				id: "mmorpg:stat_soul"
+				tag: {
+					CustomModelData: 1
+					mmorpg_stat_soul: "{\"tier\":0,\"slot\":\"sword\",\"rar\":\"unique\",\"fam\":\"NONE\",\"uniq\":\"\",\"can_sal\":true}"
+				}
+			}
+			id: "74283BB2573E948C"
+			rewards: [{
+				auto: "enabled"
+				id: "2522A3E1FE940621"
+				table_id: 2266825615106732018L
+				type: "random"
+			}]
+			shape: "diamond"
+			size: 1.0d
+			tasks: [{
+				consume_items: true
+				count: 10L
+				id: "0FCE5DCBAB483624"
+				item: "duckmoney:bundle2"
+				type: "item"
+			}]
+			title: "装备灵魂十连抽奖 LV20-40"
+			x: -3.0d
+			y: 6.0d
+		}
+		{
+			can_repeat: true
+			disable_toast: true
+			icon: {
+				Count: 1b
+				id: "mmorpg:stat_soul"
+				tag: {
+					CustomModelData: 1
+					mmorpg_stat_soul: "{\"tier\":0,\"slot\":\"sword\",\"rar\":\"unique\",\"fam\":\"NONE\",\"uniq\":\"\",\"can_sal\":true}"
+				}
+			}
+			id: "59812874EB7ADE25"
+			rewards: [
+				{
+					auto: "enabled"
+					id: "2A8CDFAE7830B9F0"
+					table_id: 1926386823075796605L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "565947942C80A2C9"
+					table_id: 1926386823075796605L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "39B1D074277AFC4F"
+					table_id: 1926386823075796605L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "48604F0E58A57678"
+					table_id: 1926386823075796605L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "6B992A5B952DEC94"
+					table_id: 1926386823075796605L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "25B2479F3DD5989A"
+					table_id: 1926386823075796605L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "68378789A3C1A7EB"
+					table_id: 1926386823075796605L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "13F9630B1919893F"
+					table_id: 1926386823075796605L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "40AC79A33CEB42A0"
+					table_id: 1926386823075796605L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "6E74B076A2A4F6C1"
+					table_id: 1926386823075796605L
+					type: "random"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				consume_items: true
+				count: 10L
+				disable_toast: true
+				id: "470C80301328E3F5"
+				item: "duckmoney:bundle5"
+				type: "item"
+			}]
+			title: "装备灵魂十连抽奖 LV40-60"
+			x: -3.0d
+			y: 7.0d
+		}
+		{
+			can_repeat: true
+			disable_toast: true
+			icon: {
+				Count: 1b
+				id: "mmorpg:stat_soul"
+				tag: {
+					CustomModelData: 1
+					mmorpg_stat_soul: "{\"tier\":0,\"slot\":\"sword\",\"rar\":\"unique\",\"fam\":\"NONE\",\"uniq\":\"\",\"can_sal\":true}"
+				}
+			}
+			id: "16FB005883BE6A4A"
+			rewards: [
+				{
+					auto: "enabled"
+					id: "6C27DF93B9840DFE"
+					table_id: 8225988815765809970L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "0A818CF829BBB0EA"
+					table_id: 8225988815765809970L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "39B9A7F01ABAC374"
+					table_id: 8225988815765809970L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "6173A23A3EAA541D"
+					table_id: 8225988815765809970L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "5AF379C390221BF8"
+					table_id: 8225988815765809970L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "7C2F977C254030C7"
+					table_id: 8225988815765809970L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "64706D84D7C006AB"
+					table_id: 8225988815765809970L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "4B5505F16EC5C84D"
+					table_id: 8225988815765809970L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "57E602EF242178D4"
+					table_id: 8225988815765809970L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "3538CCEAF9E406EA"
+					table_id: 8225988815765809970L
+					type: "random"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				consume_items: true
+				count: 10L
+				disable_toast: true
+				id: "45FB0CB2E88B967B"
+				item: "duckmoney:bundle10"
+				type: "item"
+			}]
+			title: "装备灵魂十连抽奖 LV60-80"
+			x: -3.0d
+			y: 8.0d
+		}
+		{
+			can_repeat: true
+			disable_toast: true
+			icon: {
+				Count: 1b
+				id: "mmorpg:stat_soul"
+				tag: {
+					CustomModelData: 1
+					mmorpg_stat_soul: "{\"tier\":0,\"slot\":\"sword\",\"rar\":\"unique\",\"fam\":\"NONE\",\"uniq\":\"\",\"can_sal\":true}"
+				}
+			}
+			id: "58BD3FFBB4E13834"
+			rewards: [
+				{
+					auto: "enabled"
+					exclude_from_claim_all: true
+					id: "4DB7628290FE28DA"
+					table_id: 3823953062127173342L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "2684759FC92DE906"
+					table_id: 3823953062127173342L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "40B3CA116F99C989"
+					table_id: 3823953062127173342L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "79D5C6F5C8464903"
+					table_id: 3823953062127173342L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "25D4F102A4ED459E"
+					table_id: 3823953062127173342L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "78FBD41E79625782"
+					table_id: 3823953062127173342L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "1685831B3AA7125A"
+					table_id: 3823953062127173342L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "6FBA4046691631F4"
+					table_id: 3823953062127173342L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "59A89CB838ABA45B"
+					table_id: 3823953062127173342L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "3ED2D6F39328C232"
+					table_id: 3823953062127173342L
+					type: "random"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				consume_items: true
+				count: 10L
+				disable_toast: true
+				id: "16DA14F45262F550"
+				item: "duckmoney:bundle20"
+				type: "item"
+			}]
+			title: "装备灵魂十连抽奖 LV80-99"
+			x: -3.0d
+			y: 9.0d
+		}
+		{
+			can_repeat: true
+			disable_toast: true
+			icon: {
+				Count: 1b
+				id: "mmorpg:stat_soul"
+				tag: {
+					CustomModelData: 1
+					mmorpg_stat_soul: "{\"tier\":0,\"slot\":\"sword\",\"rar\":\"unique\",\"fam\":\"NONE\",\"uniq\":\"\",\"can_sal\":true}"
+				}
+			}
+			id: "5DAFDF627780F72F"
+			rewards: [
+				{
+					auto: "enabled"
+					id: "6545FA2FFE9628C6"
+					table_id: 6477013716764248736L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "7D07FD4736E711BC"
+					table_id: 6477013716764248736L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "7BAA443BECFC8A14"
+					table_id: 6477013716764248736L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "76DAC853F9D8721D"
+					table_id: 6477013716764248736L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "55C7591CE4786B5C"
+					table_id: 6477013716764248736L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "1FA324EAF0E52D57"
+					table_id: 6477013716764248736L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "2DDD86F1205F0B72"
+					table_id: 6477013716764248736L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "2DFC99BEEAD7C2FF"
+					table_id: 6477013716764248736L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "367148FD744B39A5"
+					table_id: 6477013716764248736L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					id: "02D790836499B458"
+					table_id: 6477013716764248736L
+					type: "random"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				consume_items: true
+				count: 10L
+				disable_toast: true
+				id: "1A27343891822BD4"
+				item: "duckmoney:bundle50"
+				type: "item"
+			}]
+			title: "装备灵魂十连抽奖LV100"
+			x: -3.0d
+			y: 10.0d
+		}
+		{
+			can_repeat: true
+			disable_toast: true
+			id: "435B05DA5337629F"
+			rewards: [{
+				count: 10
+				id: "7C188ABDB560AA09"
+				item: "duckmoney:bundle2"
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 50L
+				disable_toast: true
+				id: "7EF33DBAA61352D1"
+				item: "duckmoney:bundle1"
+				type: "item"
+			}]
+			title: "十连交换LV40抽奖券"
+			x: -4.5d
+			y: 6.0d
+		}
+		{
+			can_repeat: true
+			disable_toast: true
+			id: "1BC5082CD9CA83EB"
+			rewards: [{
+				count: 10
+				id: "1511AE81D89F3E20"
+				item: "duckmoney:bundle5"
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 40L
+				disable_toast: true
+				id: "2AE72D93B3E755D2"
+				item: "duckmoney:bundle2"
+				type: "item"
+			}]
+			title: "十连交换LV60抽奖券"
+			x: -4.5d
+			y: 7.0d
+		}
+		{
+			can_repeat: true
+			disable_toast: true
+			id: "0095C254C1014A2E"
+			rewards: [{
+				count: 10
+				id: "57F1E2F691891E14"
+				item: "duckmoney:bundle10"
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 30L
+				disable_toast: true
+				id: "2C913BAB16842E0D"
+				item: "duckmoney:bundle5"
+				type: "item"
+			}]
+			title: "十连交换LV80抽奖券"
+			x: -4.5d
+			y: 8.0d
+		}
+		{
+			can_repeat: true
+			disable_toast: true
+			id: "0EA86138912E2C1B"
+			rewards: [{
+				count: 10
+				id: "65BDB92E08436A87"
+				item: "duckmoney:bundle20"
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 30L
+				disable_toast: true
+				id: "5F918ACEEB688394"
+				item: "duckmoney:bundle10"
+				type: "item"
+			}]
+			title: "十连交换LV99抽奖券"
+			x: -4.5d
+			y: 9.0d
+		}
+		{
+			can_repeat: true
+			disable_toast: true
+			id: "03CE52B97D0DD2F4"
+			rewards: [{
+				count: 10
+				id: "659A3FE34186D6B3"
+				item: "duckmoney:bundle50"
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 20L
+				disable_toast: true
+				id: "3035E8492C827353"
+				item: "duckmoney:bundle20"
+				type: "item"
+			}]
+			title: "十连交换LV100抽奖券"
+			x: -4.5d
+			y: 10.0d
+		}
+		{
+			can_repeat: true
+			description: [
+				"将抽的盲盒放置并破坏"
+				"奖池：食物 装饰建材 头饰等"
+			]
+			icon: "yuushya:food_gift_box"
+			id: "7CB4E710AE6F3042"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "74FC8322953CC652"
+				table_id: 8836613986916556109L
+				type: "random"
+			}]
+			shape: "diamond"
+			size: 1.5d
+			subtitle: "装饰抽奖"
+			tasks: [{
+				consume_items: true
+				count: 10L
+				disable_toast: true
+				id: "0B496986922F293F"
+				item: "lightmanscurrency:coin_emerald"
+				type: "item"
+			}]
+			title: "建筑装饰头饰食物盲盒"
+			x: 10.5d
+			y: 9.75d
+		}
+	]
+	title: "道具抽奖（装备/枪械等）"
+}

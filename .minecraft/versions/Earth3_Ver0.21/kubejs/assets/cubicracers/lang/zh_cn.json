@@ -1,0 +1,47 @@
+{
+  "creativemodetab.cubicracers_tab": "Cubic Racers",
+
+  "block.cubicracers.booster": "助推器平台",
+  "block.cubicracers.kart_controller": "卡丁车控制器",
+  "block.cubicracers.road_block": "公路方块 (普通)",
+  "block.cubicracers.road_block_dirt": "公路方块 (泥土)",
+  "block.cubicracers.road_block_sand": "公路方块 (沙子)",
+  "block.cubicracers.road_block_snow": "公路方块 (雪)",
+
+  "entity.cubicracers.banana": "香蕉",
+  "entity.cubicracers.bob_omb": "炸弹",
+  "entity.cubicracers.fake_box": "Fake Box",
+  "entity.cubicracers.green_shell": "绿龟壳",
+  "entity.cubicracers.item_box": "道具盒",
+
+  "entity.cubicracers.trash_kart": "Trash Kart",
+  "entity.cubicracers.standard_kart": "Standard Kart",
+  "entity.cubicracers.flame_flyer": "Flame Flyer",
+  "entity.cubicracers.b_dasher": "B-Dasher",
+  "entity.cubicracers.zipper": "Zipper",
+  "entity.cubicracers.mach_celere": "Mach-celere",
+  "entity.cubicracers.rally_romper": "Rally Romper",
+
+  "item.cubicracers.trash_kart": "Trash Kart",
+  "item.cubicracers.standard_kart": "Standard Kart",
+  "item.cubicracers.flame_flyer": "Flame Flyer",
+  "item.cubicracers.b_dasher": "B-Dasher",
+  "item.cubicracers.zipper": "Zipper",
+  "item.cubicracers.mach_celere": "Special Circuit",
+  "item.cubicracers.rally_romper": "Rally Romper",
+
+  "item.cubicracers.item_box_spawn_item": "道具盒",
+
+  "key.cubicracers.kart_category": "Cubic Racers",
+
+  "key.cubicracers.drift": "漂移",
+  "key.cubicracers.accelerate": "向前行驶",
+  "key.cubicracers.deccelerate": "向后行驶/刹车",
+  "key.cubicracers.right": "向右行驶",
+  "key.cubicracers.left": "向左行驶",
+  "key.cubicracers.delta": "激活滑翔",
+  "key.cubicracers.forward": "向前投掷物品",
+  "key.cubicracers.backward": "向后投掷物品",
+  "key.cubicracers.item": "使用道具"
+
+}

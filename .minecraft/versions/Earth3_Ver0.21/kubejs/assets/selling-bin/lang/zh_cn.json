@@ -1,0 +1,7 @@
+{
+  "block.selling-bin.wooden_bin": "木出货箱",
+  "block.selling-bin.iron_bin": "铁出货箱",
+  "block.selling-bin.diamond_bin": "钻石出货箱",
+  "block.selling-bin.netherite_bin":"下界合金出货箱",
+  "selling-bin.tooltip.sell": "售价 §f%sx§r = §f%sx§r §f§l%s"
+}

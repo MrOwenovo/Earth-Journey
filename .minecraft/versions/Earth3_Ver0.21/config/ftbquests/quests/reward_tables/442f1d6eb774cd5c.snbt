@@ -1,0 +1,16 @@
+{
+	id: "442F1D6EB774CD5C"
+	loot_size: 1
+	order_index: 3
+	rewards: [
+		{ item: "minecraft:iron_ingot" }
+		{ item: "minecraft:gold_ingot" }
+		{ item: "minecraft:diamond" }
+		{ item: "minecraft:coal" }
+		{ item: "minecraft:lapis_lazuli" }
+		{ item: "minecraft:amethyst_shard" }
+		{ item: "minecraft:redstone" }
+		{ item: "kubejs:sjk" }
+	]
+	title: "矿物"
+}

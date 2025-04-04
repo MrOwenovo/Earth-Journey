@@ -1,0 +1,39 @@
+{
+  "id": "infinity",
+  "runes": [
+    "eno",
+    "toq",
+    "mos",
+	"ita"
+  ],
+  "slots": [
+    "spear",
+	"dagger"
+  ],
+  "stats": [
+    {
+      "type": "PERCENT",
+      "max": 80.0,
+      "min": 60.0,
+      "stat": "gear_weapon_damage"
+    },
+    {
+      "type": "FLAT",
+      "max": 15.0,
+      "min": 15.0,
+      "stat": "move_speed"
+    },
+    {
+      "type": "FLAT",
+      "max": 80.0,
+      "min": 60.0,
+      "stat": "lightning_penetration"
+    },
+    {
+      "type": "FLAT",
+      "max": 3.0,
+      "min": 2.0,
+      "stat": "magic_find"
+    }
+  ]
+}

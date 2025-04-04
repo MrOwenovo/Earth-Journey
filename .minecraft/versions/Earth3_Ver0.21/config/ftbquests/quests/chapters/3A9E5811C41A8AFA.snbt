@@ -1,0 +1,2126 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "3A9E5811C41A8AFA"
+	group: ""
+	icon: "swem:horse_armor_diamond"
+	id: "3A9E5811C41A8AFA"
+	images: [
+		{
+			height: 1.0d
+			image: "azurelib:icons/error"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -7.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/swem2"
+			order: -1
+			rotation: 0.0d
+			width: 3.36864406779661d
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/swem3"
+			order: -1
+			rotation: 0.0d
+			width: 3.0d
+			x: 4.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "swem:textures/entity_icon/horse/coats/4_v_chestnut.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "swem:block/cantazarite_ore"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/brewing_stand"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/iron_pickaxe"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/wheat"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "swem:item/adventure_saddle_netherite"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "swem:item/adventure_saddle_netherite"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "swem:item/light_blue_cone"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "swem:item/poop"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "swem:block/horse_pee_puddle"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "swem:textures/particle/bad_1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:textures/particle/heart.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:textures/particle/heart.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: -3.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:tasks/input_only"
+			rotation: 0.0d
+			width: 2.0d
+			x: -4.5d
+			y: -6.5d
+		}
+		{
+			height: 3.0d
+			image: "swem:textures/painting/spirit_spruce.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: -0.5d
+			y: -10.0d
+		}
+		{
+			height: 1.0d
+			image: "swem:textures/particle/bad_3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "swem:textures/particle/meh_2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "swem:textures/particle/ech_2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "swem:textures/particle/woot_2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "swem:textures/particle/yay_2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -4.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/heshui"
+			rotation: 0.0d
+			width: 3.0d
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/chifan"
+			rotation: 0.0d
+			width: 3.1126943005181342d
+			x: -1.5d
+			y: -4.0d
+		}
+		{
+			height: 3.0d
+			image: "swem:textures/painting/zippy_jump_dark_oak.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: -4.5d
+			y: -3.0d
+		}
+		{
+			height: 3.0d
+			image: "swem:textures/painting/zippy_jump_dark_oak.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 6.0d
+			y: -6.0d
+		}
+	]
+	order_index: 7
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["5486D4673CCE7BCE"]
+			id: "3FA1C9B2AF4BA1EA"
+			rewards: [
+				{
+					id: "1246DE835A0E17C6"
+					item: "swem:alfalfa_seeds"
+					type: "item"
+				}
+				{
+					id: "0AAE831EF84E5769"
+					type: "xp"
+					xp: 10
+				}
+			]
+			subtitle: "默认生成高度在Y=0到Y=30之间"
+			tasks: [{
+				id: "077FD989BB559E14"
+				item: "swem:cantazarite"
+				type: "item"
+			}]
+			x: -7.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["3FA1C9B2AF4BA1EA"]
+			id: "33B1C88EEFC977D3"
+			rewards: [
+				{
+					id: "2237C84CB63A406A"
+					item: "swem:oat_seeds"
+					type: "item"
+				}
+				{
+					id: "76961D85194D65F4"
+					type: "xp"
+					xp: 10
+				}
+			]
+			subtitle: "需右键已驯服的原版马匹"
+			tasks: [{
+				id: "587FBAC4D80F2169"
+				item: "swem:cantazarite_potion"
+				type: "item"
+			}]
+			x: -6.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["33B1C88EEFC977D3"]
+			id: "0BA481060F5D7FC4"
+			rewards: [
+				{
+					id: "62A2F798F5494997"
+					item: "minecraft:name_tag"
+					type: "item"
+				}
+				{
+					id: "6EA1AB9CCFC87C2A"
+					type: "xp"
+					xp: 10
+				}
+			]
+			subtitle: "驯服这种马的方式与驯服原版马类似，不断上马直到出现爱心粒子即可"
+			tasks: [{
+				id: "5F6DE792C6843578"
+				title: "驯服"
+				type: "checkmark"
+			}]
+			x: -4.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["0BA481060F5D7FC4"]
+			description: [
+				"还有一些马具不影响骑马，可以根据需求自由选择是否穿戴，包括马护腿（LegWrap）、胸带（BreastCollar）、马车挽具（DrivingHarness）、鞍包（SaddleBag）。它们可以在马佩戴笼头或水勒后自由穿戴和取下。"
+				""
+				"&4提示：穿戴马具后会影响马匹进食和休息，记得脱下马具。"
+			]
+			id: "3AD4C080B33318C8"
+			rewards: [{
+				id: "5D7B59882A6B860B"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			subtitle: "模组加入了模拟现实马术的马具穿戴顺序。制作组强制要求的马具穿戴顺序是：水勒（Bridle） → 汗屉（Blanket） → 马鞍（Saddle） → 肚带（GirthStrap）。想正常骑马必须依照此顺序依次穿戴，不能缺少也不能跳过、打乱。其中一种特殊情况是如果戴好马鞍却不戴肚带，玩家可以上马，但此后每秒都有概率从马背滑落。"
+			tasks: [{
+				id: "2B0CBD485EC449BE"
+				title: "马具"
+				type: "checkmark"
+			}]
+			title: "穿戴马具"
+			x: -3.0d
+			y: -6.5d
+		}
+		{
+			description: [
+				"  &a在玩家驯服马匹后，可以按“P”键来进行绑定"
+				""
+				"&7绑定后，当马儿离玩家较远时，"
+				"&7可以通过呼叫将马儿远距离传送到玩家身边。"
+				""
+				"操作：&6按住“R”键，找到并点击“呼叫马匹”"
+			]
+			icon: "plushies:horse_plushie"
+			id: "4B3729FDD4AF804E"
+			rewards: [{
+				id: "377841CB5B52C904"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "rsquare"
+			size: 2.0d
+			subtitle: "能让玩家在驯服原版马之后进行远距离呼叫"
+			tasks: [{
+				id: "47A3BAA5ACCD1EE1"
+				title: "了解"
+				type: "checkmark"
+			}]
+			title: "马匹呼叫功能"
+			x: -12.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["3AD4C080B33318C8"]
+			id: "61AE1FC5B90B77C8"
+			rewards: [{
+				id: "0158CEBC75BEC526"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "536D92538426AD91"
+				item: "swem:english_bridle_black"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["61AE1FC5B90B77C8"]
+			id: "64B99CD298793E7D"
+			rewards: [{
+				id: "21646975A04ABE98"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "6D33ADC0C19EA357"
+				item: "swem:english_blanket_black"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["64B99CD298793E7D"]
+			id: "36F289DE85A4207C"
+			rewards: [{
+				id: "565B2A40D56C2DD5"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "761109748FC79786"
+				item: "swem:english_saddle_black"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["36F289DE85A4207C"]
+			id: "2113C3E485047D55"
+			rewards: [{
+				id: "1B20B96CA4653DE0"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "5DEBCF22230B4145"
+				item: "swem:english_girth_strap_black"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["1FF0E8AB63AA4969"]
+			id: "70DEC23FD86E7563"
+			rewards: [{
+				id: "421CE8218225FA4D"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "2EB6B39CFDDF62F5"
+				item: "swem:english_breast_collar_black"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["1FF0E8AB63AA4969"]
+			id: "5755BDD36EFF1EEB"
+			rewards: [{
+				id: "06A0E526BB890A27"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "5A65A4D735CF20FC"
+				item: "swem:english_leg_wraps_black"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["1FF0E8AB63AA4969"]
+			id: "4855F3091EA8091F"
+			rewards: [{
+				id: "2E60F70BA8593898"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "3CCE9E22208964AF"
+				item: "swem:driving_harness"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["1FF0E8AB63AA4969"]
+			id: "4EAE5D9366931075"
+			rewards: [{
+				id: "18E2BB6BE5ED5F2A"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "66F3928A4DF28658"
+				item: "swem:saddle_bag_black"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["3AD4C080B33318C8"]
+			id: "0FDD8760AFDC694D"
+			rewards: [{
+				id: "57D0B04D5571B412"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "gear"
+			size: 1.5d
+			subtitle: "想装备马铠，必须先按照以上顺序穿戴好全套冒险马具（冒险水勒、冒险汗屉、冒险马鞍、冒险肚带、冒险胸带、冒险马护腿），之后把马铠拖入马的装备栏。马铠穿戴完成后就可对马铠之下的每个马具进行单独替换且马铠不会掉落，于是马不用一直穿冒险套装。"
+			tasks: [{
+				id: "299C373634B6D730"
+				title: "马铠"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["0FDD8760AFDC694D"]
+			id: "5A47C85C391E2AB7"
+			rewards: [{
+				id: "3E962FEA26A628A9"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "5F7BBB352344188A"
+				item: "swem:adventure_bridle"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["5A47C85C391E2AB7"]
+			id: "688EFEE0A9C8687F"
+			rewards: [{
+				id: "030E42704777F82D"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "73BE1E0CB8450488"
+				item: "swem:adventure_blanket"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["688EFEE0A9C8687F"]
+			id: "70372942D5123AE2"
+			rewards: [{
+				id: "227C671FB8620339"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "2DAC00E36842A22B"
+				item: "swem:adventure_saddle"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["70372942D5123AE2"]
+			id: "17E29BF8251398D2"
+			rewards: [{
+				id: "24EADD62EACBE6AC"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "6C1D70D5EE3569AD"
+				item: "swem:adventure_girth_strap"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["17E29BF8251398D2"]
+			id: "0B1A9207D02A665F"
+			rewards: [{
+				id: "35CE0293C5E4555D"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "1A6B25E0264A5732"
+				item: "swem:adventure_breast_collar"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["0B1A9207D02A665F"]
+			id: "3B77EE003F16A9DB"
+			rewards: [
+				{
+					id: "3576B3D40FF83DA6"
+					item: "swem:horse_armor_cloth"
+					type: "item"
+				}
+				{
+					id: "773B1051A14B640F"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "4C93FFDD6BD34CB2"
+				item: "swem:adventure_leg_wraps"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["4B3729FDD4AF804E"]
+			id: "5486D4673CCE7BCE"
+			rewards: [
+				{
+					id: "283365429B1B23AE"
+					item: "swem:timothy_seeds"
+					type: "item"
+				}
+				{
+					id: "756C23EB50D3EB5C"
+					type: "xp"
+					xp: 10
+				}
+			]
+			shape: "gear"
+			size: 1.5d
+			subtitle: "更真实、玩法更丰富"
+			tasks: [{
+				id: "5C91DC41A2D4A8E6"
+				title: "升级马匹"
+				type: "checkmark"
+			}]
+			x: -9.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["3AD4C080B33318C8"]
+			id: "1FF0E8AB63AA4969"
+			rewards: [{
+				id: "2A5B714607D24777"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "gear"
+			subtitle: "需要在马佩戴笼头或水勒后才可以穿戴和取下"
+			tasks: [{
+				id: "07D936B0343893BD"
+				type: "checkmark"
+			}]
+			title: "可以根据需求自由选择是否穿戴"
+			x: -2.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["5486D4673CCE7BCE"]
+			hide_dependency_lines: true
+			id: "573E4558E27EF22A"
+			rewards: [{
+				id: "0107D5B89B327BAD"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "54F9A77302587932"
+				title: "了解"
+				type: "checkmark"
+			}]
+			title: "马场装饰"
+			x: 6.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["573E4558E27EF22A"]
+			id: "2D51DA0D696B3D84"
+			rewards: [{
+				id: "75E87A52ACABB5B8"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "三种风格栅栏，西部、英式、牧场"
+			tasks: [
+				{
+					id: "432E166300206A73"
+					item: "swem:western_fence_oak"
+					type: "item"
+				}
+				{
+					id: "29FF53942D920698"
+					item: "swem:english_fence"
+					type: "item"
+				}
+				{
+					id: "4FF4A3DC049DDBB4"
+					item: "swem:pasture_fence_oak"
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["573E4558E27EF22A"]
+			id: "120184B1EBE0EADF"
+			rewards: [{
+				id: "0844C1759D59DD00"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [
+				{
+					id: "460A268AAF0F4563"
+					item: "swem:oak_stall_horse"
+					type: "item"
+				}
+				{
+					id: "29D43C7C330652AB"
+					item: "swem:oak_stall_care"
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["573E4558E27EF22A"]
+			id: "49AF9DBC7286EE6E"
+			rewards: [{
+				id: "01E350B3BE7C289F"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "可堆叠层数，右键可坐下"
+			tasks: [{
+				id: "5BE0D81AEF659A26"
+				item: "swem:bleacher"
+				type: "item"
+			}]
+			x: 10.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["573E4558E27EF22A"]
+			id: "0894399A72229C5C"
+			rewards: [{
+				id: "501D3EE671E9E996"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "装饰摆设"
+			tasks: [
+				{
+					id: "40C2AD8F09F552B4"
+					item: "swem:western_pole"
+					type: "item"
+				}
+				{
+					id: "0341D986ECC39E3F"
+					item: "swem:western_barrel"
+					type: "item"
+				}
+			]
+			x: 12.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["573E4558E27EF22A"]
+			id: "321C69270127E5DA"
+			rewards: [{
+				id: "34D9C92D8BAA9916"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "支持放置以下物品"
+			tasks: [{
+				id: "343304A14A21DB5B"
+				item: "swem:horse_armor_rack"
+				type: "item"
+			}]
+			x: 11.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["321C69270127E5DA"]
+			id: "1F6BB8AA33992F7C"
+			rewards: [{
+				id: "74A9FA6B57417B92"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "74E11D5F1B4A586E"
+					item: "swem:horse_armor_cloth"
+					type: "item"
+				}
+				{
+					id: "0EDB82392652C38F"
+					item: "swem:horse_armor_iron"
+					type: "item"
+				}
+				{
+					id: "5B224BD8B125A879"
+					item: "swem:horse_armor_gold"
+					type: "item"
+				}
+				{
+					id: "6A4AB28F83CFC852"
+					item: "swem:horse_armor_diamond"
+					type: "item"
+				}
+			]
+			x: 13.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["321C69270127E5DA"]
+			id: "4D6CAD0AC34E3316"
+			rewards: [{
+				id: "3F6A8614D757319F"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "5029DEFAD8479DB6"
+					item: "swem:adventure_saddle"
+					type: "item"
+				}
+				{
+					id: "65E8B54767F0CA8E"
+					item: "swem:adventure_saddle_usa"
+					type: "item"
+				}
+				{
+					id: "11EACC17B4DC67F7"
+					item: "swem:adventure_saddle_netherite"
+					type: "item"
+				}
+				{
+					id: "753CBB2D8F32BADA"
+					item: "swem:adventure_saddle_emerald"
+					type: "item"
+				}
+				{
+					id: "6A48B4023D49F4CA"
+					item: "swem:adventure_saddle_copper"
+					type: "item"
+				}
+			]
+			x: 12.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["573E4558E27EF22A"]
+			id: "57DCD4349B792F88"
+			rewards: [{
+				id: "5978DF37A5C0B06B"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "可以拴住被动物或实体(需要栓绳)"
+			tasks: [
+				{
+					id: "2E4155F5FE56FD1C"
+					item: "swem:pasture_hitching_post_mini"
+					type: "item"
+				}
+				{
+					id: "64CAF572FEE1E23E"
+					item: "swem:western_hitching_post_mini"
+					type: "item"
+				}
+				{
+					id: "6BA29442A625D121"
+					item: "swem:english_hitching_post_mini"
+					type: "item"
+				}
+				{
+					id: "3BDF96063245E970"
+					item: "swem:pasture_hitching_post"
+					type: "item"
+				}
+				{
+					id: "0FC9B5B389F6703A"
+					item: "swem:western_hitching_post"
+					type: "item"
+				}
+				{
+					id: "6F3FA26D78746D8D"
+					item: "swem:english_hitching_post"
+					type: "item"
+				}
+			]
+			title: "比栅栏好看的拴马环"
+			x: 9.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2D51DA0D696B3D84"]
+			id: "7F55EC3718A53D6C"
+			rewards: [{
+				id: "036C4C64755A221D"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "5DB3E856BAE4529E"
+				item: "swem:fence_tool"
+				type: "item"
+			}]
+			x: 10.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["0C911B0CBFDCFF98"]
+			id: "3E4210C166C57B95"
+			rewards: [
+				{
+					id: "5C137E2D39DD85B9"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "17726F4E543B42B2"
+					item: "swem:jump_xp_potion"
+					type: "item"
+				}
+			]
+			subtitle: "右键绑定后可查看所在位置信息"
+			tasks: [{
+				id: "283D2D536F27558A"
+				item: "swem:tracker"
+				type: "item"
+			}]
+			x: -7.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0C911B0CBFDCFF98"]
+			id: "1E2F4C09E86AF456"
+			rewards: [{
+				id: "39EC5FCB7A0713A7"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "查看健康状态"
+			tasks: [{
+				id: "3A53288CE2B5AF11"
+				item: "swem:vet_check_bag"
+				type: "item"
+			}]
+			x: -6.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0C911B0CBFDCFF98"]
+			description: [
+				"右键一匹马以使用它。"
+				"每个 Minecraft 日最多可以刷 7 次，"
+			]
+			id: "1EF11307510EA939"
+			rewards: [
+				{
+					id: "76D27EA4187CEC12"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "69BD77B884F109C6"
+					item: "swem:affinity_xp_potion"
+					type: "item"
+				}
+			]
+			subtitle: "提升亲和力道具"
+			tasks: [{
+				id: "465287E8C825E41E"
+				item: "swem:brush"
+				type: "item"
+			}]
+			x: -11.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["16732DC9B9150213"]
+			description: [
+				"当马走过它时，有可能会踩掉粪便"
+				"如果不捡起它，它会在一段时间后消失"
+				""
+				"马粪可放到手推车上"
+				"填满后会掉落一个湿堆肥块"
+			]
+			id: "6A01D5B2645CFDE5"
+			rewards: [
+				{
+					id: "0B0CC4B1C451E007"
+					item: "swem:wheel_barrow_white"
+					type: "item"
+				}
+				{
+					id: "5C69CA3304814AF2"
+					type: "xp"
+					xp: 10
+				}
+			]
+			subtitle: "随着时间的推移，马会慢慢产生粪便 - 这个频率由服务器配置决定。默认情况下，它们在加载后大约每 30 分钟便便一次。  如果马长时间呆在一个地方，马的粪便可能会在同一区域或附近区域形成一小群多个粪便。"
+			tasks: [{
+				id: "23A817826E3E3491"
+				item: "swem:poop"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 0.5d
+		}
+		{
+			description: [
+				"&4红色&f表示生气，任何互动包括喂食的物品都不再有效果"
+				"&6橙色&f表示不开心，马上会进入生气阶段"
+				"&7灰色&f表示一般能接受"
+				"&2绿色&f表示快乐的"
+				"&5紫色&f表示非常喜欢"
+				"{image:kubejs:block/lizixiaoguo width:100 height:100 align:1}"
+			]
+			id: "2E27A94965EC41FE"
+			rewards: [{
+				id: "747BEDBB6F42643F"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "gear"
+			subtitle: "当与 SWEM 马互动时，会出现 5 种不同的粒子。"
+			tasks: [{
+				id: "5E6E2803CAEDE721"
+				title: "了解"
+				type: "checkmark"
+			}]
+			title: "互动产生的粒子效果代表什么"
+			x: -5.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["1D85C3020F7141F2"]
+			id: "49B6AC16A7E0B5A2"
+			rewards: [{
+				id: "33F16CBA17F6F90E"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "可放入梯牧草块、苜蓿块、混合牧草块及其小片类型的草块"
+			tasks: [
+				{
+					id: "29B8579A683D6B62"
+					item: "swem:paddock_feeder"
+					type: "item"
+				}
+				{
+					id: "1EE61FD6A6004987"
+					item: {
+						Count: 1
+						id: "itemfilters:tag"
+						tag: {
+							value: "swem:slow_feeders"
+						}
+					}
+					title: "任意颜色的草料架"
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["573E4558E27EF22A"]
+			id: "1C0102C44293FC5D"
+			rewards: [{
+				id: "407759A25DC6DE22"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "可放置各种颜色的马鞍"
+			tasks: [{
+				id: "7B81CD8D90CF4A0B"
+				item: "swem:saddle_rack"
+				type: "item"
+			}]
+			x: 12.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["573E4558E27EF22A"]
+			id: "165D54E2620B34B8"
+			rewards: [{
+				id: "045AA16185F77672"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "可放置在墙上，用来放水勒"
+			tasks: [{
+				id: "3272369BB734DA88"
+				item: "swem:bridle_rack"
+				type: "item"
+			}]
+			x: 13.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["1D85C3020F7141F2"]
+			id: "63D4BED0F635F463"
+			rewards: [{
+				id: "34B16EC9A1200F44"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "需靠墙放置，可以容纳精饲料或玫瑰饲料"
+			tasks: [{
+				id: "647D794B17B72455"
+				item: "swem:grain_feeder_white"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["5BDA12D1D2C9CF67"]
+			id: "5BC1A2CA71BA80DC"
+			rewards: [{
+				id: "68B09FD28ECB128A"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "放置后需用水桶装满水，可并排放4个链接在一起"
+			tasks: [{
+				id: "091234B11F3557A3"
+				item: "swem:water_trough"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["1D85C3020F7141F2"]
+			id: "200BA53683AEF08C"
+			rewards: [{
+				id: "0B70C842CC638F94"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "精饲料：&7饮食分+112，最多喂2次/天"
+			tasks: [{
+				id: "32BC87C5C83CEC3F"
+				item: "swem:sweet_feed"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["5BDA12D1D2C9CF67"]
+			description: ["{image:kubejs:block/swem1ys width:150 height:100 align:1}"]
+			id: "78DA9BA9269B7ABC"
+			rewards: [{
+				id: "36F93AFE8FEFDAF2"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "放置水龙头时注意朝向和高度--需对着水槽方向且高于水槽"
+			tasks: [
+				{
+					id: "7C2185FBD1CD6555"
+					item: "swem:spigot"
+					type: "item"
+				}
+				{
+					id: "7BEB3F81CBAF1057"
+					item: "swem:block_o_water"
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["0C911B0CBFDCFF98"]
+			description: [
+				"在游戏里则是增加亲和力的道具，但每天只能使用一个脱敏物品，且每天最多使用 7 次。"
+				""
+				"首次对它们使用时，它们会发出代表愤怒的红色粒子效果，并可能用蹬腿来表明它们受到了惊吓！可继续对它们使用直到发出灰色粒子，此时表明它们已经接受该物品。"
+				""
+				"在连续使用3天后，马会习惯这个道具并发出紫色粒子效果，此时会获得150点亲和力的经验奖励！之后则再无亲和力奖励。"
+			]
+			id: "3FCAB377B52650A5"
+			rewards: [
+				{
+					id: "7987E7ABACD6A0B7"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "502AF4B8EB2D70A4"
+					item: "swem:all_xp_potion"
+					type: "item"
+				}
+			]
+			subtitle: "马儿在现实里非常容易受到惊吓刺激，因此这些道具是用来帮助改善与骑手之间信任的道具。"
+			tasks: [
+				{
+					id: "012BCC9414E63C1C"
+					item: "swem:hoolahoop"
+					type: "item"
+				}
+				{
+					id: "3D50AC138B23FDE7"
+					item: "swem:pompom"
+					type: "item"
+				}
+				{
+					id: "77B149607DE0CB99"
+					item: "swem:shopping_bag"
+					type: "item"
+				}
+				{
+					id: "3FE0BFB38F0F8A26"
+					item: "swem:tarp"
+					type: "item"
+				}
+				{
+					id: "1D70B6E532C0C93F"
+					item: "swem:bells"
+					type: "item"
+				}
+			]
+			title: "脱敏道具"
+			x: -10.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["16732DC9B9150213"]
+			description: [
+				"垫料：&7右键打开后，对着地面的马尿右键会铺上一层垫料，随后左键敲掉那层垫料即可清理，清理后的脏垫料可以放进手推车里"
+				""
+				"&3下雨天也会冲刷掉马尿"
+			]
+			id: "26086A3776D81A34"
+			rewards: [{
+				id: "73731D25DC41C9BA"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "用于清理马尿"
+			tasks: [{
+				id: "2C128FB83917A90D"
+				item: "swem:medium_shavings"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0C911B0CBFDCFF98"]
+			id: "16732DC9B9150213"
+			rewards: [{
+				id: "1623CF6138AB010D"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "70A1C626911CCB07"
+				title: "处理粪便和尿液"
+				type: "checkmark"
+			}]
+			x: -4.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1D85C3020F7141F2"]
+			description: [
+				"&a红色蘑菇：&f饮食分+10"
+				"&a棕色蘑菇：&f饮食分+2"
+				"&a草方块：&f饮食分+2&7(啃草皮也算)"
+				"&a燕麦：&f饮食分+10，最多喂5次/天"
+				"&a首蓿：&f饮食分+14，最多喂5次/天"
+				"&a梯牧草：&f饮食分+14，最多喂5次/天"
+				"&a梯牧草块：&f饮食分+56，最多喂3次/天"
+				"&a小片梯牧草块：&f饮食分+28，最多喂4次/天"
+				"&a首蓿块：&f饮食分+56，最多喂3次/天"
+				"&a小片首蓿块：&f饮食分+28，最多喂4次/天"
+				"&a混合牧草块：&f饮食分+224，最多喂2次/天"
+				"&a小片混合牧草块：&f饮食分+112，最多喂3次/天"
+			]
+			id: "59C97CBFA9A07A08"
+			rewards: [{
+				id: "2BE78DA3D8A47364"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "未满足≥224点饮食分和≥2桶饮水则为错过饮食"
+			tasks: [
+				{
+					id: "0295C4648774D73E"
+					item: "minecraft:red_mushroom"
+					type: "item"
+				}
+				{
+					id: "60970303C4AFCAD6"
+					item: "minecraft:brown_mushroom"
+					type: "item"
+				}
+				{
+					id: "6D100E90EEE9E0E2"
+					item: "minecraft:grass_block"
+					type: "item"
+				}
+				{
+					id: "4A1A1C944169E094"
+					item: "swem:oat_bushel"
+					type: "item"
+				}
+				{
+					id: "03421D3CFDDA85B3"
+					item: "swem:alfalfa_bushel"
+					type: "item"
+				}
+				{
+					id: "17431C0C03F8411A"
+					item: "swem:timothy_bushel"
+					type: "item"
+				}
+				{
+					id: "097AA2071DAF092F"
+					item: "swem:timothy_bale"
+					type: "item"
+				}
+				{
+					id: "04421BAA0FC49C3E"
+					item: "swem:timothy_bale_slab"
+					type: "item"
+				}
+				{
+					id: "49BBA8CA942FE34A"
+					item: "swem:alfalfa_bale"
+					type: "item"
+				}
+				{
+					id: "261F8878F2214AEC"
+					item: "swem:alfalfa_bale_slab"
+					type: "item"
+				}
+				{
+					id: "3ACFDF6B7C3D9CEF"
+					item: "swem:quality_bale"
+					type: "item"
+				}
+				{
+					id: "249E6835CBBCB100"
+					item: "swem:quality_bale_slab"
+					type: "item"
+				}
+			]
+			title: "草饲"
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["573E4558E27EF22A"]
+			id: "7F913E2FAC25DB41"
+			rewards: [{
+				id: "03D2A58CB5FB0DB0"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "这些物品暂无功能，你可以悬挂起来或者放置在地面，以丰富你的马场"
+			tasks: [
+				{
+					id: "5F56B487CA2CD519"
+					item: "swem:toy_ball_slow_feed_hay"
+					type: "item"
+				}
+				{
+					id: "0FD953F38260E34B"
+					item: "swem:toy_string_treats"
+					type: "item"
+				}
+				{
+					id: "377DFE3DBA934D81"
+					item: "swem:toy_lick_salt"
+					type: "item"
+				}
+				{
+					id: "0CE4493A510350B0"
+					item: "swem:toy_scratchy_pole"
+					type: "item"
+				}
+				{
+					id: "008A75527154E316"
+					item: "swem:toy_jolly_apple_snack"
+					type: "item"
+				}
+				{
+					id: "7E110B8FB00FD82A"
+					item: "swem:toy_jolly_ball"
+					type: "item"
+				}
+			]
+			title: "装饰摆件"
+			x: 9.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["0C911B0CBFDCFF98"]
+			description: [
+				"1、&7玩家可以手持物品右键喂食"
+				"2、&7一些食物可直接放置在地面"
+				"3、&7将精饲料或玫瑰饲料放入&a谷物饲槽"
+				"4、&7将梯牧草块、苜蓿块或混合牧草块放入&a草料架"
+			]
+			id: "1D85C3020F7141F2"
+			rewards: [
+				{
+					id: "3C9179440B14864A"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "0AE16CC10A311DF0"
+					item: "aquaculture:treasure_chest"
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 1.5d
+			subtitle: "马儿会在15格半径内搜寻食物"
+			tasks: [{
+				id: "73CE850758BD07A6"
+				title: "喂食方式"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0C911B0CBFDCFF98"]
+			description: [
+				"{image:kubejs:block/ztt width:200 height:50 align:1}"
+				""
+				"H是整体饱食状态，T是整体饮水状态，颜色从满足（淡蓝）到饥渴（深红）。当马一天或连续几天未能满足饮食要求，H和T会逐渐降低至深红。"
+				""
+				"================================"
+				"{image:kubejs:block/swemmoshi width:150 height:100 align:1}"
+				"             &a此处为切换权限模式按钮"
+				"ALL=所有人都可以骑乘并互动"
+				"Trust=通过指令添加的玩家才能骑乘并互动"
+				"&7添加信任玩家/swem horse addfriend 玩家ID"
+				"&7移除信任玩家/swem horse removefriend 玩家ID"
+				"None=只有主人可以骑乘并互动"
+			]
+			id: "7BD88ACB59564EB5"
+			rewards: [{
+				id: "1E3A1C24B9B056C6"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "gear"
+			subtitle: "此处状态条并不是每日食物摄入量的指标，而是马的整体饮食状况"
+			tasks: [{
+				id: "0652E064527F975A"
+				type: "checkmark"
+			}]
+			title: "饮食状态"
+			x: -3.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["7BB981EA6F23A399"]
+			description: [
+				"公马的繁殖默认冷却时间为 900 秒（15分钟）"
+				"母马的繁殖默认冷却时间为 1800 秒（30分钟）"
+				"小马驹需要 30 分钟才能长大"
+			]
+			id: "405AF6102F3B4D70"
+			rewards: [{
+				id: "5EDA7BFE93A2F02C"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "heart"
+			size: 1.5d
+			subtitle: "不能是不孕的和阉马，可用兽医检查包右键来查看"
+			tasks: [{
+				id: "14B5E09EA4989C29"
+				title: "了解"
+				type: "checkmark"
+			}]
+			title: "繁殖"
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1D85C3020F7141F2"]
+			description: ["玫瑰饲料：&7饮食分+112，最多喂2次/天"]
+			id: "7BB981EA6F23A399"
+			rewards: [{
+				id: "7D18B558B72F847A"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "heart"
+			subtitle: "需对一公一母进行喂食，可放置在谷物饲槽或者手动喂食"
+			tasks: [{
+				id: "0A7735635DFB1AB7"
+				item: "swem:feed_rose"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["0C911B0CBFDCFF98"]
+			description: [
+				"金苹果：&a+2000"
+				"附魔金苹果：&5+5000"
+				"金胡萝卜：&a+1000"
+				"闪烁的西瓜片：&a+1000"
+			]
+			id: "62B86888E90AC466"
+			rewards: [
+				{
+					id: "318DD3DC930C1DB4"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "1DA92142617E1585"
+					item: "swem:health_xp_potion"
+					type: "item"
+				}
+			]
+			subtitle: "且可以100%治愈疾病和生命值，但仅限一次 "
+			tasks: [
+				{
+					id: "24529E829482428E"
+					item: "minecraft:golden_apple"
+					type: "item"
+				}
+				{
+					id: "048D857EDC0C7ABD"
+					item: "minecraft:golden_carrot"
+					type: "item"
+				}
+				{
+					id: "2FA7748A2AA4BC56"
+					item: "minecraft:glistering_melon_slice"
+					type: "item"
+				}
+				{
+					id: "69695CA996E2FF77"
+					item: "minecraft:enchanted_golden_apple"
+					type: "item"
+				}
+			]
+			title: "这些物品可以增加亲和力"
+			x: -8.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["405AF6102F3B4D70"]
+			id: "6B33E7A80B694FF8"
+			rewards: [{
+				id: "6EE826FE55E743BF"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "对不需要再繁殖的公马或母马使用-&4不可逆，慎用"
+			tasks: [{
+				id: "18AFB737874067D6"
+				item: "swem:infertility_potion"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1D85C3020F7141F2"]
+			description: [
+				"竹子：&7饮食分+3，亲和力+1，最多喂7次/天"
+				"甜菜根：&7饮食分+3，亲和力+1，最多喂7次/天"
+				"胡萝卜：&7饮食分+5，亲和力+2，最多喂5次/天"
+				"方糖：&7饮食分+5，亲和力+2，最多喂5次/天"
+				"西瓜片：&7饮食分+5，亲和力+2，最多喂5次/天"
+				"甜浆果：&7饮食分+7，亲和力+3，最多喂3次/天"
+				"蜂蜜瓶：&7饮食分+7，亲和力+3，最多喂3次/天"
+				"蜜脾：&7饮食分+11，亲和力+5，最多喂2次/天"
+				"苹果：&7饮食分+7，亲和力+3，最多喂3次/天"
+				"南瓜：&7饮食分+11，亲和力+5，最多喂2次/天"
+				"西瓜：&7饮食分+11，亲和力+5，最多喂2次/天"
+			]
+			id: "267B07D839540FC2"
+			rewards: [{
+				id: "5EDFB411CB487EFD"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [
+				{
+					id: "571ECA0BB110236C"
+					item: "minecraft:bamboo"
+					type: "item"
+				}
+				{
+					id: "6E998AB4489F848C"
+					item: "minecraft:beetroot"
+					type: "item"
+				}
+				{
+					id: "7C6B14F3C677E298"
+					item: "minecraft:carrot"
+					type: "item"
+				}
+				{
+					id: "50B203558F76784C"
+					item: "swem:sugar_cube"
+					type: "item"
+				}
+				{
+					id: "2F4AEEFC68A4B5EF"
+					item: "minecraft:melon_slice"
+					type: "item"
+				}
+				{
+					id: "1DF355CEC88A6747"
+					item: "minecraft:sweet_berries"
+					type: "item"
+				}
+				{
+					id: "68EA653CF899C4B1"
+					item: "minecraft:honey_bottle"
+					type: "item"
+				}
+				{
+					id: "2A33BA0D5D96E7FD"
+					item: "minecraft:honeycomb"
+					type: "item"
+				}
+				{
+					id: "3F7774AD467D80C8"
+					item: "minecraft:apple"
+					type: "item"
+				}
+				{
+					id: "203EF613D965B33E"
+					item: "minecraft:pumpkin"
+					type: "item"
+				}
+				{
+					id: "4C81C7DCD6680185"
+					item: "minecraft:melon"
+					type: "item"
+				}
+			]
+			title: "零食"
+			x: 1.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["0BA481060F5D7FC4"]
+			description: [
+				"马会在每天早上7点开始进食"
+				"&7(也是重置饮食分的时间点)"
+				"每天晚上 8 点，会结算其饮食分"
+				"&7（如果玩家提前睡觉，结算将被跳过）"
+				"&7（马所在区域没被渲染/加载，结算也将被跳过）"
+				"&6（这样你就可以去探索或做其它事情）"
+				""
+				"&a饮食分的结算要求：&7未满足≥224点饮食分和≥2桶饮水次数则计算为错过饮食！&7持续错过会慢慢积累减益效果，其生命值也会受到影响。"
+				""
+				"&6错过饮食的状态显示&7(可用兽医检查包右键查看)"
+				"0：&7正常，&7服从性会+10%"
+				"1：&7有点饿/有点渴，-2秒耐力，速度-10%，服从性-10%"
+				"3：&7营养不良/脱水，最多只能切换为慢跑状态，速度-20%，服从性-20%"
+				"7：&7过于饥饿/过于缺水，只能为漫步状态，服从性-30%"
+				"&a需要注意：&7处于【7】时，其生命值会以每天一颗心的速度减少！"
+				""
+				"&3若满足结算要求则会逐渐恢复错过饮食的状态！"
+				""
+				"晚9点马儿会进入睡眠状态"
+				"&a需注意：&7穿戴马具/被栓住会影响马匹进食和休息，记得脱下马具/栓绳等"
+			]
+			id: "0C911B0CBFDCFF98"
+			rewards: [
+				{
+					id: "1E414595BB10FF92"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "3A7FABDD1B9FC982"
+					item: "aquaculture:treasure_chest"
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 2.0d
+			subtitle: "了解3个时间节点和饮食分结算"
+			tasks: [{
+				id: "616C69958686C0FE"
+				title: "马的时间节点安排"
+				type: "checkmark"
+			}]
+			x: -4.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0C911B0CBFDCFF98"]
+			description: ["{image:kubejs:block/heshui width:100 height:100 align:1}"]
+			id: "5BDA12D1D2C9CF67"
+			rewards: [{
+				id: "13A477377A6FB86E"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "gear"
+			size: 1.5d
+			subtitle: "&7弄一个水坑(无限水最好)，或者制作水槽/各种颜色的半桶(可搭配水龙头和水源方块)"
+			tasks: [{
+				id: "4C0F8523566BB677"
+				title: "饮水方式"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5BDA12D1D2C9CF67"]
+			id: "545BB910D856A75E"
+			rewards: [{
+				id: "72B149A2B785A5B6"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "放置后需用水桶装满水"
+			tasks: [{
+				id: "23F8D4E75F43E09D"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "swem:half_barrels"
+					}
+				}
+				title: "Any #swem:half_barrels"
+				type: "item"
+			}]
+			title: "任意颜色半桶"
+			x: 0.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["78DA9BA9269B7ABC"]
+			description: ["手持水管右键地面也可以清理马尿"]
+			id: "291B81AF1815C9E8"
+			rewards: [{
+				id: "34E192BD4857E104"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "右键可补充桶/水槽，需半径15格内有水源方块"
+			tasks: [{
+				id: "75A99089F512BF32"
+				item: "swem:hose"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["0C911B0CBFDCFF98"]
+			id: "7DE1C866F208AFC5"
+			rewards: [
+				{
+					id: "54AB3ECBF6B44A9B"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "4250D831FD649369"
+					item: "swem:speed_xp_potion"
+					type: "item"
+				}
+			]
+			subtitle: "治疗物品"
+			tasks: [{
+				id: "5A6655C3436B3827"
+				item: {
+					Count: 1
+					id: "swem:spray_fly"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -9.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["573E4558E27EF22A"]
+			icon: "swem:tack_box_white"
+			id: "13DF94AEA9EAA921"
+			rewards: [{
+				id: "439A4B2680E89C6E"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "未知用途"
+			tasks: [{
+				id: "7F8833492C235FE4"
+				item: "swem:tack_box_white"
+				type: "item"
+			}]
+			x: 14.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["573E4558E27EF22A"]
+			id: "3D2E688F28B30396"
+			rewards: [{
+				id: "32DF761439C219A9"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "无法从生成模式获得"
+			tasks: [
+				{
+					id: "4971F8E86228AC30"
+					item: "swem:ribbon_champion"
+					type: "item"
+				}
+				{
+					id: "21BF98860A362CAF"
+					item: "swem:ribbon_rchampion"
+					type: "item"
+				}
+				{
+					id: "104D92856C31D2C6"
+					item: "swem:ribbon_two_red"
+					type: "item"
+				}
+				{
+					id: "12A5F033CB03B140"
+					item: "swem:rosette_light_blue"
+					type: "item"
+				}
+				{
+					id: "402782CC05A6502B"
+					item: "swem:trophy_bronze"
+					type: "item"
+				}
+				{
+					id: "1A0CE061CA512855"
+					item: "swem:trophy_silver"
+					type: "item"
+				}
+				{
+					id: "2A7C517074744E18"
+					item: "swem:trophy_gold"
+					type: "item"
+				}
+				{
+					id: "31615405E4CD3150"
+					item: "swem:plaque_bronze"
+					type: "item"
+				}
+				{
+					id: "3EE755F63E5E0E08"
+					item: "swem:plaque_silver"
+					type: "item"
+				}
+				{
+					id: "283037C87E8E4CD0"
+					item: "swem:plaque_gold"
+					type: "item"
+				}
+			]
+			title: "适用于服务器比赛活动"
+			x: 13.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["573E4558E27EF22A"]
+			id: "6D449C58476F2ED1"
+			rewards: [{
+				id: "58DDE5640848CBC0"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "可在竞技场或马场中充当障碍物，也可以戴在头上"
+			tasks: [{
+				id: "061A8C30CD426C66"
+				item: "swem:yellow_cone"
+				type: "item"
+			}]
+			x: 11.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["573E4558E27EF22A"]
+			id: "3D6A406E313227A7"
+			rewards: [{
+				id: "0D38349F258B58D4"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "装饰，不那么像监狱的外观"
+			tasks: [
+				{
+					id: "0C89333A0E2FF5AC"
+					item: "swem:medium_friendly_bars"
+					type: "item"
+				}
+				{
+					id: "7C86551EDD7A2363"
+					item: "swem:light_friendly_bars"
+					type: "item"
+				}
+				{
+					id: "530C6B0F913F5484"
+					item: "swem:dark_friendly_bars"
+					type: "item"
+				}
+			]
+			x: 11.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["573E4558E27EF22A"]
+			description: [
+				"锁定：&7需将命名牌命名为自己的ID(注意大小写)后放入储物柜右上角的插槽里。"
+				"&a注意：&7放箱子的人可以不受限制打开或解锁该储物柜"
+			]
+			id: "5D252694813E70FE"
+			rewards: [
+				{
+					id: "24D6C10315B5050A"
+					item: "minecraft:name_tag"
+					type: "item"
+				}
+				{
+					id: "6515155AA964C8D9"
+					type: "xp"
+					xp: 10
+				}
+			]
+			subtitle: "可锁定仅个人使用(默认情况下所有人正常使用)"
+			tasks: [{
+				id: "51A46711215B145C"
+				item: "swem:locker"
+				type: "item"
+			}]
+			title: "只有主人可以破坏、锁定或解锁的储物柜"
+			x: 10.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["573E4558E27EF22A"]
+			id: "7E64E195A7CE89B2"
+			rewards: [{
+				id: "24B06A66D9C8403D"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [
+				{
+					id: "1E319803D0D713C5"
+					item: "swem:pasture_white_horse"
+					type: "item"
+				}
+				{
+					id: "4973363A0D9B5C53"
+					item: "swem:pasture_white_care"
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["573E4558E27EF22A"]
+			id: "42F721C6DF4DFB0F"
+			rewards: [{
+				id: "1FCB39C7B3815448"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "装饰地板"
+			tasks: [
+				{
+					id: "6F80F9F16474DB73"
+					item: "swem:dark_rubber_mat"
+					type: "item"
+				}
+				{
+					id: "3FE8C8F0C2F091A0"
+					item: "swem:medium_rubber_mat"
+					type: "item"
+				}
+				{
+					id: "54DA959478A53E21"
+					item: "swem:light_rubber_mat"
+					type: "item"
+				}
+			]
+			x: 13.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["573E4558E27EF22A"]
+			id: "6952AC6B4F4A0CD7"
+			rewards: [{
+				id: "0FC9085C0A2A7229"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "适合方块和柱体之间连接"
+			tasks: [{
+				id: "2C89FC5F08702DE7"
+				item: "swem:separator_white"
+				type: "item"
+			}]
+			x: 12.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["573E4558E27EF22A"]
+			id: "43D806558B726B95"
+			rewards: [{
+				id: "50029348B5EBFE99"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "栅栏门，但只有一格高，可放在第二格来阻止马跳出去"
+			tasks: [
+				{
+					id: "568EB079663B794F"
+					item: "swem:web_guard_white_rider"
+					type: "item"
+				}
+				{
+					id: "7334ECEC7E2D623E"
+					item: "swem:web_guard_white_horse"
+					type: "item"
+				}
+				{
+					id: "25AF5473D3CDCD6F"
+					item: "swem:web_guard_white_care"
+					type: "item"
+				}
+			]
+			x: 11.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["573E4558E27EF22A"]
+			description: [
+				"{image:kubejs:block/swem_mt1 width:200 height:100 align:1}"
+				"用测量工具分别右键一下这俩个草方块 &7(可以来回多试几次)"
+				"{image:kubejs:block/swem_mt2 width:200 height:100 align:1}"
+				"随后会出现这样的GUI设置界面 &7(可看图文解释来理解)"
+				"{image:kubejs:block/swem_mt3 width:200 height:100 align:1}"
+				"即便不设置横杆也会有个隐形障碍存在"
+				"{image:kubejs:block/swem_mt4 width:200 height:100 align:1}"
+				"{image:kubejs:block/swem_mt5 width:200 height:100 align:1}"
+				"{image:kubejs:block/swem_mt6 width:200 height:100 align:2}"
+				"{image:kubejs:block/swem_mt7 width:200 height:100 align:1}"
+				"最高可设置五层高度，对应五级的跳跃等级。"
+				"{image:kubejs:block/swem_5 width:200 height:150 align:1}"
+				"{@pagebreak}"
+				"(new page placeholder text)"
+			]
+			id: "6E65D6126E994B9C"
+			rewards: [{
+				id: "3B5F8D100925A313"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "首先在想要放置跳跃障碍的地方放置2个相距5格的方块(任意方块，例如泥土)"
+			tasks: [{
+				id: "43732F6CD2F26640"
+				item: "swem:measurement_tool"
+				type: "item"
+			}]
+			title: "搭建障碍"
+			x: 7.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["6E65D6126E994B9C"]
+			description: [
+				"一级障碍无需等级，二级需跳跃达到II级，以此类推，最高五级V。"
+				"跨越障碍需要骑手把握时机和开始跳跃的距离，多试几次，找到最佳跳跃时机！"
+				"{image:kubejs:block/swem_5 width:200 height:150 align:1}"
+			]
+			id: "40A18F1B9BAB63A5"
+			rewards: [
+				{
+					id: "583360C1C63F0588"
+					item: "swem:jump_xp_potion"
+					type: "item"
+				}
+				{
+					id: "616E6A610566DDFD"
+					type: "xp"
+					xp: 10
+				}
+			]
+			shape: "gear"
+			subtitle: "&a与原版马匹一样，长按空格跳跃，留意最佳跳跃点(接近橙黄色)进度条松开即可"
+			tasks: [{
+				id: "3A9691825F234251"
+				title: "关于跨越障碍的小提示"
+				type: "checkmark"
+			}]
+			x: 7.0d
+			y: -3.5d
+		}
+	]
+	title: "驯马"
+}

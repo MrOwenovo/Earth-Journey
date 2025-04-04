@@ -1,0 +1,11 @@
+{
+  "type": {
+    "can_dual_wield": true,
+    "id": "axe",
+    "isProjectile": false,
+    "range": "MELEE",
+    "style": "STR"
+  },
+  "id": "is_axe_wep_type",
+  "ser": "wep_type_match"
+}

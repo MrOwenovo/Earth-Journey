@@ -1,0 +1,16 @@
+{
+"entity.theducksmod.mallard_duck": "绿头鸭",
+"entity.theducksmod.mallard_duck_egg": "绿头鸭蛋",
+"item.theducksmod.mallard_duck_spawn_egg":"绿头鸭刷怪蛋",
+"item.theducksmod.mallard_duck_egg":"绿头鸭蛋",
+
+"entity.theducksmod.pekin_duck": "樱桃谷鸭",
+"entity.theducksmod.pekin_duck_egg": "樱桃谷鸭蛋",
+"item.theducksmod.pekin_duck_spawn_egg":"樱桃谷鸭刷怪蛋",
+"item.theducksmod.pekin_duck_egg":"樱桃谷鸭蛋",
+
+"item.theducksmod.boiled_duck_egg":"煮鸭蛋",
+"item.theducksmod.duck":"生鸭肉",
+"item.theducksmod.cooked_duck":"熟鸭肉",
+"itemGroup.the_ducks_tab":"The Ducks Mod"
+}

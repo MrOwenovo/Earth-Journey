@@ -1,0 +1,2562 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "027FFB2E8854D5A4"
+	group: ""
+	icon: "mmorpg:projectile/slimeball"
+	id: "027FFB2E8854D5A4"
+	images: [{
+		click: ""
+		corner: false
+		dev: false
+		height: 20.0d
+		hover: [ ]
+		image: "mmorpg:textures/ftb/weidumen.png"
+		rotation: 0.0d
+		width: 20.0d
+		x: 30.0d
+		y: -9.0d
+	}]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"510F66A43BED399B"
+				"4B5F60C96B9D66BF"
+			]
+			description: [
+				"收集散落各地的眼睛  集齐右侧其中12种既可进入末地"
+				"将收集的眼睛放置于末地传送框架处"
+			]
+			icon: "minecraft:ender_eye"
+			id: "24DC0B0F0B5AFC73"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6A5155AFF30ACC88"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "238AF6E9BFF3A340"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					count: 2
+					id: "5CB5FA5D400832DE"
+					item: "duckmoney:bundle5"
+					type: "item"
+				}
+			]
+			shape: "circle"
+			size: 1.5d
+			subtitle: "LV45~100（同步等级）使用探险家指南针搜索要塞"
+			tasks: [
+				{
+					dimension: "minecraft:the_end"
+					id: "4E4A42A59C2652AF"
+					title: "访问末地"
+					type: "dimension"
+				}
+				{
+					id: "464FAD7039CAA7D4"
+					structure: "betterstrongholds:stronghold"
+					type: "structure"
+				}
+			]
+			title: "终末地"
+			x: 39.0d
+			y: -12.75d
+		}
+		{
+			dependencies: ["4B5F60C96B9D66BF"]
+			description: ["进入暮色森林"]
+			icon: "twilightforest:twilight_portal_miniature_structure"
+			id: "66CB16D778341B2C"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7FD3E0536EB39BD8"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6307AF15EF27F580"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "7DF57482795278DC"
+					item: "duckmoney:bundle2"
+					type: "item"
+				}
+			]
+			shape: "circle"
+			size: 1.5d
+			subtitle: "LV25~100（同步等级）"
+			tasks: [{
+				id: "6AC9944AF307B190"
+				item: "minecraft:diamond"
+				type: "item"
+			}]
+			title: "暮色森林"
+			x: 39.0d
+			y: -3.0d
+		}
+		{
+			description: [
+				"进入下界"
+				"怪物等级最低15级，随后与玩家等级同步"
+			]
+			icon: "minecraft:soul_lantern"
+			id: "4B5F60C96B9D66BF"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "08C70524205DDAF6"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5916325FA2A64A9D"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					id: "17AA5CF9486A09BB"
+					item: "duckmoney:bundle1"
+					type: "item"
+				}
+			]
+			shape: "circle"
+			size: 1.5d
+			subtitle: "LV15~100（同步等级=怪物与玩家等级相同）"
+			tasks: [
+				{
+					id: "349206C2E5E80815"
+					item: "minecraft:obsidian"
+					type: "item"
+				}
+				{
+					id: "0929907F780E9073"
+					item: {
+						Count: 1b
+						id: "minecraft:flint_and_steel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "下界LV15"
+			x: 21.75d
+			y: -3.0d
+		}
+		{
+			dependencies: ["256D23932261AD89"]
+			description: [
+				"每张冒险地图随机生成迷宫，攻略完迷宫，使用珍珠回家"
+				"冒险地图副本内获取经验值降低，但&9装备爆率提升"
+				"冒险地图获取方法为怪物随机掉落或宝箱内获得(高级地图可以去钓鱼，有概率出传奇地图宝箱~)"
+				"副本难度较高  极品装备重要产出地"
+				"冒险地图副本进入方法在主要事件任务栏里有教"
+				"&4默认只掉落普通品质地图，需要用地图品质升级球 升级地图品质"
+				"&4更高品质冒险地图战利品更好，同时难度也更高"
+			]
+			icon: "mmorpg:map"
+			id: "4B50B3A5C0EFC59F"
+			rewards: [
+				{
+					id: "3DDDC71751CA7799"
+					item: "mmorpg:teleporter"
+					type: "item"
+				}
+				{
+					id: "00B14598450196F6"
+					item: "mmorpg:tp_back"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4B7837C92D97C489"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "55A9BA951F894158"
+					item: "duckmoney:bundle1"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "44416B8B314679BB"
+					item: "mmorpg:currency/map_rarity_upgrade"
+					type: "item"
+				}
+			]
+			shape: "circle"
+			size: 1.5d
+			subtitle: "LV1~100（怪物等级=地图等级）"
+			tasks: [{
+				id: "501A80F7EADA2741"
+				type: "checkmark"
+			}]
+			title: "冒险地图（装备爆率UP）"
+			x: 30.0d
+			y: -17.25d
+		}
+		{
+			description: [
+				"主世界经验值和装备掉落对比冒险维度稍有降低"
+				"主世界&9怪物等级随出生点距离递增"
+				"玩家与怪物等级差距过高，会&9触发惩罚减少经验掉落"
+				"主世界夜晚寻找等级相近怪物也是不错的提升等级方法"
+			]
+			icon: "cataclysm:abyss_eye"
+			id: "256D23932261AD89"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "13D26911EED4F387"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "075D6D69D3BE1677"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			shape: "diamond"
+			size: 2.0d
+			subtitle: "LV1~60 （怪物等级随距离增加）"
+			tasks: [{
+				id: "3D7F9486FF0C8C7E"
+				type: "checkmark"
+			}]
+			title: "主世界"
+			x: 30.0d
+			y: -8.0d
+		}
+		{
+			description: [
+				"怪物最低20级，随后同步玩家等级"
+				"将石砖搭建成地狱门的样式，用催化石激活传送门"
+			]
+			icon: "blue_skies:everdawn_portal"
+			id: "510F66A43BED399B"
+			rewards: [
+				{
+					id: "77738BF0555A6F52"
+					item: "duckmoney:bundle2"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "759AFD8F85FAA4CC"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0FD2836012F6E787"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			subtitle: "LV20~100（同步等级）"
+			tasks: [
+				{
+					id: "4BF3C43CEF84FEE0"
+					item: "undergarden:catalyst"
+					type: "item"
+				}
+				{
+					id: "6A799088D5BF0466"
+					item: "minecraft:stone_bricks"
+					type: "item"
+				}
+			]
+			title: "深暗之地 Lv20"
+			x: 30.0d
+			y: 2.25d
+		}
+		{
+			dependencies: [
+				"66CB16D778341B2C"
+				"510F66A43BED399B"
+			]
+			icon: "blue_skies:everbright_portal"
+			id: "59664EA4174FC2B6"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2FA75259EC823C96"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "12335F7A1570B9AA"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					count: 2
+					id: "65A09BE43413FA4F"
+					item: "duckmoney:bundle2"
+					type: "item"
+				}
+			]
+			size: 1.5d
+			subtitle: "LV35~100（同步等级）"
+			tasks: [{
+				id: "36EF822F3E49BD20"
+				item: "blue_skies:blue_journal"
+				type: "item"
+			}]
+			title: "永昼/恒晓之地"
+			x: 21.75d
+			y: -12.75d
+		}
+		{
+			description: ["使用火焰之眼寻找烈焰竞技场"]
+			id: "1C4C05D92F586C16"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2C768B90A453070A"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "20132596C922964D"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "42D81086AD208E44"
+					item: "duckmoney:bundle1"
+					type: "item"
+				}
+			]
+			subtitle: "寻找竞技场"
+			tasks: [
+				{
+					id: "5C91CCFA18842B4F"
+					structure: "cataclysm:burning_arena"
+					type: "structure"
+				}
+				{
+					id: "016DA4935A8D1DCB"
+					item: "cataclysm:flame_eye"
+					type: "item"
+				}
+			]
+			title: "烈焰竞技场"
+			x: 17.0d
+			y: -1.5d
+		}
+		{
+			description: ["击杀燃魂 获取"]
+			id: "61009B4AF987967E"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "65363CFBFDF9C35C"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "19B485AC6DC52486"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "498BCCB6A939A3FC"
+					table_id: 7906379700992951605L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "0B77B917555DE122"
+				item: "cataclysm:burning_ashes"
+				type: "item"
+			}]
+			x: 18.0d
+			y: -1.5d
+		}
+		{
+			description: ["观察烈焰祭坛 使用余烬 点燃祭坛"]
+			icon: "born_in_chaos_v1:death_totem"
+			id: "3D7FDF76150D153D"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "207BDB5C92F4864F"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "401D93EB7C4161E3"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "1FA0E9D50C3BBF6E"
+					item: "duckmoney:bundle2"
+					type: "item"
+				}
+				{
+					id: "6AE6409B9BC15082"
+					item: {
+						Count: 1b
+						id: "mmorpg:chest/currency"
+						tag: {
+							mmorpg_loot_chest: "{\"num\":5,\"rar\":\"rare\",\"lvl\":20,\"id\":\"gear\",\"key\":\"\"}"
+						}
+					}
+					title: "20级珍稀品质装备箱"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5EED28848F09CF95"
+					table_id: 7906379700992951605L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "6D4599D069A7E387"
+				observe_type: 0
+				timer: 20L
+				title: "观察烈焰祭坛"
+				to_observe: "cataclysm:altar_of_fire"
+				type: "observation"
+			}]
+			title: "召唤boss"
+			x: 19.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4B5F60C96B9D66BF"]
+			description: ["探索下界 寻找指定大型建筑"]
+			id: "79A8328DD2CC04E2"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0971479BF1B862C4"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "59D62A8A106279E5"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "69C5F88A2C7E6E4C"
+					item: {
+						Count: 1b
+						id: "mmorpg:chest/currency"
+						tag: {
+							mmorpg_loot_chest: "{\"num\":5,\"rar\":\"rare\",\"lvl\":15,\"id\":\"gear\",\"key\":\"\"}"
+						}
+					}
+					title: "15级珍稀品质装备箱"
+					type: "item"
+				}
+			]
+			subtitle: "探险家指南针搜&9infernal altar"
+			tasks: [{
+				id: "183072F6FC5201D2"
+				structure: "incendium:infernal_altar"
+				type: "structure"
+			}]
+			title: "寻找大型建筑"
+			x: 20.0d
+			y: -3.0d
+		}
+		{
+			description: [""]
+			id: "2006A6856073F1E8"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "59585D86D5F9BFF7"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3D16AD6F2420AD9B"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "652FA369AB34BC65"
+					item: "duckmoney:bundle1"
+					type: "item"
+				}
+			]
+			subtitle: "探险家指南针搜&9forbidden castle"
+			tasks: [{
+				id: "7729F65D8644B250"
+				structure: "incendium:forbidden_castle"
+				type: "structure"
+			}]
+			title: "寻找大型建筑"
+			x: 19.0d
+			y: -3.0d
+		}
+		{
+			description: [""]
+			id: "5C840B9E89E3D94C"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4BC3AD7317FA97A1"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "180AEC61B3F4C1B8"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			subtitle: "探险家指南针搜&9sanctum"
+			tasks: [{
+				id: "7A5912FC631BF1E1"
+				structure: "incendium:sanctum"
+				type: "structure"
+			}]
+			title: "寻找大型建筑"
+			x: 18.0d
+			y: -3.0d
+		}
+		{
+			description: [""]
+			id: "6DE46FCAFAAAB5CB"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "52061D735758F8E9"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0EC79ACC9AAC56F3"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			subtitle: "探险家指南针搜&9ruined lab"
+			tasks: [{
+				id: "22A63FFFD53D9354"
+				structure: "incendium:ruined_lab"
+				type: "structure"
+			}]
+			title: "寻找大型建筑"
+			x: 15.0d
+			y: -3.0d
+		}
+		{
+			description: [""]
+			id: "75749335CBEC07DE"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "17619FC3BC09412A"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4DBEEA91C01C32D3"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "4410D5C8AA45772A"
+					item: "duckmoney:bundle1"
+					type: "item"
+				}
+			]
+			subtitle: "探险家指南针搜&9nether reactor"
+			tasks: [{
+				id: "6F96F01B31E3F40C"
+				structure: "incendium:nether_reactor"
+				type: "structure"
+			}]
+			title: "寻找大型建筑"
+			x: 16.0d
+			y: -3.0d
+		}
+		{
+			description: [""]
+			id: "5ACFC61C0872F986"
+			rewards: [
+				{
+					id: "3BE744CB0553A977"
+					item: "duckmoney:bundle2"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4CC586B90C3687D6"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "105E9EF833914D35"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			subtitle: "探险家指南针搜&9soul black smith"
+			tasks: [{
+				id: "2A41CC2C52CECD1C"
+				structure: "cataclysm:soul_black_smith"
+				type: "structure"
+			}]
+			title: "寻找灵魂铸造厂"
+			x: 15.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["5ACFC61C0872F986"]
+			icon: "born_in_chaos_v1:death_totem"
+			id: "1CDAFBC789689C96"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0E7406F2E6EC1FD1"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0BE185F2C49CAC08"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "5C3C149150C4A430"
+					item: "duckmoney:bundle2"
+					type: "item"
+				}
+				{
+					id: "011ED0A1318A4448"
+					item: {
+						Count: 1b
+						id: "mmorpg:chest/currency"
+						tag: {
+							mmorpg_loot_chest: "{\"num\":5,\"rar\":\"rare\",\"lvl\":18,\"id\":\"gear\",\"key\":\"\"}"
+						}
+					}
+					title: "18级珍稀品质装备箱"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "271267B9065F3017"
+					table_id: 7906379700992951605L
+					type: "random"
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:netherite_monstrosity"
+				id: "40B2D984EDE0B625"
+				type: "kill"
+				value: 1L
+			}]
+			title: "击败boss"
+			x: 16.0d
+			y: -1.5d
+		}
+		{
+			description: ["合成出魔法地图 用于指引道路"]
+			id: "2DAC854EC1819790"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "56E3F39C7E39534D"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4B205782D1EA06D4"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "56A4DA721C91AF8D"
+				item: "twilightforest:magic_map"
+				type: "item"
+			}]
+			x: 41.5d
+			y: -3.0d
+		}
+		{
+			description: ["击败增强的末影龙 获取龙蛋"]
+			icon: "born_in_chaos_v1:death_totem"
+			id: "54BD954E2F2CFAB0"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "30CB37ADFD35A1BA"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "38184B30B27FDD33"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "72B4785CEC7B22D7"
+					item: "duckmoney:bundle5"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "398D90A23D81BD76"
+					table_id: 7906379700992951605L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "7F70471AD712456C"
+				item: "minecraft:dragon_egg"
+				type: "item"
+			}]
+			x: 40.5d
+			y: -13.0d
+		}
+		{
+			description: ["寻找大型末地城"]
+			id: "53E1241DFFC72559"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "07D76F3654EAF480"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5A0738D94BB00E8D"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "18A5C4691FBBC48D"
+					table_id: 7906379700992951605L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "395761C061267F14"
+					structure: "minecraft:end_city"
+					type: "structure"
+				}
+				{
+					id: "7C8BB420C26472D4"
+					item: {
+						Count: 1b
+						id: "minecraft:elytra"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "末地城"
+			x: 41.5d
+			y: -13.0d
+		}
+		{
+			description: ["制作虚空之眼寻找废弃壁垒"]
+			id: "0DF2B379AE38D29D"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1BB067727A286BE0"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "618CF03C533BE93E"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "662C63448CEF75A5"
+					item: "duckmoney:bundle5"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1197EC12598FE802"
+				item: "cataclysm:void_eye"
+				type: "item"
+			}]
+			x: 42.5d
+			y: -13.0d
+		}
+		{
+			id: "1364C692035F8D7C"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "442D5392D691141E"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "62010FC615B32F65"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "46948054CFEE5A56"
+					item: "duckmoney:bundle5"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "38937810088E7CC3"
+				structure: "cataclysm:ruined_citadel"
+				type: "structure"
+			}]
+			title: "寻找废弃堡垒"
+			x: 43.5d
+			y: -13.0d
+		}
+		{
+			icon: "born_in_chaos_v1:death_totem"
+			id: "1AF8D09F3932B6EE"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7E5C045B79D4F1B2"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7B7FC7AD92809E57"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "06D262F30E65634E"
+					item: "duckmoney:bundle5"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "142A24A52F08D2D0"
+					table_id: 7906379700992951605L
+					type: "random"
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:ender_golem"
+				id: "09B755CE3089CF7F"
+				type: "kill"
+				value: 1L
+			}]
+			title: "击杀boss"
+			x: 44.5d
+			y: -13.0d
+		}
+		{
+			description: ["寻找守门人房屋"]
+			id: "6C20DC270B804988"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0F064A024EE23CC3"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3A4D3378773C8B49"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			subtitle: "探险家指南针搜&9Gatekeeper House Mountain"
+			tasks: [{
+				id: "2648548503A4B39A"
+				structure: "#blue_skies:gatekeeper_houses"
+				title: "发现守门人小屋"
+				type: "structure"
+			}]
+			title: "寻找守门人"
+			x: 20.0d
+			y: -13.0d
+		}
+		{
+			description: ["与守门人交换物品"]
+			id: "31CB853357021E7F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1C6D771D05C5E4AC"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2EAB5836AC70B5AF"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "0F8D786C07DACEAB"
+					item: "blue_skies:blue_journal"
+					type: "item"
+				}
+				{
+					id: "0C511E884F6BFDA8"
+					item: {
+						Count: 1b
+						id: "blue_skies:zeal_lighter"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 19.0d
+			y: -13.0d
+		}
+		{
+			dependencies: ["31CB853357021E7F"]
+			description: ["按书中记载的方法进入维度，有时守门人房屋里有传送门结构"]
+			id: "7DD36F8DCFAD545B"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "062B5877791030FF"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "38EA83D63E49E976"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "62B3036AD98CE8CC"
+					item: "duckmoney:bundle2"
+					type: "item"
+				}
+			]
+			tasks: [{
+				dimension: "blue_skies:everbright"
+				id: "3D77E8C48ED028EE"
+				type: "dimension"
+			}]
+			title: "进入永昼之地"
+			x: 18.0d
+			y: -14.0d
+		}
+		{
+			dependencies: ["31CB853357021E7F"]
+			description: ["按照蔚蓝旅记 书中记载 寻找进入方法"]
+			id: "4BD6606F9F064EAD"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1EF5308886A753B2"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "735532D36A8E2169"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "11F279F6D6BB7341"
+					item: {
+						Count: 1b
+						id: "blue_skies:zeal_lighter"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					dimension: "blue_skies:everdawn"
+					id: "43316E789E219E73"
+					type: "dimension"
+				}
+			]
+			title: "进入恒晓之地"
+			x: 18.0d
+			y: -12.0d
+		}
+		{
+			description: ["根据图鉴记载 召唤虚空蠕虫"]
+			icon: "born_in_chaos_v1:death_totem"
+			id: "3C31AAF40623A56E"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5D8A0075AB06251C"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0620C960EC470CA3"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					count: 2
+					id: "68716327D1D1A76F"
+					item: "duckmoney:bundle5"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5D21657BE2D510BB"
+					table_id: 7906379700992951605L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					entity: "alexsmobs:void_worm_part"
+					id: "3DBBE15FAE45389E"
+					type: "kill"
+					value: 1L
+				}
+				{
+					id: "5A106E9599EEB332"
+					item: "alexsmobs:animal_dictionary"
+					type: "item"
+				}
+			]
+			x: 46.5d
+			y: -13.0d
+		}
+		{
+			icon: "born_in_chaos_v1:death_totem"
+			id: "51DB2442128676C9"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2A701DE8587ED5B0"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "03DFFD0231DF5570"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "74B1D19C376417A2"
+					item: "duckmoney:bundle2"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "alexsmobs:warped_mosco"
+				id: "22DB76363ABC9263"
+				type: "kill"
+				value: 1L
+			}]
+			x: 20.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["66CB16D778341B2C"]
+			description: [
+				"在地面2x2x1的空间装满水，水坑旁放满植物花朵，往水里丢入一颗钻石"
+				"4202年了不会还有人不会进暮色吧？"
+			]
+			id: "5B60D1908803A213"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0816D56AE7E5B6F8"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0C99619F41A521B5"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [{
+				dimension: "twilightforest:twilight_forest"
+				id: "6EA7A05692BA355F"
+				type: "dimension"
+			}]
+			title: "进入暮色森林"
+			x: 40.5d
+			y: -3.0d
+		}
+		{
+			icon: "twilightforest:naga_trophy"
+			id: "71EF61E1A3D707AF"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3143946966A6B811"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1C6A563B510D746E"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					count: 2
+					id: "64B768C33C060F1D"
+					item: "duckmoney:bundle2"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "551FEFE3DFAB3F28"
+					table_id: 7906379700992951605L
+					type: "random"
+				}
+			]
+			tasks: [{
+				entity: "twilightforest:naga"
+				id: "3BF0F8D4F2CD7C0A"
+				type: "kill"
+				value: 1L
+			}]
+			x: 42.5d
+			y: -3.0d
+		}
+		{
+			icon: "twilightforest:lich_trophy"
+			id: "1B097E45F51E8E4B"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "62EF634337E8338A"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7E27E943BBAA4E67"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					count: 2
+					id: "57842127402F0485"
+					item: "duckmoney:bundle2"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4CDE73186414FCFA"
+				structure: "twilightforest:lich_tower"
+				type: "structure"
+			}]
+			title: "攻略巫妖塔"
+			x: 43.5d
+			y: -3.0d
+		}
+		{
+			icon: "twilightforest:minoshroom_trophy"
+			id: "6B34D4397E8E892E"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6084C01B3EACB982"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3BB0F9E87A8F2109"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					count: 2
+					id: "7FD8E60C2B3ED457"
+					item: "duckmoney:bundle2"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "twilightforest:minoshroom"
+				id: "5DE6AF3D226D59CA"
+				type: "kill"
+				value: 1L
+			}]
+			x: 44.5d
+			y: -3.0d
+		}
+		{
+			icon: "twilightforest:hydra_trophy"
+			id: "494CB8435AB070D9"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "54E06C5F3221C911"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1D150BBB471C4D15"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					count: 2
+					id: "7EA53E3E55253C99"
+					item: "duckmoney:bundle2"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0CAC5FB8769C6C68"
+					table_id: 7906379700992951605L
+					type: "random"
+				}
+			]
+			tasks: [{
+				entity: "twilightforest:hydra"
+				id: "7BDD1032EFF727C3"
+				type: "kill"
+				value: 1L
+			}]
+			x: 45.5d
+			y: -3.0d
+		}
+		{
+			icon: "twilightforest:knight_phantom_trophy"
+			id: "642F09AE38C267F6"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0F40D32A18DD1165"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4557064154B6B0E3"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					count: 2
+					id: "5D3862805AC8FD1E"
+					item: "duckmoney:bundle2"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "01D52C8D4415BB74"
+					table_id: 7906379700992951605L
+					type: "random"
+				}
+			]
+			tasks: [{
+				entity: "twilightforest:knight_phantom"
+				id: "3CCD18623F85DD89"
+				type: "kill"
+				value: 1L
+			}]
+			x: 46.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["642F09AE38C267F6"]
+			icon: "twilightforest:ur_ghast_trophy"
+			id: "0FC1F13BEAC0D774"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5B05166A383A97FE"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "679DF10C5241FEC8"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					count: 2
+					id: "389F6130B6D7EA5B"
+					item: "duckmoney:bundle2"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "40204EA04E7EDE36"
+					table_id: 7906379700992951605L
+					type: "random"
+				}
+			]
+			tasks: [{
+				entity: "twilightforest:ur_ghast"
+				id: "5ACF0287BB78F3D4"
+				type: "kill"
+				value: 1L
+			}]
+			x: 46.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["0FC1F13BEAC0D774"]
+			icon: "twilightforest:alpha_yeti_trophy"
+			id: "2B618358A362251A"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2748BB883CC82CEA"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4ABE0E1B4CFCB8B1"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					count: 2
+					id: "13600B5F52283617"
+					item: "duckmoney:bundle2"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "23C649FF1C209FF3"
+					table_id: 7906379700992951605L
+					type: "random"
+				}
+			]
+			tasks: [{
+				entity: "twilightforest:alpha_yeti"
+				id: "78AE1D65F1DAAF27"
+				type: "kill"
+				value: 1L
+			}]
+			x: 45.5d
+			y: -2.0d
+		}
+		{
+			icon: "twilightforest:snow_queen_trophy"
+			id: "7A1CFFF825B46B9D"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "000BD82E2744C251"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0CBA64B5F06AE0A2"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					count: 2
+					id: "6BA3BE9A27E32C70"
+					item: "duckmoney:bundle2"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3A581D45C2B33C9B"
+					table_id: 7906379700992951605L
+					type: "random"
+				}
+			]
+			tasks: [{
+				entity: "twilightforest:snow_queen"
+				id: "17EDAEBB3DE40EA4"
+				type: "kill"
+				value: 1L
+			}]
+			x: 44.5d
+			y: -2.0d
+		}
+		{
+			description: [
+				"巨魔洞穴里寻找魔豆和沃土"
+				"在地面进行魔豆种植 沿通天之路前行"
+			]
+			id: "44D9AF5130180B7F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7CF76C2074B35918"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "15AC18D5F07AB649"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					count: 3
+					id: "017EDACE2E548E8D"
+					item: "duckmoney:bundle2"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "293E9654B6E92A96"
+					structure: "twilightforest:troll_cave"
+					type: "structure"
+				}
+				{
+					id: "45996A67D96F88BB"
+					item: "twilightforest:magic_beans"
+					type: "item"
+				}
+				{
+					id: "01717BFE5CDA284E"
+					item: "twilightforest:uberous_soil"
+					type: "item"
+				}
+			]
+			title: "通天之路"
+			x: 43.5d
+			y: -2.0d
+		}
+		{
+			description: ["获取巨镐，回到巨魔洞穴寻找余烬之灯，挖开巨型黑曜石"]
+			id: "01110D14CA677450"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "36F28028E3996C75"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7CDEDDBEFFBE8CE9"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					count: 2
+					id: "117AC3B14105ACFC"
+					item: "duckmoney:bundle2"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "60B9623690AD757D"
+					table_id: 7906379700992951605L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					entity: "twilightforest:giant_miner"
+					id: "0ECB7F63E60804A0"
+					type: "kill"
+					value: 1L
+				}
+				{
+					id: "44619C6745F93C84"
+					item: {
+						Count: 1b
+						id: "twilightforest:giant_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 42.5d
+			y: -2.0d
+		}
+		{
+			id: "6D0F24EA1FFAD258"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1626FAE654EDBB38"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "35AF8A49C755485D"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					count: 2
+					id: "24973D420E3A277D"
+					item: "duckmoney:bundle2"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "1D48E9538D9D5216"
+					item: "duckmoney:bundle5"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "43F846C4E2539E7C"
+					item: {
+						Count: 1b
+						id: "twilightforest:lamp_of_cinders"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4F861A09FBADAD3C"
+					structure: "twilightforest:final_castle"
+					type: "structure"
+				}
+			]
+			title: "进入终结之城"
+			x: 41.5d
+			y: -2.0d
+		}
+		{
+			description: ["集齐钥匙 击败boss"]
+			id: "44E2DA6AEDB6FC83"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5F04C25F4C39CBBC"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "51B425B80704A8FD"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "48EAC6167D317CF6"
+					item: "duckmoney:bundle5"
+					type: "item"
+				}
+			]
+			subtitle: "探险家指南针搜&9everbright blinding  dungeon"
+			tasks: [{
+				id: "7AEABF1AB8146DCF"
+				structure: "blue_skies:everbright_blinding_dungeon"
+				type: "structure"
+			}]
+			title: "发现高塔"
+			x: 16.0d
+			y: -14.0d
+		}
+		{
+			description: ["通往塔顶，解锁交易后向守门人购买自然钥匙，集齐后挑战boss"]
+			id: "7C1E39795B337C89"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "442515567BCB1327"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "58248FD368C19557"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "478D5DD1F7F76529"
+					item: "duckmoney:bundle5"
+					type: "item"
+				}
+			]
+			subtitle: "探险家指南针搜&9nature dungeon"
+			tasks: [{
+				id: "1BB2ABBD5BC85CF6"
+				structure: "blue_skies:nature_dungeon"
+				type: "structure"
+			}]
+			title: "发现巨型城堡"
+			x: 15.0d
+			y: -14.0d
+		}
+		{
+			description: [
+				"喂食昆虫内脏驯服   昆虫内脏击杀敌对昆虫生物获取"
+				"巨蛙喜欢在沼泽水边栖息"
+			]
+			id: "75D5572D7587276E"
+			rewards: [
+				{
+					id: "632DD0CDEEE13A15"
+					item: "minecraft:saddle"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0DA5CDD1ADADE2CE"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2DED4F0127322313"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "6C51B583D21B3500"
+				observe_type: 5
+				timer: 40L
+				title: "观察巨蛙"
+				to_observe: "blue_skies:crogre"
+				type: "observation"
+			}]
+			title: "驯服巨蛙并骑乘"
+			x: 17.0d
+			y: -12.0d
+		}
+		{
+			description: [
+				"喂食鳞果驯服"
+				"水晶骆驼可以在水晶群系找到"
+			]
+			id: "7EF1442356B35672"
+			rewards: [
+				{
+					id: "3CD645C38B511D43"
+					item: "blue_skies:camel_saddle"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1E71ED57A7E266B7"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6A2421C3B5D1185D"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "7851F999A7C2B8D8"
+				observe_type: 5
+				timer: 40L
+				title: "观察水晶骆驼"
+				to_observe: "blue_skies:crystal_camel"
+				type: "observation"
+			}]
+			title: "驯服水晶骆驼并骑乘"
+			x: 16.0d
+			y: -12.0d
+		}
+		{
+			description: ["塔顶 集齐钥匙 击败boss"]
+			id: "2604BA90E1E01A38"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7607F7B47C2CA067"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "39E1FB29CBE88BB8"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "5416E7EEBE4140F3"
+					item: "duckmoney:bundle5"
+					type: "item"
+				}
+			]
+			subtitle: "探险家指南针搜&9everdawn blinding dungeon"
+			tasks: [{
+				id: "3F0285A872EDB628"
+				structure: "blue_skies:everdawn_blinding_dungeon"
+				type: "structure"
+			}]
+			title: "发现高塔"
+			x: 15.0d
+			y: -12.0d
+		}
+		{
+			description: ["深入地牢最低层 寻找猛毒钥匙孔  集齐钥匙  击败boss"]
+			id: "77A9ADA0C6E1E57B"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3FA31A42B33226C5"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0FEECF10C2D04F15"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "19A19F5F57E3CF4E"
+					item: "duckmoney:bundle5"
+					type: "item"
+				}
+			]
+			subtitle: "探险家指南针搜&9poison dungeon"
+			tasks: [{
+				id: "769C8AEBC973B122"
+				structure: "blue_skies:poison_dungeon"
+				type: "structure"
+			}]
+			title: "发现巨大地牢"
+			x: 14.0d
+			y: -12.0d
+		}
+		{
+			description: ["使用褐松果驯服"]
+			id: "480D74FED8D0256B"
+			rewards: [
+				{
+					id: "270E82064BF4D4CE"
+					item: "minecraft:saddle"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5C370F7FCE59602F"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2975572A1E4918B2"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "36892AAC0C52BED6"
+				observe_type: 5
+				timer: 40L
+				title: "骑乘雪鹿"
+				to_observe: "blue_skies:reindeer"
+				type: "observation"
+			}]
+			title: "驯服雪鹿并骑乘"
+			x: 17.0d
+			y: -14.0d
+		}
+		{
+			icon: "born_in_chaos_v1:death_totem"
+			id: "06FC2D91A214B9A1"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3A8E7D56B36BBCC6"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7AE32CEE4B5711A5"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					count: 2
+					id: "0649FC796AFCA081"
+					item: "duckmoney:bundle5"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2746C108A6BAA8A0"
+					table_id: 7906379700992951605L
+					type: "random"
+				}
+			]
+			tasks: [{
+				entity: "blue_skies:venom_spider"
+				id: "233F411C5EAD6266"
+				type: "kill"
+				value: 1L
+			}]
+			x: 13.0d
+			y: -12.0d
+		}
+		{
+			description: ["探险家指南针搜索&9desert temple"]
+			id: "2DF2EB7D80B22F15"
+			rewards: [{
+				id: "3DBF98EB4F4F13DB"
+				item: "lightmanscurrency:coin_netherite"
+				type: "item"
+			}]
+			subtitle: "沙漠神殿箱子有概率开到"
+			tasks: [{
+				id: "6954ADBF35957A96"
+				item: {
+					Count: 1b
+					id: "endrem:old_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 41.5d
+			y: -12.0d
+		}
+		{
+			description: [""]
+			id: "4B0B94DB5669FBA7"
+			rewards: [{
+				id: "2ED6AA22E973643D"
+				item: "lightmanscurrency:coin_netherite"
+				type: "item"
+			}]
+			subtitle: "通过沉船箱子里的宝藏图找到埋葬的宝箱，有概率开到"
+			tasks: [{
+				id: "24D97970DE117414"
+				item: {
+					Count: 1b
+					id: "endrem:black_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 40.5d
+			y: -12.0d
+		}
+		{
+			description: [""]
+			id: "77E41A4C82D00953"
+			rewards: [{
+				id: "1F7DA464B86E7C95"
+				item: "lightmanscurrency:coin_netherite"
+				type: "item"
+			}]
+			subtitle: "雪屋或者冰屋箱子里有概率开到（其实我也没找到过，mod作者是这么写的）"
+			tasks: [{
+				id: "7361087E2A96DA66"
+				item: {
+					Count: 1b
+					id: "endrem:cold_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 42.5d
+			y: -12.0d
+		}
+		{
+			description: [""]
+			id: "2CC915C864593235"
+			rewards: [{
+				id: "239930A00FE00984"
+				item: "lightmanscurrency:coin_netherite"
+				type: "item"
+			}]
+			subtitle: "掠夺者前哨站箱子有几率开到"
+			tasks: [{
+				id: "19355B2F9D74DF8C"
+				item: {
+					Count: 1b
+					id: "endrem:corrupted_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 43.5d
+			y: -12.0d
+		}
+		{
+			description: [""]
+			id: "69C2B0DCE2746DD1"
+			rewards: [{
+				id: "49D91AB5DF8B353B"
+				item: "lightmanscurrency:coin_netherite"
+				type: "item"
+			}]
+			subtitle: "主世界废弃矿道箱子里有概率开到"
+			tasks: [{
+				id: "734711FE296FE1D7"
+				item: {
+					Count: 1b
+					id: "endrem:lost_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "主世界废弃矿道箱子里有概率开到"
+			x: 44.5d
+			y: -12.0d
+		}
+		{
+			description: [""]
+			id: "04C1711CFE764AF6"
+			rewards: [{
+				id: "00B8BD367AF938D6"
+				item: "lightmanscurrency:coin_netherite"
+				type: "item"
+			}]
+			subtitle: "下界堡垒箱子有概率开出"
+			tasks: [{
+				id: "641EC55E3304DB02"
+				item: {
+					Count: 1b
+					id: "endrem:nether_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 45.5d
+			y: -12.0d
+		}
+		{
+			description: ["探险家指南针搜索&9jungle temple"]
+			id: "2356AFD29C4F3ECE"
+			rewards: [{
+				id: "100B39EFF8F530A0"
+				item: "lightmanscurrency:coin_netherite"
+				type: "item"
+			}]
+			subtitle: "丛林神殿宝箱中有概率开到"
+			tasks: [{
+				id: "07CCE6E9B973EE69"
+				item: {
+					Count: 1b
+					id: "endrem:rogue_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 46.5d
+			y: -12.0d
+		}
+		{
+			description: [""]
+			id: "75771DE6D12F0480"
+			rewards: [{
+				id: "2AAC183325B49084"
+				item: "lightmanscurrency:coin_netherite"
+				type: "item"
+			}]
+			subtitle: "藏宝图找到埋葬的宝箱里的海洋之心，通过一系列合成获得"
+			tasks: [{
+				id: "0896AD71100B5706"
+				item: {
+					Count: 1b
+					id: "endrem:exotic_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 40.5d
+			y: -11.0d
+		}
+		{
+			description: [""]
+			id: "4CD91A74BFAAE148"
+			rewards: [{
+				id: "229D4522417366FB"
+				item: "lightmanscurrency:coin_netherite"
+				type: "item"
+			}]
+			subtitle: "附魔时候小概率获得"
+			tasks: [{
+				id: "0C729CEE209BBA1D"
+				item: {
+					Count: 1b
+					id: "endrem:cryptic_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 41.5d
+			y: -11.0d
+		}
+		{
+			description: [""]
+			id: "5DCCAAF3EBC96A13"
+			rewards: [{
+				id: "0C300AB065E919D4"
+				item: "lightmanscurrency:coin_netherite"
+				type: "item"
+			}]
+			subtitle: "击杀骷髅马获取不死之魂合成获得"
+			tasks: [{
+				id: "0B2D33B23F8FD91C"
+				item: {
+					Count: 1b
+					id: "endrem:undead_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 42.5d
+			y: -11.0d
+		}
+		{
+			description: [""]
+			id: "765E5C366E0F492F"
+			rewards: [{
+				id: "0DDB5F365D904C0A"
+				item: "lightmanscurrency:coin_netherite"
+				type: "item"
+			}]
+			subtitle: "击杀女巫有概率会掉巫瞳，和末影之眼合成既可获得"
+			tasks: [{
+				id: "506738D7DCC5D8C7"
+				item: {
+					Count: 1b
+					id: "endrem:witch_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "女巫之眼"
+			x: 43.5d
+			y: -11.0d
+		}
+		{
+			description: [""]
+			id: "5595892B535A171F"
+			rewards: [{
+				id: "16A8F7448A3191DC"
+				item: "lightmanscurrency:coin_netherite"
+				type: "item"
+			}]
+			subtitle: "和大师级牧师交易获得"
+			tasks: [{
+				id: "113349670E2C20A4"
+				item: {
+					Count: 1b
+					id: "endrem:evil_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 44.5d
+			y: -11.0d
+		}
+		{
+			description: [""]
+			id: "256EE96713CABFDF"
+			rewards: [{
+				id: "3DA7BA0C0ADD006B"
+				item: "lightmanscurrency:coin_netherite"
+				type: "item"
+			}]
+			subtitle: "击杀凋零掉一个"
+			tasks: [{
+				id: "20677B9232564030"
+				item: {
+					Count: 1b
+					id: "endrem:wither_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 45.5d
+			y: -11.0d
+		}
+		{
+			description: ["探险家指南针搜索&9ocean monument"]
+			id: "3A4E3475EED808C3"
+			rewards: [{
+				id: "28CB8F75418F44BE"
+				item: "lightmanscurrency:coin_netherite"
+				type: "item"
+			}]
+			subtitle: "击杀远古守卫者有概率掉落"
+			tasks: [{
+				id: "73844B194087EE6E"
+				item: {
+					Count: 1b
+					id: "endrem:guardian_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 46.5d
+			y: -11.0d
+		}
+		{
+			description: [""]
+			id: "3B3931C2304676C3"
+			rewards: [{
+				id: "5A4BCA877AC24645"
+				item: "lightmanscurrency:coin_netherite"
+				type: "item"
+			}]
+			subtitle: "下界猪灵堡垒箱子有概率开出"
+			tasks: [{
+				id: "5F1BA2B23A96F304"
+				item: {
+					Count: 1b
+					id: "endrem:cursed_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 40.5d
+			y: -10.0d
+		}
+		{
+			description: [""]
+			id: "4C61508661E42767"
+			rewards: [{
+				id: "0AF58AB7DE289BC2"
+				item: "lightmanscurrency:coin_netherite"
+				type: "item"
+			}]
+			subtitle: "击杀唤魔者有概率掉落"
+			tasks: [{
+				id: "5D0FB045B26C1F4A"
+				item: {
+					Count: 1b
+					id: "endrem:magical_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 41.5d
+			y: -10.0d
+		}
+		{
+			id: "6B789B8DDCA1D137"
+			rewards: [{
+				id: "74B968849F002418"
+				item: {
+					Count: 1b
+					id: "endrem:cold_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "真找不到就换吧"
+			tasks: [{
+				consume_items: true
+				id: "581CAD6483C19C31"
+				item: {
+					Count: 1b
+					id: "endrem:witch_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 40.5d
+			y: -9.0d
+		}
+		{
+			id: "7402C13A9BE735E7"
+			rewards: [{
+				id: "1DBCE2E9675BBC3E"
+				item: {
+					Count: 1b
+					id: "endrem:exotic_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "实在找不到就换吧"
+			tasks: [{
+				consume_items: true
+				id: "3F7B47404DD5640C"
+				item: {
+					Count: 1b
+					id: "endrem:cryptic_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 41.5d
+			y: -9.0d
+		}
+		{
+			id: "6820F6767C08F29D"
+			rewards: [{
+				id: "593489CA3DC57F75"
+				item: {
+					Count: 1b
+					id: "endrem:corrupted_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "真找不到就换吧"
+			tasks: [{
+				consume_items: true
+				id: "3901594EF2F160D8"
+				item: {
+					Count: 1b
+					id: "endrem:old_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 42.5d
+			y: -9.0d
+		}
+		{
+			id: "3B446EA40E64DC7E"
+			rewards: [{
+				id: "5A28963021EC3793"
+				item: {
+					Count: 1b
+					id: "endrem:black_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "真找不到就换吧"
+			tasks: [{
+				consume_items: true
+				id: "38101F077A444027"
+				item: {
+					Count: 1b
+					id: "endrem:magical_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 43.5d
+			y: -9.0d
+		}
+		{
+			id: "19D6875035FD68E0"
+			rewards: [{
+				id: "5764DAFA3A68E01E"
+				item: {
+					Count: 1b
+					id: "endrem:undead_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "真找不到就换吧"
+			tasks: [{
+				consume_items: true
+				id: "383D4D3AF35C535C"
+				item: {
+					Count: 1b
+					id: "endrem:rogue_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 44.5d
+			y: -9.0d
+		}
+		{
+			icon: "born_in_chaos_v1:death_totem"
+			id: "3A874DD5A17064D1"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "49124BC688827EE0"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6FB40CA194BD6F12"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					count: 2
+					id: "71D47065FB2A3F63"
+					item: "duckmoney:bundle5"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3C4C101F590F8667"
+					table_id: 7906379700992951605L
+					type: "random"
+				}
+			]
+			tasks: [{
+				entity: "blue_skies:starlit_crusher"
+				id: "23549D9C4B4D3891"
+				type: "kill"
+				value: 1L
+			}]
+			x: 14.0d
+			y: -14.0d
+		}
+		{
+			description: ["寻找监牢  可以按L键查看深谙之园更多成就任务 尝试完成成就"]
+			id: "74BCA5020275D22F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3140ABD6A9D3EF50"
+					table_id: 9035571325655313302L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "630C4FC938D7DACA"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "4968B020D2D371BA"
+				structure: "undergarden:catacombs"
+				type: "structure"
+			}]
+			title: "寻找监牢"
+			x: 31.5d
+			y: 2.5d
+		}
+		{
+			icon: "born_in_chaos_v1:death_totem"
+			id: "537BC13011D00FB1"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "32C249BBD888D51A"
+					table_id: 7906379700992951605L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5EF7D02852E72251"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3075B2C55B403740"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "30AA56B9A4EA8793"
+					item: "duckmoney:bundle2"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "undergarden:forgotten_guardian"
+				id: "455ED59DD0074E45"
+				type: "kill"
+				value: 1L
+			}]
+			x: 32.5d
+			y: 2.5d
+		}
+		{
+			description: ["寻找结构，挖掘破坏中心祭坛,击败boss"]
+			icon: "born_in_chaos_v1:death_totem"
+			id: "67407B5B086D4A8D"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7718235C3498E171"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3EA77BDA32893548"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "13409FCD15E79342"
+					table_id: 7906379700992951605L
+					type: "random"
+				}
+				{
+					id: "4EC9DA78BAEBA131"
+					item: "duckmoney:bundle1"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1F5812F31997E6B2"
+				structure: "bosses_of_mass_destruction:gauntlet_arena"
+				type: "structure"
+			}]
+			title: "寻找结构击败boss"
+			x: 17.0d
+			y: -3.0d
+		}
+		{
+			description: ["寻找稀有结构 使用末影眼激活祭坛"]
+			icon: "born_in_chaos_v1:death_totem"
+			id: "045140F7686E5C10"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "03C9B9B76E640E49"
+					table_id: 7906379700992951605L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "45EE1862B7719C22"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "44421CBCD3DA4BDD"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "2E46BB9FB4BD9B8D"
+					item: "duckmoney:bundle5"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "2F9DEBCFAB74D534"
+					structure: "bosses_of_mass_destruction:obsidilith_arena"
+					type: "structure"
+				}
+				{
+					id: "6264B90F2722FB30"
+					item: "minecraft:ender_eye"
+					type: "item"
+				}
+			]
+			title: "寻找结构击杀boss"
+			x: 45.5d
+			y: -13.0d
+		}
+	]
+	subtitle: ["LV15-100"]
+	title: "维度冒险"
+}

@@ -1,0 +1,16 @@
+{
+  "enabledByDefault": false,
+  "xOffset": 10,
+  "sneakXOffset": 9,
+  "sitXOffset": 12,
+  "renderStuckFeatures": true,
+  "vanillaHands": false,
+  "doubleHands": false,
+  "forceActive": false,
+  "autoVanillaHands": [
+    "twilightforest:filled_ore_map",
+    "twilightforest:filled_magic_map",
+    "twilightforest:filled_maze_map",
+    "antiqueatlas:antique_atlas"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+	chapter_groups: [
+		{ id: "036E079C15F2B292", title: "货币商店/换取货币" }
+		{ id: "08BF3784DBFA155F", title: "实用道具/图鉴百科" }
+		{ id: "39BBF18F45BD53C2", title: "种田炒菜/休闲养殖钓鱼拍照" }
+		{ id: "34CCF47C94C2A563", title: "建筑装饰" }
+		{ id: "0934557C74B8973A", title: "拓展包" }
+	]
+}

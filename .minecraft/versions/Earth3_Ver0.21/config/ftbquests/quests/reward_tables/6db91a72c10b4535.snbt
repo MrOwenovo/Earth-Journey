@@ -1,0 +1,35 @@
+{
+	icon: "grimoireofgaia:book_of_memory"
+	id: "6DB91A72C10B4535"
+	loot_size: 1
+	order_index: 23
+	rewards: [
+		{
+			auto: "enabled"
+			command: "/mine_and_slash points give @p talent 1"
+			elevate_perms: true
+			silent: true
+			title: "天赋点x1"
+			type: "command"
+			weight: 90.0f
+		}
+		{
+			auto: "enabled"
+			command: "/mine_and_slash points give @p talent 2"
+			elevate_perms: true
+			silent: true
+			title: "天赋点x2"
+			type: "command"
+			weight: 15.0f
+		}
+		{
+			auto: "enabled"
+			command: "/mine_and_slash points give @p talent 3"
+			elevate_perms: true
+			silent: true
+			title: "天赋点x3"
+			type: "command"
+		}
+	]
+	title: "天赋点奖励"
+}

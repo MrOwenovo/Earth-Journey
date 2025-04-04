@@ -1,0 +1,856 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "1E402844C86A5074"
+	group: ""
+	icon: {
+		Count: 1b
+		id: "aquamirae:coral_lance"
+		tag: {
+			Damage: 0
+			Enchantments: [{
+				id: "minecraft:unbreaking"
+				lvl: 4s
+			}]
+		}
+	}
+	id: "1E402844C86A5074"
+	images: [{
+		click: ""
+		corner: false
+		dev: false
+		height: 15.0d
+		hover: [ ]
+		image: "mmorpg:textures/ftb/mozhang.png"
+		rotation: 0.0d
+		width: 5.0d
+		x: 1.5d
+		y: -3.0d
+	}]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"宝石可以向上合成更高级的宝石"
+				"装备宝石提高装备属性"
+				"拖动宝石到有槽位的武器或防具上强化装备属性"
+			]
+			id: "64C47B97D1763702"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5DA8BC523A693409"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "35FD98FD4A036C32"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "5E03CE2783D50D3A"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "mmorpg:chipped_gems"
+					}
+				}
+				title: "任意宝石"
+				type: "item"
+			}]
+			title: "装备宝石"
+			x: -2.5d
+			y: -2.5d
+		}
+		{
+			description: [
+				"通过开启回收系统，将不需要的装备扔出去,捡到的装备会自动分解为对应的石头，不加副职业经验"
+				"分解获得的石头可用于合成或修复装备耐久"
+				"也可制作回收站：手动分解装备 回收站可连接漏斗箱子  半自动分解装备"
+				"{image:mmorpg:textures/huishou.png width:180 height:100 align:1}"
+			]
+			id: "76245D965657984B"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "67B8FBD7BD65AE2C"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6934E9D6299FB489"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "2CEB60F827543513"
+					item: "duckmoney:bundle1"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "4A64FF2FD5D6E730"
+					item: "mmorpg:stone/0"
+					type: "item"
+				}
+				{
+					id: "0520E6433AC048D9"
+					item: "mmorpg:salvaging_station"
+					type: "item"
+				}
+			]
+			title: "回收系统"
+			x: 4.0d
+			y: -4.5d
+		}
+		{
+			description: [
+				"&4装备强度取决灵魂属性，装备类型基本只有耐久区别&r"
+				"&e人造装备灵魂&r给你的白板装备赋予砍杀灵魂属性"
+				"&e装备等阶&r："
+				"0阶 1-20级"
+				"1阶 20-40级"
+				"2阶 40-60级"
+				"3阶 60-80级"
+				"4阶 80-99级"
+				"5阶 100级"
+				"通过装备制作站 制作"
+			]
+			id: "77427E0B9C207038"
+			rewards: [{
+				id: "311FAF2D9F1D83D4"
+				item: "duckmoney:bundle1"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "1E953FE7BDEE9BD1"
+					item: {
+						Count: 1b
+						id: "mmorpg:stat_soul/family/weapon/common"
+						tag: {
+							level: 1
+							tier: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6BA7CC3F7E1CD584"
+					item: {
+						Count: 1b
+						id: "mmorpg:stat_soul/family/armor/common"
+						tag: {
+							level: 1
+							tier: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "人造装备灵魂与装备等阶"
+			x: 6.0d
+			y: -4.5d
+		}
+		{
+			description: [
+				"赋予技能额外的效果或伤害，技能宝石槽位数量取决于技能的等级以及你角色等级"
+				"提升技能等级和角色等级可以嵌入更多宝石"
+				"在装备技能的界面嵌入宝石"
+				"{image:mmorpg:textures/baoshiguanghuan.png width:160 height:100 align:1}"
+			]
+			icon: "mmorpg:skill_gems/support/str"
+			id: "3B0D080292209BA0"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "21F4AF41D64E29B3"
+					table_id: 981191123936022223L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "08427E8594EB4872"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "318C9B9CE2B80739"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "548EA99B1073324B"
+				type: "checkmark"
+			}]
+			title: "技能辅助宝石"
+			x: -2.5d
+			y: -3.5d
+		}
+		{
+			description: [
+				"&e防具种类&r：&4板甲&r：&4防御&r,减少物理伤害"
+				"&2皮甲&r： &2闪避&r，一定几率躲避伤害"
+				"&9布甲&r： 生成&9魔法盾&r，并缓慢回复，受伤优先消耗护盾"
+				"&e副手种类&r：&4盾牌&r（抵御攻击）"
+				"&2图腾&r（增加闪避几率）"
+				"&9法典&r（增加魔法盾）"
+			]
+			icon: "mmorpg:offhand/tome/diamond"
+			id: "000D5E21EDC32279"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1CA54C7E9E2B23BA"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "373525C0DC1A28B4"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "7F6AC6F5CD57B4FD"
+				type: "checkmark"
+			}]
+			title: "防具种类和副手武器"
+			x: -2.5d
+			y: -4.5d
+		}
+		{
+			description: [
+				"光环增强宝石，为人物提供被动属性加成"
+				"在装备技能界面嵌入光环"
+				"{image:mmorpg:textures/baoshiguanghuan.png width:160 height:100 align:1}"
+			]
+			icon: "mmorpg:skill_gems/aura/str"
+			id: "1C0973F1EFD97132"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "02F808F6E76A6266"
+				table_id: 5889716173591028936L
+				type: "choice"
+			}]
+			tasks: [{
+				id: "2BA452D1BE5B2C2A"
+				type: "checkmark"
+			}]
+			title: "光环增强宝石"
+			x: -1.5d
+			y: -3.5d
+		}
+		{
+			description: [
+				"你可以使用&9/mine_and_slash teams&r 指令组建队伍共享经验或治疗队友"
+				"G键菜单里团队成员组建队伍，共享任务进度"
+			]
+			icon: "paraglider:heart_container"
+			id: "6ACBCC646AAA1C55"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "069FC2500A1FBB24"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "165CC3CF4863E6D4"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "195D6D1C1417C8FF"
+				title: "组队共享"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -4.5d
+		}
+		{
+			description: ["你可以用传送石 在传送石碑之间传送"]
+			id: "2E3C53AD1D2DFE09"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "66CB86DC19652AD4"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7187AD60E88B5B31"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "196B368020FEC21A"
+					item: {
+						Count: 1b
+						id: "waystones:warp_stone"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				icon: "waystones:waystone"
+				id: "1B6546F0F79209B9"
+				observe_type: 0
+				timer: 40L
+				title: "观察传送石"
+				to_observe: "waystones:waystone"
+				type: "observation"
+			}]
+			title: "传送"
+			x: -3.5d
+			y: -3.5d
+		}
+		{
+			description: [" 装备&e稀有度&r，决定了随机属性上限，和拥有的宝石槽位。稀有度排名：&7普通&r、&a少见&r、&9珍稀&r、&d史诗&r、&6传说&r、&5神话&r、&c独特&r和&e符文之语"]
+			icon: {
+				Count: 1b
+				id: "minecraft:diamond_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "0E9983B7E1763622"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "710C6C5CB9EF9566"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "50EACE42FCA55371"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "02115978FC4A1AA4"
+				title: "装备稀有度品级"
+				type: "checkmark"
+			}]
+			x: -3.5d
+			y: -4.5d
+		}
+		{
+			description: ["对装备使用 几率开孔成功"]
+			id: "71FBC3BC29F5840E"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "382E81319DBC3563"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "32AF8CAA5D8F90BC"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "3A01A6FC73E53683"
+					item: "mmorpg:gems/tourmaline/0"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3378D25013529601"
+				item: "mmorpg:currency/socket_adder"
+				type: "item"
+			}]
+			title: "装备开孔"
+			x: -3.5d
+			y: -2.5d
+		}
+		{
+			description: ["将对应稀有度的含有砍杀属性的装备，破坏掉，但提取出属性灵魂，用于转移属性,，举例~神话布帽子提取出来会得到一个白板的灵魂，不要右键使用！！你做一个更好的装备，比如下界合金头盔，把刚取出来的灵魂拖动到下界合金头盔上，这样下界合金头盔就继承了布帽子的所有属性和词条（不包括原版附魔）"]
+			id: "25588A449AB8D8DA"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "71BEC9EF4BA39CC5"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "00E6992960A13953"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "65B86A1B6E468220"
+				item: "mmorpg:soul_extractor/uncommon"
+				type: "item"
+			}]
+			title: "装备灵魂提取"
+			x: -3.5d
+			y: -0.5d
+		}
+		{
+			description: ["将含有灵魂属性的装备清除灵魂以及属性，保留原装备和原版附魔变为白板"]
+			id: "7B9538AB98D81EDE"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "37E35D1C739C52DD"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "478B3A6E7339B393"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "7731EACD5D887403"
+				item: "mmorpg:soul_cleaner"
+				type: "item"
+			}]
+			title: "装备灵魂清除"
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			description: [
+				"H键页面佩戴珠宝给予人物被动属性加成"
+				"怪物掉落或宝箱内获取珠宝"
+			]
+			icon: "mmorpg:jewel/dex"
+			id: "6087F7A44EB52EAA"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6D90C8F3DAACC58E"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "35DAA2807DF46A3D"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "3A9DF29FC40A6C83"
+				type: "checkmark"
+			}]
+			title: "珠宝"
+			x: -2.5d
+			y: -1.5d
+		}
+		{
+			description: [
+				"用于制作人造灵魂，武器附魔，食物，制作药水"
+				"人造灵魂打造强力装备，武器附魔提升装备数值"
+				"药水和食物可以提高人物属性，经验加成等"
+				"等阶越高效果越强！"
+				"制造对应副职业道具所需制作等级："
+				"0阶要求0~19级"
+				"1阶要求20~39级"
+				"2阶要求40~59级"
+				"3阶要求60~79级"
+				"4阶要求80~99级"
+				"5阶要求100级"
+			]
+			id: "12F81452BB09079A"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "709B69147952ABC9"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "63D826A766D9D256"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "03D32F51D4F772A8"
+					item: "mmorpg:cooking_station"
+					type: "item"
+				}
+				{
+					id: "42B2E881EEE122FA"
+					item: "mmorpg:alchemy_station"
+					type: "item"
+				}
+				{
+					id: "2A2E80B8BA0A46DB"
+					item: "mmorpg:gear_crafting_station"
+					type: "item"
+				}
+				{
+					id: "36190CA321401564"
+					item: "mmorpg:enchanting_station"
+					type: "item"
+				}
+			]
+			title: "开始你的副职业制造材料"
+			x: 5.0d
+			y: -4.5d
+		}
+		{
+			description: [
+				"灵性魔石用于提升装备属性"
+				"灵性专精用于锁定获取对应阶段的副职业材料掉落"
+				"通过装备制作站  制作物品"
+			]
+			id: "22454340B38A84EB"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7946FB9240505586"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "48DF583F84F514D7"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "0BA45239635A581B"
+					item: "mmorpg:currency/sharpening_stone0"
+					type: "item"
+				}
+				{
+					id: "20AD674B63D11D9D"
+					item: "mmorpg:currency/mastery_seal0"
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: -3.5d
+		}
+		{
+			description: ["把插槽提取工具拖动到装备上可提取装备上的符文或者宝石，该道具可在百货商店购买"]
+			id: "0DA84F7C9A467930"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "72825D2EDD6A0BE4"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "102431C7C2A6F27B"
+				item: "mmorpg:socket_extractor"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			description: ["拿在手里右键使用，然后用10个普通石头拖到上面进行升级既可获得随机词条，再然后用10个少见头升级，再用10个珍惜石头升级获得第二个词条，依次升级到传说会有3个词条，不推荐升级到神话，性价比太低，词条最多3个！"]
+			id: "23A6CD3EC0B2A9A9"
+			rewards: [{
+				count: 10
+				id: "157FC519BAD6E0D0"
+				item: "mmorpg:stone/0"
+				type: "item"
+			}]
+			tasks: [{
+				id: "296627C7EF3548AD"
+				item: "mmorpg:jewel/unique_crafted"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			description: [
+				"&4原版保护和伤害类附魔几乎没用了~&r"
+				"使用对应等阶的附魔，将普通附魔拖动到装备上，然后依次是少见附魔，珍惜附魔，史诗附魔，传说附魔，神话附魔，附魔有成功率的，最多附魔10次"
+				"通过附魔站制作物品"
+			]
+			id: "453CCA9991498405"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3985408E5A7259B7"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1CEC5C2278E7DFB5"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			subtitle: "新颖的附魔"
+			tasks: [
+				{
+					id: "44B8B76502291E9F"
+					item: {
+						Count: 1b
+						id: "mmorpg:enchantment/family/weapon/common"
+						tag: {
+							level: 1
+							tier: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2048B600204CEA83"
+					item: {
+						Count: 1b
+						id: "mmorpg:enchantment/family/armor/common"
+						tag: {
+							level: 1
+							tier: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "18AF6C074351EA31"
+					item: {
+						Count: 1b
+						id: "mmorpg:enchantment/family/jewelry/common"
+						tag: {
+							level: 1
+							tier: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "284317B5E85E8FE0"
+					item: {
+						Count: 1b
+						id: "mmorpg:enchantment/family/offhand/common"
+						tag: {
+							level: 1
+							tier: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 5.0d
+			y: -3.5d
+		}
+		{
+			description: [
+				"食物能增加你经验获取和掉落物以及属性"
+				"通过烹饪站制作"
+			]
+			id: "327318A1C2DC9DA6"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "40E9067D98291BA8"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "70D1B334E9A760C3"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "585E38F712882687"
+					item: {
+						Count: 1b
+						id: "mmorpg:seafood/lesser_loot"
+						tag: {
+							level: 1
+							tier: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "47FEC48BD58714E1"
+					item: {
+						Count: 1b
+						id: "mmorpg:seafood/lesser_exp"
+						tag: {
+							level: 1
+							tier: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "制作食物"
+			x: 4.0d
+			y: -2.5d
+		}
+		{
+			description: [
+				"水晶通过挖矿（只要是矿都可以）有几率获得"
+				"是挖矿与砍杀的重要合成材料"
+			]
+			id: "777F2793905856E0"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2291330A6B9B46BA"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2343D2D049A381BB"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "66FE603D1799C2F9"
+					item: "mmorpg:rare_mats/mining/lesser"
+					type: "item"
+				}
+				{
+					id: "6E0ED7E8D6A5CCCB"
+					item: "mmorpg:rare_mats/mining/medium"
+					type: "item"
+				}
+				{
+					id: "12B87B88C9125AB6"
+					item: "mmorpg:rare_mats/mining/greater"
+					type: "item"
+				}
+			]
+			title: "收集水晶"
+			x: 5.0d
+			y: -2.5d
+		}
+		{
+			description: [
+				"将带有槽位的武器镶嵌符文，按顺序将&9Nos，Fey&r拖动到武器上既可获得&e符文之语（钢）&r效果，更多符文之语请按H打开左上角百科查看符文之语种类和所需符文"
+				"{image:mmorpg:textures/fuwenzhiyu.png width:160 height:100 align:1}"
+			]
+			id: "7C3EA3D12012BFB8"
+			rewards: [
+				{
+					id: "70D3C0FF546F2575"
+					item: "mmorpg:runes/nos"
+					type: "item"
+				}
+				{
+					id: "754D369A2E0AEED4"
+					item: "mmorpg:runes/fey"
+					type: "item"
+				}
+			]
+			subtitle: "符文之语"
+			tasks: [
+				{
+					id: "412DEA23B8A87095"
+					item: "mmorpg:runes/nos"
+					type: "item"
+				}
+				{
+					id: "74B1CD9EFA6108D4"
+					item: "mmorpg:runes/fey"
+					type: "item"
+				}
+			]
+			title: "强化你的武器装备"
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			description: [
+				"&e地图只掉落普通品质地图，需要使用地图品质球来升级冒险地图品质"
+				"更高品质地图，将获得更好的装备战利品，同时难度也更高"
+				"&e升级球可以通过装备武器枪械抽奖里获取"
+			]
+			id: "4794F9D22908B7A2"
+			rewards: [{
+				count: 2
+				id: "578B557189CBEB99"
+				item: "mmorpg:currency/map_rarity_upgrade"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4CF0CF02039F5898"
+				item: "mmorpg:currency/map_rarity_upgrade"
+				type: "item"
+			}]
+			title: "升级冒险地图品质，获取更丰厚奖励"
+			x: -3.5d
+			y: -1.5d
+		}
+		{
+			description: ["各种重置药水 通过炼金站制作"]
+			id: "02D39A36C8F467A3"
+			tasks: [
+				{
+					id: "5E97183DBB6918BF"
+					item: "mmorpg:potions/reset_spells"
+					type: "item"
+				}
+				{
+					id: "5811AD6F65EE3638"
+					item: {
+						Count: 1b
+						id: "mmorpg:potion/health/1"
+						tag: {
+							level: 1
+							tier: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "34969CFA18B1445F"
+					item: {
+						Count: 1b
+						id: "mmorpg:buff_potion/lesser_crit"
+						tag: {
+							level: 1
+							tier: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "药水专精"
+			x: 6.0d
+			y: -3.5d
+		}
+	]
+	title: "挖砍装备进阶/副职业"
+}

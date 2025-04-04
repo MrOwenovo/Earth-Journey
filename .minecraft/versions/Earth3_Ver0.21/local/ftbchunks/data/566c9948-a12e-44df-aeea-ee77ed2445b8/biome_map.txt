@@ -1,0 +1,8 @@
+#7AA biomesoplenty:cold_desert
+#6B9 terralith:cold_shrubland
+#735 biomesoplenty:coniferous_forest
+#67F biomesoplenty:fir_clearing
+#3A0 minecraft:frozen_river
+#1AC terralith:gravel_desert
+#588 terralith:moonlight_valley
+#5FF minecraft:river

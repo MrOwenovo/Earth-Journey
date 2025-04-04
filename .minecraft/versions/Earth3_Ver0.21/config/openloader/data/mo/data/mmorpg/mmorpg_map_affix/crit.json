@@ -1,0 +1,19 @@
+{
+  "affected": "Mobs",
+  "id": "crit",
+  "stats": [
+    {
+      "type": "FLAT",
+      "max": 15.0,
+      "min": 5.0,
+      "stat": "critical_hit"
+    },
+    {
+      "type": "FLAT",
+      "max": 100.0,
+      "min": 33.0,
+      "stat": "critical_damage"
+    }
+  ],
+  "weight": 1000
+}

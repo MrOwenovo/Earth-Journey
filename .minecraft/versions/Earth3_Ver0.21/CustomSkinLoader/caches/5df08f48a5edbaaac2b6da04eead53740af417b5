@@ -1,0 +1,9 @@
+{
+  "id" : "ed21cb5cf66a4e26abf0f209f7169751",
+  "name" : "Kamefrede",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0MzM4NDk4NTE3MywKICAicHJvZmlsZUlkIiA6ICJlZDIxY2I1Y2Y2NmE0ZTI2YWJmMGYyMDlmNzE2OTc1MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJLYW1lZnJlZGUiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTU3NzNjZWQ4YmEzMmVlY2U0OTgzZmI1YTRiNWMzMmZiYzA0YjBkZjRlZjRmM2IxMTdkZjI2YmU4NDQ3ZmZmMSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

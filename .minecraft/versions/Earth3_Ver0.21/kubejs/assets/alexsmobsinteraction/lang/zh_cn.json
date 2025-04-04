@@ -1,0 +1,25 @@
+{
+  "item.alexsmobsinteraction.swatter": "苍蝇拍",
+  "alexsmobsinteraction.itemTabalexsmobsinteraction": "Alex's Mob's Interaction",
+
+  "alexsmobsinteraction.potion.skreeching": "唤醒.",
+  "effect.alexsmobsinteraction.skreeching.description": "效果消失后在周围生成监守者",
+  "item.minecraft.splash_potion.effect.skreeching": "喷溅型贱叫状态药水",
+  "item.minecraft.tipped_arrow.effect.skreeching": "贱叫状态之箭",
+  "item.minecraft.lingering_potion.effect.skreeching": "滞留型贱叫状态",
+  "item.minecraft.potion.effect.skreeching": "贱叫状态药水",
+
+  "alexsmobsinteraction.potion.gusting": "沙风阵",
+  "effect.alexsmobsinteraction.gusting.description": "免疫沙风怪并在周围生成一群小沙风怪",
+  "item.minecraft.splash_potion.effect.gusting": "喷溅型沙风阵药水",
+  "item.minecraft.tipped_arrow.effect.gusting": "沙风阵之箭",
+  "item.minecraft.lingering_potion.effect.gusting": "滞留型沙风阵药水",
+  "item.minecraft.potion.effect.gusting": "沙风阵药水",
+  "alexsmobsinteraction.potion.long_gusting": "沙风阵",
+  "effect.alexsmobsinteraction.long_gusting.description": "免疫沙风怪并在玩家周围生成一群小沙风怪",
+  "item.minecraft.splash_potion.effect.long_gusting": "喷溅型沙风阵药水",
+  "item.minecraft.tipped_arrow.effect.long_gusting": "沙风阵之箭",
+  "item.minecraft.lingering_potion.effect.long_gusting": "滞留型沙风阵药水",
+  "item.minecraft.potion.effect.long_gusting": "沙风阵药水"
+}
+

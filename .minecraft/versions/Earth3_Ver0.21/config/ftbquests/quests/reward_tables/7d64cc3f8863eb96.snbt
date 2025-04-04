@@ -1,0 +1,65 @@
+{
+	id: "7D64CC3F8863EB96"
+	loot_size: 1
+	order_index: 5
+	rewards: [
+		{
+			auto: "enabled"
+			command: "/mine_and_slash give exp @p 500"
+			elevate_perms: true
+			icon: "cagedmobs:experience_orb"
+			silent: true
+			title: "挖砍经验500"
+			type: "command"
+			weight: 68.0f
+		}
+		{
+			auto: "enabled"
+			command: "/mine_and_slash give exp @p 600"
+			elevate_perms: true
+			icon: "cagedmobs:experience_orb"
+			silent: true
+			title: "挖砍经验600"
+			type: "command"
+			weight: 48.0f
+		}
+		{
+			command: "/mine_and_slash give exp @p 1200"
+			icon: "grimoireofgaia:experience_diamond"
+			title: "挖砍经验1200"
+			type: "command"
+			weight: 25.0f
+		}
+		{
+			auto: "enabled"
+			command: "/mine_and_slash give exp @p 1500"
+			elevate_perms: true
+			icon: "grimoireofgaia:experience_diamond"
+			silent: true
+			title: "挖砍经验1500"
+			type: "command"
+			weight: 10.0f
+		}
+		{
+			auto: "enabled"
+			command: "/mine_and_slash give exp @p 1000"
+			elevate_perms: true
+			icon: "grimoireofgaia:experience_diamond"
+			silent: true
+			title: "挖砍经验1000"
+			type: "command"
+			weight: 32.0f
+		}
+		{
+			auto: "enabled"
+			command: "/mine_and_slash give exp @p 2500"
+			elevate_perms: true
+			icon: "grimoireofgaia:experience_diamond"
+			silent: true
+			title: "挖砍经验2500"
+			type: "command"
+			weight: 2.0f
+		}
+	]
+	title: "随机挖砍经验"
+}

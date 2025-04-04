@@ -1,0 +1,710 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "7AFD4FDE87D5ADB1"
+	group: "08BF3784DBFA155F"
+	icon: "lootr:trophy"
+	id: "7AFD4FDE87D5ADB1"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "55A106EC6B1EE9DC"
+			rewards: [{
+				id: "110D68E8E995E5D5"
+				item: "lightmanscurrency:coin_netherite"
+				type: "item"
+			}]
+			subtitle: "小试牛刀"
+			tasks: [{
+				id: "2E6A007A98F44DA2"
+				stat: "minecraft:mob_kills"
+				type: "stat"
+				value: 100
+			}]
+			x: -2.5d
+			y: -1.0d
+		}
+		{
+			id: "04A5620106FB9866"
+			rewards: [{
+				count: 20
+				id: "00B64AE71DD759A2"
+				item: "lightmanscurrency:coin_netherite"
+				type: "item"
+			}]
+			subtitle: "看我横扫千军！"
+			tasks: [{
+				id: "000EDB5A176AD484"
+				stat: "minecraft:mob_kills"
+				type: "stat"
+				value: 1000
+			}]
+			x: -2.5d
+			y: 0.5d
+		}
+		{
+			id: "71AB6F65ABA20A87"
+			rewards: [{
+				count: 64
+				id: "553790B72FAA69AF"
+				item: "lightmanscurrency:coin_netherite"
+				type: "item"
+			}]
+			subtitle: "一骑当千，万夫莫敌"
+			tasks: [{
+				id: "2C74CE76FE6D57CD"
+				stat: "minecraft:mob_kills"
+				type: "stat"
+				value: 5000
+			}]
+			x: -2.5d
+			y: 2.0d
+		}
+		{
+			description: [""]
+			id: "3F298DA82343F9C6"
+			rewards: [{
+				count: 64
+				id: "03CD783DD451C1AA"
+				item: "mmorpg:stone/5"
+				type: "item"
+			}]
+			subtitle: "屠戮生灵~"
+			tasks: [{
+				id: "303192D3132CDBD4"
+				stat: "minecraft:mob_kills"
+				type: "stat"
+				value: 100000
+			}]
+			x: -2.5d
+			y: 3.5d
+		}
+		{
+			description: [""]
+			hide: false
+			id: "257F6B9E49831E84"
+			rewards: [
+				{
+					id: "71923138FF53A2C5"
+					item: "duckmoney:bundle1000"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "1373A8AD8B3D5F79"
+					item: "mmorpg:stone/5"
+					type: "item"
+				}
+			]
+			secret: true
+			size: 1.5d
+			subtitle: "百折不挠"
+			tasks: [{
+				id: "40ABB3537ABD52AB"
+				stat: "minecraft:deaths"
+				type: "stat"
+				value: 100
+			}]
+			title: "您就是莱月昴？"
+			x: 0.0d
+			y: -7.5d
+		}
+		{
+			description: ["击杀暮色所有BOSS"]
+			hide: false
+			id: "1AE7F76EF1F55C5E"
+			rewards: [
+				{
+					id: "1B9740FD8CF78093"
+					item: {
+						Count: 1b
+						id: "lootbag:frost_wand"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "704B97865249D8C1"
+					item: {
+						Count: 1b
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:unbreaking"
+								lvl: 3s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "481F2A42A61C0CB9"
+					item: {
+						Count: 1b
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "lightmanscurrency:money_mending"
+								lvl: 1s
+							}]
+						}
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			subtitle: "暮色森林统治者"
+			tasks: [
+				{
+					entity: "twilightforest:hydra"
+					id: "52CC00543B4936E7"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "twilightforest:naga"
+					id: "3167D805D0C4B069"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "twilightforest:alpha_yeti"
+					id: "08321A54D3CFE814"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "twilightforest:snow_queen"
+					id: "0DC4365A8AD44CFD"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "graveyard:lich"
+					id: "6A6BCCB030F6CD7C"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "twilightforest:snow_queen"
+					id: "3B99BC1C687455DB"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "grimoireofgaia:minotaurus"
+					id: "36A08A5964BABC75"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "twilightforest:ur_ghast"
+					id: "384709C87389593E"
+					type: "kill"
+					value: 1L
+				}
+			]
+			title: "暮光行者"
+			x: -4.5d
+			y: -4.0d
+		}
+		{
+			id: "29561E2655972319"
+			tasks: [{
+				id: "2A10D762D614FC34"
+				title: "待更新"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: 3.5d
+		}
+		{
+			description: ["你已来到这个世界一百天了"]
+			id: "7637698335759BEA"
+			rewards: [{
+				id: "53B705B8FC8EC7EB"
+				item: "duckmoney:bundle1000"
+				type: "item"
+			}]
+			secret: true
+			size: 1.5d
+			subtitle: "感谢游玩！"
+			tasks: [{
+				days: 100
+				id: "1D2421EC4EFFE338"
+				type: "questsadditions:days"
+			}]
+			title: "看来是真爱粉"
+			x: -4.5d
+			y: -7.5d
+		}
+		{
+			dependencies: [
+				"1AE7F76EF1F55C5E"
+				"55F37C3D64A797C2"
+				"4F90A1591C76DED2"
+			]
+			description: ["替身地藏右键女仆，使女仆无敌！&d（一次性道具，请决定好给哪个女仆用）"]
+			hide: false
+			id: "4867B9693CB379DD"
+			rewards: [{
+				id: "54F9E2E7AEB03D07"
+				item: "touhou_little_maid:substitute_jizo"
+				type: "item"
+			}]
+			size: 1.5d
+			subtitle: "谁说女仆不能战斗了？"
+			tasks: [{
+				id: "65216BD1FD376342"
+				type: "checkmark"
+			}]
+			title: "无敌金身！"
+			x: -2.25d
+			y: -6.0d
+		}
+		{
+			description: ["收集全部枪械"]
+			id: "0BCCA43A9AD93877"
+			rewards: [{
+				id: "566B6DF6D06D4A71"
+				type: "xp"
+				xp: 10000
+			}]
+			size: 1.5d
+			subtitle: "枪械爱好者"
+			tasks: [
+				{
+					id: "6F20FE9769CB6D31"
+					item: {
+						Count: 1b
+						id: "cgm:pistol"
+						tag: {
+							AmmoCount: 16
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3546F2DC7C85F355"
+					item: {
+						Count: 1b
+						id: "cgm:machine_pistol"
+						tag: {
+							AmmoCount: 80
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5CDF56A4A5F79029"
+					item: {
+						Count: 1b
+						id: "cgm:rifle"
+						tag: {
+							AmmoCount: 10
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "100468809241C453"
+					item: {
+						Count: 1b
+						id: "cgm:assault_rifle"
+						tag: {
+							AmmoCount: 40
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "01B7D1E04B131FDA"
+					item: {
+						Count: 1b
+						id: "cgm:heavy_rifle"
+						tag: {
+							AmmoCount: 4
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "105163C2A36A2C35"
+					item: {
+						Count: 1b
+						id: "cgm:grenade_launcher"
+						tag: {
+							AmmoCount: 1
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5C96C8619BD58F0A"
+					item: {
+						Count: 1b
+						id: "cgm:bazooka"
+						tag: {
+							AmmoCount: 1
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7FFF60B2EE057497"
+					item: {
+						Count: 1b
+						id: "cgm:mini_gun"
+						tag: {
+							AmmoCount: 100
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5BC78E4ED45B8734"
+					item: {
+						Count: 1b
+						id: "cgm:shotgun"
+						tag: {
+							AmmoCount: 8
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "您就是欧皇吗"
+			x: -8.25d
+			y: 2.25d
+		}
+		{
+			description: ["奖励是无限能源插件"]
+			id: "2496808CB1135EE0"
+			rewards: [{
+				count: 256
+				id: "610702DC2E9A9527"
+				item: "grimoireofgaia:fireshard"
+				type: "item"
+			}]
+			size: 1.5d
+			subtitle: "收集全部采掘工具"
+			tasks: [
+				{
+					id: "795877906478F876"
+					item: "mininggadgets:upgrade_silk"
+					type: "item"
+				}
+				{
+					id: "756404B8C68A2C10"
+					item: "mininggadgets:upgrade_size_2"
+					type: "item"
+				}
+				{
+					id: "0F83A65FACC65A40"
+					item: "mininggadgets:upgrade_efficiency_5"
+					type: "item"
+				}
+				{
+					id: "00D74B66BAF5D53C"
+					item: "mininggadgets:upgrade_magnet"
+					type: "item"
+				}
+				{
+					id: "59BB2EF12A542544"
+					item: "mininggadgets:upgrade_fortune_3"
+					type: "item"
+				}
+				{
+					id: "24EE033EEA756A4C"
+					item: "mininggadgets:upgrade_freezing"
+					type: "item"
+				}
+				{
+					id: "7E76D3CDFF2C153D"
+					item: "mininggadgets:upgrade_battery_3"
+					type: "item"
+				}
+				{
+					id: "1D0D36A95017B692"
+					item: "mininggadgets:upgrade_light_placer"
+					type: "item"
+				}
+				{
+					id: "1803822FA566F83C"
+					item: "mininggadgets:upgrade_void_junk"
+					type: "item"
+				}
+				{
+					id: "1122BA8E054BF3B2"
+					item: "mininggadgets:upgrade_range_3"
+					type: "item"
+				}
+				{
+					id: "013AEA958465B0CD"
+					item: {
+						Count: 1b
+						id: "mininggadgets:mininggadget_simple"
+						tag: {
+							battery_tier: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4C903DE5F1DABA01"
+					item: {
+						Count: 1b
+						id: "mininggadgets:mininggadget_fancy"
+						tag: {
+							battery_tier: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "07D9AE3216DA1EBC"
+					item: {
+						Count: 1b
+						id: "mininggadgets:mininggadget"
+						tag: {
+							battery_tier: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "采掘帮手"
+			x: -9.75d
+			y: 2.25d
+		}
+		{
+			description: ["末影守卫，下界合金巨兽，先驱者，利维坦"]
+			hide: false
+			id: "55F37C3D64A797C2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "00ADBC9480DC7710"
+				table_id: 6276753265917583462L
+				type: "loot"
+			}]
+			size: 1.5d
+			subtitle: "击败灾变BOSS！"
+			tasks: [
+				{
+					entity: "cataclysm:ender_guardian"
+					id: "2C09B9A1AC6981E9"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "cataclysm:netherite_monstrosity"
+					id: "334B91CBE6F77967"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "cataclysm:the_harbinger"
+					id: "4FD8835F04ADA0C6"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "cataclysm:the_leviathan"
+					id: "08636AF50AB6C512"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "cataclysm:ancient_remnant"
+					id: "30556EF13D9896F6"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:zombie"
+					id: "297E809968B4F4CE"
+					type: "kill"
+					value: 1L
+				}
+			]
+			title: "灾变之路"
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			description: ["这就结束了？？？"]
+			id: "4F90A1591C76DED2"
+			rewards: [{
+				id: "6409AD4F04999BF9"
+				item: "duckmoney:bundle1000"
+				type: "item"
+			}]
+			size: 1.5d
+			subtitle: "证明实力!"
+			tasks: [{
+				advancement: "stellarity:dragons_den/sacrificial_ritual"
+				criterion: ""
+				id: "000A105593CEF70B"
+				type: "advancement"
+			}]
+			title: "击杀末影龙！"
+			x: -2.25d
+			y: -3.75d
+		}
+		{
+			dependencies: [
+				"2496808CB1135EE0"
+				"0BCCA43A9AD93877"
+			]
+			description: [""]
+			id: "1B1278067036FFEC"
+			rewards: [{
+				id: "54DA936F2E1E21D6"
+				item: "mininggadgets:upgrade_battery_creative"
+				type: "item"
+			}]
+			size: 1.5d
+			subtitle: "再也不担心采掘小帮手没能量"
+			tasks: [{
+				id: "2F33A8B75ED7C0E1"
+				type: "checkmark"
+			}]
+			title: "无限能量！"
+			x: -9.0d
+			y: 0.0d
+		}
+		{
+			description: [""]
+			id: "1C23EAD0875C21A9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3985B538FF8C3D75"
+				table_id: 9035571325655313302L
+				type: "loot"
+			}]
+			size: 1.5d
+			subtitle: "蔚蓝使者"
+			tasks: [
+				{
+					entity: "blue_skies:venom_spider"
+					id: "4FE24502C21B088B"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "blue_skies:starlit_crusher"
+					id: "5ED2522071DA8963"
+					type: "kill"
+					value: 1L
+				}
+			]
+			title: "通关蔚蓝浩空"
+			x: -9.75d
+			y: -3.75d
+		}
+		{
+			description: ["请在背包里放5组下界合金币块既可"]
+			id: "29C19C8478FDBD28"
+			rewards: [{
+				id: "29F7EFCC98E3DC4A"
+				item: "duckmoney:bundle1000"
+				type: "item"
+			}]
+			subtitle: "证明你的实力"
+			tasks: [{
+				count: 320L
+				id: "13CBFC7594263676"
+				item: "lightmanscurrency:coinblock_netherite"
+				type: "item"
+			}]
+			title: "家财万贯"
+			x: -4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"1C23EAD0875C21A9"
+				"4867B9693CB379DD"
+				"1B1278067036FFEC"
+				"387D62F8723C6AA6"
+			]
+			icon: "cagedmobs:creative_upgrade"
+			id: "13BB720F23412A76"
+			rewards: [{
+				id: "6C15C3956204DACA"
+				item: "cagedmobs:creative_upgrade"
+				type: "item"
+			}]
+			subtitle: "生物笼最终升级"
+			tasks: [{
+				id: "5753DC1839925E4B"
+				type: "checkmark"
+			}]
+			x: -9.0d
+			y: -5.5d
+		}
+		{
+			description: ["搜集所有暮色中和树木有关的道具，具体按L打开进度，查看暮色的任务说明"]
+			id: "387D62F8723C6AA6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6BC599343EA15988"
+				table_id: 8278938215601235541L
+				type: "choice"
+			}]
+			size: 1.5d
+			subtitle: "最难的收集任务"
+			tasks: [{
+				advancement: "twilightforest:arborist"
+				criterion: ""
+				id: "4DA1E4C47778CC87"
+				type: "advancement"
+			}]
+			title: "疯狂树木学家"
+			x: -8.25d
+			y: -3.75d
+		}
+		{
+			description: [" &e向普通原版僵尸  投掷一瓶  力量喷溅药水  会发生什么？"]
+			icon: {
+				Count: 1b
+				id: "minecraft:splash_potion"
+				tag: {
+					Potion: "minecraft:water"
+				}
+			}
+			id: "74061C2CCD0B5459"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "193ECCE486E4EED3"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4A44A36710B94D2E"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "054037C8766FB76A"
+					table_id: 7906379700992951605L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "2A4662E7CB58FD42"
+				type: "checkmark"
+			}]
+			title: "更强大的力量"
+			x: -10.0d
+			y: 4.5d
+		}
+	]
+	title: "成就"
+}

@@ -1,0 +1,42 @@
+{
+  "base_gear": "cloth_pants",
+  "guid": "weight_of_leadership",
+  "flavor_text": "",
+  "force_item_id": "",
+  "min_tier": 40,
+  "rarity": "unique",
+  "replaces_name": true,
+  "unique_stats": [
+    {
+      "type": "PERCENT",
+      "max": 120.0,
+      "min": 80.0,
+      "stat": "gear_defense"
+    },
+    {
+      "type": "PERCENT",
+      "max": 20.0,
+      "min": 15.0,
+      "stat": "energy"
+    },
+    {
+      "type": "PERCENT",
+      "max": 20.0,
+      "min": 15.0,
+      "stat": "energy_regen"
+    },
+    {
+      "type": "FLAT",
+      "max": 30.0,
+      "min": 30.0,
+      "stat": "summon_damage"
+    },
+    {
+      "type": "MORE",
+      "max": -15.0,
+      "min": -15.0,
+      "stat": "health"
+    }
+  ],
+  "weight": 1000
+}

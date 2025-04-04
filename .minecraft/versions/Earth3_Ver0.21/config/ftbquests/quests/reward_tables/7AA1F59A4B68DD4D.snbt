@@ -1,0 +1,19 @@
+{
+	id: "7AA1F59A4B68DD4D"
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{ item: "yuushya:idol_gift_box" }
+		{ item: "yuushya:plain_gift_box" }
+		{ item: "yuushya:food_gift_box", weight: 2.0f }
+		{ item: "yuushya:electrician_gift_box" }
+		{ item: "yuushya:businessman_gift_box" }
+		{ item: "yuushya:gardener_gift_box", weight: 2.0f }
+		{ item: "yuushya:carver_gift_box", weight: 2.0f }
+		{ item: "yuushya:carpenter_gift_box", weight: 2.0f }
+		{ item: "yuushya:cook_gift_box" }
+		{ item: "yuushya:cat_lover_gift_box" }
+		{ item: "yuushya:painter_gift_box" }
+	]
+	title: "盲盒"
+}

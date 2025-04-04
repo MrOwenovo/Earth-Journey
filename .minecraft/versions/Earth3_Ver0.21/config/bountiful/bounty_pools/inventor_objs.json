@@ -1,0 +1,947 @@
+{
+	"content": {
+		"inventor_rews_sticky_piston": {
+			"type": "item",
+			"content": "finsandtails:cooked_bull_crab_claw",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 1100
+		},
+		"inventor_objs_redstone": {
+			"type": "item",
+			"content": "vintagedelight:pickled_egg",
+			"amount": {
+				"min": 2,
+				"max": 48
+			},
+			"unitWorth": 200
+		},
+		"inventor_objs_lever": {
+			"type": "item",
+			"content": "vintagedelight:honey_roasted_peanut",
+			"amount": {
+				"min": 2,
+				"max": 24
+			},
+			"unitWorth": 150,
+			"weightMult": 0.5
+		},
+		"inventor_objs_redstone_torch": {
+			"type": "item",
+			"content": "vintagedelight:pickle",
+			"amount": {
+				"min": 2,
+				"max": 48
+			},
+			"unitWorth": 225
+		},
+		"inventor_objs_redstone_block": {
+			"type": "item",
+			"content": "finsandtails:cooked_bugmeat",
+			"amount": {
+				"min": 2,
+				"max": 6
+			},
+			"unitWorth": 1800
+		},
+		"inventor_objs_hopper": {
+			"type": "item",
+			"content": "finsandtails:cooked_luminous_calamari",
+			"amount": {
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 5000
+		},
+		"inventor_objs_jukebox": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "finsandtails:seafood_soup",
+			"amount": {
+				"min": 1,
+				"max": 3
+			},
+			"unitWorth": 3000
+		},
+
+		"armorer_obj_lava_bucket": {
+            "type": "item",
+            "content": "farmersdelight:fried_rice",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 1800
+        },
+
+        "armorer_obj_leather_helm": {
+            "type": "item",
+            "content": "farmersdelight:barbecue_stick",
+            "amount": {
+                "min": 1,
+                "max": 3
+            },
+            "unitWorth": 1000
+        },
+
+        "armorer_obj_leather_chest": {
+            "type": "item",
+            "content": "brewery:sausage",
+            "amount": {
+                "min": 1,
+                "max": 4
+            },
+            "unitWorth": 1600
+        },
+
+        "armorer_obj_leather_legs": {
+            "type": "item",
+            "content": "farmersdelight:salmon_roll",
+            "amount": {
+                "min": 1,
+                "max": 3
+            },
+            "unitWorth": 1400
+        },
+
+        "armorer_obj_leather_boots": {
+            "type": "item",
+            "content": "farmersdelight:cod_roll",
+            "amount": {
+                "min": 1,
+                "max": 3
+            },
+            "unitWorth": 800
+        },
+
+        "armorer_obj_blast_furnace": {
+            "type": "item",
+            "content": "farmersdelight:kelp_roll_slice",
+            "amount": {
+                "min": 1,
+                "max": 4
+            },
+            "unitWorth": 5000
+        },
+
+        "armorer_obj_lava_bucket_2": {
+            "type": "item",
+            "content": "farmersdelight:pumpkin_soup",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 1000
+        },
+
+		"butcher_obj_chicken": {
+			"type": "item",
+			"content": "brewery:fried_chicken",
+			"amount": {
+				"min": 2,
+				"max": 16
+			},
+			"unitWorth": 70
+		},
+
+		"butcher_obj_egg": {
+			"type": "item",
+			"content": "farmersdelight:fried_egg",
+			"amount": {
+				"min": 4,
+				"max": 32
+			},
+			"unitWorth": 50
+		},
+
+		"butcher_obj_porkchop": {
+			"type": "item",
+			"content": "supplementaries:pancake",
+			"amount": {
+				"min": 2,
+				"max": 16
+			},
+			"unitWorth": 145
+		},
+
+		"butcher_obj_rabbit": {
+			"type": "item",
+			"content": "brewery:dumplings",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 250
+		},
+
+		"butcher_obj_coal": {
+			"type": "item",
+			"content": "supplementaries:candy",
+			"amount": {
+				"min": 6,
+				"max": 48
+			},
+			"unitWorth": 65
+		},
+
+		"butcher_obj_smoker": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "brewery:whiskey_carrasconlabel",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 650
+		},
+
+		"butcher_obj_mutton": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "brewery:pretzel",
+			"amount": {
+				"min": 3,
+				"max": 16
+			},
+			"unitWorth": 145
+		},
+        "cleric_obj_gold_ingot": {
+            "type": "item",
+            "content": "bakery:croissant",
+            "amount": {
+                "min": 1,
+                "max": 7
+            },
+            "unitWorth": 800
+        },
+
+        "cleric_obj_magma_cream": {
+            "type": "item",
+            "content": "bakery:linzer_tart_slice",
+            "amount": {
+                "min": 2,
+                "max": 6
+            },
+            "unitWorth": 450
+        },
+
+        "cleric_obj_blaze_powder": {
+            "type": "item",
+            "content": "minecraft:blaze_powder",
+            "amount": {
+                "min": 2,
+                "max": 4
+            },
+            "unitWorth": 400
+        },
+
+        "cleric_obj_blaze_rod": {
+            "type": "item",
+            "content": "bakery:vegetable_sandwich",
+            "amount": {
+                "min": 2,
+                "max": 4
+            },
+            "unitWorth": 800
+        },
+
+        "cleric_obj_potion_water": {
+            "type": "item",
+            "content": "bakery:bun",
+            "amount": {
+                "min": 2,
+                "max": 8
+            },
+            "unitWorth": 100
+        },
+
+        "cleric_obj_potion_awkward": {
+            "type": "item",
+            "content": "bakery:waffle",
+            "amount": {
+                "min": 2,
+                "max": 6
+            },
+            "unitWorth": 200
+        },
+
+        "cleric_obj_rabbit_foot": {
+            "type": "item",
+			"rarity": "UNCOMMON",
+            "content": "bakery:pudding",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 500
+        },
+
+        "cleric_obj_cauldron": {
+            "type": "item",
+            "rarity": "UNCOMMON",
+            "content": "bakery:jam_roll",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 4200
+        },
+
+        "cleric_obj_glass_bottle": {
+            "type": "item",
+			"rarity": "RARE",
+            "content": "vintagedelight:chocolate_nut_granola_bar",
+            "amount": {
+                "min": 4,
+                "max": 16
+            },
+            "unitWorth": 110
+        },
+
+        "cleric_obj_ghast_tear": {
+            "type": "item",
+            "rarity": "RARE",
+            "content": "brewery:mashed_potatoes",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 1500
+        },
+
+        "cleric_obj_scute": {
+            "type": "item",
+			"rarity": "RARE",
+            "content": "brewery:potato_salad",
+            "amount": {
+                "min": 2,
+                "max": 6
+            },
+            "unitWorth": 250
+        },
+
+        "cleric_obj_nether_wart": {
+            "type": "item",
+			"rarity": "UNCOMMON",
+            "content": "vintagedelight:oatmeal_cookie",
+            "amount": {
+                "min": 10,
+                "max": 40
+            },
+            "unitWorth": 85
+        },
+
+        "cleric_obj_brew_swiftness": {
+            "type": "item",
+            "content": "brewery:beer_barley",
+            "amount": {
+                "min": 1,
+                "max": 3
+            },
+            "unitWorth": 350
+        },
+
+        "cleric_obj_cure_zombie_villager": {
+            "type": "item",
+            "rarity": "EPIC",
+            "content": "brewery:beer_haley",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 3000,
+            "timeMult": 4
+        },
+
+		"farmer_obj_bone_meal": {
+			"type": "item",
+			"content": "bakery:strawberry",
+			"amount": {
+				"min": 4,
+				"max": 48
+			},
+			"unitWorth": 50
+		},
+
+		"farmer_obj_poisonous_potato": {
+			"type": "item",
+			"content": "youkaishomecoming:stinky_tofu",
+			"amount": {
+				"min": 2,
+				"max": 6
+			},
+			"unitWorth": 350
+		},
+
+		"farmer_obj_nether_wart": {
+			"type": "item",
+			"content": "youkaishomecoming:coffee_berries",
+			"rarity": "RARE",
+			"amount": {
+				"min": 4,
+				"max": 36
+			},
+			"unitWorth": 65
+		},
+
+		"farmer_obj_pumpkin": {
+			"type": "item",
+			"content": "youkaishomecoming:mochi",
+			"amount": {
+				"min": 2,
+				"max": 8
+			},
+			"unitWorth": 165
+		},
+
+		"farmer_obj_composter": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "youkaishomecoming:big_popsicle",
+			"amount": {
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 200
+		},
+
+		"farmer_obj_melon": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "youkaishomecoming:doughnut",
+			"amount": {
+				"min": 2,
+				"max": 8
+			},
+			"unitWorth": 250
+		},
+
+		"farmer_obj_melon_slice": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "youkaishomecoming:tofu",
+			"amount": {
+				"min": 2,
+				"max": 32
+			},
+			"unitWorth": 50
+		},
+
+		"farmer_obj_baked_potato": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "youkaishomecoming:redbean",
+			"amount": {
+				"min": 4,
+				"max": 16
+			},
+			"unitWorth": 75
+		},
+
+		"farmer_obj_beetroot_soup": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "youkaishomecoming:pork_rice_ball",
+			"amount": {
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 375
+		},
+
+		"farmer_obj_mushroom_stew": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "youkaishomecoming:tobiko_gunkan",
+			"amount": {
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 300
+		},
+
+		"fisherman_obj_string": {
+            "type": "item",
+            "content": "farmersdelight:tomato",
+            "amount": {
+                "min": 4,
+                "max": 32
+            },
+            "unitWorth": 50
+        },
+
+        "fisherman_obj_coal": {
+            "type": "item",
+            "content": "alexsmobs:boiled_emu_egg",
+            "amount": {
+                "min": 3,
+                "max": 16
+            },
+            "unitWorth": 100
+        },
+
+        "fisherman_obj_trop_fish": {
+            "type": "item",
+            "content": "theducksmod:boiled_duck_egg",
+            "amount": {
+                "min": 1,
+                "max": 6
+            },
+            "unitWorth": 165,
+            "weightMult": 1.5
+        },
+
+        "fisherman_obj_oak_boat": {
+            "type": "item",
+            "rarity": "EPIC",
+            "content": "vintagedelight:pb_j",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 800.0
+        },
+
+        "fisherman_obj_naut_shell": {
+            "type": "item",
+            "rarity": "EPIC",
+            "content": "vintagedelight:deluxe_burger",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 1100.0
+        },
+
+        "fisherman_obj_any_boat": {
+            "type": "item",
+            "content": "vintagedelight:surstromming",
+            "amount": {
+                "min": 1,
+                "max": 4
+            },
+            "unitWorth": 450
+        },
+
+        "fisherman_obj_catch_ench_book": {
+            "type": "item",
+            "content": "vintagedelight:pickle_soup",
+            "amount": {
+                "min": 1,
+                "max": 3
+            },
+            "unitWorth": 350,
+            "timeMult": 2
+        },
+
+        "fletcher_obj_gravel": {
+            "type": "item",
+            "content": "brewery:hops",
+            "amount": {
+                "min": 16,
+                "max": 32
+            },
+            "unitWorth": 30
+        },
+
+        "fletcher_obj_flint": {
+            "type": "item",
+            "content": "bakery:oat",
+            "amount": {
+                "min": 16,
+                "max": 32
+            },
+            "unitWorth": 35
+        },
+
+        "fletcher_obj_target": {
+            "type": "item",
+            "rarity": "UNCOMMON",
+            "content": "bakery:glowberry_pie_slice",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 750
+        },
+
+        "fletcher_obj_fletching_table": {
+            "type": "item",
+            "content": "bakery:strawberry_cake_slice",
+            "amount": {
+                "min": 1,
+                "max": 4
+            },
+            "unitWorth": 400
+        },
+
+        "fletcher_obj_string": {
+            "type": "item",
+			"rarity": "UNCOMMON",
+            "content": "bakery:misslilitu_biscuit",
+            "amount": {
+                "min": 4,
+                "max": 28
+            },
+            "unitWorth": 70
+        },
+
+        "fletcher_obj_feather": {
+            "type": "item",
+			"rarity": "RARE",
+            "content": "brewery:barley",
+            "amount": {
+                "min": 6,
+                "max": 36
+            },
+            "unitWorth": 40
+        },
+
+        "fletcher_obj_tripwire_hook": {
+            "type": "item",
+			"rarity": "EPIC",
+            "content": "brewery:gingerbread",
+            "amount": {
+                "min": 4,
+                "max": 12
+            },
+            "unitWorth": 550
+        },
+
+		"leatherer_obj_leather": {
+            "type": "item",
+            "content": "bakery:cornet",
+            "amount": {
+                "min": 2,
+                "max": 10
+            },
+            "unitWorth": 165,
+            "weightMult": 1.6
+        },
+
+        "leatherer_obj_flint": {
+            "type": "item",
+            "content": "minecraft:glow_berries",
+            "amount": {
+                "min": 16,
+                "max": 32
+            },
+            "unitWorth": 35
+        },
+
+        "leatherer_obj_rabbit_hide": {
+            "type": "item",
+			"rarity": "UNCOMMON",
+            "content": "brewery:gingerbread",
+            "amount": {
+                "min": 1,
+                "max": 12
+            },
+            "unitWorth": 250
+        },
+
+        "leatherer_obj_scute": {
+            "type": "item",
+			"rarity": "RARE",
+            "content": "bakery:chocolate_cake_slice",
+            "amount": {
+                "min": 2,
+                "max": 6
+            },
+            "unitWorth": 250
+        },
+
+        "leatherer_obj_cauldron": {
+            "type": "item",
+            "content": "brewery:beer_wheat",
+            "amount": {
+                "min": 1,
+                "max": 3
+            },
+            "unitWorth": 3000
+        },
+
+		"librarian_obj_paper": {
+            "type": "item",
+            "content": "youkaishomecoming:black_tea_leaves",
+            "amount": {
+                "min": 4,
+                "max": 48
+            },
+            "unitWorth": 45
+        },
+
+        "librarian_obj_bookshelf": {
+            "type": "item",
+            "content": "vintagedelight:meat_pizza_slice",
+            "amount": {
+                "min": 1,
+                "max": 6
+            },
+            "unitWorth": 1500
+        },
+
+        "librarian_obj_sugar_cane": {
+            "type": "item",
+            "content": "vintagedelight:gearo_berry",
+            "amount": {
+                "min": 4,
+                "max": 48
+            },
+            "unitWorth": 40
+        },
+
+        "librarian_obj_book": {
+            "type": "item",
+            "content": "vintagedelight:ghost_pepper",
+            "amount": {
+                "min": 1,
+                "max": 24
+            },
+            "unitWorth": 250
+        },
+
+        "librarian_obj_lectern": {
+            "type": "item",
+            "content": "vintagedelight:cheese_pizza_slice",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 1000
+        },
+
+        "librarian_obj_ink_sac": {
+            "type": "item",
+			"rarity": "UNCOMMON",
+            "content": "youkaishomecoming:soy_sauce_bottle",
+            "amount": {
+                "min": 2,
+                "max": 8
+            },
+            "unitWorth": 200
+        },
+
+        "librarian_obj_writing_book": {
+            "type": "item",
+			"rarity": "UNCOMMON",
+            "content": "youkaishomecoming:roasted_lamprey",
+            "amount": {
+                "min": 1,
+                "max": 3
+            },
+            "unitWorth": 500
+        },
+
+		"mapper_obj_paper": {
+            "type": "item",
+            "content": "minecraft:cookie",
+            "amount": {
+                "min": 12,
+                "max": 48
+            },
+            "unitWorth": 40
+        },
+
+        "mapper_obj_campfire": {
+            "type": "item",
+            "content": "bakery:apple_pie_slice",
+            "amount": {
+                "min": 1,
+                "max": 4
+            },
+            "unitWorth": 250
+        },
+
+        "mapper_obj_quartz": {
+            "type": "item",
+            "rarity": "UNCOMMON",
+            "content": "bakery:baguette",
+            "amount": {
+                "min": 2,
+                "max": 16
+            },
+            "unitWorth": 400
+        },
+
+        "mapper_obj_candles": {
+            "type": "item",
+            "content": "bakery:bread",
+            "amount": {
+                "min": 2,
+                "max": 6
+            },
+            "unitWorth": 250
+        },
+
+        "mapper_obj_glass_pane": {
+            "type": "item",
+            "content": "farmersdelight:sweet_berry_cookie",
+            "amount": {
+                "min": 4,
+                "max": 48
+            },
+            "unitWorth": 100
+        },
+
+        "mapper_obj_glass": {
+            "type": "item",
+            "content": "farmersdelight:honey_cookie",
+            "amount": {
+                "min": 4,
+                "max": 32
+            },
+            "unitWorth": 265
+        },
+
+        "mapper_obj_cartography_table": {
+            "type": "item",
+            "rarity": "UNCOMMON",
+            "content": "farmersdelight:cabbage_rolls",
+            "amount": {
+                "min": 1,
+                "max": 4
+            },
+            "unitWorth": 300
+        },
+
+        "mapper_obj_compass": {
+            "type": "item",
+			"rarity": "UNCOMMON",
+            "content": "farmersdelight:dumplings",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 2500
+        },
+
+		"shepherd_obj_loom": {
+            "type": "item",
+            "content": "youkaishomecoming:avgolemono",
+            "amount": {
+                "min": 1,
+                "max": 4
+            },
+            "unitWorth": 150
+        },
+
+        "shepherd_obj_wool_random": {
+            "type": "item",
+            "content": "youkaishomecoming:senbei",
+            "amount": {
+                "min": 4,
+                "max": 24
+            },
+            "unitWorth": 70,
+            "weightMult": 6.0
+        },
+
+        "shepherd_obj_wool_wildcard": {
+            "type": "item_tag",
+            "content": "vintagedelight:pickled_onion",
+            "amount": {
+                "min": 3,
+                "max": 24
+            },
+            "unitWorth": 55,
+            "weightMult": 4.0
+        },
+
+        "shepherd_obj_banner_random": {
+            "type": "item",
+            "content": "vintagedelight:salted_cod",
+            "amount": {
+                "min": 2,
+                "max": 14
+            },
+            "unitWorth": 400,
+            "weightMult": 4.0
+        },
+
+        "shepherd_obj_banner_wildcard": {
+            "type": "item",
+            "content": "youkaishomecoming:tutu_congee",
+            "amount": {
+                "min": 2,
+                "max": 16
+            },
+            "unitWorth": 350,
+            "weightMult": 4.0
+        },
+
+        "shepherd_obj_bed_wildcard": {
+            "type": "item",
+            "content": "vintagedelight:cucumber_salad",
+            "amount": {
+                "min": 1,
+                "max": 6
+            },
+            "unitWorth": 500
+        },
+
+        "shepherd_obj_gray_dye": {
+            "type": "item",
+            "content": "vintagedelight:salted_salmon",
+            "amount": {
+                "min": 4,
+                "max": 16
+            },
+            "unitWorth": 80
+        },
+
+        "shepherd_obj_black_dye": {
+            "type": "item",
+            "content": "vintagedelight:kimchi",
+            "amount": {
+                "min": 4,
+                "max": 16
+            },
+            "unitWorth": 85
+        },
+
+        "shepherd_obj_light_blue_dye": {
+            "type": "item",
+            "content": "vintagedelight:pickled_pepper",
+            "amount": {
+                "min": 4,
+                "max": 16
+            },
+            "unitWorth": 85
+        },
+
+        "shepherd_obj_lime_dye": {
+            "type": "item",
+            "content": "vintagedelight:pickled_beetroot",
+            "amount": {
+                "min": 4,
+                "max": 16
+            },
+            "unitWorth": 85
+        },
+
+        "shepherd_obj_yellow_dye": {
+            "type": "item",
+			"rarity": "UNCOMMON",
+            "content": "farmersdelight:tomato_sauce",
+            "amount": {
+                "min": 4,
+                "max": 16
+            },
+            "unitWorth": 85
+        },
+
+        "shepherd_obj_red_dye": {
+            "type": "item",
+			"rarity": "UNCOMMON",
+            "content": "farmersdelight:pumpkin_slice",
+            "amount": {
+                "min": 4,
+                "max": 16
+            },
+            "unitWorth": 85
+        }
+	}
+}

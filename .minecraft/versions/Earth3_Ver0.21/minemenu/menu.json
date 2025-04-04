@@ -1,0 +1,124 @@
+{
+  "main": {
+    "0": {
+      "title": "坐下休息",
+      "icon": {
+        "stack": "{Count:1b,id:\"luphieclutteredmod:luphie_imperial_chair\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.sitmod.sit",
+          "toggle": true
+        }
+      }
+    },
+    "1": {
+      "title": "地图设置",
+      "icon": {
+        "stack": "{Count:1b,id:\"biomesoplenty:bop_icon\"}"
+      },
+      "action": {
+        "key": {
+          "key": "gui.xaero_minimap_settings",
+          "toggle": true
+        }
+      }
+    },
+    "2": {
+      "title": "饰品",
+      "icon": {
+        "stack": "{Count:1b,id:\"mmorpg:jewelry/ring/diamond\",tag:{Damage:0}}"
+      },
+      "action": {
+        "key": {
+          "key": "key.curios.open.desc",
+          "toggle": true
+        }
+      }
+    },
+    "3": {
+      "title": "传送点",
+      "icon": {
+        "stack": "{Count:1b,id:\"blue_skies:everdawn_portal\"}"
+      },
+      "action": {
+        "key": {
+          "key": "gui.xaero_waypoints_key",
+          "toggle": true
+        }
+      }
+    },
+    "4": {
+      "title": "钱包",
+      "icon": {
+        "stack": "{Count:1b,id:\"lightmanscurrency:wallet_diamond\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.wallet",
+          "toggle": true
+        }
+      }
+    },
+    "5": {
+      "title": "技能属性菜单",
+      "icon": {
+        "stack": "{Count:1b,id:\"dungeonsweaponry:frost_slayer\",tag:{Damage:0}}"
+      },
+      "action": {
+        "key": {
+          "key": "hub_screen",
+          "toggle": true
+        }
+      }
+    },
+    "6": {
+      "title": "任务",
+      "icon": {
+        "stack": "{Count:1b,id:\"ftbquests:book\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.ftbquests.quests",
+          "toggle": true
+        }
+      }
+    },
+    "7": {
+      "title": "团队成员",
+      "icon": {
+        "stack": "{Count:1b,id:\"twilightforest:player_skull_candle\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.ftbteams.open_gui",
+          "toggle": true
+        }
+      }
+    },
+    "8": {
+      "title": "背包",
+      "icon": {
+        "stack": "{Count:1b,id:\"sophisticatedbackpacks:backpack\"}"
+      },
+      "action": {
+        "key": {
+          "key": "keybind.sophisticatedbackpacks.open_backpack",
+          "toggle": true
+        }
+      }
+    },
+    "9": {
+      "title": "食物均衡",
+      "icon": {
+        "stack": "{Count:1b,id:\"croptopia:corn\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.solapplepie.open_food_book",
+          "toggle": true
+        }
+      }
+    }
+  }
+}

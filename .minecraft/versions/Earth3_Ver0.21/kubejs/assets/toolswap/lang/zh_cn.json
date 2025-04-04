@@ -1,0 +1,7 @@
+{
+  "toolswap.key.toggle_toolswap_mode": "自动切换工具模式",
+  "toolswap.key.toggle_toolswap_notification": "自动切换工具模式",
+  "toolswap.key.toggle_toolswap_notification.state_on": "开",
+  "toolswap.key.toggle_toolswap_notification.state_off": "关",
+  "toolswap.warning": "没有空余位置来保存即将耗尽耐久的工具"
+}

@@ -1,0 +1,16 @@
+{
+	icon: "cgm:medium_scope"
+	id: "5268F9BABFD92C77"
+	loot_size: 1
+	order_index: 12
+	rewards: [
+		{ item: "cgm:short_scope" }
+		{ item: "cgm:medium_scope" }
+		{ item: "cgm:long_scope" }
+		{ item: "cgm:silencer" }
+		{ item: "cgm:light_stock" }
+		{ item: "cgm:tactical_stock" }
+		{ item: "cgm:weighted_stock" }
+	]
+	title: "枪械配件"
+}

@@ -1,0 +1,172 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "05D245A17E9DDFCA"
+	group: "036E079C15F2B292"
+	icon: "yuushya:goods_shelf_milk"
+	id: "05D245A17E9DDFCA"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			icon: "minecraft:dirt"
+			id: "1354D5711A635C77"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "28A205AAB1F5BFE4"
+				table_id: 937556646478981135L
+				type: "choice"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 20L
+				id: "211122F0E3164C95"
+				item: "lightmanscurrency:coin_diamond"
+				type: "item"
+			}]
+			title: "泥土基础建材 "
+			x: 7.5d
+			y: -1.0d
+		}
+		{
+			can_repeat: true
+			icon: "minecraft:blue_orchid"
+			id: "0B5A04F717578867"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "02A2A11AFAE26EF4"
+				table_id: 6398692850525191384L
+				type: "choice"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 20L
+				id: "62D46797898F9602"
+				item: "lightmanscurrency:coin_diamond"
+				type: "item"
+			}]
+			title: "花艺  "
+			x: 7.5d
+			y: -2.0d
+		}
+		{
+			id: "6EE240D2AAA6AECB"
+			tasks: [{
+				id: "1EA2923384BA4B78"
+				title: "待更新"
+				type: "checkmark"
+			}]
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			icon: "touhou_little_maid:mute_bauble"
+			id: "241852A5697C3CA5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0EC7268587E736B7"
+				table_id: 7962748196915798198L
+				type: "random"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 10L
+				disable_toast: true
+				id: "14F76763BC61B566"
+				item: "lightmanscurrency:coin_diamond"
+				type: "item"
+			}]
+			title: "女仆饰品"
+			x: 9.5d
+			y: -2.0d
+		}
+		{
+			can_repeat: true
+			icon: "yuushya:white_blooming_oak_tree"
+			id: "17CC5B9993459834"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7815B5F6CD199C88"
+				table_id: 4879553034132982636L
+				type: "choice"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 15L
+				id: "6963D00C29A3B5E8"
+				item: "lightmanscurrency:coin_diamond"
+				type: "item"
+			}]
+			title: "绿化装饰"
+			x: 9.5d
+			y: -1.0d
+		}
+		{
+			can_repeat: true
+			icon: "mmorpg:socket_extractor"
+			id: "2358360AFF978757"
+			rewards: [{
+				count: 10
+				id: "105C3E673F7BB26A"
+				item: "mmorpg:socket_extractor"
+				type: "item"
+			}]
+			subtitle: "可重复"
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "360D54C0F81647B2"
+				item: "minecraft:lapis_block"
+				type: "item"
+			}]
+			title: "插槽提取工具"
+			x: 6.0d
+			y: -2.0d
+		}
+		{
+			can_repeat: true
+			icon: "mmorpg:stone/5"
+			id: "0651D2C08065A03C"
+			rewards: [{
+				id: "61BA7E9EAEA361D0"
+				item: "mmorpg:stone/5"
+				type: "item"
+			}]
+			subtitle: "装备材料"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "5A089E90C39F665A"
+				item: "lightmanscurrency:coin_netherite"
+				type: "item"
+			}]
+			title: "神话石头"
+			x: 6.0d
+			y: -1.0d
+		}
+		{
+			can_repeat: true
+			description: ["挖矿有概率掉落"]
+			icon: "mmorpg:rare_mats/mining/greater"
+			id: "5E8AEA9753C3D251"
+			rewards: [{
+				id: "79E16C47ACD43B6A"
+				item: "mmorpg:rare_mats/mining/greater"
+				type: "item"
+			}]
+			subtitle: "用于各种装备道具制作"
+			tasks: [{
+				count: 5L
+				id: "6725A5546DCA01BF"
+				item: "lightmanscurrency:coin_netherite"
+				type: "item"
+			}]
+			title: "高级水晶"
+			x: 6.0d
+			y: 0.0d
+		}
+	]
+	title: "百货商店"
+}

@@ -1,0 +1,45 @@
+{
+	icon: {
+		Count: 1b
+		id: "mmorpg:skill_gems/support/str"
+		tag: {
+			mmorpg_skill_gem: "{\"id\":\"burn_chance\",\"type\":\"SUPPORT\",\"perc\":16,\"rar\":\"common\",\"links\":1,\"sal\":true}"
+		}
+	}
+	id: "0D9DE420EEF90ECF"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:skill_gems/support/str"
+				tag: {
+					mmorpg_skill_gem: "{\"id\":\"burn_chance\",\"type\":\"SUPPORT\",\"perc\":16,\"rar\":\"common\",\"links\":1,\"sal\":true}"
+				}
+			}
+			title: "灼烧几率 辅助宝石"
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:skill_gems/support/dex"
+				tag: {
+					mmorpg_skill_gem: "{\"id\":\"health_on_hit\",\"type\":\"SUPPORT\",\"perc\":19,\"rar\":\"common\",\"links\":1,\"sal\":true}"
+				}
+			}
+			title: "击中回血 辅助宝石"
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:skill_gems/support/str"
+				tag: {
+					mmorpg_skill_gem: "{\"id\":\"bleed_chance\",\"type\":\"SUPPORT\",\"perc\":12,\"rar\":\"common\",\"links\":1,\"sal\":true}"
+				}
+			}
+			title: "流血几率 辅助宝石"
+		}
+	]
+	title: "辅助宝石"
+}

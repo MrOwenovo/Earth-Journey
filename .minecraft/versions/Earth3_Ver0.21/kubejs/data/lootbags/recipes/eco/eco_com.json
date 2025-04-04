@@ -1,0 +1,18 @@
+{
+  "type": "lootbags:loot",
+  "name": "普通的积分袋",
+  "rarity": "COMMON",
+  "output": {
+    "rolls": 30,
+    "entries": [
+      {
+        "stack": "kubejs:iii",
+        "weight": 90
+      },
+      {
+        "stack": "minecraft:iron_ingot",
+        "weight": 10
+      }
+    ]
+  }
+}

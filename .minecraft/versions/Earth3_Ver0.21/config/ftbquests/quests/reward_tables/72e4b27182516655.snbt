@@ -1,0 +1,105 @@
+{
+	icon: {
+		Count: 1b
+		id: "cgm:pistol"
+		tag: {
+			AmmoCount: 16
+		}
+	}
+	id: "72E4B27182516655"
+	loot_size: 1
+	order_index: 9
+	rewards: [
+		{
+			item: {
+				Count: 1b
+				id: "cgm:pistol"
+				tag: {
+					AmmoCount: 16
+				}
+			}
+			weight: 300.0f
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cgm:shotgun"
+				tag: {
+					AmmoCount: 8
+				}
+			}
+			weight: 220.0f
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cgm:rifle"
+				tag: {
+					AmmoCount: 10
+				}
+			}
+			weight: 180.0f
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cgm:mini_gun"
+				tag: {
+					AmmoCount: 100
+				}
+			}
+			weight: 5.0f
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cgm:assault_rifle"
+				tag: {
+					AmmoCount: 40
+				}
+			}
+			weight: 140.0f
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cgm:machine_pistol"
+				tag: {
+					AmmoCount: 80
+				}
+			}
+			weight: 160.0f
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cgm:heavy_rifle"
+				tag: {
+					AmmoCount: 4
+				}
+			}
+			weight: 150.0f
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cgm:bazooka"
+				tag: {
+					AmmoCount: 1
+				}
+			}
+			weight: 5.0f
+		}
+		{
+			item: {
+				Count: 1b
+				id: "cgm:grenade_launcher"
+				tag: {
+					AmmoCount: 1
+				}
+			}
+			weight: 5.0f
+		}
+	]
+	title: "枪械抽奖"
+}

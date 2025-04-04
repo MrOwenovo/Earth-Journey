@@ -1,0 +1,35 @@
+{
+	icon: {
+		Count: 1b
+		id: "mmorpg:skill_gems/aura/dex"
+		tag: {
+			mmorpg_skill_gem: "{\"id\":\"energy_reg\",\"type\":\"AURA\",\"perc\":14,\"rar\":\"common\",\"links\":1,\"sal\":true}"
+		}
+	}
+	id: "51BC79A7A2C424C8"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:skill_gems/aura/int"
+				tag: {
+					mmorpg_skill_gem: "{\"id\":\"mana_reg\",\"type\":\"AURA\",\"perc\":14,\"rar\":\"common\",\"links\":1,\"sal\":true}"
+				}
+			}
+			title: "法力恢复 光环"
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:skill_gems/aura/dex"
+				tag: {
+					mmorpg_skill_gem: "{\"id\":\"energy_reg\",\"type\":\"AURA\",\"perc\":14,\"rar\":\"common\",\"links\":1,\"sal\":true}"
+				}
+			}
+			title: "能量恢复 光环"
+		}
+	]
+	title: "光环宝石"
+}

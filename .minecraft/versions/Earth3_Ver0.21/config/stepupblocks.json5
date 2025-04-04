@@ -1,0 +1,12 @@
+{
+	// Raises player's step height to 1 block
+	"modEnabled": true,
+	// Walk up blocks only when a key is held. Bind the key in controls (default: V)
+	"whenHeld": false,
+	// Allows walking up full blocks when sneaking as well
+	"whenSneaking": true,
+	// Allows walking up full blocks when swimming as well
+	"whenSwimming": true,
+	// Desired increased step height
+	"stepHeight": 1.25
+}

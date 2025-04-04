@@ -1,0 +1,244 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "jolly_cooperation"
+	group: "036E079C15F2B292"
+	icon: "lightmanscurrency:coinblock_emerald"
+	id: "05E0BC63F8DC87E2"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"物品交易站方块可以交换任何物品，但某些物品类型，如书籍或盔甲，需要特定的交易站"
+				""
+				"使用收银机右键单击将任何放置的交易站与其绑定。一旦放置了收银机，所有可用的交易将显示在收银机界面中。"
+			]
+			id: "64C7494796410D04"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3CEBE3291790FD31"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			subtitle: "制作一个交易员和一个收银机"
+			tasks: [
+				{
+					id: "1580F0013D3500AD"
+					item: {
+						Count: 1b
+						id: "itemfilters:or"
+						tag: {
+							items: [
+								{
+									Count: 1b
+									id: "lightmanscurrency:vending_machine"
+								}
+								{
+									Count: 1b
+									id: "lightmanscurrency:vending_machine_large"
+								}
+								{
+									Count: 1b
+									id: "lightmanscurrency:freezer_white"
+								}
+								{
+									Count: 1b
+									id: "lightmanscurrency:shelf_oak"
+								}
+								{
+									Count: 1b
+									id: "lightmanscurrency:display_case"
+								}
+								{
+									Count: 1b
+									id: "lightmanscurrency:card_display_oak"
+								}
+								{
+									Count: 1b
+									id: "lightmanscurrency:armor_display"
+								}
+								{
+									Count: 1b
+									id: "lightmanscurrency:bookshelf_trader_oak"
+								}
+							]
+						}
+					}
+					title: "任意交易站"
+					type: "item"
+				}
+				{
+					id: "2DCBF62C3EC5F4FE"
+					item: "lightmanscurrency:cash_register"
+					type: "item"
+				}
+			]
+			title: "交易站"
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			description: [
+				"ATM自动取款机可以保管你的钱，转移资金到账户和团队账户之间，并可以在不同面额之间交换硬币。"
+				""
+				"小猪储钱罐可以通过手持硬币右键单击来存储硬币。不过，你必须打破它才能取出现金。"
+				""
+			]
+			id: "6C57A4CBA635B27E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "22A715AA5ED827B7"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [
+				{
+					id: "0D6098AA97808306"
+					item: "lightmanscurrency:atm"
+					type: "item"
+				}
+				{
+					id: "37A73CBAF5EED880"
+					item: "lightmanscurrency:piggy_bank"
+					type: "item"
+				}
+			]
+			title: "货币存储"
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			description: [
+				"交易终端允许你与全球网络上的任何其他交易员进行交易。你还可以访问服务器的拍卖行，这对普通玩家不可用。"
+				""
+				"物品网络交易员有4个等级，只能通过交易终端访问。"
+				""
+				"你可以将任何普通交易员升级为可以通过网络和亲自访问的交易员，只需在其升级槽位中放置一个网络升级。"
+				""
+				"拍卖台可以让玩家在拍卖结束前竞标物品。"
+			]
+			id: "2BB4B6FE41F4CC58"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2E5B3A2A839B4C7F"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			subtitle: "制作任何一个交易终端"
+			tasks: [
+				{
+					id: "62CFEF88DF3247E6"
+					item: {
+						Count: 1b
+						id: "itemfilters:or"
+						tag: {
+							items: [
+								{
+									Count: 1b
+									id: "lightmanscurrency:terminal"
+								}
+								{
+									Count: 1b
+									id: "lightmanscurrency:gem_terminal"
+								}
+								{
+									Count: 1b
+									id: "lightmanscurrency:portable_gem_terminal"
+								}
+								{
+									Count: 1b
+									id: "lightmanscurrency:portable_terminal"
+								}
+							]
+						}
+					}
+					title: "任意交易终端"
+					type: "item"
+				}
+				{
+					id: "5BE8EC6FBAEA12B4"
+					item: "lightmanscurrency:item_trader_server_sml"
+					type: "item"
+				}
+				{
+					id: "414707595643EEB0"
+					item: "lightmanscurrency:network_upgrade"
+					type: "item"
+				}
+				{
+					id: "01FE70F053D60BE3"
+					item: "lightmanscurrency:auction_stand_oak"
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			description: [
+				"门票系统是一种很好的方式，只允许付费客户进入指定区域或激活红石装置。不要让任何人拿到你创建的主门票。"
+				""
+				"老虎机允许你创建自己的支付权重和潜在奖励，以向付费客户提供服务。"
+			]
+			id: "322F44860B462AEF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "76300A2016034576"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			subtitle: "制作一个每种"
+			tasks: [
+				{
+					id: "36CBBF5574C67135"
+					item: "lightmanscurrency:ticket_kiosk"
+					type: "item"
+				}
+				{
+					id: "76481E26B68A5DC5"
+					item: "lightmanscurrency:paygate"
+					type: "item"
+				}
+				{
+					id: "656E0AEF24D841CB"
+					item: "lightmanscurrency:ticket_machine"
+					type: "item"
+				}
+				{
+					id: "08328D273151AA2A"
+					item: "lightmanscurrency:slot_machine"
+					type: "item"
+				}
+			]
+			title: "门票和老虎机"
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			description: [
+				"你可以创建共享账户，分享彼此财富"
+				"在背包右上角玩家头像点击创建共享账户"
+				"L键查看货币成就任务"
+			]
+			id: "43BABA762EB95959"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2E4B16AE7E9DCB09"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				id: "7A81021C229776E3"
+				item: "lightmanscurrency:coinmint"
+				type: "item"
+			}]
+			title: "与好友共享财富"
+			x: 0.0d
+			y: 0.0d
+		}
+	]
+	title: "货币物品及币种交换"
+}

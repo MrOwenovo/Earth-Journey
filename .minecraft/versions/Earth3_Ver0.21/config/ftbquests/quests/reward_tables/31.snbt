@@ -1,0 +1,17 @@
+{
+	id: "43B7A7A1AE2D0B6C"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{ item: "yuushya:sakura_tree" }
+		{ item: "yuushya:maple_tree" }
+		{ item: "yuushya:oak_tree" }
+		{ item: "yuushya:white_blooming_oak_tree" }
+		{ item: "yuushya:yellow_blooming_oak_tree" }
+		{ item: "yuushya:pink_blooming_oak_tree" }
+		{ item: "yuushya:normal_truck" }
+		{ item: "yuushya:dining_truck" }
+		{ item: "yuushya:villa_0" }
+	]
+	title: "31"
+}

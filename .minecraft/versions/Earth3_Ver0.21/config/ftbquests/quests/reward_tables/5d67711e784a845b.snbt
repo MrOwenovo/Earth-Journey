@@ -1,0 +1,21 @@
+{
+	id: "5D67711E784A845B"
+	loot_size: 1
+	order_index: 14
+	rewards: [
+		{
+			item: {
+				Count: 1b
+				id: "taming_flute:taming_flute"
+				tag: {
+					Damage: 1
+				}
+			}
+			title: "&e驯服长笛"
+		}
+		{ item: "touhou_little_maid:smart_slab_init", weight: 25.0f }
+		{ item: "lightmanscurrency:coin_diamond", weight: 400.0f }
+		{ item: "mmorpg:stone/0", weight: 500.0f }
+	]
+	title: "道具抽奖"
+}

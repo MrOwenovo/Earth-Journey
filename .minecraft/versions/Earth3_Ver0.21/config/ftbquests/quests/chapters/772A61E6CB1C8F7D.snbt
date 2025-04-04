@@ -1,0 +1,181 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "772A61E6CB1C8F7D"
+	group: "39BBF18F45BD53C2"
+	icon: "farmersdelight:rice_bale"
+	id: "772A61E6CB1C8F7D"
+	images: [{
+		click: ""
+		corner: false
+		dev: false
+		height: 10.0d
+		hover: [ ]
+		image: "mmorpg:textures/ftb/yang.png"
+		rotation: 0.0d
+		width: 15.0d
+		x: 0.5d
+		y: -5.5d
+	}]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Alex mob模组动物请查阅指南 均已汉化"
+				"驯养方式 习性均有记载"
+			]
+			icon: "villagersellanimals:crate_calf"
+			id: "3A0CE450BBDC9CD4"
+			rewards: [
+				{
+					id: "103643B60AF7113C"
+					item: "alexsmobs:animal_dictionary"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "52E27E6C82A6F319"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3D0F189A7867BDF2"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			shape: "diamond"
+			size: 2.0d
+			tasks: [{
+				id: "26DEC231F8138A09"
+				title: "动物驯养指南"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: -10.5d
+		}
+		{
+			description: [
+				"记录鸟类"
+				"上树掏鸟窝"
+				"鉴别神秘鸟蛋  孵化"
+				"L键打开成就栏，查看珍奇鸟类的成就任务"
+			]
+			id: "19434ED9B748FE18"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4143F77870C4D297"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "587449E83EE7E805"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "6C9E961261EF727B"
+					item: "lightmanscurrency:coin_diamond"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "4FCA3E6C9216A727"
+					item: "exoticbirds:bird_book"
+					type: "item"
+				}
+				{
+					id: "1B28413C9BB64E92"
+					item: "exoticbirds:egg_incubator"
+					type: "item"
+				}
+				{
+					id: "5B3B9510DD08F54F"
+					item: "exoticbirds:egg_identifier"
+					type: "item"
+				}
+				{
+					id: "329B89217C1D6445"
+					item: "exoticbirds:iron_birdcage"
+					type: "item"
+				}
+			]
+			title: "鸟类饲养"
+			x: -2.0d
+			y: -9.0d
+		}
+		{
+			description: ["拯救你的宠物"]
+			id: "1E863440AAA0B2F6"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "632E5FA08F97714F"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2835698C971CD04A"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "7698EA413DFA0806"
+					item: "syp:pet_bandage"
+					type: "item"
+				}
+				{
+					id: "0AFAAA560A1575A2"
+					item: "syp:golden_pet_bandage"
+					type: "item"
+				}
+			]
+			x: -3.5d
+			y: -10.5d
+		}
+		{
+			dependencies: ["19434ED9B748FE18"]
+			description: [
+				"菲尼克斯即为凤凰"
+				"尝试孵化稀有鸟类并骑乘"
+			]
+			icon: "exoticbirds:ender_phoenix_egg"
+			id: "18AE3DBCED4D0979"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "65A9C0578742B8FE"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4CB7023E849E1B6E"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "64F511D2B4CBC713"
+					item: "lightmanscurrency:coin_diamond"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "060BE34BB753D03D"
+				title: "孵化一只凤凰，并骑乘它飞行"
+				type: "checkmark"
+			}]
+			x: -0.5d
+			y: -10.5d
+		}
+	]
+	title: "动物驯养/坐骑"
+}

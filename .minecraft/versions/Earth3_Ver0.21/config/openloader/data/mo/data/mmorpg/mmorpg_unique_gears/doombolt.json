@@ -1,0 +1,42 @@
+{
+  "base_gear": "crossbow",
+  "guid": "doombolt",
+  "flavor_text": "",
+  "force_item_id": "",
+  "min_tier": 20,
+  "rarity": "unique",
+  "replaces_name": true,
+  "unique_stats": [
+    {
+      "type": "PERCENT",
+      "max": 100.0,
+      "min": 80.0,
+      "stat": "gear_weapon_damage"
+    },
+    {
+      "type": "FLAT",
+      "max": 20.0,
+      "min": 10.0,
+      "stat": "draw_speed"
+    },
+    {
+      "type": "FLAT",
+      "max": 30.0,
+      "min": 15.0,
+      "stat": "all_chaos_damage"
+    },
+    {
+      "type": "FLAT",
+      "max": 1.0,
+      "min": 1.0,
+      "stat": "spell_lifesteal"
+    },
+    {
+      "type": "FLAT",
+      "max": 25.0,
+      "min": 10.0,
+      "stat": "dot_dmg"
+    }
+  ],
+  "weight": 1000
+}

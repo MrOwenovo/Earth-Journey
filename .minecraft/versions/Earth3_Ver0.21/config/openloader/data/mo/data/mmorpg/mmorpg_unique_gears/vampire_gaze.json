@@ -1,0 +1,42 @@
+{
+  "base_gear": "leather_helmet",
+  "guid": "vampire_gaze",
+  "flavor_text": "",
+  "force_item_id": "",
+  "min_tier": 60,
+  "rarity": "unique",
+  "replaces_name": true,
+  "unique_stats": [
+    {
+      "type": "PERCENT",
+      "max": 80.0,
+      "min": 60.0,
+      "stat": "gear_defense"
+    },
+    {
+      "type": "FLAT",
+      "max": 3.0,
+      "min": 2.0,
+      "stat": "energy_regen"
+    },
+    {
+      "type": "FLAT",
+      "max": 4.0,
+      "min": 2.0,
+      "stat": "lifesteal"
+    },
+    {
+      "type": "FLAT",
+      "max": 4.0,
+      "min": 2.0,
+      "stat": "manasteal"
+    },
+    {
+      "type": "FLAT",
+      "max": -7.0,
+      "min": -5.0,
+      "stat": "dmg_received"
+    }
+  ],
+  "weight": 1000
+}

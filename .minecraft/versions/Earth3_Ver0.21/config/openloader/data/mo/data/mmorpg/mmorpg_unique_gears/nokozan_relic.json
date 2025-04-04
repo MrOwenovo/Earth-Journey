@@ -1,0 +1,30 @@
+{
+  "base_gear": "necklace",
+  "guid": "nokozan_relic",
+  "flavor_text": "",
+  "force_item_id": "",
+  "min_tier": 20,
+  "rarity": "unique",
+  "replaces_name": true,
+  "unique_stats": [
+    {
+      "type": "FLAT",
+      "max": 50.0,
+      "min": 25.0,
+      "stat": "fire_resist"
+    },
+    {
+      "type": "FLAT",
+      "max": 10.0,
+      "min": 5.0,
+      "stat": "all_fire_damage"
+    },
+    {
+      "type": "FLAT",
+      "max": 5.0,
+      "min": 5.0,
+      "stat": "max_fire_resist"
+    }
+  ],
+  "weight": 1000
+}

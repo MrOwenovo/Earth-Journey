@@ -1,0 +1,18 @@
+{
+  "base": {
+    "max": 7.5,
+    "min": 1.0
+  },
+  "base_scaling_type": "NORMAL",
+  "cap_to_wep_dmg": 1000.0,
+  "id": "shooting_star",
+  "stat_scalings": [
+    {
+      "multi": {
+        "max": 5.0,
+        "min": 3.0
+      },
+      "stat": "weapon_damage"
+    }
+  ]
+}

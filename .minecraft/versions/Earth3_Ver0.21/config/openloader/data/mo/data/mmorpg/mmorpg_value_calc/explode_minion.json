@@ -1,0 +1,25 @@
+{
+  "base": {
+    "max": 6.0,
+    "min": 0.5
+  },
+  "base_scaling_type": "NORMAL",
+  "cap_to_wep_dmg": 5.0,
+  "id": "explode_minion",
+  "stat_scalings": [
+    {
+      "multi": {
+        "max": 2.0,
+        "min": 1.5
+      },
+      "stat": "weapon_damage"
+    },
+    {
+      "multi": {
+        "max": 0.5,
+        "min": 0.25
+      },
+      "stat": "health"
+    }
+  ]
+}

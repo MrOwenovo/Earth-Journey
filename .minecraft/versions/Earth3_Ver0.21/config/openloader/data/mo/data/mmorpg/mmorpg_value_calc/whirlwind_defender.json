@@ -1,0 +1,25 @@
+{
+  "base": {
+    "max": 3.6000001,
+    "min": 0.4
+  },
+  "base_scaling_type": "NORMAL",
+  "cap_to_wep_dmg": 3.0,
+  "id": "whirlwind_defender",
+  "stat_scalings": [
+    {
+      "multi": {
+        "max": 0.85,
+        "min": 0.65
+      },
+      "stat": "weapon_damage"
+    },
+    {
+      "multi": {
+        "max": 0.18,
+        "min": 0.12
+      },
+      "stat": "health"
+    }
+  ]
+}

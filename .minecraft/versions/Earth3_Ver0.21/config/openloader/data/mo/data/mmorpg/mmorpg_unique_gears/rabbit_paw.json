@@ -1,0 +1,30 @@
+{
+  "base_gear": "necklace",
+  "guid": "rabbit_paw",
+  "flavor_text": "",
+  "force_item_id": "",
+  "min_tier": 0,
+  "rarity": "unique",
+  "replaces_name": true,
+  "unique_stats": [
+    {
+      "type": "FLAT",
+      "max": 10.0,
+      "min": 5.0,
+      "stat": "move_speed"
+    },
+    {
+      "type": "PERCENT",
+      "max": 25.0,
+      "min": 15.0,
+      "stat": "energy_regen"
+    },
+    {
+      "type": "FLAT",
+      "max": 6.0,
+      "min": 2.0,
+      "stat": "dexterity"
+    }
+  ],
+  "weight": 1000
+}

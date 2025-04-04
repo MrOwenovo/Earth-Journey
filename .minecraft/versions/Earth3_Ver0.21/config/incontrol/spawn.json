@@ -1,0 +1,258 @@
+[
+    {
+        "dimension": "minecraft:overworld",
+        "minheight": 64,
+        "hostile": true,
+        "result": "deny"
+    },
+        {
+        "dimension": "minecraft:overworld",
+        "mod": "spawn",
+        "mincount": 6,
+        "result": "deny"
+    },
+    {
+        "dimension": "minecraft:overworld",
+        "mod": "ambientadditions",
+        "mincount": 6,
+        "result": "deny"
+    },
+    {
+        "mod": "faunify",
+        "mincount": 6,
+        "result": "deny"
+    },
+    {
+        "mod": "alexsmobs",
+        "mincount": 12,
+        "result": "deny"
+    },
+    {
+      "mod": "alexsmobs",
+      "hostile": true,
+      "mincount": 12,
+      "result": "deny"
+     },
+    {
+        "dimension": "minecraft:overworld",
+        "mod": "unusualfishmod",
+        "mincount": 6,
+        "result": "deny"
+    },
+    {
+      "mod": "minecraft",
+      "hostile": true,
+      "mincount": 12,
+      "result": "deny"
+  },
+    {
+        "mob": "minecraft:ghast",
+        "mincount": 3,
+        "result": "deny"
+    },
+    {
+        "dimension": "minecraft:overworld",
+        "mod": "butterflies",
+        "mincount": 6,
+        "result": "deny"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "mob": "alexsmobs:bone_serpent",
+      "mincount": 2,
+      "result": "deny"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "mob": "alexsmobs:crimson_mosquito",
+      "mincount": 2,
+      "result": "deny"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "mob": "alexsmobs:gazelle",
+      "mincount": 2,
+      "result": "deny"
+    },
+    {
+        "dimension": "minecraft:overworld",
+        "mob": "alexsmobs:comb_jelly",
+        "mincount": 2,
+        "result": "deny"
+      },
+      {
+        "dimension": "minecraft:overworld",
+        "mob": "alexsmobs:cachalot_whale",
+        "mincount": 2,
+        "result": "deny"
+      },
+      {
+        "dimension": "minecraft:overworld",
+        "mob": "alexsmobs:seal",
+        "mincount": 3,
+        "result": "deny"
+      },
+      {
+        "dimension": "minecraft:overworld",
+        "mob": "alexsmobs:seagull",
+        "mincount": 3,
+        "result": "deny"
+      },
+      {
+        "dimension": "minecraft:the_nether",
+        "mob": "alexsmobs:stradpole",
+        "mincount": 3,
+        "result": "deny"
+      },
+      {
+        "dimension": "minecraft:the_nether",
+        "mob": "alexsmobs:crimson_mosquito",
+        "mincount": 3,
+        "result": "deny"
+      },
+      {
+        "dimension": "minecraft:the_nether",
+        "mob": "alexsmobs:bone_serpent",
+        "mincount": 3,
+        "result": "deny"
+      },
+      {
+        "dimension": "minecraft:overworld",
+        "mob": "alexsmobs:bison",
+        "mincount": 3,
+        "result": "deny"
+      },
+      {
+        "dimension": "minecraft:overworld",
+        "mob": "alexsmobs:emu",
+        "mincount": 3,
+        "result": "deny"
+      },
+      {
+        "dimension": "minecraft:overworld",
+        "mob": "alexsmobs:blue_jay",
+        "mincount": 3,
+        "result": "deny"
+      },
+      {
+        "dimension": "minecraft:overworld",
+        "mob": "crittersandcompanions:koi_fish",
+        "mincount": 2,
+        "result": "deny"
+      },
+      {
+        "dimension": "minecraft:overworld",
+        "mob": "crittersandcompanions:otter",
+        "mincount": 2,
+        "result": "deny"
+      },
+      {
+        "dimension": "minecraft:overworld",
+        "mob": "crittersandcompanions:ferret",
+        "mincount": 2,
+        "result": "deny"
+      },
+      {
+        "dimension": "minecraft:overworld",
+        "mob": "crittersandcompanions:dragonfly",
+        "mincount": 2,
+        "result": "deny"
+      },
+      {
+        "dimension": "minecraft:overworld",
+        "mob": "crittersandcompanions:dumbo_octopus",
+        "mincount": 2,
+        "result": "deny"
+      },
+      {
+        "dimension": "minecraft:overworld",
+        "mob": "alexsmobs:kangaroo",
+        "mincount": 2,
+        "result": "deny"
+      },
+      {
+        "dimension": "minecraft:overworld",
+        "mob": "alexsmobs:triops",
+        "mincount": 2,
+        "result": "deny"
+      },
+      {
+        "dimension": "minecraft:overworld",
+        "mob": "naturalist:firefly",
+        "mincount": 3,
+        "result": "deny"
+      },
+      {
+        "dimension": "minecraft:overworld",
+        "mob": "naturalist:bass",
+        "mincount": 3,
+        "result": "deny"
+      },
+      {
+        "dimension": "minecraft:overworld",
+        "mob": "naturalist:vulture",
+        "mincount": 3,
+        "result": "deny"
+      },
+      {
+        "dimension": "minecraft:overworld",
+        "mob": "youkaishomecoming:lamprey",
+        "mincount": 3,
+        "result": "deny"
+      },
+      {
+        "dimension": "minecraft:overworld",
+        "mob": "touhou_little_maid:fairy",
+        "mincount": 2,
+        "result": "deny"
+      },
+      {
+        "dimension": "minecraft:overworld",
+        "mob": "crittersandcompanions:leaf_insect",
+        "mincount": 2,
+        "result": "deny"
+      },
+      {
+        "dimension": "minecraft:overworld",
+        "mob": "crittersandcompanions:sea_bunny",
+        "mincount": 2,
+        "result": "deny"
+      },
+      {
+        "dimension": "minecraft:overworld",
+        "mob": "alexsmobs:lobster",
+        "mincount": 2,
+        "result": "deny"
+      },
+      {
+        "dimension": "minecraft:overworld",
+        "mob": "alexsmobs:flying_fish",
+        "mincount": 2,
+        "result": "deny"
+      },
+      {
+        "mod": "youkaishomecoming",
+        "mincount": {
+          "amount": 4,
+          "mod": "youkaishomecoming",
+          "perchunk": true
+        },
+        "result": "deny"
+      },
+      {
+        "mod": "minecraft",
+        "mincount": 12,
+        "hostile": true,
+        "result": "deny"
+      },
+      {
+        "dimension": "minecraft:overworld",
+        "mod": "naturalist",
+        "mincount": {
+          "amount": 6,
+          "mod": "naturalist",
+          "perchunk": true
+        },
+        "result": "deny"
+      }
+]

@@ -1,0 +1,30 @@
+{
+  "base_gear": "hammer",
+  "guid": "chaber_cairn",
+  "flavor_text": "",
+  "force_item_id": "",
+  "min_tier": 0,
+  "rarity": "unique",
+  "replaces_name": true,
+  "unique_stats": [
+    {
+      "type": "PERCENT",
+      "max": 100.0,
+      "min": 80.0,
+      "stat": "gear_weapon_damage"
+    },
+    {
+      "type": "PERCENT",
+      "max": 15.0,
+      "min": 10.0,
+      "stat": "mana"
+    },
+    {
+      "type": "FLAT",
+      "max": 20.0,
+      "min": 10.0,
+      "stat": "summon_health"
+    }
+  ],
+  "weight": 1000
+}

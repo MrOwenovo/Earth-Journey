@@ -1,0 +1,6 @@
+
+[banitem]
+	#
+	#物品黑名单
+	itemBlacklist = []
+

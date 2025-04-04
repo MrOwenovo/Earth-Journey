@@ -1,0 +1,18 @@
+{
+  "base": {
+    "max": 3.6000001,
+    "min": 0.6
+  },
+  "base_scaling_type": "NORMAL",
+  "cap_to_wep_dmg": 1000.0,
+  "id": "grand_cross",
+  "stat_scalings": [
+    {
+      "multi": {
+        "max": 1.0,
+        "min": 1.0
+      },
+      "stat": "weapon_damage"
+    }
+  ]
+}

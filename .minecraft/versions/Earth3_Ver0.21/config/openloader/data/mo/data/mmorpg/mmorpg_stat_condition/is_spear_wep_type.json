@@ -1,0 +1,11 @@
+{
+  "type": {
+    "can_dual_wield": false,
+    "id": "spear",
+    "isProjectile": false,
+    "range": "MELEE",
+    "style": "DEX"
+  },
+  "id": "is_spear_wep_type",
+  "ser": "wep_type_match"
+}

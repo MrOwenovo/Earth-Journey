@@ -1,0 +1,30 @@
+{
+  "base_gear": "staff",
+  "guid": "arch_gamble",
+  "flavor_text": "",
+  "force_item_id": "",
+  "min_tier": 0,
+  "rarity": "unique",
+  "replaces_name": true,
+  "unique_stats": [
+    {
+      "type": "PERCENT",
+      "max": 80.0,
+      "min": 60.0,
+      "stat": "gear_weapon_damage"
+    },
+    {
+      "type": "FLAT",
+      "max": 50.0,
+      "min": 20.0,
+      "stat": "dot_dmg"
+    },
+    {
+      "type": "FLAT",
+      "max": 5.0,
+      "min": 3.0,
+      "stat": "spell_lifesteal"
+    }
+  ],
+  "weight": 1000
+}

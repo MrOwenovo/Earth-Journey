@@ -1,0 +1,829 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fishing"
+	group: "08BF3784DBFA155F"
+	icon: "mmorpg:rare_mats/fishing/greater"
+	id: "5F95DDA1E0BA268A"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "63AC29DDE537EB5B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1681466B08C16ADB"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "77A4B835B85553BD"
+				item: "aquaculture:tuna"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			id: "217B8E39E86A23EF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "734320895E5EF5FB"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0002004161A2098D"
+				item: "aquaculture:red_grouper"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -0.5d
+		}
+		{
+			id: "36DC60BF60E3481A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7D7B0BBF6BF021E2"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "38DB83F924677E9B"
+				item: "aquaculture:jellyfish"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			id: "16E9E743F7F5D2B8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "550677440ABCF68B"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6FBCC3E20B3CA058"
+				item: "aquaculture:red_shrooma"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -0.5d
+		}
+		{
+			id: "3B7B3B545E7F2433"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1ABBB7969B371587"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "70163D8044AB8304"
+				item: "aquaculture:brown_shrooma"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -0.5d
+		}
+		{
+			id: "2BA35B95D74FF964"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "48661C14E0A5555F"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "74069DAD31AC6310"
+				item: "aquaculture:tambaqui"
+				type: "item"
+			}]
+			x: 7.5d
+			y: -0.5d
+		}
+		{
+			id: "794378358AB30607"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "50D8285481D63CBC"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "682BA0A62ED2F59F"
+				item: "aquaculture:arrau_turtle"
+				type: "item"
+			}]
+			x: 9.5d
+			y: -0.5d
+		}
+		{
+			id: "21F5B80CB82300A9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2F3E378562EAFAC1"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "1828EF509E9CE9E0"
+				item: "aquaculture:starshell_turtle"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -5.0d
+		}
+		{
+			id: "1706167C429E3700"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "23DFF3531FA81A6B"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "432314338072F115"
+				item: "minecraft:cod"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 1.0d
+		}
+		{
+			id: "2AE90AA91EA7D8B1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0F288A666A42C088"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "50A3AB09230EE2EB"
+				item: "aquaculture:atlantic_cod"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 1.0d
+		}
+		{
+			id: "7371CB3124B587AA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "497A7FED0810BA19"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "62139B99F3A8A553"
+				item: "aquaculture:blackfish"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			id: "259B4373AD36CF64"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "140E2B651E5C9041"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "1ED5CFEB02DA5933"
+				item: "aquaculture:pacific_halibut"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			id: "5DD1BAF87775FAE4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7C1EAA1725DA3989"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "646D39CAE4C10C7E"
+				item: "aquaculture:atlantic_halibut"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 1.0d
+		}
+		{
+			id: "45AA6BB9593F66D7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7F5C1DD61CCA28E2"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "1D10BC47C0A55893"
+				item: "aquaculture:atlantic_herring"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 1.0d
+		}
+		{
+			id: "2737DBBDB6470EC8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3FC553DB2AE53056"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6F0FB864A32502E2"
+				item: "aquaculture:bluegill"
+				type: "item"
+			}]
+			x: 9.5d
+			y: 1.0d
+		}
+		{
+			id: "339E89D78088AE01"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "55D6204980F97F05"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0DA6310A3DC383D5"
+				item: "aquaculture:smallmouth_bass"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -3.5d
+		}
+		{
+			id: "1787D16758C8ABAE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "172368F1D86A9C1B"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "15A545C4933E6814"
+				item: "aquaculture:synodontis"
+				type: "item"
+			}]
+			x: 9.5d
+			y: -5.0d
+		}
+		{
+			id: "542938A1B131D26F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "697DEC2DA6307B58"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "77D77E8471EAF2D7"
+				item: "aquaculture:capitaine"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 2.5d
+		}
+		{
+			id: "440009859D9C7E53"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "65B1F8947B579E4C"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "7D2CE7820357D2E5"
+				item: "aquaculture:boulti"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			id: "04485A5AA8D3B213"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7874155D26A54B80"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "62DDD237856BADA9"
+				item: "aquaculture:bayad"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.5d
+		}
+		{
+			id: "1F8997BD6D6D2734"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5D48956DE6B529C6"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "45AEB5F40A18E3C5"
+				item: "aquaculture:rainbow_trout"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 2.5d
+		}
+		{
+			id: "1B3CF7ABD92B20EE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4C472BDED6A6DBCF"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "340664C9611CDBDB"
+				item: "aquaculture:pollock"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 2.5d
+		}
+		{
+			id: "293C79C408FF3A45"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4A25447C92875BB7"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0D0164DA5DAC439E"
+				item: "aquaculture:pink_salmon"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 2.5d
+		}
+		{
+			id: "1AA9D085C48E0B81"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6451C630AEC28AB7"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5E849EC9AD9B0C74"
+				item: "aquaculture:brown_trout"
+				type: "item"
+			}]
+			x: 9.5d
+			y: 2.5d
+		}
+		{
+			id: "2C7FB03D2B8D498D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "063F7A84A8B7EB97"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "7D10419100DEAFF0"
+				item: "aquaculture:carp"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -2.0d
+		}
+		{
+			id: "54674B2ABA1E5F03"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6FA1213EA20C1AAB"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "16C86AC51BF75B60"
+				item: "aquaculture:catfish"
+				type: "item"
+			}]
+			x: 9.5d
+			y: 4.0d
+		}
+		{
+			id: "0321A20599EF48D9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6A76551F806F1FAA"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5CCC8923F96D03AA"
+				item: "aquaculture:gar"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 4.0d
+		}
+		{
+			id: "302B5787FB962B23"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7DF035B3BAB09CC9"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6308FFB4D0BEA9F1"
+				item: {
+					Count: 1b
+					id: "aquaculture:minnow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 4.0d
+		}
+		{
+			id: "53D823985369836C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "11F0DE14E8A79FE9"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4375AB225A2C909D"
+				item: "aquaculture:muskellunge"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.0d
+		}
+		{
+			id: "12F2DDB353B0FBAF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6474C30493185070"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "356E7B8C567F675A"
+				item: "aquaculture:perch"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 4.0d
+		}
+		{
+			id: "1CEEACDCCB37F744"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "77BB7B73E68F111F"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0E6CECC1E7EF313F"
+				item: "aquaculture:arapaima"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 4.0d
+		}
+		{
+			id: "4D4895183A411B3A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6B87A7B5D53D7679"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "76E44DAE730FE933"
+				item: "aquaculture:piranha"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 4.0d
+		}
+		{
+			id: "69634E18765F3A71"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "23395A291CB5E12A"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5F568B121CB9888C"
+				item: "aquaculture:box_turtle"
+				type: "item"
+			}]
+			x: 7.5d
+			y: -5.0d
+		}
+		{
+			id: "3C17E5091A28D863"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "732C1E47B8042315"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "00DE7173A11753F8"
+				item: "aquaculture:goldfish"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -2.0d
+		}
+		{
+			id: "63517924B2D7B79E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1203B073B53DDE05"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "093865A8839B6D60"
+				item: {
+					Count: 1b
+					id: "aquaculture:leech"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.5d
+			y: -2.0d
+		}
+		{
+			id: "47C2A71D61E8498E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "29AD0BE1A94523AF"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "439B78AADD9B138A"
+				item: "mmorpg:rare_mats/fishing/greater"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -5.0d
+		}
+		{
+			id: "745B323EB1273261"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2A0EB26296B808DB"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "7171C77B0F45DAC2"
+				item: "mmorpg:material/fishing/4"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -2.0d
+		}
+		{
+			id: "11FA3B43D0710998"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0DF1A4B25F3C0908"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "425299EE106D1C54"
+				item: "mmorpg:material/fishing/3"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -3.5d
+		}
+		{
+			id: "265156FBF6A1B441"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "752765DE67DCF8CC"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5F227036908EFFB4"
+				item: "mmorpg:material/fishing/2"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -3.5d
+		}
+		{
+			id: "47C34829D2DD2C4E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "041856D26B75E848"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "78D357DF4DC56887"
+				item: "mmorpg:material/fishing/1"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -3.5d
+		}
+		{
+			id: "01DB7952165EAEC5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5428B9F8EA628388"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4707A8FFD06A6E55"
+				item: "mmorpg:material/fishing/0"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -3.5d
+		}
+		{
+			id: "0C7228401823A03B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7FF69888823F0F77"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "45AF0E3D64D37506"
+				item: "minecraft:tropical_fish"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			id: "22CCDC1E42E2D623"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3B1C2F3FE4CA6A94"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5D18F9C152772DFB"
+				item: "minecraft:salmon"
+				type: "item"
+			}]
+			x: 9.5d
+			y: -3.5d
+		}
+		{
+			id: "10675CAE2C591D1C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3254E1376B642935"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6F9A3D46920B95B1"
+				item: "mmorpg:material/fishing/5"
+				type: "item"
+			}]
+			x: 7.5d
+			y: -3.5d
+		}
+		{
+			id: "320AC78FDA0D8FEB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "21792B19CB031F62"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5BCD31FCAFD082A8"
+				item: "mmorpg:rare_mats/fishing/lesser"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -5.0d
+		}
+		{
+			id: "422E61F3FC5BFAFD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "114A85D80279FD67"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3C6D15E7928CE233"
+				item: "mmorpg:rare_mats/fishing/medium"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -5.0d
+		}
+		{
+			id: "37B6D5296A4B3D2F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "61B49D74F6F460CA"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "615DF40507E9BFF7"
+				item: "alexsmobs:blobfish"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -2.0d
+		}
+		{
+			id: "780B461DB038F95C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6B77B281FE6AE74D"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2159D090EC9C416F"
+				item: "aquaculture:fish_bones"
+				type: "item"
+			}]
+			x: 7.5d
+			y: -2.0d
+		}
+		{
+			description: ["休闲娱乐任务栏有钓鱼教学"]
+			icon: {
+				Count: 1b
+				id: "aquaculture:neptunium_fishing_rod"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "66D5E1E739925B5E"
+			shape: "diamond"
+			size: 2.0d
+			tasks: [{
+				id: "36DF47E436483D20"
+				type: "checkmark"
+			}]
+			title: "集齐各种鱼种"
+			x: 3.0d
+			y: -8.0d
+		}
+		{
+			id: "08ECC4F790DED367"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "12C34D0FED1D279B"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "59C1F25C8D9C939E"
+				item: "aquaculture:arrau_turtle"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -5.0d
+		}
+	]
+	title: "钓鱼图鉴"
+}

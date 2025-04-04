@@ -1,0 +1,41 @@
+{
+  "itemGroup.ribbits.general": "Ribbits",
+
+  "block.ribbits.brown_toadstool": "棕色毒菌块",
+  "block.ribbits.red_toadstool": "红色毒菌块",
+  "block.ribbits.toadstool_stem": "毒菌茎",
+  "block.ribbits.swamp_lantern": "沼泽灯笼",
+  "block.ribbits.giant_lilypad": "茂盛的睡莲",
+  "block.ribbits.swamp_daisy": "沼泽雏菊",
+  "block.ribbits.toadstool": "毒菌",
+  "block.ribbits.mossy_oak_planks": "长满青苔的橡木板",
+  "block.ribbits.mossy_oak_planks_stairs": "长满青苔的橡木楼梯",
+  "block.ribbits.mossy_oak_planks_slab": "长满青苔的橡木板",
+  "block.ribbits.mossy_oak_planks_fence": "长满青苔的橡木栅栏",
+  "block.ribbits.mossy_oak_planks_fence_gate": "苔橡木栅栏门",
+  "block.ribbits.mossy_oak_door": "长满青苔的橡木门",
+  "block.ribbits.umbrella_leaf": "山荷叶",
+
+  "item.ribbits.ribbit_nitwit_spawn_egg": "傻子蛙蛙刷怪蛋",
+  "item.ribbits.ribbit_fisherman_spawn_egg": "渔夫蛙蛙刷怪蛋",
+  "item.ribbits.ribbit_gardener_spawn_egg": "园丁蛙蛙刷怪蛋",
+  "item.ribbits.ribbit_merchant_spawn_egg": "商人蛙蛙刷怪蛋",
+  "item.ribbits.ribbit_sorcerer_spawn_egg": "巫师蛙蛙刷怪蛋",
+  "item.ribbits.maraca": "马拉卡",
+
+  "entity.ribbits.ribbit": "蛙蛙",
+
+  "subtitles.entity.ribbit.ambient": "Ribbit croaks",
+  "subtitles.entity.ribbit.death": "Ribbit dies",
+  "subtitles.entity.ribbit.hurt": "Ribbit hurts",
+  "subtitles.entity.ribbit.step": "Ribbit hops",
+  "subtitles.music.ribbit.bass": "Ribbit plays bass",
+  "subtitles.music.ribbit.bongo": "Ribbit plays bongos",
+  "subtitles.music.ribbit.flute": "Ribbit plays flute",
+  "subtitles.music.ribbit.guitar": "Ribbit plays guitar",
+  "subtitles.music.ribbit.maraca": "Player plays maraca",
+
+  "text.autoconfig.ribbits-fabric-1_20_1.title": "Ribbits",
+  "text.autoconfig.ribbits-fabric-1_20_1.option.general.prideFlagAllYear": "全年展示骄傲旗帜",
+  "text.autoconfig.ribbits-fabric-1_20_1.option.general.prideFlagAllYear.@Tooltip": "如果启用，自豪蛙蛙将全年存在，而不只是在六月"
+}

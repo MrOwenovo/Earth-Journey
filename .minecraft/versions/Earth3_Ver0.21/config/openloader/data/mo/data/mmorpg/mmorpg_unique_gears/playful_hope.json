@@ -1,0 +1,24 @@
+{
+  "base_gear": "ring",
+  "guid": "playful_hope",
+  "flavor_text": "",
+  "force_item_id": "",
+  "min_tier": 20,
+  "rarity": "unique",
+  "replaces_name": true,
+  "unique_stats": [
+    {
+      "type": "PERCENT",
+      "max": 30.0,
+      "min": -30.0,
+      "stat": "critical_hit"
+    },
+    {
+      "type": "FLAT",
+      "max": 50.0,
+      "min": -50.0,
+      "stat": "critical_damage"
+    }
+  ],
+  "weight": 1000
+}

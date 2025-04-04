@@ -1,0 +1,5315 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "6313E3871232C201"
+	group: ""
+	icon: "bakery:street_sign"
+	id: "6313E3871232C201"
+	images: [
+		{
+			height: 3.0d
+			image: "bakery:block/street_sign_front"
+			rotation: 0.0d
+			width: 3.0d
+			x: -1.5d
+			y: 18.5d
+		}
+		{
+			height: 12.0d
+			image: "bakery:item/street_sign"
+			rotation: 0.0d
+			width: 12.0d
+			x: 40.5d
+			y: 5.5d
+		}
+		{
+			height: 9.0d
+			image: "bakery:block/cake_stand_glass_side"
+			rotation: 0.0d
+			width: 9.0d
+			x: 31.0d
+			y: 28.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:textures/entity/fishing_hook.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "vintagedelight:item/salted_cod"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:textures/entity/fishing_hook.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:textures/entity/fishing_hook.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "vintagedelight:item/salted_salmon"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "vintagedelight:item/surstromming"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:item/item_shelf"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:item/item_shelf"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:item/item_shelf"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: 4.5d
+		}
+		{
+			height: 5.0d
+			image: "minecraft:block/chiseled_bookshelf_empty"
+			rotation: 0.0d
+			width: 5.0d
+			x: -10.5d
+			y: 6.0d
+		}
+	
+		{
+			height: 1.0d
+			image: "vintagedelight:item/apple_sauce_jar"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "vintagedelight:item/gearo_berry_jam_jar"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "vintagedelight:item/nut_mash_jar"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: 3.5d
+		}
+		{
+			height: 3.0d
+			image: "bakery:item/jar"
+			rotation: 0.0d
+			width: 3.0d
+			x: -5.5d
+			y: 7.5d
+		}
+		{
+			height: 3.5d
+			image: "bakery:item/jar"
+			rotation: 0.0d
+			width: 3.5d
+			x: -7.0d
+			y: 7.5d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:item/item_shelf"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: 8.5d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:item/item_shelf"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: 8.5d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:item/item_shelf"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 8.5d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:item/item_shelf"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 8.5d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:item/item_shelf"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 8.5d
+		}
+		
+		{
+			height: 5.0d
+			image: "untameddelight:item/steamed_king_crab_block"
+			rotation: 0.0d
+			width: 5.0d
+			x: -1.5d
+			y: 12.5d
+		}
+		
+		{
+			height: 5.0d
+			image: "casualness_delight:item/cheese_wheel"
+			rotation: 0.0d
+			width: 5.0d
+			x: 43.5d
+			y: 23.5d
+		}
+		{
+			height: 3.0d
+			image: "farmersdelight:block/shepherds_pie_side"
+			rotation: 0.0d
+			width: 3.0d
+			x: 30.0d
+			y: 26.0d
+		}
+		
+		{
+			height: 6.9879518072289155d
+			image: "kubejs:block/kaorou"
+			rotation: 0.0d
+			width: 5.0d
+			x: -1.0d
+			y: 29.0d
+		}
+		{
+			height: 5.0d
+			image: "casualness_delight:item/bobo_chicken"
+			rotation: 0.0d
+			width: 5.0d
+			x: -1.0d
+			y: 20.0d
+		}
+		
+		{
+			height: 3.0d
+			image: "bakery:item/cake_stand"
+			rotation: 0.0d
+			width: 3.0d
+			x: 36.0d
+			y: 27.5d
+		}
+		{
+			height: 3.0d
+			image: "bakery:item/cake_stand"
+			rotation: 0.0d
+			width: 3.0d
+			x: 38.0d
+			y: 27.5d
+		}
+		{
+			height: 3.0d
+			image: "bakery:item/cake_stand"
+			rotation: 0.0d
+			width: 3.0d
+			x: 36.0d
+			y: 30.5d
+		}
+		{
+			height: 3.0d
+			image: "bakery:item/cake_stand"
+			rotation: 0.0d
+			width: 3.0d
+			x: 38.0d
+			y: 30.5d
+		}
+		{
+			height: 3.0d
+			image: "bakery:item/cake_stand"
+			rotation: 0.0d
+			width: 3.0d
+			x: 40.0d
+			y: 30.5d
+		}
+		{
+			height: 3.0d
+			image: "bakery:item/cake_stand"
+			rotation: 0.0d
+			width: 3.0d
+			x: 40.0d
+			y: 27.5d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:item/item_shelf"
+			rotation: 0.0d
+			width: 1.0d
+			x: 29.0d
+			y: 24.0d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:item/item_shelf"
+			rotation: 0.0d
+			width: 1.0d
+			x: 30.0d
+			y: 24.0d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:item/item_shelf"
+			rotation: 0.0d
+			width: 1.0d
+			x: 31.0d
+			y: 24.0d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:item/item_shelf"
+			rotation: 0.0d
+			width: 1.0d
+			x: 32.0d
+			y: 24.0d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:item/item_shelf"
+			rotation: 0.0d
+			width: 1.0d
+			x: 33.0d
+			y: 24.0d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:item/item_shelf"
+			rotation: 0.0d
+			width: 1.0d
+			x: 31.0d
+			y: 8.5d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:item/item_shelf"
+			rotation: 0.0d
+			width: 1.0d
+			x: 32.0d
+			y: 8.5d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:item/item_shelf"
+			rotation: 0.0d
+			width: 1.0d
+			x: 33.0d
+			y: 8.5d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:item/item_shelf"
+			rotation: 0.0d
+			width: 1.0d
+			x: 33.0d
+			y: 10.0d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:item/item_shelf"
+			rotation: 0.0d
+			width: 1.0d
+			x: 32.0d
+			y: 10.0d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:item/item_shelf"
+			rotation: 0.0d
+			width: 1.0d
+			x: 31.0d
+			y: 10.0d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:item/item_shelf"
+			rotation: 0.0d
+			width: 1.0d
+			x: 34.0d
+			y: 10.0d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:item/item_shelf"
+			rotation: 0.0d
+			width: 1.0d
+			x: 35.0d
+			y: 10.0d
+		}
+		{
+			height: 3.0d
+			image: "brewery:item/beer_wheat"
+			rotation: 0.0d
+			width: 3.0d
+			x: 29.5d
+			y: 7.5d
+		}
+		{
+			height: 3.0d
+			image: "brewery:item/barrel_main"
+			rotation: 0.0d
+			width: 3.0d
+			x: 30.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "brewery:item/dried_barley"
+			rotation: 0.0d
+			width: 1.0d
+			x: 29.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "brewery:item/beer_mug"
+			rotation: 0.0d
+			width: 1.0d
+			x: 31.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "brewery:textures/mob_effect/drunk.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 29.5d
+			y: 5.5d
+		}
+		
+		{
+			height: 2.0d
+			image: "supplementaries:item/item_shelf"
+			rotation: 0.0d
+			width: 2.0d
+			x: 29.0d
+			y: 9.0d
+		}
+		
+		{
+			height: 3.0d
+			image: "bakery:item/crafting_bowl"
+			rotation: 0.0d
+			width: 3.0d
+			x: 29.5d
+			y: 34.5d
+		}
+		
+		{
+			height: 5.0d
+			image: "farmersdelight:item/rice_roll_medley_block"
+			rotation: 0.0d
+			width: 5.0d
+			x: 16.0d
+			y: 32.5d
+		}
+		{
+			height: 5.0d
+			image: "farmersdelight:item/roast_chicken_block"
+			rotation: 0.0d
+			width: 5.0d
+			x: 16.0d
+			y: 12.5d
+		}
+		{
+			height: 5.0d
+			image: "farmersdelight:item/bone_broth"
+			rotation: 0.0d
+			width: 5.0d
+			x: 16.0d
+			y: 27.0d
+		}
+		{
+			height: 5.0d
+			image: "farmersdelight:item/pasta_with_meatballs"
+			rotation: 0.0d
+			width: 5.0d
+			x: 16.0d
+			y: 22.0d
+		}
+		{
+			height: 5.0d
+			image: "vintagedelight:item/cucumber_salad"
+			rotation: 0.0d
+			width: 5.0d
+			x: 4.0d
+			y: 3.5d
+		}
+		{
+			height: 3.0d
+			image: "bakery:block/street_sign_front"
+			order: -2
+			rotation: 0.0d
+			width: 3.0d
+			x: 15.5d
+			y: 10.5d
+		}
+		{
+			height: 12.0d
+			image: "bakery:block/street_sign_front"
+			rotation: 0.0d
+			width: 12.0d
+			x: 16.0d
+			y: 1.5d
+		}
+		{
+			height: 5.0d
+			image: "vintagedelight:item/cheese_burger"
+			rotation: 0.0d
+			width: 5.0d
+			x: 28.5d
+			y: 13.0d
+		}
+		{
+			height: 5.0d
+			image: "farmersdelight:item/glow_berry_custard"
+			rotation: 0.0d
+			width: 5.0d
+			x: 39.0d
+			y: 15.0d
+		}
+		{
+			height: 2.0d
+			image: "bakery:item/toast"
+			rotation: 0.0d
+			width: 2.0d
+			x: 47.5d
+			y: 36.0d
+		}
+		{
+			height: 3.0d
+			image: "brewery:item/pretzel"
+			rotation: 0.0d
+			width: 3.0d
+			x: 47.0d
+			y: 35.0d
+		}
+		{
+			height: 3.0d
+			image: "bakery:item/linzer_tart"
+			rotation: 0.0d
+			width: 3.0d
+			x: 49.5d
+			y: 34.5d
+		}
+		
+		{
+			height: 2.0d
+			image: "vintagedelight:item/cheese_curds"
+			rotation: 0.0d
+			width: 2.0d
+			x: 46.5d
+			y: 37.5d
+		}
+		{
+			height: 2.0d
+			image: "bakery:item/apple_pie"
+			rotation: 0.0d
+			width: 2.0d
+			x: 48.5d
+			y: 37.0d
+		}
+		{
+			height: 110.0d
+			image: "farmersdelight:textures/gui/hanging_signs/canvas_black.png"
+			order: -5
+			rotation: 0.0d
+			width: 110.0d
+			x: 20.0d
+			y: 1.0d
+		}
+		
+	]
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			id: "28317E6B2C64ED40"
+			rewards: [
+				{
+					id: "099F3FE52E0847BD"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3D2299414BFA5BE1"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				id: "2094C238CCA0ACF7"
+				item: "untameddelight:steamed_king_crab_block"
+				type: "item"
+			}]
+			x: -12.0d
+			y: 12.5d
+		}
+		{
+			id: "6F4850E185FAF53A"
+			rewards: [
+				{
+					id: "1EC72231BDDCD94F"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "16AA242EDB037585"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "710D5B672AC3D41C"
+				item: "untameddelight:king_crab_porridge"
+				type: "item"
+			}]
+			x: -10.0d
+			y: 13.0d
+		}
+		{
+			id: "3A195B765314143D"
+			rewards: [
+				{
+					id: "5F886ADAC52F9357"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "704DA7EEE7A36CEB"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "1DC8D7AA1E1D49AF"
+				item: "untameddelight:fried_spicy_king_crab_legs"
+				type: "item"
+			}]
+			x: -9.0d
+			y: 13.0d
+		}
+		{
+			id: "6F3227EF24550B92"
+			rewards: [
+				{
+					id: "094846A62863EE4A"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "14ECBB4825BE219C"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "43244798B0DA78C1"
+				item: "untameddelight:sour_sunfish_broth_block"
+				type: "item"
+			}]
+			x: -10.0d
+			y: 25.0d
+		}
+		{
+			id: "004FBDDC5EF71EFD"
+			rewards: [
+				{
+					id: "5793EF48AC574DE4"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4F67B3283D8443C6"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "62457D9B4510F3CD"
+				item: "untameddelight:bison_pizza_block"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 22.0d
+		}
+		{
+			id: "61AFAAE8B1053A10"
+			rewards: [
+				{
+					id: "3D4ABEE350FC4B5E"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4693E647D1436EE1"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			size: 2.0d
+			subtitle: "需要从土耳其烤肉架上切下来"
+			tasks: [
+				{
+					id: "4852123586E501EC"
+					item: "untameddelight:doner_kebab"
+					type: "item"
+				}
+				{
+					id: "477428765812E2B0"
+					item: "untameddelight:doner_kebab_block"
+					type: "item"
+				}
+			]
+			x: -12.0d
+			y: 29.5d
+		}
+		{
+			id: "09D69446DB9D4973"
+			rewards: [
+				{
+					id: "413E32262DD737A4"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1E4014E1BFF6EA26"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "612FC16C78A124F0"
+				item: "untameddelight:kebab_wrap"
+				type: "item"
+			}]
+			x: -10.0d
+			y: 30.0d
+		}
+		{
+			id: "3D63AB23147B6BB3"
+			rewards: [
+				{
+					id: "6F33DE2E2CB15B9E"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "161A4FBDAA189542"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "21033EDA423FD5D9"
+				item: "untameddelight:roasted_leg_block"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 25.0d
+		}
+		{
+			id: "73522888F5B91110"
+			rewards: [
+				{
+					id: "2E2DFC1505D4A1B7"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "08824A5994B0610A"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "44B32D0E9311BC2C"
+				item: "untameddelight:glazed_spadefish"
+				type: "item"
+			}]
+			x: -5.0d
+			y: 25.0d
+		}
+		{
+			id: "11D539C106FB590C"
+			rewards: [
+				{
+					id: "6AF616A1994C892B"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1A90D9A2B0F27C41"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "633D9821EFD5399B"
+				item: "untameddelight:fried_sea_anemone"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 25.0d
+		}
+		{
+			id: "49E59F4D43C219CC"
+			rewards: [
+				{
+					id: "5E8D5B435F1AC252"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1265A1166A55328C"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "3A412ED3BCE72220"
+				item: "untameddelight:galician_style_football_fish"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 25.0d
+		}
+		{
+			id: "02D09C43FB079448"
+			rewards: [
+				{
+					id: "0E9D05E7816D9944"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "683937EFE2EDC1B5"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				id: "582A8B8B8A617A5B"
+				item: "untameddelight:golden_arowana"
+				type: "item"
+			}]
+			x: -12.0d
+			y: 24.5d
+		}
+		{
+			id: "582B4B5604E53147"
+			rewards: [
+				{
+					id: "1B1DF035698EBBA5"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7EF40A8C3120C0BE"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "5A90D6D220755A5B"
+				item: "untameddelight:seared_triggerfish"
+				type: "item"
+			}]
+			x: -9.0d
+			y: 25.0d
+		}
+		{
+			id: "44EBA1E60A9F218E"
+			rewards: [
+				{
+					id: "7EEBD461EC9A16FC"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1F6F49304BBB207D"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "52335748406AB322"
+				item: "untameddelight:pasta_with_bison_meat"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 22.0d
+		}
+		{
+			id: "3C2CEA91EBC9E326"
+			rewards: [
+				{
+					id: "1F6A9A5CCE87D272"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5FF4125BE4E2B044"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "581770A7F50EF7DC"
+				item: "untameddelight:boar_stew"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 16.0d
+		}
+		{
+			id: "6C41DEA239DD5037"
+			rewards: [
+				{
+					id: "10C67E061BD80F27"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "286FAD2DE0D2ED71"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "0358BF66BA792141"
+				item: "untameddelight:baked_trevally_with_cheese"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 25.0d
+		}
+		{
+			id: "77A7352ACD4FA26E"
+			rewards: [
+				{
+					id: "021E246F94D35D23"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3D139FB1F1758E33"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "5C91B5CDF1428F9C"
+				item: "untameddelight:camel_meat_karahi"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 16.0d
+		}
+		{
+			id: "6CE3C063EDEEBF73"
+			rewards: [
+				{
+					id: "5CDC422F9D184874"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6C559EDDDEF8DA20"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "33A9C8A66506121C"
+				item: "untameddelight:spicy_catfish"
+				type: "item"
+			}]
+			x: -8.0d
+			y: 25.0d
+		}
+		{
+			id: "735154AF933F2C92"
+			rewards: [
+				{
+					id: "1878C6095898F0F5"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "74B4AD347252184F"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "55E6FE4F0808D410"
+				item: "untameddelight:trevally_tataki"
+				type: "item"
+			}]
+			x: -7.0d
+			y: 25.0d
+		}
+		{
+			id: "2007D7E86DCB47D6"
+			rewards: [
+				{
+					id: "2EC31E2FF6439DEB"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "76CEFE76F9B129E1"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			size: 1.0d
+			tasks: [{
+				id: "2F5564727BEE6E4D"
+				item: "untameddelight:boar_hamburger"
+				type: "item"
+			}]
+			x: 31.0d
+			y: 14.0d
+		}
+		{
+			id: "5C2B2F78FD131671"
+			rewards: [
+				{
+					id: "1ED88B4C71D31853"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7599CA509CD5CB02"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "43BB3D99DD38D969"
+				item: "untameddelight:bear_sandwich"
+				type: "item"
+			}]
+			x: 33.5d
+			y: 17.0d
+		}
+		{
+			id: "10AA9201F213F87F"
+			rewards: [
+				{
+					id: "3B20E0396C0FAB14"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "72FE5AD35CF44664"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "7413BA456DF1265C"
+				item: "untameddelight:vietnamese_black_bear_pate_chaud"
+				type: "item"
+			}]
+			x: 11.0d
+			y: 16.0d
+		}
+		{
+			id: "191CC73AFADE26AE"
+			rewards: [
+				{
+					id: "03DFD20A6C3DECF6"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1B3C39548E660914"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "6919187905BD697D"
+				item: "untameddelight:marine_barbecue_stick"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 25.0d
+		}
+		{
+			id: "6D96BE670929E54F"
+			rewards: [
+				{
+					id: "15B42C98BBB7A575"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0FACE1CAAD8E0E20"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				id: "190EF9D6A0C8B63C"
+				item: "untameddelight:sweet_zongzi"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 7.5d
+		}
+		{
+			id: "007A62C38773CBC6"
+			rewards: [
+				{
+					id: "56B4B0669E73CDC8"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3849BCFFD26B82F2"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "281EF1506651BDA5"
+				item: "untameddelight:yolk_pork_zongzi"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 8.0d
+		}
+		{
+			id: "37A1B3C01F6A1222"
+			rewards: [
+				{
+					id: "4557B95EE9D3F684"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "676BC58D7C2445F3"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				id: "4E8B8A7D9C21EFEB"
+				item: "casualness_delight:fish_and_chips"
+				type: "item"
+			}]
+			x: 28.5d
+			y: 19.5d
+		}
+		{
+			id: "6B75DCF132DFACB0"
+			rewards: [
+				{
+					id: "68BC244DA2C99C04"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5FE03577DA03CADE"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			subtitle: "无配方"
+			tasks: [{
+				id: "093465FA9EF8F3FE"
+				item: "casualness_delight:yorkshire_pudding"
+				type: "item"
+			}]
+			x: 39.5d
+			y: 24.0d
+		}
+		{
+			id: "59AF279F1A8EE43B"
+			rewards: [
+				{
+					id: "755975766B6DA370"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "33B13DDB93F9D544"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				id: "128198521F1AD15B"
+				item: "casualness_delight:beef_noodles"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 18.5d
+		}
+		{
+			id: "24B088D1A22E759B"
+			rewards: [
+				{
+					id: "54505C820E08494B"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "44AC5A1703E4244E"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "3793F987C5C074E0"
+				item: "casualness_delight:quiche_lorraine"
+				type: "item"
+			}]
+			x: 38.5d
+			y: 24.0d
+		}
+		{
+			id: "0C9A42FC439BD6E4"
+			rewards: [
+				{
+					id: "2AADE509AC6982E6"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "36E9EB352ABB08BF"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "541D923F4AB82C91"
+				item: "casualness_delight:stargazy_pie"
+				type: "item"
+			}]
+			x: 11.0d
+			y: 13.0d
+		}
+		{
+			id: "1E461BEDE20F77B7"
+			rewards: [
+				{
+					id: "2B999EFCF2FFA786"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "127E51D25A09FA1B"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			size: 2.0d
+			subtitle: "生芝士轮无法直接食用，需要放置在避光处熟成为芝士轮。亮度不高于12和/或有炉灶在附近时，熟成速率将变快。熟成过程中生芝士轮会不断散发粒子效果，同时颜色也会逐渐变深。"
+			tasks: [{
+				id: "728C763F3E70F477"
+				item: "casualness_delight:cheese_wheel"
+				type: "item"
+			}]
+			x: 36.0d
+			y: 23.5d
+		}
+		{
+			id: "706DAC8C2DBEE515"
+			rewards: [
+				{
+					id: "22F6E4CE1C361649"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2FBB4C13817F9FE7"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "2064139ED97730B7"
+				item: "casualness_delight:phantom_dumplings"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 8.0d
+		}
+		{
+			id: "219F5C9F5DC239BE"
+			rewards: [
+				{
+					id: "21867AE71ABFB5C2"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "541AEE1D28B7CCC9"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "3887A78B16C043F4"
+				item: "casualness_delight:phantom_puff"
+				type: "item"
+			}]
+			x: 37.5d
+			y: 24.0d
+		}
+		{
+			id: "5222912224026C05"
+			rewards: [
+				{
+					id: "27E3A2A087BD8DAF"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1E4B01CBFB9467F2"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "2C7AB4C196EE61A2"
+				item: "casualness_delight:spicy_strips"
+				type: "item"
+			}]
+			x: -8.0d
+			y: 35.0d
+		}
+		{
+			id: "27E9B0554E4FE696"
+			rewards: [
+				{
+					id: "3B49D043AB315562"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0F4C39C571FBA274"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "5020C1DAA2C17B39"
+				item: "casualness_delight:green_tongue"
+				type: "item"
+			}]
+			x: 41.5d
+			y: 16.0d
+		}
+		{
+			id: "311CDC45D54E4376"
+			rewards: [
+				{
+					id: "620CDD8AB1AE209D"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4EA863FD291EC28E"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "72451D1594681995"
+				item: "casualness_delight:roast_gluten"
+				type: "item"
+			}]
+			x: -9.0d
+			y: 19.0d
+		}
+		{
+			id: "71B125A3C51094D1"
+			rewards: [
+				{
+					id: "1FE5083FD41B02ED"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6B99EF826368BE76"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "4A7D3CABB2D9B991"
+				item: "casualness_delight:donkey_burger"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 30.0d
+		}
+		{
+			id: "60EA088A380D1565"
+			rewards: [
+				{
+					id: "6773FBDC8A9ED9AD"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3DF0FAF8BFC00044"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "0B2D19F788B18A82"
+				item: "casualness_delight:paper_wrapped_fish"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 13.0d
+		}
+		{
+			id: "6457DDA8F9806027"
+			rewards: [
+				{
+					id: "2246FBCF3285E024"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "55D3ED897FFB284A"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				id: "62BBAB9AEBE04039"
+				item: "casualness_delight:bobo_chicken"
+				type: "item"
+			}]
+			x: -12.0d
+			y: 18.5d
+		}
+		{
+			id: "03C77DC9D6CCA54A"
+			rewards: [
+				{
+					id: "6298C99A8BF41AC0"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "78173581254292B3"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "59A9A647F1B1BCC8"
+				item: "casualness_delight:spring_roll_medley"
+				type: "item"
+			}]
+			x: 11.0d
+			y: 8.0d
+		}
+		{
+			id: "0FAC6380DB21DDFA"
+			rewards: [
+				{
+					id: "5C3445DFBAB7350A"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7C08B3E95E753AA4"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			size: 1.0d
+			tasks: [{
+				id: "4BC08E8992833392"
+				item: "casualness_delight:tonkatsu"
+				type: "item"
+			}]
+			x: 30.5d
+			y: 20.0d
+		}
+		{
+			id: "0BBB2EE2A0E21760"
+			rewards: [
+				{
+					id: "26EFF89EDC1E25B3"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "346DF2DABD38BE82"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "1E70655E0C4CC493"
+				item: "casualness_delight:fried_fish"
+				type: "item"
+			}]
+			x: 31.5d
+			y: 20.0d
+		}
+		{
+			id: "4317E05C889E381C"
+			rewards: [
+				{
+					id: "452B55C46B0DAF52"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "36ACB5B649E4A4D2"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "79095D80FEC14FFE"
+				item: "casualness_delight:fried_chicken_chip"
+				type: "item"
+			}]
+			x: 32.5d
+			y: 20.0d
+		}
+		{
+			id: "1A6CE0876BDF68D5"
+			rewards: [
+				{
+					id: "59C871C41D5DB0F6"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4A935BF985DB7FEA"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "4411FDFEFB848015"
+				item: "casualness_delight:potato_chip"
+				type: "item"
+			}]
+			x: 33.5d
+			y: 20.0d
+		}
+		{
+			id: "02A70277896869C1"
+			rewards: [
+				{
+					id: "409907F257D0166E"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "526FABBAD4B55F88"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "438D0061400280D7"
+				item: "casualness_delight:plate_of_fried_dumpling"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 8.0d
+		}
+		{
+			id: "1CC11B91C4165DF1"
+			rewards: [
+				{
+					id: "7CB8F004C5082AD1"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1570D3098E541DCB"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "349BE0FD842D58DD"
+				item: "casualness_delight:sweet_rice"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 25.0d
+		}
+		{
+			id: "20A47838A79B428E"
+			rewards: [
+				{
+					id: "2D579FE3CCF56FCA"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "770594BEFA7D26D5"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				id: "6DE634D359FDCCE8"
+				item: "farmersdelight:rice_roll_medley_block"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 34.5d
+		}
+		{
+			id: "5B5FFA2F463EBB6C"
+			rewards: [
+				{
+					id: "4214E2B9ADFEC5B0"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "236394A21CD513C2"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				id: "3DEC83CCB210A550"
+				item: "farmersdelight:shepherds_pie_block"
+				type: "item"
+			}]
+			x: 39.0d
+			y: 19.5d
+		}
+		{
+			id: "2635981A298CCAF8"
+			rewards: [
+				{
+					id: "4EC99F4ABC75A652"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6E20718A4EF207C3"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "5C9BF1BA091832DA"
+				item: "farmersdelight:honey_glazed_ham_block"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 13.0d
+		}
+		{
+			id: "674D8F4080600838"
+			rewards: [
+				{
+					id: "11B9105ED96B0172"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "660E00C78FF055DE"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				id: "02244351CDB5A17C"
+				item: "farmersdelight:stuffed_pumpkin_block"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 15.5d
+		}
+		{
+			id: "4DE6A30903F105C1"
+			rewards: [
+				{
+					id: "7B77C9E7A5A219E1"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "695DA85118549B4A"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				id: "13C3FF04C330BAD0"
+				item: "farmersdelight:roast_chicken_block"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 12.5d
+		}
+		{
+			id: "372BE8AD96645D1A"
+			rewards: [
+				{
+					id: "0BE013C0A26FFCA5"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4CF2E6A65D820B2F"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "22410EAA9D88791F"
+				item: "farmersdelight:grilled_salmon"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 13.0d
+		}
+		{
+			id: "57A5E6E5EA48DB4D"
+			rewards: [
+				{
+					id: "31F33DDAE9B78165"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2AFB968D4876B90C"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "296F63D407820FB9"
+				item: "farmersdelight:squid_ink_pasta"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 22.0d
+		}
+		{
+			id: "65855526330DA75B"
+			rewards: [
+				{
+					id: "1A44D9079F6F3EE4"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "054D14388E57B46A"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "119387CFC6BFB873"
+				item: "farmersdelight:ratatouille"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 4.0d
+		}
+		{
+			id: "22806D4EC188A3E1"
+			rewards: [
+				{
+					id: "0BE80D4FB6E55EA0"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7B438B3827C98004"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "33D7D2142BCCF56B"
+				item: "farmersdelight:steak_and_potatoes"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 13.0d
+		}
+		{
+			id: "14C470A8413C62FE"
+			rewards: [
+				{
+					id: "131CFADF62078E90"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5D18E015EC7F448C"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "6514044077972F41"
+				item: "farmersdelight:vegetable_noodles"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 19.0d
+		}
+		{
+			id: "703248EE7617388E"
+			rewards: [
+				{
+					id: "40206F7A759A0266"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "48E834A74885996A"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "2795DBC157D15958"
+				item: "farmersdelight:roasted_mutton_chops"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 13.0d
+		}
+		{
+			id: "24FD25550EA04394"
+			rewards: [
+				{
+					id: "433F7F1D3F7FA09E"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "06FE27F43460A85A"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			size: 1.0d
+			tasks: [{
+				id: "7B477190621CA356"
+				item: "farmersdelight:mushroom_rice"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 25.0d
+		}
+		{
+			id: "1772AB7BAF8659D2"
+			rewards: [
+				{
+					id: "0D5BFE448125EAC1"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "06CCD213AA686A95"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			size: 1.0d
+			tasks: [{
+				id: "1537EC63F1DFDDE8"
+				item: "farmersdelight:pasta_with_mutton_chop"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 22.0d
+		}
+		{
+			id: "76D2B095A54DB8F0"
+			rewards: [
+				{
+					id: "4DE41DDAE8709F8F"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7DB7A1FC2333AFD0"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				id: "22A2566979B910C7"
+				item: "farmersdelight:pasta_with_meatballs"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 21.5d
+		}
+		{
+			id: "6247730B53A1A5FB"
+			rewards: [
+				{
+					id: "37E84D28A85FA63E"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1CB35280AD93C54C"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "123A88D975C3932F"
+				item: "farmersdelight:bacon_and_eggs"
+				type: "item"
+			}]
+			x: 12.0d
+			y: 8.0d
+		}
+		{
+			id: "74CCD844F2C7EF3C"
+			rewards: [
+				{
+					id: "2ACF018A9B6641FE"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0DC812E5854183AD"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "6B96396970BF9C95"
+				item: "farmersdelight:noodle_soup"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 19.0d
+		}
+		{
+			id: "4CF0FC93747D3F78"
+			rewards: [
+				{
+					id: "73B6FAD9E3F0C00F"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "582316F1A136CB43"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "4DA9912941CAE2FF"
+				item: "farmersdelight:baked_cod_stew"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 16.0d
+		}
+		{
+			id: "2BAE1A8A8FAECFE3"
+			rewards: [
+				{
+					id: "06EAA8627FD6DE08"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2F728630077697F8"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "5196BB433E76F613"
+				item: "farmersdelight:pumpkin_soup"
+				type: "item"
+			}]
+			x: 16.0d
+			y: 29.5d
+		}
+		{
+			id: "57DAF926DFEACB6E"
+			rewards: [
+				{
+					id: "6D56AB30E3A76F12"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1F117ECDAA966361"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "32F805F8C7E5739C"
+				item: "farmersdelight:fried_rice"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 25.0d
+		}
+		{
+			id: "5BF2F25666DA8224"
+			rewards: [
+				{
+					id: "7F98107C149CC3F7"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "457D33C903535E62"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "297DD3A636CDD9BA"
+				item: "farmersdelight:fish_stew"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 16.0d
+		}
+		{
+			id: "65F49FEFA3949EEF"
+			rewards: [
+				{
+					id: "379B97539AA9BBFA"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1C03B391229791F1"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "01E53654EE148F27"
+				item: "farmersdelight:vegetable_soup"
+				type: "item"
+			}]
+			x: 13.0d
+			y: 29.5d
+		}
+		{
+			id: "280D302432D7C8FB"
+			rewards: [
+				{
+					id: "7F12B5347B926AF8"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "378E1D222928E709"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "09002829D0DD25B9"
+				item: "farmersdelight:chicken_soup"
+				type: "item"
+			}]
+			x: 14.0d
+			y: 29.5d
+		}
+		{
+			id: "257242B471913312"
+			rewards: [
+				{
+					id: "3CAB6375C3C0B300"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7DDA3486A7AA08FA"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "61D9AF61C19EF8B2"
+				item: "farmersdelight:beef_stew"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 16.0d
+		}
+		{
+			id: "35E091CDFC574C9E"
+			rewards: [
+				{
+					id: "2FE56EF10CA737F5"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "42A9CEFEA6917435"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "16CF9C40470E3708"
+				item: "farmersdelight:bone_broth"
+				type: "item"
+			}]
+			x: 15.0d
+			y: 29.5d
+		}
+		{
+			id: "7A0BF1202FF8ABCA"
+			rewards: [
+				{
+					id: "48014B4C4AF9F500"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1A6F0D5C1C74969E"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "320B33C3A19242EC"
+				item: "farmersdelight:kelp_roll"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 35.0d
+		}
+		{
+			id: "575EB1B4F3321DFA"
+			rewards: [
+				{
+					id: "58EF6FF5E82A8D64"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "321A3A05ED191E6F"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "205B574F303CF5FE"
+				item: "farmersdelight:cod_roll"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 35.0d
+		}
+		{
+			id: "4023DD1A418E09EE"
+			rewards: [
+				{
+					id: "3D38F2D759F4A302"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1FDFC6AED2F91010"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "64F0F55672DB9422"
+				item: "farmersdelight:salmon_roll"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 35.0d
+		}
+		{
+			id: "0E4B3D294B250F8F"
+			rewards: [
+				{
+					id: "53474EC1F93BA585"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "50B8BB722EE039DD"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "468A889157F5CEB9"
+				item: "farmersdelight:cabbage_rolls"
+				type: "item"
+			}]
+			x: -8.0d
+			y: 30.0d
+		}
+		{
+			id: "24F1EE29CEBD29E1"
+			rewards: [
+				{
+					id: "20BBA50DFA5F9AB7"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "25B5EB37E3C43D92"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "2F672828DA3F1E44"
+				item: "farmersdelight:stuffed_potato"
+				type: "item"
+			}]
+			x: 12.0d
+			y: 25.0d
+		}
+		{
+			id: "71B12446A6477077"
+			rewards: [
+				{
+					id: "20BAB312090DBF7F"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "02A6F73B723DAE7C"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "662D4912B8E64E5A"
+				item: "farmersdelight:dumplings"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 8.0d
+		}
+		{
+			id: "764476669999DB08"
+			rewards: [
+				{
+					id: "2C58D5764AEE4B99"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "278CF99B678540F4"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "47171FE501FC9882"
+				item: "farmersdelight:mutton_wrap"
+				type: "item"
+			}]
+			x: -7.0d
+			y: 30.0d
+		}
+		{
+			id: "62F68D44444BEECB"
+			rewards: [
+				{
+					id: "25FF187F9DD5C29D"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "398F557E53A8F427"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				id: "0C5AAD04195AB6EC"
+				item: "farmersdelight:bacon_sandwich"
+				type: "item"
+			}]
+			x: 28.5d
+			y: 16.5d
+		}
+		{
+			id: "271CD60F0D7CFB3C"
+			rewards: [
+				{
+					id: "075A5E34899185D5"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6C4049BFE56EAF94"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			shape: "circle"
+			size: 1.0d
+			tasks: [{
+				id: "5CA14C95A517518A"
+				item: "farmersdelight:hamburger"
+				type: "item"
+			}]
+			x: 32.0d
+			y: 14.0d
+		}
+		{
+			id: "53EB0AA77033D042"
+			rewards: [
+				{
+					id: "2EF56F9C8CEF555C"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "661085F3C660CC3C"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "42DA2CA8EF414E15"
+				item: "farmersdelight:chicken_sandwich"
+				type: "item"
+			}]
+			x: 30.5d
+			y: 17.0d
+		}
+		{
+			id: "40FA890758813293"
+			rewards: [
+				{
+					id: "49E6A9954CB75C0B"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "573A646603FC0EE5"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "2DE123B4F1F77CFB"
+				item: "farmersdelight:egg_sandwich"
+				type: "item"
+			}]
+			x: 31.5d
+			y: 17.0d
+		}
+		{
+			id: "5954D20166D54DA9"
+			rewards: [
+				{
+					id: "0933194C04706889"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4AFB19BBEE942829"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "3F2B764C65BBE2FE"
+				item: "farmersdelight:barbecue_stick"
+				type: "item"
+			}]
+			x: -8.0d
+			y: 19.0d
+		}
+		{
+			id: "12AAA72641D9C80B"
+			rewards: [
+				{
+					id: "3AEBAE70B0BBFF8C"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1141A71052AE05D0"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "4FD532AA2D4F0D69"
+				item: "farmersdelight:nether_salad"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 4.0d
+		}
+		{
+			id: "5E4A700DC7255BA8"
+			rewards: [
+				{
+					id: "549A9663227A7F7A"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "05526FAAB072C075"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "6B3B73CE9B5EA60C"
+				item: "farmersdelight:mixed_salad"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			id: "241BEEB92A8A1A03"
+			rewards: [
+				{
+					id: "539F6CFF6BD0B06B"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "24C7DDCC8CCE0F04"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "485C2B63D9AE16EF"
+				item: "farmersdelight:fruit_salad"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 4.0d
+		}
+		{
+			id: "4DCD634BF2C83C77"
+			rewards: [
+				{
+					id: "6FFBA2C686D4C593"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "467177BD507568E5"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				id: "31C116F9B2865AB4"
+				item: "farmersdelight:glow_berry_custard"
+				type: "item"
+			}]
+			x: 39.0d
+			y: 15.5d
+		}
+		{
+			id: "5BB99F020363A6C0"
+			rewards: [
+				{
+					id: "6744C80E93F2055B"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5F1F7E4D81662A94"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "75E46E3657E7633D"
+				item: "farmersdelight:melon_popsicle"
+				type: "item"
+			}]
+			x: 42.5d
+			y: 16.0d
+		}
+		{
+			id: "5847B662966D7F29"
+			rewards: [
+				{
+					id: "0E39E4B35F6C0FB7"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "497BD71DA109014C"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "325B119041C39FD5"
+				item: "farmersdelight:honey_cookie"
+				type: "item"
+			}]
+			x: 44.0d
+			y: 20.0d
+		}
+		{
+			id: "515722B3848CA4EA"
+			rewards: [
+				{
+					id: "10B7C10251C32F13"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4541EB0F1F51BE9D"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "3B1E97DDF7482C4A"
+				item: "farmersdelight:sweet_berry_cookie"
+				type: "item"
+			}]
+			x: 45.0d
+			y: 20.0d
+		}
+		{
+			id: "34C806B106ACA8CB"
+			rewards: [
+				{
+					id: "194AC64A000D78B0"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4062793C0C6F3987"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "39E92581A9727F06"
+				item: "farmersdelight:chocolate_pie"
+				type: "item"
+			}]
+			x: 42.0d
+			y: 20.0d
+		}
+		{
+			id: "7E09758686EED3F4"
+			rewards: [
+				{
+					id: "7D16F8AF3B745197"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "32AF41DC278D766B"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "5F8E8492080C8A14"
+				item: "farmersdelight:sweet_berry_cheesecake"
+				type: "item"
+			}]
+			x: 43.0d
+			y: 20.0d
+		}
+		{
+			id: "13FB82C8CB05C988"
+			rewards: [
+				{
+					id: "379B650DC0FD44E7"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "338329C4DC8881D1"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			size: 1.0d
+			tasks: [{
+				id: "01EA81952A6177E4"
+				item: "farmersdelight:apple_pie"
+				type: "item"
+			}]
+			x: 41.0d
+			y: 20.0d
+		}
+		{
+			id: "674CA30E1E6DC2CC"
+			rewards: [
+				{
+					id: "6635358D6B044777"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0D0196FEA8259A23"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				id: "081FBB1662FEDCA9"
+				item: "farmersdelight:melon_juice"
+				type: "item"
+			}]
+			x: 20.5d
+			y: 34.5d
+		}
+		{
+			id: "05A0EA60CB248521"
+			rewards: [
+				{
+					id: "32E77AE867228CD5"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "01392B5A8A292711"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "623288F9F3F2DA0B"
+				item: "farmersdelight:apple_cider"
+				type: "item"
+			}]
+			x: 22.5d
+			y: 35.0d
+		}
+		{
+			id: "3049F25A6D23043C"
+			rewards: [
+				{
+					id: "744AAA7D5CEDCFC5"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "37C5AD834A336143"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "0C90590AE7E7D487"
+				item: "farmersdelight:hot_cocoa"
+				type: "item"
+			}]
+			x: 23.5d
+			y: 35.0d
+		}
+		{
+			id: "368666143D4479D4"
+			rewards: [
+				{
+					id: "760B62C79B4B26EC"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7DB172C5BD8B8526"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "10CA5C5688AD63EB"
+				item: "vintagedelight:stuffed_burrito"
+				type: "item"
+			}]
+			x: -9.0d
+			y: 30.0d
+		}
+		{
+			id: "4E381BCB6E7E546B"
+			rewards: [
+				{
+					id: "3561A59C898D2355"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1A94AF23F116A987"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				id: "32508D707BD75DFA"
+				item: "vintagedelight:deluxe_burger"
+				type: "item"
+			}]
+			x: 28.5d
+			y: 13.5d
+		}
+		{
+			id: "6C0A729F49881920"
+			rewards: [
+				{
+					id: "7E9218F2895BD6BB"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "37761C28E988DB83"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "2AE13D81456E55BE"
+				item: "vintagedelight:cheese_burger"
+				type: "item"
+			}]
+			x: 33.0d
+			y: 14.0d
+		}
+		{
+			id: "458C81285AF79BCB"
+			rewards: [
+				{
+					id: "74DA0DAB7DB255D4"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "75909F031EDC9954"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "16AA065DE96237B3"
+				item: "vintagedelight:pb_j"
+				type: "item"
+			}]
+			x: 32.5d
+			y: 17.0d
+		}
+		{
+			id: "26C3D2A1B39CD6F5"
+			rewards: [
+				{
+					id: "7C155893AAFFD3CD"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1826AFB25A2D552D"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				id: "21E28DEECC9BF181"
+				item: "vintagedelight:cucumber_salad"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.5d
+		}
+		{
+			id: "2437F78FAE5C2821"
+			rewards: [
+				{
+					id: "7737667044F5F097"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "324C530EFEBB8A89"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "594CC0ED5E85517B"
+				item: "vintagedelight:cheese_pasta"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 22.0d
+		}
+		{
+			id: "7B4E009A3357771B"
+			rewards: [
+				{
+					id: "711735854E54E70A"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6289E3531DDA4CD8"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "50CF7CE32F9F1771"
+				item: "vintagedelight:pad_thai"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 25.0d
+		}
+		{
+			id: "4538BF56657CE534"
+			rewards: [
+				{
+					id: "6499F2DA8E1479D9"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "31E5BE73102D11B4"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "24BF91ED284CCE59"
+				item: "vintagedelight:ghostly_chili"
+				type: "item"
+			}]
+			x: 12.0d
+			y: 13.0d
+		}
+		{
+			id: "0412E6ADC2F69086"
+			rewards: [
+				{
+					id: "6D3C56BEA60FF7AE"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "28C772029E15178A"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "39433B5A79EA8CE4"
+				item: "vintagedelight:pickle_soup"
+				type: "item"
+			}]
+			x: 17.0d
+			y: 29.5d
+		}
+		{
+			id: "28E4D2C3398623B1"
+			rewards: [
+				{
+					id: "68409C87F84D859B"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5768187102D8B5FC"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "78B47425B5B457EF"
+				item: "vintagedelight:meat_pizza"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 22.0d
+		}
+		{
+			id: "6F8B89BA67CFCD77"
+			rewards: [
+				{
+					id: "648CE5897592AD5D"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5D0E0D98B7306D69"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "7D1F45A2E888FE36"
+				item: "vintagedelight:cheese_pizza"
+				type: "item"
+			}]
+			x: -5.0d
+			y: 22.0d
+		}
+		{
+			id: "08A3B0952009D1A8"
+			rewards: [
+				{
+					id: "659FB569F87C7305"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2400829029742E06"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "1B1073DEBF01FA95"
+				item: "vintagedelight:cheese_wheel"
+				type: "item"
+			}]
+			x: 40.5d
+			y: 24.0d
+		}
+		{
+			id: "64DC3BB6F358DC03"
+			rewards: [
+				{
+					id: "0B40B32208C2CBF6"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "18823889E857DC59"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "1743B01DD58609F5"
+				item: "vintagedelight:apple_sauce_mason_jar"
+				type: "item"
+			}]
+			x: -12.0d
+			y: 5.5d
+		}
+		{
+			id: "0B26F67ACFE8430D"
+			rewards: [
+				{
+					id: "62CB5FC18CC858FA"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "76B2AD6F0B8B4E87"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "47B2462CE2D3DE6B"
+				item: "vintagedelight:gearo_berry_mason_jar"
+				type: "item"
+			}]
+			x: -10.0d
+			y: 5.5d
+		}
+		{
+			id: "6BEAB3648C874635"
+			rewards: [
+				{
+					id: "16F1765B6EB7D2A0"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0FA045D25CD72F0F"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "3D5241A1C66EA6CE"
+				item: "vintagedelight:sweet_berry_mason_jar"
+				type: "item"
+			}]
+			x: -9.0d
+			y: 5.5d
+		}
+		{
+			id: "03D434660DA675C8"
+			rewards: [
+				{
+					id: "65F3777B71D51EAE"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4E23C05F44067347"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "3EA426022AF2EB8A"
+				item: "vintagedelight:glow_berry_mason_jar"
+				type: "item"
+			}]
+			x: -12.0d
+			y: 7.5d
+		}
+		{
+			id: "21875E6E4317883A"
+			rewards: [
+				{
+					id: "74DC05055AD8EF5F"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "401536230AAD4B91"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "080A9CD27A3F9FD5"
+				item: "vintagedelight:pepper_jam_mason_jar"
+				type: "item"
+			}]
+			x: -11.0d
+			y: 7.5d
+		}
+		{
+			id: "020F1B0A8D996065"
+			rewards: [
+				{
+					id: "64229E2D35C2D2B6"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2E1B071034BA2CE6"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "0D4237B6876C2621"
+				item: "vintagedelight:relish_mason_jar"
+				type: "item"
+			}]
+			x: -10.0d
+			y: 7.5d
+		}
+		{
+			id: "7E8B464041668D96"
+			rewards: [
+				{
+					id: "25E409C84E97FBFF"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4B1674B0D5F5B846"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				id: "5AF646918F774E50"
+				item: "vintagedelight:nut_mash_mason_jar"
+				type: "item"
+			}]
+			x: -12.0d
+			y: 4.0d
+		}
+		{
+			id: "0ABE9E59A4F79E35"
+			rewards: [
+				{
+					id: "12E0C03869161824"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5F79586C14ACF2F7"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "0F0294137EF48E7D"
+				item: "vintagedelight:honey_mason_jar"
+				type: "item"
+			}]
+			x: -9.0d
+			y: 7.5d
+		}
+		{
+			id: "7352A325FE17D625"
+			rewards: [
+				{
+					id: "21AB22D66FC3B4A2"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "53049CE9ED7437BE"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "44D16E3B2B4452BD"
+				item: "vintagedelight:vinegar_mason_jar"
+				type: "item"
+			}]
+			x: -11.0d
+			y: 5.5d
+		}
+		{
+			id: "6F2F47F6FFB0BBD4"
+			rewards: [
+				{
+					id: "130FC7744A6B3CD1"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "05D81FBB09AC7046"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "0B2F1C5E9F30A9F3"
+				item: "vintagedelight:century_egg"
+				type: "item"
+			}]
+			x: -7.0d
+			y: 8.0d
+		}
+		{
+			id: "47D47E305F4DE21A"
+			rewards: [
+				{
+					id: "438141586D3ED593"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1B46143251682925"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "67B72A1A0C0C71F0"
+				item: "vintagedelight:pickled_egg"
+				type: "item"
+			}]
+			x: -5.5d
+			y: 8.0d
+		}
+		{
+			id: "1732E1F574D9ECCF"
+			rewards: [
+				{
+					id: "3ACA2DD014E3377E"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "630555D8C857AC40"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "4DBDCE6887A90434"
+				item: "vintagedelight:oatmeal"
+				type: "item"
+			}]
+			x: 13.0d
+			y: 8.0d
+		}
+		{
+			id: "7DF05448C1F6B510"
+			rewards: [
+				{
+					id: "1F5DA4CAE8DB9A60"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6B5AA69197E2ED78"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "5C795CEF019619F2"
+				item: "vintagedelight:overnight_oats"
+				type: "item"
+			}]
+			x: 14.0d
+			y: 8.0d
+		}
+		{
+			id: "54385A5A6A1E2484"
+			rewards: [
+				{
+					id: "4E189F7A9FD0BB28"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4D961BEF32AED370"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "3B3E84874369D199"
+				item: "vintagedelight:chocolate_nut_granola_bar"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 8.0d
+		}
+		{
+			id: "44F3F720326774FB"
+			rewards: [
+				{
+					id: "074F219525D5DE89"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4A577088C5AE958C"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "7B83B08F90B8B0BD"
+				item: "vintagedelight:fruity_granola_bar"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 8.0d
+		}
+		{
+			id: "41ECCD2BE812C488"
+			rewards: [
+				{
+					id: "317F87801BCD7352"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "04B872BD8B45781C"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "44F440DE64CAB491"
+				item: "vintagedelight:deluxe_granola_bar"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 8.0d
+		}
+		{
+			id: "32A5D5E1296F8805"
+			rewards: [
+				{
+					id: "765FB932D82F3517"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4EED152E304DA3EC"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			size: 1.0d
+			tasks: [{
+				id: "58FA2BC1E7BFCD57"
+				item: "vintagedelight:salted_cod"
+				type: "item"
+			}]
+			x: -7.0d
+			y: 4.0d
+		}
+		{
+			id: "529512DD28DA182D"
+			rewards: [
+				{
+					id: "1E13E8AC8F3B6915"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7CD7EDAA3C1B25B2"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "314ACFE181326E54"
+				item: "vintagedelight:salted_salmon"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 4.0d
+		}
+		{
+			id: "4CA822AFB7531A5A"
+			rewards: [
+				{
+					id: "0ACD3EBFDE647290"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "335012108720B161"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "6F2BB63EB581F5A9"
+				item: "vintagedelight:surstromming"
+				type: "item"
+			}]
+			x: -5.0d
+			y: 4.0d
+		}
+		{
+			id: "4D47464A3E5F5391"
+			rewards: [
+				{
+					id: "71DA2A7A0929FD36"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "648DB146081FDD5F"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "726F19988B689501"
+				item: "vintagedelight:roasted_peanut"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 8.0d
+		}
+		{
+			id: "088D2DDA1D934FC6"
+			rewards: [
+				{
+					id: "130CFB3A7CED577B"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4EEBA6E50B65A782"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "6551DB6AB513494C"
+				item: "vintagedelight:honey_roasted_peanut"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 8.0d
+		}
+		
+	
+		
+		
+		{
+			id: "7EC6BCF28CFE6F32"
+			rewards: [
+				{
+					id: "2472F4198D7158A4"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6B27783E06265D4F"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "03566B2D4D1CE5F9"
+				item: "brewery:pork_knuckle"
+				type: "item"
+			}]
+			x: -10.0d
+			y: 22.0d
+		}
+		{
+			id: "5C4B0A698B6822AD"
+			rewards: [
+				{
+					id: "3B736E07D3E20BF6"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0295F110C5E0AFF8"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				id: "27C2587595F312BC"
+				item: "brewery:half_chicken"
+				type: "item"
+			}]
+			x: -12.0d
+			y: 21.5d
+		}
+		{
+			id: "179C049B5C991CA0"
+			rewards: [
+				{
+					id: "352C84BB49FF7F7A"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4775522DF4003CD3"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "600AD42731C6C813"
+				item: "brewery:mashed_potatoes"
+				type: "item"
+			}]
+			x: -8.0d
+			y: 22.0d
+		}
+		{
+			id: "25485BCF57B60067"
+			rewards: [
+				{
+					id: "41F24C9C72ECA2DF"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "50B0284431FC6C55"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "75D6478F27791B61"
+				item: "brewery:potato_salad"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 4.0d
+		}
+		{
+			id: "6AF9224A40B27027"
+			rewards: [
+				{
+					id: "6344BAB6A2C6142F"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2882591DA3D8981B"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "0B4796430E93E497"
+				item: "brewery:dumplings"
+				type: "item"
+			}]
+			x: -7.0d
+			y: 22.0d
+		}
+		{
+			id: "2893F676A05C8E4B"
+			rewards: [
+				{
+					id: "3C1EF3C95E73B0A8"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4A09FACD1970587C"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "5F04D6E0680D99A6"
+				item: "brewery:pretzel"
+				type: "item"
+			}]
+			x: 52.0d
+			y: 27.0d
+		}
+		{
+			id: "04279F1D0DCC23CF"
+			rewards: [
+				{
+					id: "2935F3BD0C76E2C6"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6DEDBDAB313E0000"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "39CBFC8FBD539FCA"
+				item: "brewery:gingerbread"
+				type: "item"
+			}]
+			x: 53.0d
+			y: 27.0d
+		}
+		{
+			id: "2FECC8A774F6A4AB"
+			rewards: [
+				{
+					id: "4E069745A77BF8C7"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6D0222DE6280AD84"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "43493517AA50162E"
+				item: "bakery:strawberry_cake"
+				type: "item"
+			}]
+			x: 38.0d
+			y: 30.5d
+		}
+		{
+			id: "3331E8747C0E28FC"
+			rewards: [
+				{
+					id: "32C6A9C0F98CA245"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7FBEAABB5074828F"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "7F2BB389B3DB766B"
+				item: "bakery:sweetberry_cake"
+				type: "item"
+			}]
+			x: 40.0d
+			y: 30.5d
+		}
+		{
+			id: "2BC9F517DF30C790"
+			rewards: [
+				{
+					id: "7FB948CD846A3374"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "30818B2B19654F39"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "69891CE31277B1CF"
+				item: "bakery:chocolate_cake"
+				type: "item"
+			}]
+			x: 36.0d
+			y: 27.5d
+		}
+		{
+			id: "5A6577DD7A9353C5"
+			rewards: [
+				{
+					id: "41604B9EA2B6E433"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "727692DE60D40C7C"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "63A0815A4743ED53"
+				item: "bakery:chocolate_gateau"
+				type: "item"
+			}]
+			x: 38.0d
+			y: 27.5d
+		}
+		{
+			id: "2AAC20DDF72DCE03"
+			rewards: [
+				{
+					id: "26B9178AE3C5C898"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4EBF340C8466D406"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "4DCBE95AA1581C0C"
+				item: "bakery:chocolate_glazed_cookie"
+				type: "item"
+			}]
+			x: 36.0d
+			y: 30.5d
+		}
+		{
+			id: "381D4779A6C4FC87"
+			rewards: [
+				{
+					id: "45C669D3AA6EFBC8"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5C4F19559C634EDF"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "19782EAE37DBC9A2"
+				item: "bakery:sweetberry_glazed_cookie"
+				type: "item"
+			}]
+			x: 40.0d
+			y: 27.5d
+		}
+		{
+			id: "0676AD44B9D3F832"
+			rewards: [
+				{
+					id: "199B27B6A8504FC9"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "14A00D0618E33DBF"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "74392734EBB17537"
+				item: "bakery:chocolate_truffle"
+				type: "item"
+			}]
+			x: 50.0d
+			y: 27.0d
+		}
+		{
+			id: "1F04BA91B049F4C4"
+			rewards: [
+				{
+					id: "039DBBCDFF111D22"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "60B905CF86637170"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "445E0B40404C5658"
+				item: "bakery:pudding"
+				type: "item"
+			}]
+			x: 51.0d
+			y: 27.0d
+		}
+		{
+			id: "5755A4B140900E29"
+			rewards: [
+				{
+					id: "21A2A3B63055612B"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1B0BF5AD3566E53F"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "67ED77D3550B570F"
+				item: "bakery:strawberry_jam"
+				type: "item"
+			}]
+			x: 29.0d
+			y: 23.5d
+		}
+		{
+			id: "05F8993582ACCD3C"
+			rewards: [
+				{
+					id: "735C38F83F0B951D"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5CE67BFD0C816EAD"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "6E72F7F380913D00"
+				item: "bakery:sweetberry_jam"
+				type: "item"
+			}]
+			x: 30.0d
+			y: 23.5d
+		}
+		{
+			id: "0A326A8BF25CBEE6"
+			rewards: [
+				{
+					id: "69A3CA3F8CF26E05"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "346B2332A485E3F7"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "76C927A75B37EEE9"
+				item: "bakery:glowberry_jam"
+				type: "item"
+			}]
+			x: 31.0d
+			y: 23.5d
+		}
+		{
+			id: "126A683FEA1E1DA7"
+			rewards: [
+				{
+					id: "6068993762564B51"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6EE162309252A7A9"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "7B9A8C7CDA09A097"
+				item: "bakery:apple_jam"
+				type: "item"
+			}]
+			x: 32.0d
+			y: 23.5d
+		}
+		{
+			id: "4476C424BE62E909"
+			rewards: [
+				{
+					id: "025E44E10CCDB262"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4AC2348A1D6EC728"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "1777849A744C991D"
+				item: "bakery:chocolate_jam"
+				type: "item"
+			}]
+			x: 33.0d
+			y: 23.5d
+		}
+		{
+			dependencies: ["489D31F487417B9B"]
+			id: "5BC634B8CC35C0DA"
+			rewards: [
+				{
+					id: "20931D77A836D196"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3F2D43ED77803845"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				id: "4F8A638432833CDA"
+				item: "brewery:beer_wheat"
+				type: "item"
+			}]
+			x: 29.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["5BC634B8CC35C0DA"]
+			hide_dependency_lines: true
+			id: "5144224861D287C4"
+			rewards: [
+				{
+					id: "35079D3EED4DE67B"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0BDD501995466AF3"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "38548DD5DC09A045"
+				item: "brewery:beer_hops"
+				type: "item"
+			}]
+			x: 32.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["5BC634B8CC35C0DA"]
+			hide_dependency_lines: true
+			id: "5F7F20F99A118006"
+			rewards: [
+				{
+					id: "7C4AA2ED07AD0066"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1A54D0B35C50011B"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "199D1ACF2C984C47"
+				item: "brewery:beer_barley"
+				type: "item"
+			}]
+			x: 31.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["5BC634B8CC35C0DA"]
+			hide_dependency_lines: true
+			id: "0C432FFB5D273397"
+			rewards: [
+				{
+					id: "507B189D9D07638B"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6032B0B2E2C79E07"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "13298DF682F58CF4"
+				item: "brewery:beer_haley"
+				type: "item"
+			}]
+			x: 33.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["6EF4E9AF2EE0FBA5"]
+			description: ["可堆高8格，这样一次可以放入9个原料"]
+			id: "2971F8433A6413A0"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1BABAA83AD166187"
+					table_id: 8702566410181237859L
+					type: "random"
+				}
+				{
+					id: "79750075F72DCD1F"
+					item: "kubejs:iii"
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			subtitle: "用来烘干一些啤酒原料，例如小麦，大麦，玉米"
+			tasks: [{
+				id: "07DA7D673022D05F"
+				item: "brewery:silo_wood"
+				type: "item"
+			}]
+			x: 32.5d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"2DA9D3DB11BD3279"
+				"68636701937539DE"
+			]
+			id: "489D31F487417B9B"
+			rewards: [
+				{
+					id: "47E1ECAB9D2782B5"
+					item: "brewery:beer_mug"
+					type: "item"
+				}
+				{
+					id: "3639D7773E7D2608"
+					item: "kubejs:iii"
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				id: "3A33D34AE9672D06"
+				item: "brewery:wooden_brewingstation"
+				type: "item"
+			}]
+			x: 29.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["2971F8433A6413A0"]
+			id: "02A801D43C5BC830"
+			rewards: [{
+				id: "7079443718FFE4AD"
+				item: "kubejs:iii"
+				type: "item"
+			}]
+			subtitle: "可种植在耕地上，生长至2格高后，颜色变得更亮后即可收获"
+			tasks: [{
+				id: "4A2191FA48948A91"
+				item: "brewery:hops_seeds"
+				type: "item"
+			}]
+			x: 31.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["02A801D43C5BC830"]
+			id: "2DA9D3DB11BD3279"
+			rewards: [
+				{
+					id: "7B9A47B5D49B75BD"
+					item: "minecraft:oak_fence"
+					type: "item"
+				}
+				{
+					id: "5B3B451C6264B36E"
+					item: "brewery:rope"
+					type: "item"
+				}
+				{
+					id: "53A41B14A1C33E10"
+					item: "kubejs:iii"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0E996A4C4E232A13"
+				item: "brewery:hops"
+				type: "item"
+			}]
+			title: "收获啤酒花"
+			x: 30.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["2971F8433A6413A0"]
+			id: "68636701937539DE"
+			rewards: [{
+				id: "0868370352BB6750"
+				item: "kubejs:iii"
+				type: "item"
+			}]
+			subtitle: "手持小麦右键烘干仓，等待一段时间后再次右键即可获得"
+			tasks: [{
+				id: "456090AF2732BCF9"
+				item: "brewery:dried_wheat"
+				type: "item"
+			}]
+			x: 30.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["5BC634B8CC35C0DA"]
+			hide_dependency_lines: true
+			id: "7C51F0C1BE3131DE"
+			rewards: [
+				{
+					id: "68ACA5025A482DFA"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "67F4CC722C1CEEA3"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "2E38D2CF1F0C088B"
+				item: "brewery:whiskey_jojannik"
+				type: "item"
+			}]
+			x: 31.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["5BC634B8CC35C0DA"]
+			hide_dependency_lines: true
+			id: "240597647B546E62"
+			rewards: [
+				{
+					id: "18C7A6571CE2DB22"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "721DB5671EBA3FF2"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "50AB2AC3AAEDFEF5"
+				item: "brewery:whiskey_lilitusinglemalt"
+				type: "item"
+			}]
+			x: 32.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["5BC634B8CC35C0DA"]
+			hide_dependency_lines: true
+			id: "2DEE96713E699A73"
+			rewards: [
+				{
+					id: "1C457AF0616EA438"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "49F1528EE1303C0C"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "2527F9D2677DAC6B"
+				item: "brewery:whiskey_cristelwalker"
+				type: "item"
+			}]
+			x: 33.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["5BC634B8CC35C0DA"]
+			hide_dependency_lines: true
+			id: "33F80E9D73F46661"
+			rewards: [
+				{
+					id: "2B255495E303D02C"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6647BB62A6149B48"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "39326927A6445EC9"
+				item: "brewery:whiskey_maggoallan"
+				type: "item"
+			}]
+			x: 34.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["5BC634B8CC35C0DA"]
+			hide_dependency_lines: true
+			id: "633DD8E7E241B940"
+			rewards: [
+				{
+					id: "2D20E96B17B67DD1"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "58ABC82B990AB57C"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "786DB1C3DDB86A8F"
+				item: "brewery:whiskey_carrasconlabel"
+				type: "item"
+			}]
+			x: 35.0d
+			y: 9.5d
+		}
+		{
+			id: "6EF4E9AF2EE0FBA5"
+			rewards: [{
+				id: "228B458C6F926DDC"
+				item: "kubejs:iii"
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "491B21917EFDBD89"
+				title: "了解如何酿造啤酒"
+				type: "checkmark"
+			}]
+			x: 32.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2971F8433A6413A0"]
+			id: "6CBC9804595E7FAD"
+			rewards: [{
+				id: "77EA25B10B8AFA99"
+				item: "kubejs:iii"
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				id: "03497119F095BEAF"
+				item: "brewery:silo_copper"
+				type: "item"
+			}]
+			x: 32.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["489D31F487417B9B"]
+			id: "2A2867F07BA21F18"
+			rewards: [{
+				id: "3B2CED3BD872DE51"
+				item: "kubejs:iii"
+				type: "item"
+			}]
+			tasks: [{
+				id: "26020B1F8FDA1DA5"
+				item: "brewery:copper_brewingstation"
+				type: "item"
+			}]
+			x: 27.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["2A2867F07BA21F18"]
+			id: "79997676D7C7524F"
+			rewards: [{
+				id: "389F8DD6A7779CB6"
+				item: "kubejs:iii"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6CBEEA46C34EA814"
+				item: "brewery:netherite_brewingstation"
+				type: "item"
+			}]
+			x: 26.0d
+			y: 4.5d
+		}
+		{
+			id: "18D585B68C335D7D"
+			rewards: [
+				{
+					id: "3A32A415A8AF9843"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1D2AF336A7CB820A"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				id: "3229D98D7DB8D23D"
+				item: "bakery:baker_station"
+				type: "item"
+			}]
+			x: 30.0d
+			y: 34.5d
+		}
+		{
+			dependencies: ["4DC932B2A45E09E3"]
+			id: "1125A54069224CB3"
+			rewards: [
+				{
+					id: "3EE88E09F84DFDDE"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "78BE70D5BF35DB07"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "09EBDD74BB6F8A7C"
+				item: {
+					Count: 1
+					id: "bakery:bread_knife"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 36.0d
+			y: 34.5d
+		}
+		{
+			dependencies: ["1125A54069224CB3"]
+			id: "172FDC0730EFC096"
+			rewards: [
+				{
+					id: "32BCA1092556561E"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "72FA2429EA934453"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "4F6C1664C40D92AB"
+				item: "bakery:apple_jam"
+				type: "item"
+			}]
+			x: 37.5d
+			y: 34.5d
+		}
+		{
+			dependencies: ["172FDC0730EFC096"]
+			id: "6B51EDF9FD5E7043"
+			rewards: [
+				{
+					id: "18FDA9B82B68F282"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "720CBD28192BED39"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "3F709A6209B6DEEC"
+				item: "bakery:apple_cupcake"
+				type: "item"
+			}]
+			x: 39.0d
+			y: 34.5d
+		}
+		{
+			dependencies: ["2155C30CE4ECA1C5"]
+			id: "5DD0AB1564B3C551"
+			rewards: [
+				{
+					id: "318DEA9C86EB3376"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6106DB807917B06B"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "51A41D86A91C43F5"
+				item: "bakery:bundt_cake"
+				type: "item"
+			}]
+			x: 32.5d
+			y: 37.5d
+		}
+		{
+			id: "2155C30CE4ECA1C5"
+			rewards: [
+				{
+					id: "696EDE5A324D5625"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "17D8BCA29FB9C6E3"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				id: "10E606B6664B3376"
+				item: "bakery:brick_stove"
+				type: "item"
+			}]
+			x: 32.5d
+			y: 36.0d
+		}
+		{
+			id: "0ADF02A01AD8C86D"
+			rewards: [
+				{
+					id: "31E65095C2C92A7A"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5C100EF5DE6F1C66"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "4C94B0EB824DF45B"
+				item: "bakery:strawberry_cupcake"
+				type: "item"
+			}]
+			x: 40.5d
+			y: 34.5d
+		}
+		{
+			id: "62AC0387EC0BDF30"
+			rewards: [
+				{
+					id: "4B77C359DB1F32A2"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5DE4E73267D24382"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			subtitle: "翻译错误，甜浆果纸杯蛋糕"
+			tasks: [{
+				id: "09AFD3FC0FE2D9FB"
+				item: "bakery:sweetberry_cupcake"
+				type: "item"
+			}]
+			x: 41.5d
+			y: 34.5d
+		}
+		{
+			dependencies: ["15A5E10881949321"]
+			id: "6A1C61FE760D9482"
+			rewards: [
+				{
+					id: "0F98A62D0795E08F"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6678E01DB775E590"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "6DD6420782FB7207"
+				item: "bakery:braided_bread"
+				type: "item"
+			}]
+			x: 36.0d
+			y: 36.0d
+		}
+		{
+			dependencies: ["15A5E10881949321"]
+			id: "72309D418189147D"
+			rewards: [
+				{
+					id: "2F1E9EF4BD2DD28F"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2AF4684D6230AC13"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "4275C8A18256B8ED"
+				item: "bakery:toast"
+				type: "item"
+			}]
+			x: 37.0d
+			y: 36.0d
+		}
+		{
+			dependencies: ["5AF9434DB2F6BB20"]
+			id: "6B6A234EDE5E39D3"
+			rewards: [
+				{
+					id: "18283CB99CD67426"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3F667D5D7C0389BE"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "77E69D6D33100CAD"
+				item: "bakery:baguette"
+				type: "item"
+			}]
+			x: 38.0d
+			y: 37.5d
+		}
+		{
+			dependencies: ["15A5E10881949321"]
+			id: "5F823133BD16DCD3"
+			rewards: [
+				{
+					id: "79BACB42EB4D1C03"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "22189DEE1FE0D5A9"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "35FADA39A044962E"
+				item: "bakery:bread"
+				type: "item"
+			}]
+			x: 38.0d
+			y: 36.0d
+		}
+		{
+			dependencies: ["5AF9434DB2F6BB20"]
+			id: "249C02C2CEDC20A9"
+			rewards: [
+				{
+					id: "03C10AA936C33B80"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "121A0D654EBD4DEA"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "56F2E78B01CE2005"
+				item: "bakery:croissant"
+				type: "item"
+			}]
+			x: 39.0d
+			y: 37.5d
+		}
+		{
+			dependencies: ["5AF9434DB2F6BB20"]
+			id: "3F7ADEE62A28B1A0"
+			rewards: [
+				{
+					id: "24022C5E269B5809"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "67F43F46C5508245"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "103C0CF0B2C87668"
+				item: "bakery:cornet"
+				type: "item"
+			}]
+			x: 40.0d
+			y: 37.5d
+		}
+		{
+			dependencies: ["5AF9434DB2F6BB20"]
+			id: "7026658BCDCE853C"
+			rewards: [
+				{
+					id: "2BBBF3935AF6401E"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "423AD642A171D287"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "23F35A2B8DF207B4"
+				item: "bakery:glowberry_tart"
+				type: "item"
+			}]
+			x: 41.0d
+			y: 37.5d
+		}
+		{
+			dependencies: ["5AF9434DB2F6BB20"]
+			id: "52BCEA5B0523D82E"
+			rewards: [
+				{
+					id: "38F9225CA1CF6CEF"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3A77AF3C4031BF06"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "58B082CDEDCF4AA3"
+				item: "bakery:apple_pie"
+				type: "item"
+			}]
+			x: 42.0d
+			y: 37.5d
+		}
+		{
+			dependencies: ["15A5E10881949321"]
+			id: "5E814AE5CD48DF8E"
+			rewards: [
+				{
+					id: "39FC5B14917D1AA2"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2C33D0A5C9784B76"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "0FCEB24405A223B4"
+				item: "bakery:bun"
+				type: "item"
+			}]
+			x: 39.0d
+			y: 36.0d
+		}
+		{
+			dependencies: ["5AF9434DB2F6BB20"]
+			id: "437197E34921B2D6"
+			rewards: [
+				{
+					id: "66982C5162E35AFE"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "63CECB872052C4A8"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "7C1C2D8B024EB084"
+				item: "bakery:chocolate_tart"
+				type: "item"
+			}]
+			x: 43.0d
+			y: 37.5d
+		}
+		{
+			dependencies: ["15A5E10881949321"]
+			id: "785B2245FAF53E4D"
+			rewards: [
+				{
+					id: "4F316C1E99603640"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "73726AFD76BBA098"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "4C3CA85E54CC1233"
+				item: "bakery:crusty_bread"
+				type: "item"
+			}]
+			x: 40.0d
+			y: 36.0d
+		}
+		{
+			dependencies: ["15A5E10881949321"]
+			id: "707D96A58655330F"
+			rewards: [
+				{
+					id: "3B7FCB69B974FF53"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "47E18C0AA286FBD4"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "492D7A43A85E48E5"
+				item: "bakery:bun"
+				type: "item"
+			}]
+			x: 41.0d
+			y: 36.0d
+		}
+		{
+			dependencies: ["5AF9434DB2F6BB20"]
+			id: "17F64EA3B89EC51F"
+			rewards: [
+				{
+					id: "62F78D735B276871"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "48F8780FD5026537"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "250A2CE562B1B99D"
+				item: "bakery:linzer_tart"
+				type: "item"
+			}]
+			x: 44.0d
+			y: 37.5d
+		}
+		{
+			dependencies: ["5AF9434DB2F6BB20"]
+			id: "5DDAD488DFA8FBF8"
+			rewards: [
+				{
+					id: "3E46AA6841B287CA"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "00A413E63AE3E96B"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "2A57B18BAB1DA3E9"
+				item: "bakery:misslilitu_biscuit"
+				type: "item"
+			}]
+			x: 36.0d
+			y: 37.5d
+		}
+		{
+			dependencies: ["5AF9434DB2F6BB20"]
+			id: "6467DBA9F505FC2C"
+			rewards: [
+				{
+					id: "2186B3568EEA81E2"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1E1B78B1091EE199"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "38C84DDFC201F9BA"
+				item: "bakery:waffle"
+				type: "item"
+			}]
+			x: 37.0d
+			y: 37.5d
+		}
+		{
+			id: "6D715D55AC835486"
+			rewards: [
+				{
+					id: "19401A153133F081"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "543A9175E6687D27"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "7A56C150C47A0DE6"
+				item: "bakery:strawberry_glazed_cookie"
+				type: "item"
+			}]
+			x: 42.5d
+			y: 34.5d
+		}
+		{
+			dependencies: ["18D585B68C335D7D"]
+			id: "79B587698AB8B7A6"
+			rewards: [
+				{
+					id: "67DDE81629760579"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3F7258EBC0F581EE"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "0BD51C4BB403EA9C"
+				item: "bakery:crafting_bowl"
+				type: "item"
+			}]
+			x: 32.5d
+			y: 34.5d
+		}
+		{
+			dependencies: ["79B587698AB8B7A6"]
+			id: "15A5E10881949321"
+			rewards: [
+				{
+					id: "79319E44B94A7AD0"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5FDE456FFDD310D6"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "1E4929CE87261E97"
+				item: "bakery:dough"
+				type: "item"
+			}]
+			x: 34.5d
+			y: 36.0d
+		}
+		{
+			dependencies: ["79B587698AB8B7A6"]
+			id: "4DC932B2A45E09E3"
+			rewards: [
+				{
+					id: "49A8E87DF60C9E65"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2E5ECDB4BD05FA5C"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "4717FFA81B5D8E4B"
+				item: "bakery:cake_dough"
+				type: "item"
+			}]
+			x: 34.5d
+			y: 34.5d
+		}
+		{
+			dependencies: ["79B587698AB8B7A6"]
+			id: "5AF9434DB2F6BB20"
+			rewards: [
+				{
+					id: "1539F745BA9C6385"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0F87F9798D9F6D11"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "415FF45EDE08AB2D"
+				item: "bakery:sweet_dough"
+				type: "item"
+			}]
+			x: 34.5d
+			y: 37.5d
+		}
+		{
+			id: "72A786CA155F0732"
+			rewards: [
+				{
+					id: "73DF7FC6F16277CA"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "612B356E89DCDDDA"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "3837A99DBE382390"
+				item: "brewery:fried_chicken"
+				type: "item"
+			}]
+			x: -9.0d
+			y: 22.0d
+		}
+		{
+			id: "37648CA9A29ED5E1"
+			rewards: [
+				{
+					id: "5618E939DF67D619"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "72FA470EB5B31C05"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "697D31D20621C47C"
+				item: "alexsmobs:shrimp_fried_rice"
+				type: "item"
+			}]
+			x: 11.0d
+			y: 25.0d
+		}
+		{
+			id: "41807704D641288E"
+			rewards: [
+				{
+					id: "52197FE08C623C00"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5B4AB50617142BE6"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "24B70ED6BD7A5A5F"
+				item: "alexsmobs:mosquito_repellent_stew"
+				type: "item"
+			}]
+			x: 12.0d
+			y: 16.0d
+		}
+		{
+			id: "03EBA06DAE768A71"
+			rewards: [
+				{
+					id: "1B48B9DF17DF17E6"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0BADDECAA2EBDD9A"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "4CB3059F9C646797"
+				item: "alexsmobs:kangaroo_burger"
+				type: "item"
+			}]
+			x: 34.0d
+			y: 14.0d
+		}
+		{
+			id: "296510BDFEF2A5ED"
+			rewards: [
+				{
+					id: "51D3E73E7748C647"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4A877C823FC0E62C"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "10DF643AF13FD99B"
+				item: "alexsmobs:sopa_de_macaco"
+				type: "item"
+			}]
+			x: 18.0d
+			y: 29.5d
+		}
+		{
+			id: "1875AE36B67EEE65"
+			rewards: [
+				{
+					id: "6E81E19A190D9CE3"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5C7A32BBADFEE395"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "3B403A377FD7C40E"
+				item: "bakery:vegetable_sandwich"
+				type: "item"
+			}]
+			x: 35.5d
+			y: 17.0d
+		}
+		{
+			id: "1EC88ED4F8D24BD8"
+			rewards: [
+				{
+					id: "42C8B444CF724471"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3FCF48CABE807C9C"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "0B4FDE55AF17FD94"
+				item: "bakery:sandwich"
+				type: "item"
+			}]
+			x: 34.5d
+			y: 17.0d
+		}
+		{
+			id: "6028377D9E821695"
+			shape: "gear"
+			size: 6.0d
+			tasks: [{
+				id: "60EE241312B239EF"
+				title: "试着制作所有美食吧！"
+				type: "checkmark"
+			}]
+			x: 15.0d
+			y: 0.0d
+		}
+		{
+			id: "17C08089B6D07463"
+			rewards: [
+				{
+					id: "71A65C7582288943"
+					item: "kubejs:iii"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3882EA8138CFBC70"
+					table_id: 4913178079845993820L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "6135072E6BF4DAE1"
+				item: "snowyspirit:eggnog"
+				type: "item"
+			}]
+			x: 24.5d
+			y: 35.0d
+		}
+		{
+			id: "523C6F77E5AB3455"
+			tasks: [{
+				id: "0A77D5413E12EC24"
+				item: "duckling:holiday_fruit_cake"
+				type: "item"
+			}]
+			x: 54.0d
+			y: 27.0d
+		}
+	]
+	title: "美食菜单"
+}

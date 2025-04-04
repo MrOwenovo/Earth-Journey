@@ -1,0 +1,11 @@
+{
+	id: "78C5BA0AB9195C63"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{ item: "brewery:barley_seeds" }
+		{ item: "brewery:corn_seeds" }
+		{ item: "minecraft:wheat_seeds" }
+	]
+	title: "啤酒"
+}

@@ -1,0 +1,26 @@
+{
+	icon: "duckmoney:note20"
+	id: "571B81D6F5CA6066"
+	loot_size: 1
+	order_index: 8
+	rewards: [
+		{ item: "duckmoney:bundle1", weight: 145.0f }
+		{ item: "duckmoney:bundle2", weight: 95.0f }
+		{ item: "duckmoney:bundle5", weight: 75.0f }
+		{ item: "duckmoney:bundle10", weight: 45.0f }
+		{ item: "duckmoney:bundle20", weight: 25.0f }
+		{ item: "duckmoney:bundle1000", title: "&e枪械抽奖券" }
+		{ item: "lightmanscurrency:coin_diamond", title: "2钻石币", weight: 100.0f }
+		{ item: "lightmanscurrency:coin_diamond", title: "5钻石币", weight: 70.0f }
+		{
+			command: "/mine_and_slash give exp @p 200"
+			icon: "cagedmobs:experience_orb"
+			title: "砍杀经验200"
+			type: "command"
+			weight: 70.0f
+		}
+		{ item: "duckmoney:bundle50", weight: 15.0f }
+		{ item: "mmorpg:currency/map_rarity_upgrade", weight: 75.0f }
+	]
+	title: "抽奖券抽奖"
+}

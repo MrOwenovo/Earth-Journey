@@ -1,0 +1,758 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "352AB630D839ABC4"
+	group: ""
+	icon: "smallships:oak_galley"
+	id: "352AB630D839ABC4"
+	images: [
+		{
+			height: 4.0d
+			image: "smallships:item/ship/birch_drakkar"
+			rotation: 0.0d
+			width: 4.0d
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			height: 2.0d
+			image: "astikorcarts:item/wheel"
+			rotation: 0.0d
+			width: 2.0d
+			x: 8.0d
+			y: -2.0d
+		}
+		{
+			height: 2.0d
+			image: "astikorcarts:item/supply_cart"
+			rotation: 0.0d
+			width: 2.0d
+			x: 10.0d
+			y: -2.0d
+		}
+		{
+			height: 3.0d
+			image: "immersive_aircraft:item/biplane"
+			rotation: 0.0d
+			width: 3.0d
+			x: 2.5d
+			y: -6.5d
+		}
+		{
+			height: 3.0d
+			image: "immersive_aircraft:item/gyrodyne"
+			rotation: 0.0d
+			width: 3.0d
+			x: 8.5d
+			y: -6.5d
+		}
+		{
+			height: 3.0d
+			image: "immersive_aircraft:item/airship"
+			rotation: 0.0d
+			width: 3.0d
+			x: 11.5d
+			y: -6.5d
+		}
+		{
+			height: 3.0d
+			image: "immersive_aircraft:item/quadrocopter"
+			rotation: 0.0d
+			width: 3.0d
+			x: 5.5d
+			y: -6.5d
+		}
+		{
+			height: 3.0d
+			image: "immersive_aircraft:item/warship"
+			rotation: 0.0d
+			width: 3.0d
+			x: 16.5d
+			y: -6.5d
+		}
+		{
+			height: 3.0d
+			image: "immersive_aircraft:item/cargo_airship"
+			rotation: 0.0d
+			width: 3.0d
+			x: 14.0d
+			y: -6.5d
+		}
+		{
+			height: 6.0d
+			image: "ftbquests:textures/shapes/rsquare/outline.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: 9.0d
+			y: -2.0d
+		}
+		{
+			height: 6.0d
+			image: "ftbquests:textures/shapes/rsquare/outline.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			height: 6.0d
+			image: "ftbquests:textures/shapes/rsquare/outline.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: 15.0d
+			y: -2.0d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"在雨中或暴风雨期间飞行会遭遇雷击"
+				"在火和岩浆中飞行滑翔伞会受到灼烧"
+			]
+			id: "022A86374C8F917A"
+			rewards: [{
+				id: "36B3159965CFFC17"
+				item: "minecraft:iron_ingot"
+				random_bonus: 5
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 1.0d
+			subtitle: "跳跃后按空格使用，可装备在胸甲/饰品栏"
+			tasks: [{
+				id: "197EC1F157D2FC2A"
+				item: {
+					Count: 1
+					id: "vc_gliders:paraglider_wood"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 14.5d
+			y: -1.0d
+		}
+		{
+			id: "04EDF07D85230A95"
+			rewards: [{
+				id: "23C64627D2B13890"
+				item: "minecraft:iron_ingot"
+				random_bonus: 7
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 1.0d
+			subtitle: "适合雪地玩耍，用栓绳牵住狗右键可绑定到雪橇上"
+			tasks: [{
+				id: "1120F4572B5153EA"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "snowyspirit:sleds"
+					}
+				}
+				title: "制作任意材质雪橇"
+				type: "item"
+			}]
+			title: "任意材质雪橇"
+			x: 16.5d
+			y: -0.5d
+		}
+		{
+			id: "4E1A0D0185528F8D"
+			rewards: [{
+				id: "17D72C34229AD63F"
+				item: "minecraft:diamond"
+				random_bonus: 7
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [
+				{
+					id: "1751266F8A3022EE"
+					item: {
+						Count: 1
+						id: "itemfilters:tag"
+						tag: {
+							value: "smallships:cogs"
+						}
+					}
+					title: "任意材质柯木船"
+					type: "item"
+				}
+				{
+					id: "5B6F56E4C3DC34A6"
+					item: {
+						Count: 1
+						id: "itemfilters:tag"
+						tag: {
+							value: "smallships:briggs"
+						}
+					}
+					title: "任意材质双桅横帆小帆船"
+					type: "item"
+				}
+				{
+					id: "7831BB6E4744225C"
+					item: {
+						Count: 1
+						id: "itemfilters:tag"
+						tag: {
+							value: "smallships:galleys"
+						}
+					}
+					title: "任意材质加莱帆船"
+					type: "item"
+				}
+			]
+			title: "三种类型的船只"
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			id: "3AEEB1C12CD9AC1A"
+			rewards: [
+				{
+					id: "0AF6CFF49CB03D95"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "7E63BBECA9547EE7"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "217C2BA7C718A4BF"
+				item: "immersive_aircraft:airship"
+				type: "item"
+			}]
+			x: 11.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["5466B19D7AC6E13A"]
+			id: "35A57AF661F3499B"
+			rewards: [{
+				id: "2D30DC061DABF931"
+				item: "minecraft:iron_ore"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7C418C80AB991EDF"
+				item: "astikorcarts:animal_cart"
+				type: "item"
+			}]
+			x: 9.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["5466B19D7AC6E13A"]
+			id: "18C7AF82B86C7CF8"
+			rewards: [{
+				id: "131D3C25D7D41007"
+				item: "minecraft:iron_ore"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1F1D3360A47C2D1F"
+				item: "astikorcarts:supply_cart"
+				type: "item"
+			}]
+			x: 10.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5466B19D7AC6E13A"]
+			id: "592B4113C154BDEA"
+			rewards: [{
+				id: "1E0F5BCB9591DF8B"
+				item: "minecraft:iron_ore"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1EC77F4AF0D7A83D"
+				item: "astikorcarts:plow"
+				type: "item"
+			}]
+			x: 9.5d
+			y: -3.0d
+		}
+		{
+			id: "5466B19D7AC6E13A"
+			rewards: [{
+				id: "736F372C96959F64"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "复古体验"
+			tasks: [{
+				id: "707FD4753E5EA158"
+				item: "astikorcarts:wheel"
+				type: "item"
+			}]
+			x: 8.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3AEEB1C12CD9AC1A"]
+			id: "4E48FC9B5219A12D"
+			rewards: [
+				{
+					id: "6331DA0989A5EFC2"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "135B86CCEB88EF11"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "2D2320809E476652"
+				item: "immersive_aircraft:cargo_airship"
+				type: "item"
+			}]
+			x: 14.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["4E48FC9B5219A12D"]
+			id: "1FF6F6B1959F09CB"
+			rewards: [
+				{
+					id: "00BAFDD972764263"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "3CEF091F1A226001"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "616C9B4F654A6918"
+				item: "immersive_aircraft:warship"
+				type: "item"
+			}]
+			x: 16.5d
+			y: -6.0d
+		}
+		{
+			id: "2C62AB423DF7DD45"
+			rewards: [
+				{
+					id: "23812C43334487B0"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "35B55BCA9C57F3F5"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3CDF07A1273C8DFE"
+				item: "immersive_aircraft:biplane"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -6.0d
+		}
+		{
+			id: "3708CDF3B8C09C2D"
+			rewards: [
+				{
+					id: "5A5EE8ADE6D82110"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "6AD7F5853322DAB2"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "122302A496F492C5"
+				item: "immersive_aircraft:gyrodyne"
+				type: "item"
+			}]
+			x: 8.5d
+			y: -6.0d
+		}
+		{
+			id: "69AC424CBDBD3232"
+			rewards: [
+				{
+					id: "5B318892B6EDBB93"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "2DC451901B3DFB8B"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "78174ABB9F4F8B17"
+				item: "immersive_aircraft:quadrocopter"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["7B63D5822239CD6A"]
+			id: "4CFEF74FBCFDF859"
+			rewards: [
+				{
+					id: "5A1B3502F8895700"
+					item: "minecraft:arrow"
+					type: "item"
+				}
+				{
+					id: "2C2B3884D2E55B13"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "5D83AF6FFDAF7076"
+				item: "immersive_aircraft:heavy_crossbow"
+				type: "item"
+			}]
+			x: 14.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["7B63D5822239CD6A"]
+			id: "2664B6D7F68252C7"
+			rewards: [{
+				id: "796FCF9D6FA9846F"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "412671F8FC29DA60"
+				item: "immersive_aircraft:bomb_bay"
+				type: "item"
+			}]
+			x: 15.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["7B63D5822239CD6A"]
+			id: "2266645809E442A8"
+			rewards: [{
+				id: "2FB741BF4372C87F"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "714D9A0DF23F11DB"
+				item: "immersive_aircraft:enhanced_propeller"
+				type: "item"
+			}]
+			x: 11.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["7B63D5822239CD6A"]
+			id: "1928B9E0C9ABB706"
+			rewards: [{
+				id: "1779E8D16443AE1D"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "61B031674483DC78"
+				item: "immersive_aircraft:eco_engine"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["7B63D5822239CD6A"]
+			id: "55B08B1C64C24A48"
+			rewards: [{
+				id: "7DA82156A1908603"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "4D24ADD8E17EB644"
+				item: "immersive_aircraft:nether_engine"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["7B63D5822239CD6A"]
+			id: "2184AF30BE7F8EF4"
+			rewards: [{
+				id: "401AB206ED74D03A"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "4C98FF6768E7F643"
+				item: "immersive_aircraft:steel_boiler"
+				type: "item"
+			}]
+			x: 13.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["7B63D5822239CD6A"]
+			id: "0D7FBCF9895491DA"
+			rewards: [{
+				id: "17AB5D4CB8D1538B"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "3DA452D02B2D0A84"
+				item: "immersive_aircraft:industrial_gears"
+				type: "item"
+			}]
+			x: 12.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["7B63D5822239CD6A"]
+			id: "7585F9FD75765ADC"
+			rewards: [{
+				id: "49E93CE0B62A12CF"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "4024CA181E589246"
+				item: "immersive_aircraft:sturdy_pipes"
+				type: "item"
+			}]
+			x: 7.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["7B63D5822239CD6A"]
+			id: "6D2C0E6E4224B9D0"
+			rewards: [{
+				id: "3DD9EA1C71A179CA"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "5759497BC0530607"
+				item: "immersive_aircraft:gyroscope"
+				type: "item"
+			}]
+			x: 9.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["7B63D5822239CD6A"]
+			id: "331E924B78D70EBF"
+			rewards: [{
+				id: "1B71623C6E6554B8"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "4E67819B25D84837"
+				item: "immersive_aircraft:hull_reinforcement"
+				type: "item"
+			}]
+			x: 8.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["7B63D5822239CD6A"]
+			id: "2680A62004149B42"
+			rewards: [{
+				id: "17E64182A52FC1A5"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "0C758B19DFFB8FC7"
+				item: "immersive_aircraft:improved_landing_gear"
+				type: "item"
+			}]
+			x: 10.0d
+			y: -9.0d
+		}
+		{
+			id: "7B63D5822239CD6A"
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "526F8A6632137E04"
+				title: "飞机升级"
+				type: "checkmark"
+			}]
+			x: 3.5d
+			y: -9.0d
+		}
+		{
+			dependencies: ["022A86374C8F917A"]
+			id: "32678E52738AACCE"
+			rewards: [
+				{
+					count: 4
+					id: "167BA77645495B17"
+					item: "minecraft:diamond"
+					type: "item"
+				}
+				{
+					id: "126E537405A98579"
+					type: "xp"
+					xp: 100
+				}
+			]
+			size: 1.5d
+			tasks: [
+				{
+					id: "46E3B643C74529C3"
+					item: {
+						Count: 1
+						id: "vc_gliders:paraglider_iron"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4D9745C1B89FDDB2"
+					item: {
+						Count: 1
+						id: "vc_gliders:paraglider_gold"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0A4FF171622A5B8D"
+					item: {
+						Count: 1
+						id: "vc_gliders:paraglider_diamond"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2056E11D1051337B"
+					item: {
+						Count: 1
+						id: "vc_gliders:paraglider_netherite"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "升级"
+			x: 14.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["022A86374C8F917A"]
+			id: "2EE3093885B7B680"
+			rewards: [
+				{
+					id: "6D8FC442C97F6407"
+					item: "minecraft:netherite_scrap"
+					type: "item"
+				}
+				{
+					id: "338A68D87790F03A"
+					type: "xp"
+					xp: 20
+				}
+			]
+			subtitle: "防火"
+			tasks: [{
+				id: "4EF18A4B66204184"
+				item: "vc_gliders:nether_upgrade"
+				type: "item"
+			}]
+			x: 13.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["022A86374C8F917A"]
+			id: "4A224FD160C5E454"
+			rewards: [
+				{
+					id: "021A3E9FD89945A5"
+					item: "minecraft:diamond"
+					type: "item"
+				}
+				{
+					id: "196157704D1780E1"
+					type: "xp"
+					xp: 10
+				}
+			]
+			subtitle: "防雷"
+			tasks: [{
+				id: "0AC7EE3BFCB8C2D6"
+				item: "vc_gliders:copper_upgrade"
+				type: "item"
+			}]
+			x: 15.5d
+			y: -2.0d
+		}
+		{
+			id: "5A4098AD74650BE2"
+			rewards: [{
+				id: "644948936F240018"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "74B084D5E41CF0AF"
+					item: "crittersandcompanions:grappling_hook"
+					type: "item"
+				}
+				{
+					id: "4481F1A05D365FC3"
+					item: {
+						Count: 1
+						id: "alexsmobs:squid_grapple"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "钩爪"
+			x: 16.5d
+			y: -3.5d
+		}
+	]
+	title: "出行载具"
+}

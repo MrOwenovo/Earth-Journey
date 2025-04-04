@@ -1,0 +1,8 @@
+[
+    {
+    "mob": ["minecraft:camel"],
+    "random": 1,
+    "item": "untameddelight:camel_meat",
+    "itemcount": "1-3"
+  }
+]

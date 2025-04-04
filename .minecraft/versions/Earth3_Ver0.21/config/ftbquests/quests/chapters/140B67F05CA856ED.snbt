@@ -1,0 +1,653 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "140B67F05CA856ED"
+	group: "39BBF18F45BD53C2"
+	icon: {
+		Count: 1b
+		id: "minecraft:fishing_rod"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "140B67F05CA856ED"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"制作钓具箱 放置地面 右击打开  将钓竿放入对应栏位"
+				"再将鱼钩鱼线浮标装入对应位置"
+			]
+			icon: {
+				Count: 1b
+				id: "aquaculture:neptunium_fishing_rod"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "57BDA89BA1705D7A"
+			rewards: [
+				{
+					id: "1CDF5509A69CD107"
+					item: "aquaculture:worm_farm"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "7CF22C2AD704CD23"
+					item: "minecraft:kelp"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "778A98991B7E641B"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					id: "508FA5D60442F9F2"
+					item: "lightmanscurrency:coinpile_diamond"
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 2.0d
+			tasks: [
+				{
+					id: "3D533A5C73A48AB9"
+					item: "aquaculture:tackle_box"
+					type: "item"
+				}
+				{
+					id: "4B04DE6BB589225F"
+					item: "aquaculture:fishing_line"
+					type: "item"
+				}
+				{
+					id: "11165CDF6803EA69"
+					item: "aquaculture:iron_hook"
+					type: "item"
+				}
+				{
+					id: "448B3F517820BB90"
+					item: "aquaculture:bobber"
+					type: "item"
+				}
+				{
+					id: "57D272E17DA6F852"
+					item: {
+						Count: 1b
+						id: "aquaculture:diamond_fishing_rod"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "钓鱼佬 永不空军"
+			x: -5.0d
+			y: -3.0d
+		}
+		{
+			description: [
+				"放置蚯蚓农场 使用海带右击堆肥  骨粉获取蚯蚓"
+				"将蚯蚓装入刚才的钓具箱"
+				"鱼钩可以升级 请自行搜索查看"
+			]
+			id: "4907717595CB37FE"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "340043277E79584A"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "79512A2A48F4C791"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "2FF41CCF9D5A1968"
+				item: "aquaculture:worm_farm"
+				type: "item"
+			}]
+			title: "挖蚯蚓"
+			x: -5.0d
+			y: -1.0d
+		}
+		{
+			description: [
+				"开始钓鱼 获取稀有宝藏海王的恩惠"
+				"将恩惠放置地面 打开宝藏"
+				"海洋钓鱼获取几率更大"
+			]
+			id: "41C57FC9BFBC8A91"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2EFB226B6BB98174"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "317D9F6E9AC7C77E"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "057B75F9C1CF79FB"
+					item: "duckmoney:bundle1"
+					type: "item"
+				}
+				{
+					id: "5FE61C8F66FC8DDA"
+					item: "lightmanscurrency:coinpile_diamond"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5EFBA1CE82583F33"
+				item: "aquaculture:neptunes_bounty"
+				type: "item"
+			}]
+			title: "海贼王的宝藏"
+			x: -5.0d
+			y: 0.5d
+		}
+		{
+			description: [
+				"获取最强钓鱼竿"
+				"给鱼竿上附魔"
+			]
+			id: "68D37516F4D7F1F1"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7B3D92EA7D96D91A"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4911A7933C30BF64"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "10F37F567551DA16"
+					item: "aquaculture:neptunium_ingot"
+					type: "item"
+				}
+				{
+					id: "557B3BBA22BD7D65"
+					item: {
+						Count: 1b
+						id: "aquaculture:neptunium_fishing_rod"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "升级你的鱼竿"
+			x: -5.0d
+			y: 2.0d
+		}
+		{
+			description: [
+				"制作鱼架  将你的战利品鱼 装裱起来"
+				"手持鱼右击鱼架"
+			]
+			id: "7C0725623390B3D8"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0AAD12CE4EA7CAB4"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6D6D5444A28CFCE4"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "202BFB2DF5CEBA78"
+				item: "aquaculture:oak_fish_mount"
+				type: "item"
+			}]
+			title: "装裱你的鱼"
+			x: -5.0d
+			y: 3.5d
+		}
+		{
+			description: ["获取潜水套装 探索深海"]
+			id: "6BA47186080DA4C3"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1FDBDBA5FBB695D4"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "27B33FE0ED69F7CD"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "41A83F59DC2D9C2F"
+					item: {
+						Count: 1b
+						id: "aquaculture:neptunium_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "00F085BDDEEE28B5"
+					item: {
+						Count: 1b
+						id: "aquaculture:neptunium_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1D40307500C8CE69"
+					item: {
+						Count: 1b
+						id: "aquaculture:neptunium_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "20724020AC6E1B82"
+					item: {
+						Count: 1b
+						id: "aquaculture:neptunium_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "潜水套装"
+			x: -5.0d
+			y: 5.0d
+		}
+		{
+			description: [
+				"制作相机  使用  滚轮聚焦 选好角度 构图比例 按下快门"
+				"需要背包有纸 才能拍摄  拍摄完毕将相片放置于相框里 挂墙上"
+				"相册用于存放大量相片  潜行右键打开 存放相片 打开相册查看所有相片 翻页按键请自行设置"
+				"{image:mmorpg:textures/xiangkuang.png width:180 height:100 align:1}"
+			]
+			id: "5662CEC6FEF5F1C1"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4844CA0E6E1E2BCF"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "02D67F36588D4605"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "1EECEAC127DBB5C0"
+					item: "simplehats:hatbag_epic"
+					type: "item"
+				}
+				{
+					id: "2EF2F676F906F236"
+					item: "lightmanscurrency:coin_diamond"
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 2.0d
+			tasks: [
+				{
+					id: "48C78CDC83E7EBAB"
+					item: "camera:camera"
+					type: "item"
+				}
+				{
+					id: "2AA1ECF7B1546AD6"
+					item: "camera:image_frame"
+					type: "item"
+				}
+				{
+					id: "0F76C17BEAE20958"
+					item: "camera:album"
+					type: "item"
+				}
+			]
+			title: "摄影师"
+			x: 4.0d
+			y: -3.0d
+		}
+		{
+			description: ["左键挥网 捕捉蝴蝶"]
+			id: "29BC0781C90504D8"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "05DC6D66705080C0"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "55B60FEAD0802E91"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "07546F08F1D0900F"
+				item: {
+					Count: 1b
+					id: "butterflies:butterfly_net"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "抓蝴蝶"
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			description: [
+				"宠物受伤会倒地，这时使用宠物绷带可以拯救它们"
+				"营火会给你治愈效果"
+				"刷怪笼在刷一定数量后，不再产出怪物"
+				"商人村民交易物品都有所改动"
+				"可以从收获农作物中获取经验"
+				"不死图腾放在背包里就能复活生效，无需放入副手"
+			]
+			id: "1D3E35F8BA097BFC"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4E2B143D0FE32173"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1C6338F1B3728E53"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "01F92163B81DFF0D"
+				title: "地球3对于原版内容的改动"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: -3.0d
+		}
+		{
+			description: [
+				"制作考古学桌和刷子，开始解析远古历史"
+				"通过破坏一些遗迹的&e罐子&r，或用刷子右键&e可疑的沙子&r，&e含有化石的泥土&r"
+			]
+			id: "187832FF4A0EB772"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "563F0CF06A930FA4"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4D872FB4A0E81C29"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			shape: "diamond"
+			size: 2.0d
+			tasks: [
+				{
+					id: "41AC00956CDB82F8"
+					item: "betterarcheology:archeology_table"
+					type: "item"
+				}
+				{
+					id: "07BE982E8D88B0E9"
+					item: {
+						Count: 1b
+						id: "betterarcheology:iron_brush"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "考古学者"
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			description: [
+				"观察可疑的沙子和含化石的泥土"
+				"使用刷子右键刷刷看"
+			]
+			id: "663337230D651E70"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "06DBF9D64873DCB9"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5565C9F9D7373859"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					icon: "minecraft:suspicious_sand"
+					id: "24AC1389DD9925A2"
+					observe_type: 0
+					timer: 40L
+					title: "观察可疑的沙子"
+					to_observe: "minecraft:suspicious_sand"
+					type: "observation"
+				}
+				{
+					icon: "betterarcheology:suspicious_red_sand"
+					id: "7E5F46961E3224EC"
+					observe_type: 0
+					timer: 40L
+					title: "观察"
+					to_observe: "betterarcheology:suspicious_red_sand"
+					type: "observation"
+				}
+				{
+					icon: "minecraft:suspicious_gravel"
+					id: "141C8659CFED90F1"
+					observe_type: 0
+					timer: 40L
+					title: "观察"
+					to_observe: "minecraft:suspicious_gravel"
+					type: "observation"
+				}
+				{
+					icon: "betterarcheology:fossiliferous_dirt"
+					id: "2541892E8505FEAA"
+					observe_type: 0
+					timer: 40L
+					title: "观察化石泥土"
+					to_observe: "betterarcheology:fossiliferous_dirt"
+					type: "observation"
+				}
+			]
+			title: "实地考察"
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			description: [
+				"通过考古活动获取碎片  制作未鉴定的工件"
+				"将工件放置于考古学桌内 放置刷子鉴定物品"
+			]
+			id: "574C3E2B6F7ABD49"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "658905F94F487788"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1E9E30F72FBE97B9"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "6C11CE7CFC78B6B8"
+					item: "betterarcheology:unidentified_artifact"
+					type: "item"
+				}
+				{
+					id: "73AAAA443BFBFDC9"
+					item: "betterarcheology:artifact_shards"
+					type: "item"
+				}
+			]
+			title: "考古鉴定"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			description: [
+				"在某些废墟遗迹内，通过发掘含化石的泥土，你能获得很多不同化石"
+				"这些化石有些会给你某种神奇的力量"
+			]
+			id: "24433ECBF56E46CB"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "424D35C7DC6795BA"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "24EFF8DAC2FC2E09"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "275BA2DE65FA8375"
+					item: "betterarcheology:creeper_fossil"
+					type: "item"
+				}
+				{
+					id: "4E83F5057F34CE90"
+					item: "betterarcheology:villager_fossil_head"
+					type: "item"
+				}
+				{
+					id: "6D13730B44DBFF8C"
+					item: "betterarcheology:sheep_fossil"
+					type: "item"
+				}
+			]
+			title: "化石鉴定"
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			description: ["升级你的刷子，在考古鉴定中获取神秘的力量"]
+			id: "2436D47390B31731"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "71E5C4F5A42E0472"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3BEC06B6B5EAA766"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "6093E7FB38328247"
+					item: {
+						Count: 1b
+						id: "betterarcheology:diamond_brush"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "40980E4E2133ABE3"
+					item: "betterarcheology:growth_totem"
+					type: "item"
+				}
+				{
+					id: "428C8A3F299E33C7"
+					item: {
+						Count: 1b
+						id: "betterarcheology:soul_totem"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "来自远古图腾的力量"
+			x: 0.0d
+			y: 2.0d
+		}
+	]
+	title: "休闲娱乐"
+}

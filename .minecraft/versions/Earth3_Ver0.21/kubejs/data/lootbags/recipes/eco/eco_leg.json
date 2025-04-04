@@ -1,0 +1,22 @@
+{
+  "type": "lootbags:loot",
+  "name": "传说的积分袋",
+  "rarity": "LEGENDARY",
+  "output": {
+    "rolls": 50,
+    "entries": [
+      {
+        "stack": "kubejs:iii",
+        "weight": 65
+      },
+      {
+        "stack": "minecraft:emerald",
+        "weight": 25
+      },
+      {
+        "stack": "minecraft:netherite_scrap",
+        "weight": 1
+      }
+    ]
+  }
+}

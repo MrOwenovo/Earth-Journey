@@ -1,0 +1,2723 @@
+
+{
+    "groupOverrides": {
+        "Vanilla Seeds": {
+          "enabled": false
+        },
+        "Create Fertilizer": {
+          "enabled": false
+        },
+        "Farmers Delight Seeds": {
+          "enabled": false
+        },
+        "Supplementaries Seeds": {
+          "enabled": false
+        },
+        "BiomesOPlenty Saplings": {
+          "enabled": false
+        },
+        "Pam's HarvestCraft 2 Trees Saplings": {
+          "enabled": false
+        },
+        "Vanilla Saplings": {
+          "enabled": false
+        }
+      },
+      "entryOverrides": {
+        "minecraft:oak_sapling": {
+          "enabled": false
+        },
+        "farmingforblockheads:saplings": {
+          "enabled": false
+        },
+        "minecraft:bone_meal": {
+          "enabled": false
+        }
+      },
+      "customCategories": {
+        "stone": {
+          "name": "\u5efa\u7b51\u6750\u6599",
+          "icon": {
+            "item": "minecraft:bricks"
+          }
+        },
+        "seeds": {
+          "name": "\u4f5c\u7269\u79cd\u5b50",
+          "icon": {
+            "item": "minecraft:wheat_seeds"
+          }
+        },
+        "tool": {
+          "name": "\u6742\u8d27",
+          "icon": {
+            "item": "minecraft:leather"
+          }
+        },
+        "tree": {
+          "name": "\u679c\u6811\u6811\u82d7",
+          "icon": {
+            "item": "pamhc2trees:apple_sapling"
+          }
+        },
+        "mobs": {
+          "name": "\u52a8\u7269\u5546\u5e97",
+          "icon": {
+            "item": "untamedwilds:logo"
+          }
+        },
+        "pre": {
+          "name": "\u9884\u5236\u5efa\u7b51",
+          "icon": {
+            "item": "prefabricated:item_house"
+          }
+        },
+        "yuu": {
+          "name": "\u65b9\u5757\u5c0f\u9547",
+          "icon": {
+            "item": "yuushya:potted_jungle_sprout"
+          }
+        }
+      },
+      "customEntries": [
+        {
+          "output": {
+            "item": "minecraft:cobblestone",
+            "count": 16
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "stone"
+        },
+        {
+          "output": {
+            "item": "minecraft:dirt",
+            "count": 16
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "stone"
+        },
+        {
+          "output": {
+            "item": "minecraft:mud",
+            "count": 16
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "stone"
+        },
+        {
+          "output": {
+            "item": "minecraft:gravel",
+            "count": 16
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "stone"
+        },
+        {
+          "output": {
+            "item": "minecraft:oak_log",
+            "count": 16
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "stone"
+        },
+        {
+          "output": {
+            "item": "minecraft:spruce_log",
+            "count": 16
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "stone"
+        },
+        {
+          "output": {
+            "item": "minecraft:jungle_log",
+            "count": 16
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "stone"
+        },
+        {
+          "output": {
+            "item": "minecraft:acacia_log",
+            "count": 16
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "stone"
+        },
+        {
+          "output": {
+            "item": "minecraft:dark_oak_log",
+            "count": 16
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "stone"
+        },
+        {
+          "output": {
+            "item": "minecraft:birch_log",
+            "count": 16
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "stone"
+        },
+        {
+          "output": {
+            "item": "minecraft:mangrove_log",
+            "count": 16
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "stone"
+        },
+        {
+          "output": {
+            "item": "minecraft:cherry_log",
+            "count": 16
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "stone"
+        },
+        {
+          "output": {
+            "item": "minecraft:stone",
+            "count": 16
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "stone"
+        },
+        {
+          "output": {
+            "item": "minecraft:calcite",
+            "count": 16
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "stone"
+        },
+        {
+          "output": {
+            "item": "minecraft:granite",
+            "count": 16
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "stone"
+        },
+        {
+          "output": {
+            "item": "minecraft:cobbled_deepslate",
+            "count": 16
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "stone"
+        },
+        {
+          "output": {
+            "item": "minecraft:podzol",
+            "count": 16
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "stone"
+        },
+        {
+          "output": {
+            "item": "minecraft:grass_block",
+            "count": 16
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "stone"
+        },
+        {
+          "output": {
+            "item": "minecraft:moss_block",
+            "count": 6
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "stone"
+        },
+        {
+          "output": {
+            "item": "minecraft:mycelium",
+            "count": 16
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "stone"
+        },
+        {
+          "output": {
+            "item": "minecraft:clay",
+            "count": 16
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "stone"
+        },
+        {
+          "output": {
+            "item": "minecraft:sand",
+            "count": 16
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "stone"
+        },
+        {
+          "output": {
+            "item": "minecraft:red_sand",
+            "count": 16
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "stone"
+        },
+        {
+          "output": {
+            "item": "minecraft:snowball",
+            "count": 16
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 10
+          },
+          "category": "stone"
+        },
+        {
+          "output": {
+            "item": "minecraft:ice",
+            "count": 16
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "stone"
+        },
+        {
+          "output": {
+            "item": "minecraft:terracotta",
+            "count": 16
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 200
+          },
+          "category": "stone"
+        },
+        {
+          "output": {
+            "item": "minecraft:white_wool",
+            "count": 16
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "stone"
+        },
+        {
+          "output": {
+            "item": "minecraft:netherrack",
+            "count": 16
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "stone"
+        },
+        {
+          "output": {
+            "item": "minecraft:soul_sand",
+            "count": 16
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "stone"
+        },
+        {
+          "output": {
+            "item": "minecraft:soul_soil",
+            "count": 16
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "stone"
+        },
+        {
+          "output": {
+            "item": "minecraft:blackstone",
+            "count": 16
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "stone"
+        },
+        {
+          "output": {
+            "item": "minecraft:basalt",
+            "count": 16
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "stone"
+        },
+        {
+          "output": {
+            "item": "minecraft:crimson_nylium",
+            "count": 16
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "stone"
+        },
+        {
+          "output": {
+            "item": "minecraft:warped_nylium",
+            "count": 16
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "stone"
+        },
+        {
+          "output": {
+            "item": "minecraft:end_stone",
+            "count": 16
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "stone"
+        },
+        {
+          "output": {
+            "item": "minecraft:prismarine_shard",
+            "count": 16
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "stone"
+        },
+        {
+          "output": {
+            "item": "minecraft:sea_lantern",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "stone"
+        },
+        {
+          "output": {
+            "item": "minecraft:wheat_seeds",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 5
+          },
+          "category": "seeds"
+        },
+        {
+          "output": {
+            "item": "minecraft:melon_seeds",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 25
+          },
+          "category": "seeds"
+        },
+        {
+          "output": {
+            "item": "minecraft:pumpkin_seeds",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 20
+          },
+          "category": "seeds"
+        },
+        {
+          "output": {
+            "item": "minecraft:beetroot_seeds",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 25
+          },
+          "category": "seeds"
+        },
+        {
+          "output": {
+            "item": "minecraft:potato",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 30
+          },
+          "category": "seeds"
+        },
+        {
+          "output": {
+            "item": "minecraft:carrot",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 50
+          },
+          "category": "seeds"
+        },
+        {
+          "output": {
+            "item": "minecraft:sweet_berries",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 15
+          },
+          "category": "seeds"
+        },
+        {
+          "output": {
+            "item": "minecraft:glow_berries",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 15
+          },
+          "category": "seeds"
+        },
+        {
+          "output": {
+            "item": "supplementaries:flax_seeds",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 15
+          },
+          "category": "seeds"
+        },
+        {
+          "output": {
+            "item": "minecraft:sugar_cane",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 15
+          },
+          "category": "seeds"
+        },
+        {
+          "output": {
+            "item": "minecraft:cactus",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 15
+          },
+          "category": "seeds"
+        },
+        {
+          "output": {
+            "item": "minecraft:cocoa_beans",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 15
+          },
+          "category": "seeds"
+        },
+        {
+          "output": {
+            "item": "minecraft:bamboo",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 15
+          },
+          "category": "seeds"
+        },
+        {
+          "output": {
+            "item": "minecraft:kelp",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 15
+          },
+          "category": "seeds"
+        },
+        {
+          "output": {
+            "item": "minecraft:nether_wart",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 30
+          },
+          "category": "seeds"
+        },
+        {
+          "output": {
+            "item": "minecraft:brown_mushroom",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 15
+          },
+          "category": "seeds"
+        },
+        {
+          "output": {
+            "item": "minecraft:red_mushroom",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 15
+          },
+          "category": "seeds"
+        },
+        {
+          "output": {
+            "item": "minecraft:crimson_fungus",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 15
+          },
+          "category": "seeds"
+        },
+        {
+          "output": {
+            "item": "minecraft:warped_fungus",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 15
+          },
+          "category": "seeds"
+        },
+        {
+          "output": {
+            "item": "minecraft:oak_sapling",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 15
+          },
+          "category": "seeds"
+        },
+        {
+          "output": {
+            "item": "minecraft:spruce_sapling",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 15
+          },
+          "category": "seeds"
+        },
+        {
+          "output": {
+            "item": "minecraft:birch_sapling",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 15
+          },
+          "category": "seeds"
+        },
+        {
+          "output": {
+            "item": "minecraft:jungle_sapling",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 15
+          },
+          "category": "seeds"
+        },
+        {
+          "output": {
+            "item": "minecraft:acacia_sapling",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 15
+          },
+          "category": "seeds"
+        },
+        {
+          "output": {
+            "item": "minecraft:dark_oak_sapling",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 15
+          },
+          "category": "seeds"
+        },
+        {
+          "output": {
+            "item": "minecraft:cherry_sapling",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 15
+          },
+          "category": "seeds"
+        },
+        {
+          "output": {
+            "item": "minecraft:azalea",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 15
+          },
+          "category": "seeds"
+        },
+        {
+          "output": {
+            "item": "minecraft:flowering_azalea",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 15
+          },
+          "category": "seeds"
+        },
+        {
+          "output": {
+            "item": "minecraft:mangrove_propagule",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 15
+          },
+          "category": "seeds"
+        },
+        {
+          "output": {
+            "item": "kubejs:iii",
+            "count": 30
+          },
+          "payment": {
+            "item": "minecraft:emerald",
+        "count": 1
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "minecraft:leather",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 20
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "minecraft:rabbit_hide",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 5
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "minecraft:rabbit_foot",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 10
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "minecraft:arrow",
+            "count": 3
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 10
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "minecraft:ender_pearl",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 30
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "minecraft:bone",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 5
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "minecraft:slime_ball",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 5
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "minecraft:name_tag",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 5
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "minecraft:totem_of_undying",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 1000
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "inventoryprotection:protector",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 1000
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "supplementaries:bomb",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 10
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "supplementaries:bomb_blue",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 50
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "minecraft:heart_of_the_sea",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 500
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "minecraft:sponge",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "minecraft:gunpowder",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 8
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "minecraft:flint",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 3
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "minecraft:feather",
+            "count": 3
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 10
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "minecraft:blaze_rod",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 10
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "minecraft:glowstone_dust",
+            "count": 2
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 10
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "minecraft:ink_sac",
+            "count": 2
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 10
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "alexsmobs:lost_tentacle",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 300
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "minecraft:experience_bottle",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 10
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "bountiful:decree",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 300
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "untamedwilds:trap_cage",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 5
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "waystones:waystone",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 500
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "waystones:warp_stone",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "touhou_little_maid:power_point",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 10
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "splash_milk:splash_milk_bottle",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 10
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "kubejs:qttg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 10
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "kubejs:xsp",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 10
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "minecraft:crying_obsidian",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 500
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "kubejs:sjk",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 20
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "minecraft:coal",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 5
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "minecraft:copper_ingot",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 8
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "minecraft:iron_ingot",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 20
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "minecraft:gold_ingot",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 26
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "minecraft:lapis_lazuli",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 6
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "minecraft:redstone",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 6
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "minecraft:amethyst_shard",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 8
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "minecraft:quartz",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 8
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "minecraft:emerald",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 120
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "minecraft:diamond",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 160
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "minecraft:netherite_scrap",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 3000
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "simplehats:hatscraps_common",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 10
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "simplehats:hatscraps_easter",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 300
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "simplehats:hatscraps_summer",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 300
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "simplehats:hatscraps_halloween",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 300
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "simplehats:hatscraps_festive",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 300
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "minecraft:villager_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 500
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "mca:male_villager_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 500
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "mca:female_villager_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 500
+          },
+          "category": "tool"
+        },
+        {
+          "output": {
+            "item": "pamhc2trees:apple_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:avocado_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:candlenut_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:cherry_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:chestnut_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:gooseberry_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:lemon_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:nutmeg_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:orange_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:peach_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:pear_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:plum_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:walnut_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:spiderweb_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:hazelnut_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:pawpaw_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:soursop_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:almond_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:apricot_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:banana_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:cashew_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:cinnamon_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:coconut_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:date_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:dragonfruit_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:durian_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:fig_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:grapefruit_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:lime_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:mango_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:olive_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:papaya_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:paperbark_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:pecan_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:peppercorn_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:persimmon_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:pistachio_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:pomegranate_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:starfruit_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:vanillabean_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:breadfruit_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:guava_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:jackfruit_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:lychee_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:passionfruit_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:rambutan_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:tamarind_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:maple_sapling",
+                "count": 1
+              },
+              "payment": {
+                "item": "kubejs:iii",
+            "count": 300
+              },
+              "category": "tree"
+            },
+        {
+          "output": {
+            "item": "pamhc2trees:pinenut_sapling",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 300
+          },
+          "category": "tree"
+        },
+        {
+          "output": {
+            "item": "exoticbirds:mystery_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 30
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "minecraft:pig_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 50
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "minecraft:cow_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 50
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "minecraft:sheep_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 50
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "minecraft:chicken_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 50
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "minecraft:horse_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 50
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "minecraft:cat_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 50
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "minecraft:parrot_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 50
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "minecraft:wolf_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 50
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "minecraft:bee_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 50
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "minecraft:goat_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 50
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "naturalist:boar_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 200
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "untamedwilds:hippo_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "untamedwilds:bison_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "untamedwilds:aardvark_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "untamedwilds:rhino_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "untamedwilds:hyena_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "untamedwilds:boar_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "untamedwilds:camel_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "untamedwilds:opossum_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "untamedwilds:manatee_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "untamedwilds:baleen_whale_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "untamedwilds:bear_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "untamedwilds:big_cat_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "untamedwilds:tarantula_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "untamedwilds:king_crab_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "untamedwilds:butterfly_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "untamedwilds:giant_clam_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "untamedwilds:sunfish_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "untamedwilds:trevally_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "untamedwilds:arowana_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "untamedwilds:triggerfish_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "untamedwilds:catfish_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "untamedwilds:spadefish_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "untamedwilds:shark_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "untamedwilds:football_fish_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "untamedwilds:softshell_turtle_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "untamedwilds:tortoise_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "untamedwilds:snake_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "untamedwilds:large_snake_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "untamedwilds:monitor_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "untamedwilds:terror_bird_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "untamedwilds:sawfish_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "untamedwilds:wildebeest_spawn_egg",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "mobs"
+        },
+        {
+          "output": {
+            "item": "prefabricated:item_house",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "pre"
+        },
+        {
+          "output": {
+            "item": "prefabricated:item_house_improved",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 300
+          },
+          "category": "pre"
+        },
+        {
+          "output": {
+            "item": "prefabricated:item_house_advanced",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 500
+          },
+          "category": "pre"
+        },
+        {
+          "output": {
+            "item": "prefabricated:item_farm",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "pre"
+        },
+        {
+          "output": {
+            "item": "prefabricated:item_farm_improved",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 300
+          },
+          "category": "pre"
+        },
+        {
+          "output": {
+            "item": "prefabricated:item_farm_advanced",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 500
+          },
+          "category": "pre"
+        },
+        {
+          "output": {
+            "item": "prefabricated:item_modern_buildings",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "pre"
+        },
+        {
+          "output": {
+            "item": "prefabricated:item_modern_buildings_improved",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 300
+          },
+          "category": "pre"
+        },
+        {
+          "output": {
+            "item": "prefabricated:item_modern_buildings_advanced",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 500
+          },
+          "category": "pre"
+        },
+        {
+          "output": {
+            "item": "prefabricated:item_warehouse",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "pre"
+        },
+        {
+          "output": {
+            "item": "prefabricated:item_warehouse_improved",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 300
+          },
+          "category": "pre"
+        },
+        {
+          "output": {
+            "item": "prefabricated:item_aqua_base",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 300
+          },
+          "category": "pre"
+        },
+        {
+          "output": {
+            "item": "prefabricated:item_aqua_base_improved",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 500
+          },
+          "category": "pre"
+        },
+        {
+          "output": {
+            "item": "prefabricated:item_mineshaft_entrance",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 200
+          },
+          "category": "pre"
+        },
+        {
+          "output": {
+            "item": "prefabricated:item_instant_bridge",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "pre"
+        },
+        {
+          "output": {
+            "item": "prefabricated:item_villager_houses",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "pre"
+        },
+        {
+          "output": {
+            "item": "prefabricated:item_welcome_center",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 200
+          },
+          "category": "pre"
+        },
+        {
+          "output": {
+            "item": "prefabricated:item_machinery_tower",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 150
+          },
+          "category": "pre"
+        },
+        {
+          "output": {
+            "item": "prefabricated:item_defense_bunker",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 100
+          },
+          "category": "pre"
+        },
+        {
+          "output": {
+            "item": "prefabricated:item_watch_tower",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 150
+          },
+          "category": "pre"
+        },
+        {
+          "output": {
+            "item": "prefabricated:item_jail",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 250
+          },
+          "category": "pre"
+        },
+        {
+          "output": {
+            "item": "prefabricated:item_wind_mill",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 150
+          },
+          "category": "pre"
+        },
+        {
+          "output": {
+            "item": "prefabricated:item_grassy_plain",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 50
+          },
+          "category": "pre"
+        },
+        {
+          "output": {
+            "item": "prefabricated:item_saloon",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 150
+          },
+          "category": "pre"
+        },
+        {
+          "output": {
+            "item": "prefabricated:item_ski_lodge",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 150
+          },
+          "category": "pre"
+        },
+        {
+          "output": {
+            "item": "prefabricated:item_town_hall",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 250
+          },
+          "category": "pre"
+        },
+        {
+          "output": {
+            "item": "prefabricated:item_magic_temple",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 150
+          },
+          "category": "pre"
+        },
+        {
+          "output": {
+            "item": "prefabricated:item_nether_gate",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 150
+          },
+          "category": "pre"
+        },
+        {
+          "output": {
+            "item": "prefabricated:item_ender_gateway",
+            "count": 1
+          },
+          "payment": {
+            "item": "kubejs:iii",
+        "count": 350
+          },
+          "category": "pre"
+        }
+      ]
+  }

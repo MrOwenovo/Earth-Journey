@@ -1,0 +1,15 @@
+{
+  "dmg_multi": 0.75,
+  "exp_multi": 0.55,
+  "hp_multi": 1.0,
+  "identifier": "minecraft:vex",
+  "loot_multi": 0.25,
+  "max_lvl": 1000000,
+  "min_lvl": 1,
+  "set_health_damage_override": false,
+  "set_rar": "",
+  "stat_multi": 1.0,
+  "stats": {
+    "stats": []
+  }
+}

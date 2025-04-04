@@ -1,0 +1,448 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "7BBD26FF10AD16C1"
+	group: ""
+	icon: "minecraft:ender_eye"
+	id: "7BBD26FF10AD16C1"
+	images: [{
+		click: ""
+		corner: false
+		dev: false
+		height: 25.0d
+		hover: [ ]
+		image: "mmorpg:textures/ftb/yanjing.png"
+		rotation: 0.0d
+		width: 25.0d
+		x: 0.0d
+		y: -1.0d
+	}]
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["像是被植入了自动攻击的程序 毫无感情的类人生物"]
+			icon: "minecraft:ender_eye"
+			id: "4B14FE9B0B6E4E08"
+			invisible: true
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "053095CE50341F1F"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4599F4190A537F26"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "58E6C1D6B25DC22F"
+					item: "duckmoney:bundle1"
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				entity: "player_mobs:player_mob"
+				icon: "simplehats:bigstevehead"
+				id: "5BCE11ADEEC76198"
+				secret: true
+				title: "击杀1个AI生命"
+				type: "kill"
+				value: 1L
+			}]
+			title: "这些似乎是AI生物"
+			x: -6.5d
+			y: -3.5d
+		}
+		{
+			description: [
+				"天空有些异样，月亮似乎变成了漩涡，而且这里的生物死亡像是被虚空吞噬，身体直接消失了"
+				"我想找回自己的记忆，总感觉我不属于这里"
+			]
+			id: "7CF041039E8B57DA"
+			invisible: true
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6C32DE26FC3A5270"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "39DDD0B1AA01E632"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					id: "0257EAAA2BB895CB"
+					item: "duckmoney:bundle1"
+					type: "item"
+				}
+			]
+			secret: true
+			size: 1.5d
+			tasks: [{
+				days: 3
+				icon: "cataclysm:abyss_eye"
+				id: "1228DFD80E76D76F"
+				type: "questsadditions:days"
+			}]
+			title: "察觉到世界的异样"
+			x: -3.0d
+			y: -7.0d
+		}
+		{
+			description: [
+				"总感觉我不属于这个世界"
+				"我想找回记忆"
+			]
+			id: "153AA6A7C1A396B5"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "261D05229990544B"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3DC66DD106DD98BD"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "727413C528ED81A6"
+					item: "duckmoney:bundle1"
+					type: "item"
+				}
+			]
+			secret: true
+			size: 1.5d
+			tasks: [
+				{
+					entity: "grimoireofgaia:werecat"
+					id: "6D9B182BDC075FCB"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "grimoireofgaia:dryad"
+					id: "06EC870BBBFEA7C0"
+					type: "kill"
+					value: 1L
+				}
+			]
+			title: "这些生物很奇怪"
+			x: -1.5d
+			y: 6.5d
+		}
+		{
+			id: "35E3727D2FD4449E"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "37A1358865622DB1"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2FE14121D9295317"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "435C58F72A924E92"
+					item: "duckmoney:bundle1"
+					type: "item"
+				}
+			]
+			secret: true
+			size: 1.5d
+			tasks: [{
+				id: "2411C2FD86549423"
+				secret: true
+				structure: "incendium:ruined_lab"
+				type: "structure"
+			}]
+			title: "似乎下届是一个试验场，这里有各种实验的生物"
+			x: 6.0d
+			y: 3.5d
+		}
+		{
+			description: [
+				"在埋藏的古文明里 找回了记忆  原来我的意识进入了这个虚拟现实世界"
+				"我需要找到离开这个次元的力量"
+			]
+			id: "7F5580BDC49B3D28"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "70919232F566148C"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "33F89FD18881C17D"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "1D99F6ADD4849679"
+					item: "duckmoney:bundle2"
+					type: "item"
+				}
+			]
+			secret: true
+			size: 1.5d
+			tasks: [{
+				id: "36EA5A0B14B2D656"
+				secret: true
+				structure: "cataclysm:cursed_pyramid"
+				type: "structure"
+			}]
+			title: "发现超远古文明，埋藏着难以言喻的秘密"
+			x: 7.5d
+			y: -2.25d
+		}
+		{
+			id: "7FA98BDDA01523B1"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "620B7E24DA7F9A9A"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "73512B2C7FF1ABCA"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "2537D544E7595642"
+					item: "duckmoney:bundle2"
+					type: "item"
+				}
+			]
+			secret: true
+			size: 1.5d
+			tasks: [{
+				dimension: "blue_skies:everdawn"
+				id: "077193DA14084E18"
+				secret: true
+				type: "dimension"
+			}]
+			title: "维度裂缝？这是平行宇宙吗？"
+			x: 5.5d
+			y: -6.5d
+		}
+		{
+			description: ["也许它可以帮助我离开这个次元"]
+			icon: {
+				Count: 1b
+				id: "alexsmobs:shattered_dimensional_carver"
+				tag: {
+					BLOCKX: 0.49999999999999983d
+					BLOCKY: 2.6200000047683716d
+					BLOCKZ: 1.8999999985098839d
+					Damage: 0
+					HASBLOCK: 1b
+				}
+			}
+			id: "0E256136C584F04D"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2667FF8C5967B380"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "27A41C6F68B573A2"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "208B84684B1FA25B"
+					item: "duckmoney:bundle5"
+					type: "item"
+				}
+				{
+					id: "046941AC258075FF"
+					item: "duckmoney:bundle10"
+					type: "item"
+				}
+				{
+					id: "669EA53ADB484FC6"
+					item: {
+						Count: 1b
+						id: "alexsmobs:dimensional_carver"
+						tag: {
+							BLOCKX: 0.49999999999999983d
+							BLOCKY: 2.6200000047683716d
+							BLOCKZ: 1.8999999985098839d
+							Damage: 0
+							HASBLOCK: 1b
+						}
+					}
+					type: "item"
+				}
+			]
+			secret: true
+			size: 1.5d
+			tasks: [
+				{
+					entity: "alexsmobs:void_worm_part"
+					id: "0C7CC45C7A18250E"
+					secret: true
+					type: "kill"
+					value: 1L
+				}
+				{
+					dimension: "minecraft:the_end"
+					id: "21DD2CB3A9FA89EB"
+					type: "dimension"
+				}
+			]
+			title: "跨次元的异兽"
+			x: 0.0d
+			y: -9.0d
+		}
+		{
+			description: [
+				"取得了跨次元的力量，尝试右键打开次元之门 "
+				"希望可以离开这里"
+			]
+			id: "50F43632E1FE9058"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "478A9DCB52DC4BA0"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2EBDD4E6704AC7EA"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			secret: true
+			tasks: [{
+				id: "5708B8D116920005"
+				item: {
+					Count: 1b
+					id: "alexsmobs:dimensional_carver"
+					tag: {
+						BLOCKX: 0.49999999999999983d
+						BLOCKY: 2.6200000047683716d
+						BLOCKZ: 1.8999999985098839d
+						Damage: 0
+						HASBLOCK: 1b
+					}
+				}
+				type: "item"
+			}]
+			title: "次元穿梭"
+			x: 2.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["50F43632E1FE9058"]
+			description: [
+				"失败了，次元之门将我带回了这里"
+				"在次元穿梭中，看到了原本的世界"
+				"那里人类已经毁灭,人们将意识传入了虚空 ,在各种虚拟空间里成为了数字生命，永恒存在"
+				"似乎没有退路了 ............"
+				""
+			]
+			icon: "mmorpg:projectile/slimeball"
+			id: "2C0CF17FD8392D7F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "53EE5EC897143A10"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "07B922CBA83448FD"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					count: 5
+					id: "1E586218D2C75C79"
+					item: "duckmoney:bundle10"
+					type: "item"
+				}
+			]
+			secret: true
+			size: 2.0d
+			tasks: [{
+				id: "5DED9D442AE33803"
+				type: "checkmark"
+			}]
+			title: "虚空"
+			x: -2.0d
+			y: 4.0d
+		}
+		{
+			description: [
+				"似乎有奇怪的力量在我危险时，回溯了时间"
+				"如果怪物太强，尝试提升自己的装备等级，确保使用含有挖砍属性的灵魂装备，否则能力加成很低，难以打怪"
+			]
+			icon: "born_in_chaos_v1:death_totem"
+			id: "12E7FD7CC196F4D2"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4D442080F0D8AB0E"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4519BD3A80FEC309"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "69C088856AA2DB9C"
+					table_id: 7906379700992951605L
+					type: "random"
+				}
+				{
+					id: "1E542CB3C09D3613"
+					item: "duckmoney:bundle1"
+					type: "item"
+				}
+			]
+			secret: true
+			size: 1.5d
+			tasks: [{
+				id: "6DEA567C0AA64BA4"
+				secret: true
+				stat: "minecraft:deaths"
+				type: "stat"
+				value: 1
+			}]
+			title: "重生"
+			x: -6.5d
+			y: 3.5d
+		}
+	]
+	title: "？"
+}

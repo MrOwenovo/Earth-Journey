@@ -1,0 +1,16 @@
+{
+	id: "70406A08554B34ED"
+	loot_size: 1
+	order_index: 20
+	rewards: [
+		{ item: "simplehats:hatbag_common", weight: 450.0f }
+		{ item: "simplehats:hatbag_uncommon", weight: 280.0f }
+		{ item: "simplehats:hatbag_rare", weight: 128.0f }
+		{ item: "simplehats:hatbag_epic", weight: 64.0f }
+		{ item: "simplehats:hatbag_easter", weight: 10.0f }
+		{ item: "simplehats:hatbag_summer" }
+		{ item: "simplehats:hatbag_halloween" }
+		{ item: "simplehats:hatbag_festive" }
+	]
+	title: "头饰盲盒"
+}

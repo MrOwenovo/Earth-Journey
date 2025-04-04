@@ -1,0 +1,24 @@
+{
+	id: "594136D7534C7AA8"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{ item: "bakery:croissant" }
+		{ item: "bakery:baguette" }
+		{ item: "youkaishomecoming:bun" }
+		{ item: "farmersdelight:dumplings" }
+		{ item: "bakery:chocolate_truffle" }
+		{ item: "farmersdelight:melon_popsicle" }
+		{ item: "naturalist:cooked_egg" }
+		{ item: "youkaishomecoming:americano" }
+		{ item: "vintagedelight:pickle" }
+		{ item: "vintagedelight:cheese_slice" }
+		{ item: "farmersdelight:kelp_roll_slice" }
+		{ item: "farmersdelight:barbecue_stick" }
+		{ item: "bakery:strawberry" }
+		{ item: "farmersdelight:melon_juice" }
+		{ item: "supplementaries:candy" }
+		{ item: "farmersdelight:cooked_rice" }
+	]
+	title: "食物"
+}

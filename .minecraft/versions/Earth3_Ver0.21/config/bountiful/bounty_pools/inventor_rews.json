@@ -1,0 +1,91 @@
+
+{
+	"content": {
+        "inventor_rews_sticky_piston": {
+            "type": "item",
+            "content": "lootbags:loot_bag",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 1300,
+            "nbt": "{Color:13882323,Loot:\"lootbags:eco/eco_rare\",Name:\"稀有的积分袋\",Type:\"RARE\"}"
+        },
+        "inventor_rews_repeater": {
+            "type": "item",
+            "content": "lootbags:loot_bag",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 750,
+            "nbt": "{Color:13882323,Loot:\"lootbags:eco/eco_unc\",Name:\"不常见的积分袋\",Type:\"UNCOMMON\"}"
+        },
+        "inventor_rews_comparator": {
+            "type": "item",
+            "rarity": "UNCOMMON",
+            "content": "lootbags:loot_bag",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 1000,
+            "nbt": "{Color:13882323,Loot:\"lootbags:eco/eco_unc\",Name:\"不常见的积分袋\",Type:\"UNCOMMON\"}"
+        },
+        "inventor_rews_redstone_lamp": {
+            "type": "item",
+            "rarity": "UNCOMMON",
+            "content": "lootbags:loot_bag",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 1800,
+            "nbt": "{Color:13882323,Loot:\"lootbags:eco/eco_epic\",Name:\"史诗的积分袋\",Type:\"EPIC\"}"
+        },
+        "inventor_rews_note_block": {
+            "type": "item",
+            "rarity": "UNCOMMON",
+            "content": "lootbags:loot_bag",
+            "amount": {
+                "min": 1,
+                "max": 4
+            },
+            "unitWorth": 500,
+            "nbt": "{Color:13882323,Loot:\"lootbags:eco/eco_com\",Name:\"普通的积分袋\",Type:\"COMMON\"}"
+        },
+        "inventor_rews_dispenser": {
+            "type": "item",
+            "rarity": "UNCOMMON",
+            "content": "lootbags:loot_bag",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 1000,
+            "nbt": "{Color:13882323,Loot:\"lootbags:eco/eco_unc\",Name:\"不常见的积分袋\",Type:\"UNCOMMON\"}"
+        },
+        "inventor_rews_observer": {
+            "type": "item",
+            "rarity": "UNCOMMON",
+            "content": "lootbags:loot_bag",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 750,
+            "nbt": "{Color:13882323,Loot:\"lootbags:eco/eco_unc\",Name:\"不常见的积分袋\",Type:\"UNCOMMON\"}"
+        },
+        "inventor_objs_jukebox": {
+            "type": "item",
+            "rarity": "EPIC",
+            "content": "lootbags:loot_bag",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 3250,
+            "nbt": "{Color:13882323,Loot:\"lootbags:eco/eco_leg\",Name:\"传说的积分袋\",Type:\"LEGENDARY\"}"
+        }
+	}
+}

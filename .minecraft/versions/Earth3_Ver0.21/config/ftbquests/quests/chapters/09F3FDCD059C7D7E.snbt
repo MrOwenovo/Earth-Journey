@@ -1,0 +1,301 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "09F3FDCD059C7D7E"
+	group: "036E079C15F2B292"
+	icon: "minecraft:diamond"
+	id: "09F3FDCD059C7D7E"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"使用铸币机，将钻石变为流通货币"
+				"放置铸币机后，将金锭、钻石、下界合金锭放入转换成移动货币"
+			]
+			id: "040D26FA65557CFD"
+			repeatable: true
+			rewards: [{
+				id: "011477C818BF839E"
+				item: "lightmanscurrency:coinmint"
+				type: "item"
+			}]
+			shape: "diamond"
+			size: 2.0d
+			tasks: [{
+				consume_items: true
+				count: 30L
+				disable_toast: true
+				id: "0B0EF6879E65405B"
+				item: "minecraft:diamond"
+				type: "item"
+			}]
+			title: "铸造货币"
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			disable_toast: true
+			id: "326AA2FC92542BD0"
+			repeatable: true
+			rewards: [{
+				count: 32
+				id: "165A6AA5E5F85B4D"
+				item: "lightmanscurrency:coin_diamond"
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 640L
+				id: "60E340CF16B4AF6F"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "forge:seeds"
+					}
+				}
+				title: "任何种子"
+				type: "item"
+			}]
+			title: "种子交易（交换货币）"
+			x: 5.0d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			disable_toast: true
+			id: "609DB35BC48C4BA1"
+			rewards: [{
+				count: 32
+				id: "6C8B68825897DA33"
+				item: "lightmanscurrency:coin_diamond"
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 320L
+				id: "2166BD03E3691FA6"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "minecraft:fishes"
+					}
+				}
+				title: "鱼类"
+				type: "item"
+			}]
+			title: "鱼类交易"
+			x: 5.0d
+			y: 0.5d
+		}
+		{
+			can_repeat: true
+			disable_toast: true
+			id: "255962FE6B73C3D6"
+			rewards: [{
+				count: 10
+				id: "20C5187085E90776"
+				item: "lightmanscurrency:coin_diamond"
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 640L
+				id: "0B91FE12473E776D"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "forge:cobblestone"
+					}
+				}
+				title: "各类石头"
+				type: "item"
+			}]
+			title: "圆石交易"
+			x: 5.0d
+			y: 1.5d
+		}
+		{
+			can_repeat: true
+			disable_toast: true
+			id: "5866B98944715A9B"
+			repeatable: true
+			rewards: [{
+				count: 32
+				id: "191E2F4C096FFE7D"
+				item: "lightmanscurrency:coin_diamond"
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 320L
+				id: "1274B8371B18E81E"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "forge:vegetables"
+					}
+				}
+				title: "Any #forge:vegetables"
+				type: "item"
+			}]
+			title: "蔬菜交易"
+			x: 6.0d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			disable_toast: true
+			id: "7877631738C90D19"
+			rewards: [{
+				count: 40
+				id: "2D7AC97F101D0358"
+				item: "lightmanscurrency:coin_diamond"
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 640L
+				id: "04C8B24953E80038"
+				item: "minecraft:wheat"
+				type: "item"
+			}]
+			title: "小麦交易"
+			x: 6.0d
+			y: 0.5d
+		}
+		{
+			can_repeat: true
+			disable_toast: true
+			id: "5FF7E3164BF93252"
+			rewards: [{
+				count: 40
+				id: "1F23CA4BF8356C95"
+				item: "lightmanscurrency:coin_diamond"
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 320L
+				id: "1F129D9B28943227"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "minecraft:logs"
+					}
+				}
+				title: "原木"
+				type: "item"
+			}]
+			title: "原木交易"
+			x: 7.0d
+			y: 1.5d
+		}
+		{
+			can_repeat: true
+			disable_toast: true
+			id: "7BC73CC7CE609A66"
+			rewards: [{
+				count: 10
+				id: "4D41C9C2095B8F81"
+				item: "lightmanscurrency:coin_diamond"
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 640L
+				id: "283E570CC562261E"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "forge:stone"
+					}
+				}
+				title: "Any #forge:stone"
+				type: "item"
+			}]
+			title: "石材交易"
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			description: [
+				"制作生物笼 采取生物DNA 自动化获得大量物资"
+				"具体教程转至 实用道具任务栏里寻找"
+			]
+			id: "3088E0028F5E4037"
+			rewards: [{
+				count: 5
+				id: "7D7B1A1CD436F8E1"
+				item: "lightmanscurrency:coin_diamond"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1B0EDD54E8F00712"
+				item: "cagedmobs:hopping_mob_cage"
+				type: "item"
+			}]
+			title: "自动化获取资源"
+			x: 2.0d
+			y: -0.5d
+		}
+		{
+			id: "26E4DB699283E069"
+			tasks: [{
+				id: "5B3BD926326DCB0F"
+				title: "待更新"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: 1.5d
+		}
+		{
+			can_repeat: true
+			id: "12A9401213087FAE"
+			rewards: [{
+				count: 64
+				id: "02492F193DCD9859"
+				item: "lightmanscurrency:coinblock_diamond"
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 256L
+				id: "4885F0C24AE29DF2"
+				item: "minecraft:diamond_block"
+				type: "item"
+			}]
+			title: "钻石块换钻石币块"
+			x: 8.0d
+			y: 0.5d
+		}
+		{
+			can_repeat: true
+			id: "1597E5B9FA48F9F9"
+			rewards: [{
+				count: 16
+				id: "0834473E6FC32026"
+				item: "lightmanscurrency:coinblock_diamond"
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 640L
+				id: "6EFD8EF4E7621AEC"
+				item: "minecraft:emerald_block"
+				type: "item"
+			}]
+			title: "绿宝石块换钻石币块"
+			x: 7.0d
+			y: 0.5d
+		}
+	]
+	title: "致富之路（货币获取）"
+}

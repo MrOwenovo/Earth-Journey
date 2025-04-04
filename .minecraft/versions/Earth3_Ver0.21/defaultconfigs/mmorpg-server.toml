@@ -1,0 +1,538 @@
+
+#General Configs
+[general]
+	all_players_are_allied = false
+	start_items = false
+	scale_mob_to_nearby_player_lvl = false
+	loot_announcements = true
+	require_team_for_dungeons = true
+	dont_sync_ambient_mob_data = true
+	maps_dont_drop_in_maps = false
+	#Range: 0.0 ~ 1000.0
+	regen_hunger_cost = 10.0
+	#Range: 0.0 ~ 1.0
+	death_exp_penalty = 0.05
+	#Range: 0.0 ~ 1000.0
+	exp_gain_multi = 2.0
+	#Range: 0.0 ~ 1000.0
+	party_radius = 50.0
+	#Range: 0.0 ~ 1.0
+	lvl_distance_penalty_per_level = 0.1
+	#Range: 0.0 ~ 1.0
+	min_loot_chance = 0.25
+	#Range: 0.0 ~ 1000.0
+	extra_mob_stats_per_lvl = 0.05
+	#Range: 0.0 ~ 1000.0
+	vanilla_mob_dmg_as_exile_dmg = 1.0
+	#Range: 0.0 ~ 1000.0
+	pvp_dmg_multi = 0.5
+	#Range: 0.0 ~ 100000.0
+	max_team_distance = 50.0
+	#Range: 0.0 ~ 1000.0
+	gear_drop_rate = 6.0
+	#Range: 0.0 ~ 1000.0
+	soul_drop_rate = 8.0
+	#Range: 0.0 ~ 1000.0
+	map_drop_rate = 0.55
+	#Range: 0.0 ~ 1000.0
+	gem_drop_rate = 1.8
+	#Range: 0.0 ~ 1000.0
+	skill_gem_drop_rate = 2.5
+	#Range: 0.0 ~ 1000.0
+	support_gem_drop_rate = 2.0
+	#Range: 0.0 ~ 1000.0
+	aura_gem_drop_rate = 1.8
+	#Range: 0.0 ~ 1000.0
+	rune_drop_rate = 0.3
+	#Range: 0.0 ~ 1000.0
+	currency_drop_rate = 0.7
+	#Range: 0.0 ~ 1000.0
+	jewel_drop_rate = 0.45
+	#Range: 0.0 ~ 1000.0
+	loot_chest_drop_rate = 0.08
+	#This is for modded gear that can't be automatically recognized by the mod. If there's say a weapon like a staff in another mod, but this mod doesn't recognize it. Put it here. The usage is: modid:path:gear_slot_id. Example: minecraft:diamond_sword:sword
+	gear_compatibility = [
+	"minecraft:iron_sword:sword",
+	"cgm:heavy_rifle:bow",
+	"cgm:machine_pistol:bow",
+	"cgm:assault_rifle:bow",
+	"cgm:mini_gun:bow",
+	"cgm:bazooka:bow",
+	"cgm:grenade_launcher:bow",
+	"cgm:rifle:bow",
+	"cgm:shotgun:bow",
+	"cgm:pistol:bow",
+	"cataclysm:gauntlet_of_guard:hammer",
+	"cataclysm:void_assault_shoulder_weapon:crossbow",
+	"cataclysm:void_forge:hammer",
+	"cataclysm:tidal_claws:crossbow",
+	"cataclysm:the_incinerator:sword",
+	"cataclysm:gauntlet_of_bulwark:hammer",
+	"cataclysm:laser_gatling:bow",
+	"cataclysm:bulwark_of_the_flame:shield",
+	"cataclysm:wither_assault_shoulder_weapon:crossbow",
+	"born_in_chaos_v1:wood_splitter_axe:axe",
+	"divine_weaponry:diamond_spear:spear",
+	"touhou_little_maid:hakurei_gohei:staff",
+	"born_in_chaos_v1:dark_ritual_dagger:dagger",
+	"blue_skies:bluebright_spea:spear",
+	"dungeonsweaponry:suns_grace:hammer",
+	"divine_weaponry:om_spear:spear",
+	"dungeonsweaponry:whispering_spear:spear",
+	"dungeonsweaponry:hammer_of_gravity:hammer",
+	"cuisinedelight:cuisine_skillet:hammer",
+	"delightful:steel_knife:dagger",
+	"dungeonsweaponry:resolute_tempest_knife:dagger",
+	"divine_weaponry:netherite_spear:spear",
+	"dungeonsweaponry:dagger:dagger",
+	"delightful:fiery_knife:dagger",
+	"dungeonsweaponry:glaive:spear",
+	"divine_weaponry:wooden_glaive:spear",
+	"divine_weaponry:stone_glaive:spear",
+	"divine_weaponry:iron_glaive:spear",
+	"divine_weaponry:diamond_glaive:spear",
+	"divine_weaponry:netherite_glaive:spear",
+	"divine_weaponry:golden_glaive:spear",
+	"dungeonsweaponry:venom_glaive:spear",
+	"divine_weaponry:tunupa_glaive:spear",
+	"delightful:steeleaf_knife:dagger",
+	"delightful:knightmetal_knife:dagger",
+	"dungeonsweaponry:stromlander:hammer",
+	"dungeonsweaponry:frost_scythe:axe",
+	"divine_weaponry:mjollnir_hammer:hammer",
+	"delightful:ironwood_knife:dagger",
+	"divine_weaponry:stone_spear:spear",
+	"dungeonsweaponry:stromlander:hammer",
+	"divine_weaponry:netherite_hammer:hammer",
+	"divine_weaponry:jotunn_battleaxe:axe",
+	"divine_weaponry:iron_spear:spear",
+	"divine_weaponry:wooden_hammer:hammer",
+	"divine_weaponry:iron_hammer:hammer",
+	"divine_weaponry:golden_spear:spear",
+	"divine_weaponry:golden_hammer:hammer",
+	"divine_weaponry:stone_hammmer:hammer",
+	"divine_weaponry:diamond_hammer:hammer",
+	"divine_weaponry:wooden_spear:spear",
+	"farmersdelight:skillet:hammer",
+	"born_in_chaos_v1:trident_hayfork:spear",
+	"hmag:iron_spear:spear",
+	"born_in_chaos_v1:soul_cutlass:dagger",
+	"born_in_chaos_v1:skullbreaker_hammer:hammer",
+	"born_in_chaos_v1:shell_mace:hammer",
+	"born_in_chaos_v1:soulbane:dagger",
+	"twm:diamond_knife:dagger",
+	"twm:wooden_mace:hammer",
+	"twm:gilded_netherite_knife:dagger",
+	"twm:wooden_hammer:hammer",
+	"graveyard:bone_dagger:dagger",
+	"twm:steel_hammer:hammer",
+	"twm:copper_mace:hammer",
+	"twm:machuahuitl_claymore:sword",
+	"twm:iron_mace:hammer",
+	"aquamirae:terrible_sword:sword",
+	"aquamirae:fin_cutter:sword", 
+	"aquamirae:divider:sword",
+	"aquamirae:remnants_saber:sword",
+	"aquamirae:poisoned_blade:sword", 
+	"aquamirae:dagger_of_greed:dagger",
+	"aquamirae:whisper_of_the_abyss:spear", 
+	"aquamirae:coral_lance:spear",
+	"aquamirae:sweet_lance:spear",
+	"dungeonsweaponry:trident_hayfork:sword",
+	"twm:steel_mace:hammer",
+	"twm:wooden_club_mace:hammer",
+	"twm:netherite_knife:dagger",
+	"dungeonsweaponry:great_reaper_axe:axe",
+	"twm:brightsteel_kinfe:dagger",
+	"dungeonsweaponry:double_axe:axe",
+	"dungeonsweaponry:cursed_axe:axe",
+	"dungeonsweaponry:highland_axe:axe",
+	"dungeonsweaponry:great_axebalde:axe",
+	"dungeonsweaponry:whispering_spear:spear",
+	"dungeonsweaponry:firebrand:axe",
+	"cataclysm:infernal_forge:hammer",
+	"cataclysm:meat_shredder:dagger",
+	"cataclysm:coral_bardiche:axe",
+	"born_in_chaos_v1:pumpkin_staff:staff",
+	"born_in_chaos_v1:staffofthe_summoner:staff",
+	"born_in_chaos_v1:staffof_magic_arrows:staff",
+	"grimoireofgaia:weapon_book:staff",
+	"grimoireofgaia:weapon_book_freezing:staff",
+	"grimoireofgaia:magic_staff:staff",
+	"grimoireofgaia:weapon_book_buff:staff",
+	"grimoireofgaia:weapon_book_nightmare:staff",
+	"grimoireofgaia:minotaur_hammer:hammer",
+	"grimoireofgaia:weapon_book_metal:staff",
+	"cataclysm:coral_spear:spear",
+	"grimoireofgaia:weapon_book_ender:staff",
+	"grimoireofgaia:weapon_book_hunger:staff",
+	"grimoireofgaia:cave_spider_staff:staff",
+	"grimoireofgaia:weapon_book_battle:staff",
+	"grimoireofgaia:weapon_book_wither:staff",
+	"grimoireofgaia:weapon_book_nature:staff",
+	"grimoireofgaia:skeleton_staff:staff",
+	"grimoireofgaia:zombie_staff:staff",
+	"lootbag:frost_wand:staff",
+	"divine_weaponry:jotunn:sword",
+	"grimoireofgaia:fan_fire:sword",
+	"grimoireofgaia:metal_dagger:dagger",
+	"grimoireofgaia:fan_ice:sword",
+	"divine_weaponry:netherite_battleaxe:axe",
+	"divine_weaponry:diamond_battleaxe:axe",
+	"divine_weaponry:golden_battleaxe:axe",
+	"divine_weaponry:iron_battleaxe:axe",
+	"divine_weaponry:stone_battleaxe:axe",
+	"divine_weaponry:wooden_battleaxe:axe",
+	"minecraft:wooden_axe:axe",
+	"cgm:assault_rifle",
+	"minecraft:stone_axe:axe",
+	"minecraft:iron_axe:axe",
+	"minecraft:golden_axe:axe",
+	"minecraft:diamond_axe:axe",
+	"minecraft:netherite_axe:axe",
+	"undergarden:cloggrum_battleaxe:axe",
+	"divine_weaponry:stone_dagger:dagger",
+	"divine_weaponry:iron_dagger_dagger:dagger",
+	"divine_weaponry:golden_dagger:dagger",
+	"divine_weaponry:diamond_dagger:dagger",
+	"divine_weaponry:netherite_dagger:dagger",
+	"divine_weaponry:fujindagger_dagger:dagger",
+	"divine_weaponry:wooden_sickle:dagger",
+	"divine_weaponry:stone_sickle:dagger",
+	"divine_weaponry:iron_sickle:dagger",
+	"divine_weaponry:golden_sickle:dagger",
+	"divine_weaponry:diamond_sickle:dagger",
+	"divine_weaponry:netherite_sickle:dagger",
+	"divine_weaponry:cernunnos_sickle:dagger",
+	"cataclysm:athame:dagger",
+	"dungeonsweaponry:nameless_blade:dagger",
+	"dungeonsweaponry:chill_gale_knife:dagger",
+	"twm:terrapotta_fist:dagger",
+	"twm:gauntilus_fist:dagger",
+	"twm:fist_of_the_sea_fist:dagger",
+	"divine_weaponry:wooden_scythe:axe",
+	"divine_weaponry:stone_scythe:axe",
+	"divine_weaponry:iron_scythe:axe",
+	"divine_weaponry:golden_scythe:axe",
+	"divine_weaponry:diamond_scythe:axe",
+	"divine_weaponry:netherite_scythe:axe",
+	"divine_weaponry:erebus_scythe:axe",
+	"dungeonsweaponry:frost_slayer:axe",
+	"dungeonsweaponry:great_axeblade:axe",
+	"dungeonsweaponry:stormlander:axe",
+	"dungeonsweaponry:hammer_of_gravity:axe",
+	"dungeonsweaponry:glaive:spear",
+	"twm:copper_axe:axe",
+	"twm:steel_axe:axe",
+	"twm:obsidian_edged_diamond_axe:axe",
+	"twm:gilded_netherite_axe:axe",
+	"twm:brightsteel_axe:axe",
+	"twm:aurum_axe:axe",
+	"born_in_chaos_v1:nightmare_scythe:axe",
+	"born_in_chaos_v1:great_reaper_axe:axe",
+	"born_in_chaos_v1:darkwarblade:axe",
+	"born_in_chaos_v1:skullbreaker_hammer:axe",
+	"twm:shulker_gauntlet_fist:dagger",
+	"twm:katana:dagger",
+	"born_in_chaos_v1:intoxicating_dagger:dagger",
+	"divine_weaponry:wooden_dagger:dagger",
+	"undergarden:cloggrum_axe:axe",
+	"undergarden:froststeel_axe:axe",
+	"undergarden:utherium_axe:axe",
+	"undergarden:forgotten_battleaxe:axe",
+	"undergarden:forgotten_axe:axe",
+	"kobolds:kobold_iron_axe:axe",
+	"deeperdarker:warden_axe:axe",
+	"aquaculture:neptunium_axe:axe",
+	"illagerinvasion:platinum_infused_hatchet:axe",
+	"mutantmonsters:mutant_skeleton_skull:helmet",
+	"aquaculture:wooden_fillet_knife:dagger",
+	"aquaculture:stone_fillet_knife:dagger",
+	"aquaculture:iron_fillet_knife:dagger",
+	"aquaculture:gold_fillet_knife:dagger",
+	"aquaculture:diamond_fillet_knife:dagger",
+	"aquaculture:neptunium_fillet_knife:dagger",
+	"farmersdelight:flint_knife:dagger",
+	"farmersdelight:iron_knife:dagger",
+	"farmersdelight:golden_knife:dagger",
+	"farmersdelight:diamond_knife:dagger",
+	"farmersdelight:netherite_knife:dagger",
+	"minecolonies:pharaoscepter:staff",
+	"minecolonies:spear:spear",
+	"minecraft:trident:spear",
+	"alexsmobs:shield_of_the_deep:shield",
+	"stalwart_dungeons:tungsten_axe:axe",
+	"stalwart_dungeons:chorundum_axe:axe",
+	"stalwart_dungeons:wooden_hammer:axe",
+	"stalwart_dungeons:stone_hammer:axe",
+	"stalwart_dungeons:iron_hammer:axe",
+	"stalwart_dungeons:golden_hammer:axe",
+	"stalwart_dungeons:diamond_hammer:axe",
+	"stalwart_dungeons:netherite_hammer:axe",
+	"stalwart_dungeons:tungsten_hammer:axe",
+	"blue_skies:crushing_hammer:axe",
+	"stalwart_dungeons:nether_hammer:axe",
+	"stalwart_dungeons:tungsten_shield:shield",
+	"stalwart_dungeons:warted_tungsten_shield:shield",
+	"stalwart_dungeons:chorundum_shield:shield",
+	"stalwart_dungeons:awful_dagger:dagger",
+	"undergarden:slingshot:bow",
+	"aquamirae:terrible_sword:sword",
+	"aquamirae:fin_cutter:sword",
+	"aquamirae:divider:sword",
+	"aquamirae:remnants_saber:sword",
+	"aquamirae:poisoned_blade:sword",
+	"aquamirae:dagger_of_greed:dagger",
+	"blue_skies:bluebright_axe:axe",
+	"blue_skies:starlit_axe:axe",
+	"blue_skies:frostbright_axe:axe",
+	"blue_skies:lunar_axe:axe",
+	"blue_skies:dusk_axe:axe",
+	"blue_skies:maple_axe:axe",
+	"blue_skies:comet_axe:axe",
+	"blue_skies:bluebright_axe:axe",
+	"blue_skies:turquoise_stone_axe:axe",
+	"blue_skies:lunar_stone_axe:axe",
+	"blue_skies:pyrope_axe:axe",
+	"blue_skies:aquite_axe:axe",
+	"twilightforest:ironwood_axe:axe",
+	"twilightforest:steeleaf_axe:axe",
+	"twilightforest:knightmetal_axe:axe",
+	"twilightforest:gold_minotaur_axe:axe",
+	"twilightforest:diamond_minotaur_axe:axe",
+	"experienceobelisk:cognitive_axe:axe",
+	"cte2modpackarmors:lightning_edge_staff:staff",
+	"cte2modpackarmors:sinful_lights_staff:staff",
+	"cte2modpackarmors:unsealing_fate_sword:sword",
+	"cte2modpackarmors:desolating_light_staff:staff",
+	"cte2modpackarmors:soulcursed_skewer_dagger:dagger",
+	"cte2modpackarmors:twin_agony_dagger:dagger",
+	"cte2modpackarmors:venom_tears_dagger:dagger",
+	"blue_skies:diopside_axe:axe",
+	"aquaculturedelight:neptunium_knife:dagger",
+	"l2weaponry:vampire_desire:dagger",
+    "l2weaponry:claw_of_determination:dagger",
+    "l2weaponry:shadow_hunter:dagger",
+    "l2weaponry:abyss_shock:dagger",
+    "l2weaponry:shadow_shredder:sword",
+    "l2weaponry:abyss_resonance:sword",
+    "l2weaponry:blade_of_illusion:sword",
+    "l2weaponry:barbaric_hallow:axe",
+    "l2weaponry:hammer_of_incarceration:hammer",
+    "l2weaponry:abyss_echo:hammer",
+    "l2weaponry:dogmatic_punishment:hammer",
+    "l2weaponry:axe_of_cursed_flame:axe",
+    "l2weaponry:abyss_terror:axe",
+    "l2weaponry:dogmatic_standoff:axe",
+    "l2weaponry:spear_of_winter_storm:spear",
+    "l2weaponry:haunting_demon_of_the_end:spear",
+    "l2weaponry:poseidon_madness:spear",
+    "l2weaponry:void_escape:spear",
+    "l2weaponry:iron_claw:dagger",
+    "l2weaponry:gold_claw:dagger",
+    "l2weaponry:diamond_claw:dagger",
+    "l2weaponry:netherite_claw:dagger",
+    "l2weaponry:totemic_gold_claw:dagger",
+    "l2weaponry:poseidite_claw:dagger",
+    "l2weaponry:shulkerate_claw:dagger",
+    "l2weaponry:sculkium_claw:dagger",
+    "l2weaponry:eternium_claw:dagger",
+    "l2weaponry:iron_dagger:dagger",
+    "l2weaponry:gold_dagger:dagger",
+    "l2weaponry:diamond_dagger:dagger",
+    "l2weaponry:gold_dagger:dagger",
+    "l2weaponry:netherite_dagger:dagger",
+    "l2weaponry:totemic_gold_dagger:dagger",
+    "l2weaponry:poseidite_dagger:dagger",
+    "l2weaponry:shulkerate_dagger:dagger",
+    "l2weaponry:sculkium_dagger:dagger",
+    "l2weaponry:eternium_dagger:dagger",
+    "l2weaponry:iron_machete:sword",
+    "l2weaponry:gold_machete:sword",
+    "l2weaponry:diamond_machete:sword",
+    "l2weaponry:netherite_machete:sword",
+    "l2weaponry:totemic_gold_machete:sword",
+    "l2weaponry:poseidite_machete:sword",
+    "l2weaponry:shulkerate_machete:sword",
+    "l2weaponry:sculkium_machete:sword",
+    "l2weaponry:eternium_machete:sword",
+    "l2weaponry:iron_throwing_axe:axe",
+    "l2weaponry:gold_throwing_axe:axe",
+    "l2weaponry:diamond_throwing_axe:axe",
+    "l2weaponry:netherite_throwing_axe:axe",    
+    "l2weaponry:totemic_gold_throwing_axe:axe",
+    "l2weaponry:poseidite_throwing_axe:axe",
+    "l2weaponry:shulkerate_throwing_axe:axe",
+    "l2weaponry:sculkium_throwing_axe:axe",
+    "l2weaponry:eternium_throwing_axe:axe",
+    "l2weaponry:iron_hammer:hammer",
+    "l2weaponry:gold_hammer:hammer",
+    "l2weaponry:diamond_hammer:hammer",
+    "l2weaponry:netherite_hammer:hammer",
+    "l2weaponry:totemic_gold_hammer:hammer",
+    "l2weaponry:poseidite_hammer:hammer",
+    "l2weaponry:shulkerate_hammer:hammer",
+    "l2weaponry:sculkium_hammer:hammer",
+    "l2weaponry:eternium_hammer:hammer",
+    "l2weaponry:iron_battle_axe:axe",
+    "l2weaponry:gold_battle_axe:axe",
+    "l2weaponry:diamond_battle_axe:axe",
+    "l2weaponry:netherite_battle_axe:axe", 
+    "l2weaponry:totemic_gold_battle_axe:axe",
+    "l2weaponry:poseidite_battle_axe:axe",
+    "l2weaponry:shulkerate_battle_axe:axe",
+    "l2weaponry:sculkium_battle_axe:axe",
+    "l2weaponry:eternium_battle_axe:axe",
+    "l2weaponry:iron_spear:spear",
+    "l2weaponry:gold_spear:spear",
+    "l2weaponry:diamond_spear:spear",
+    "l2weaponry:netherite_spear:spear",
+    "l2weaponry:totemic_gold_spear:spear",
+    "l2weaponry:poseidite_spear:spear",
+    "l2weaponry:shulkerate_spear:spear",
+    "l2weaponry:sculkium_spear:spear",
+    "l2weaponry:eternium_spear:spear",
+    "l2weaponry:iron_javelin:spear",
+    "l2weaponry:gold_javelin:spear",
+    "l2weaponry:diamond_javelin:spear",
+    "l2weaponry:netherite_javelin:spear",
+    "l2weaponry:totemic_gold_javelin:spear",
+    "l2weaponry:poseidite_javelin:spear",
+    "l2weaponry:shulkerate_javelin:spear",
+    "l2weaponry:sculkium_javelin:spear",
+    "l2weaponry:eternium_javelin:spear",
+    "l2weaponry:ironwood_claw:dagger",
+    "l2weaponry:steeleaf_claw:dagger",
+    "l2weaponry:knightmetal_claw:dagger",
+    "l2weaponry:fiery_claw:dagger",
+    "l2weaponry:ironwood_dagger:dagger",
+    "l2weaponry:steeleaf_dagger:dagger",
+    "l2weaponry:knightmetal_dagger:dagger",
+    "l2weaponry:fiery_dagger:dagger",
+    "l2weaponry:ironwood_machete:sword",
+    "l2weaponry:steeleaf_machete:sword",
+    "l2weaponry:knightmetal_machete:sword",
+    "l2weaponry:fiery_machete:sword",
+    "l2weaponry:ironwood_throwing_axe:axe",
+    "l2weaponry:steeleaf_throwing_axe:axe",
+    "l2weaponry:knightmetal_throwing_axe:axe",
+    "l2weaponry:fiery_throwing_axe:axe",
+    "l2weaponry:ironwood_hammer:hammer",
+    "l2weaponry:steeleaf_hammer:hammer",
+    "l2weaponry:knightmetal_hammer:hammer",
+    "l2weaponry:fiery_hammer:hammer",
+    "l2weaponry:ironwood_battle_axe:axe",
+    "l2weaponry:steeleaf_battle_axe:axe",
+    "l2weaponry:knightmetal_battle_axe :axe",
+    "l2weaponry:fiery_battle_axe:axe",
+    "l2weaponry:ironwood_spear:spear",
+    "l2weaponry:steeleaf_spear:spear",
+    "l2weaponry:knightmetal_spear:spear",
+    "l2weaponry:fiery_spear:spear",
+    "l2weaponry:ironwood_javelin:spear",
+    "l2weaponry:steeleaf_javelin:spear",
+    "l2weaponry:knightmetal_javelin:spear",
+    "l2weaponry:fiery_javelin:spear",
+	"betterend:aeternium_axe:axe",
+	"betterend:aeternium_hammer:hammer",
+	"betterend:iron_hammer:hammer",
+	"betterend:golden_hammer:hammer",
+	"betterend:diamond_hammer:hammer",
+	"betterend:thallasium_axe:axe",
+	"betterend:terminite_axe:axe",
+	"betterend:thallasium_hammer:hammer",
+	"betterend:terminite_hammer:hammer",
+	"betterend:netherite_hammer:hammer",
+	"blue_skies:charoite_axe:axe",
+	"blue_skies:crusing_hammer:hammer",
+	"blue_skies:horizonite_axe:axe",
+	"naturesaura:infused_iron_axe:axe",
+	"naturesaura:sky_axe:axe",
+	"naturesaura:depth_axe:axe",
+	"naturesaura:infused_iron_sword:sword",
+	"naturesaura:sky_sword:sword",
+	"blue_skies:soulbound_spear:spear",
+	"blue_skies:comet_spear:spear",
+	"blue_skies:lunar_spear:spear",
+	"cte2modpapckarmors:lightning_edge_staff:staff",
+	"cte2modpapckarmors:desolating_light_staff:staff",
+	"blue_skies:maple_spear:spear",
+	"blue_skies:dusk_spear:spear",
+	"cte2modpapckarmors:sinful_lights_staff:staff",
+	"blue_skies:starlit_spear:sword",
+	"blue_skies:forstbright_spear:axe",
+	"blue_skies:lunar_spear:axe",
+	"blue_skies:dusk_spear:axe",
+	"blue_skies:comet_spear:axe",
+	"blue_skies:soulbound_spear:axe",
+	"undergarden:cloggrum_battleaxe:axe", 
+	"undergarden:cloggrum_axe:axe", 
+	"undergarden:froststeel_axe:axe", 
+	"undergarden:utherium_axe:axe", 
+	"undergarden:forgotten_battleaxe:axe", 
+	"undergarden:forgotten_axe:axe"]
+	#Range: 0.0 ~ 10000.0
+	favor_death_loss = 85.0
+	#Range: 0.0 ~ 10000.0
+	favor_chest_gain = 10.0
+	#Range: 0.0 ~ 10000.0
+	favor_per_second = 0.138888888888888
+	#Range: 0.0 ~ 1.0
+	death_exp_debt = 0.0
+	#Range: 0.0 ~ 100.0
+	max_death_exp_debt_multi = 0.0
+	#Range: 0.0 ~ 10.0
+	in_combat_regen_multi = 0.5
+	#Range: 0 ~ 20
+	pack_mob_min = 3
+	#Range: 0 ~ 20
+	pack_mob_max = 5
+	#Range: 0 ~ 20
+	mob_min = 2
+	#Range: 0 ~ 20
+	mob_max = 3
+	#Range: > 0
+	min_level_map_drops = 1
+	#Range: 0.0 ~ 100.0
+	UNARMED_ENERGY_COST = 2.0
+	#Stops items from being used in maps/adventuremaps. This is used for items that allow cheesing mechanics like teleporation items mostly.
+	disabled_items_in_maps = ["minecraft:ender_pearl", "minecraft:chorus_fruit"]
+	log_errors = false
+	stop_error_spam = true
+	#Range: 0 ~ 10000
+	MAX_ADDITIONAL_TALENT_POINTS = 25
+	#Range: 0.0 ~ 1.0
+	COMBAT_TO_PROFESSION_RESTED_XP_GENERATION = 0.25
+	#Range: 0.0 ~ 1.0
+	PROFESSION_TO_COMBAT_RESTED_XP_GENERATION = 0.1
+	#Range: 0.0 ~ 1000.0
+	block_cost = 0.5
+	#Range: > 0
+	LEVEL_DISTANCE_PENALTY_LEEWAY = 2
+	#Range: 0.0 ~ 100.0
+	MAP_MECHANIC_CHANCE = 25.0
+	#Range: 1 ~ 100
+	MIN_MAP_ROOMS = 24
+	#Range: 1 ~ 100
+	MAX_MAP_ROOMS = 30
+	#Range: 0 ~ 100
+	PERC_OFFHAND_WEP_STAT = 25
+	#Range: 0.0 ~ 1.0
+	RESTED_XP_DEATH_PENALTY = 0.5
+	#Range: 1 ~ 7
+	MAX_CHARACTERS = 7
+	#Range: 0.0 ~ 100.0
+	ITEM_LEVEL_VARIANCE = 1.0
+	#Range: 0.0 ~ 100.0
+	MOB_LEVEL_VARIANCE = 1.0
+	#Range: 0 ~ 20
+	MAP_GEN_MOB_RADIUS = 1
+	#Range: 0 ~ 20
+	MAP_GEN_TERRAIN_RADIUS = 4
+	#Range: 0 ~ 1000
+	BONUS_EXP_PERCENT_PER_HIGHER_LVL_CHARACTERS = 10
+	#Range: 0.0 ~ 1000.0
+	MAP_DROPRATE_INSIDE_MAPS = 3.0
+	#Range: 0.0 ~ 1000.0
+	MOB_FLAT_DAMAGE_BONUS = 6.0
+

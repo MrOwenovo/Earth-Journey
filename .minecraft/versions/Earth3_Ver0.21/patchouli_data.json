@@ -1,0 +1,46 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "pfm:guide_book": {
+      "viewedEntries": [
+        "pfm:drawer_usage_entry"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "parcool:parcool_guide": {
+      "viewedEntries": [
+        "parcool:about/about_parcool",
+        "parcool:about/about_parkour",
+        "parcool:about/stamina",
+        "parcool:about/f_a_q",
+        "parcool:about/credit",
+        "parcool:actions/hang_down",
+        "parcool:actions/wall_jump",
+        "parcool:actions/wall_run",
+        "parcool:actions/cling_to_cliff",
+        "parcool:actions/dodge",
+        "parcool:actions/dive",
+        "parcool:actions/vault",
+        "parcool:actions/catleap",
+        "parcool:actions/horizontal_wall_run",
+        "parcool:actions/fast_run",
+        "parcool:actions/quick_turn",
+        "parcool:actions/wall_slide",
+        "parcool:actions/slide",
+        "parcool:actions/crawl",
+        "parcool:actions/flipping",
+        "parcool:actions/climb_poles",
+        "parcool:actions/breakfall"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "yuushya:yuushya_guidebook": {
+      "viewedEntries": [],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

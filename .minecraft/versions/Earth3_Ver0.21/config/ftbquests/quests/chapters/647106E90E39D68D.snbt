@@ -1,0 +1,306 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "647106E90E39D68D"
+	group: "34CCF47C94C2A563"
+	icon: "yuushya:ceiling_fan"
+	id: "647106E90E39D68D"
+	images: [{
+		click: ""
+		corner: false
+		dev: false
+		height: 12.0d
+		hover: [ ]
+		image: "mmorpg:textures/ftb/rishijianzhu.png"
+		rotation: 0.0d
+		width: 12.0d
+		x: 13.0d
+		y: -10.0d
+	}]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["03A65930789A0788"]
+			dependency_requirement: "one_completed"
+			description: [
+				"制作蓝图"
+				"以转换对应装饰建材 "
+				"蓝图需要晶体 放入切石机内切割"
+			]
+			icon: "yuushya:stone_blueprint"
+			id: "790E1FD5E3F4C93B"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "70B9B696EB5C8CA2"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "18B62419C5DC47D8"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "4A2A56FFF8CFF115"
+					item: "lightmanscurrency:coinpile_diamond"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "5BA52B5AAE2963CE"
+					item: "yuushya:block_blueprint"
+					type: "item"
+				}
+				{
+					id: "15E6DEB2BFF0E4C9"
+					item: "yuushya:wood_blueprint"
+					type: "item"
+				}
+				{
+					id: "7F24C21072736833"
+					item: "yuushya:stone_blueprint"
+					type: "item"
+				}
+				{
+					id: "032B12B9070FBA0D"
+					item: "yuushya:fabric_blueprint"
+					type: "item"
+				}
+				{
+					id: "1E198C939241FB81"
+					item: "yuushya:catering_blueprint"
+					type: "item"
+				}
+				{
+					id: "342BFD8F821E60C5"
+					item: "yuushya:living_being_blueprint"
+					type: "item"
+				}
+				{
+					id: "066E8974B5D2AA35"
+					item: "yuushya:store_blueprint"
+					type: "item"
+				}
+				{
+					id: "4FAA6DA43090BE34"
+					item: "yuushya:sign_blueprint"
+					type: "item"
+				}
+				{
+					id: "360773D666933D59"
+					item: "yuushya:furniture_blueprint"
+					type: "item"
+				}
+				{
+					id: "304FDACDFED77476"
+					item: "yuushya:lighting_blueprint"
+					type: "item"
+				}
+				{
+					id: "6E6C5D3CF398834F"
+					item: "yuushya:facility_blueprint"
+					type: "item"
+				}
+				{
+					id: "51280E6777D0E598"
+					item: "yuushya:traffic_blueprint"
+					type: "item"
+				}
+				{
+					id: "7142025475E967AB"
+					item: "yuushya:extra_shapes_blueprint"
+					type: "item"
+				}
+				{
+					id: "509AB09478F673EB"
+					item: "yuushya:window_blueprint"
+					type: "item"
+				}
+				{
+					id: "2637FC22383E019B"
+					item: "yuushya:bismuth_crystal"
+					type: "item"
+				}
+			]
+			title: "蓝图-建筑的核心"
+			x: 18.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["790E1FD5E3F4C93B"]
+			description: [
+				"制作模板需要先制作油漆工 用切石机转换"
+				"请自行搜索更多模板 "
+				"右击模板可获取更多装饰物"
+			]
+			icon: "yuushya:mounted_fern_pot"
+			id: "60EFCADA199025EA"
+			rewards: [{
+				id: "0F72F2CAF2283069"
+				item: "lightmanscurrency:coin_diamond"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "6909FD76C9A36EFC"
+					item: "yuushya:mounted_fern_pot"
+					type: "item"
+				}
+				{
+					id: "4E6D086B309B7526"
+					item: "yuushya:bicycle"
+					type: "item"
+				}
+				{
+					id: "7E3F17E0E76C0939"
+					item: "yuushya:pictor"
+					type: "item"
+				}
+			]
+			title: "模板的运用"
+			x: 19.5d
+			y: -9.5d
+		}
+		{
+			description: [
+				"Jei  搜索 @yu"
+				"可查看大部分建材"
+				"部分建材家具装饰在金币商店内获取 "
+			]
+			icon: "yuushya:ceiling_fan"
+			id: "03A65930789A0788"
+			rewards: [
+				{
+					id: "09550042B89F602A"
+					item: "minecraft:stonecutter"
+					type: "item"
+				}
+				{
+					id: "6FD384DB3D759E08"
+					item: {
+						Count: 1b
+						id: "patchouli:guide_book"
+						tag: {
+							"patchouli:book": "yuushya:yuushya_guidebook"
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 2.0d
+			tasks: [{
+				id: "5DA5ABC7FD146276"
+				title: "现代装饰建筑"
+				type: "checkmark"
+			}]
+			x: 18.0d
+			y: -12.0d
+		}
+		{
+			id: "520F981099802C3A"
+			tasks: [{
+				id: "19C95F8496C0DBFF"
+				item: "yuushya:clock"
+				type: "item"
+			}]
+			x: 19.5d
+			y: -8.0d
+		}
+		{
+			id: "5D4707F3B1AADAE6"
+			tasks: [{
+				id: "36AFB98C353A61EC"
+				item: "yuushya:slippers"
+				type: "item"
+			}]
+			x: 21.0d
+			y: -8.0d
+		}
+		{
+			id: "6B93A2B63E6A5B4A"
+			tasks: [{
+				id: "425B70DC7FD476CD"
+				item: "yuushya:leaning_ladder"
+				type: "item"
+			}]
+			x: 22.5d
+			y: -8.0d
+		}
+		{
+			id: "55847A0932C74175"
+			tasks: [{
+				id: "678E1774035E941F"
+				item: "yuushya:bottle_container"
+				type: "item"
+			}]
+			x: 18.0d
+			y: -6.5d
+		}
+		{
+			id: "52FF20DDFC9880A8"
+			tasks: [{
+				id: "4F76C8612F7B4FD1"
+				item: "yuushya:hanzi_banner_4"
+				type: "item"
+			}]
+			x: 19.5d
+			y: -6.5d
+		}
+		{
+			id: "332089E177C4FFBF"
+			tasks: [{
+				id: "5C12D0CAD621E9E8"
+				item: "yuushya:sign_13"
+				type: "item"
+			}]
+			x: 21.0d
+			y: -6.5d
+		}
+		{
+			id: "768F3710890235C9"
+			tasks: [{
+				id: "10D72CC8AC5DCA2B"
+				item: "yuushya:fish_tank_a_bottom"
+				type: "item"
+			}]
+			x: 22.5d
+			y: -6.5d
+		}
+		{
+			id: "6392C1FDA2EEBBF8"
+			tasks: [{
+				id: "6217185BB78491A2"
+				item: "yuushya:butterfly_blue"
+				type: "item"
+			}]
+			x: 18.0d
+			y: -8.0d
+		}
+		{
+			id: "7B119A5EF4FC0C61"
+			tasks: [{
+				id: "6CB6DE98362B23B2"
+				item: "yuushya:basket"
+				type: "item"
+			}]
+			x: 24.0d
+			y: -8.0d
+		}
+		{
+			id: "7F2C1FA07038E7D5"
+			tasks: [{
+				id: "4C58E93707154424"
+				item: "yuushya:thick_fallen_leaves"
+				type: "item"
+			}]
+			x: 24.0d
+			y: -6.5d
+		}
+	]
+	title: "日式/现代"
+}

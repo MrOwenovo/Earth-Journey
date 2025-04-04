@@ -1,0 +1,67 @@
+{
+  "base_stats": [
+    {
+      "type": "FLAT",
+      "max": 10.0,
+      "min": 5.0,
+      "stat": "armor"
+    },
+    {
+      "type": "FLAT",
+      "max": 8.0,
+      "min": 4.0,
+      "stat": "block_chance"
+    }
+  ],
+  "gear_slot": "shield",
+  "guid": "shield",
+  "possible_items": [
+    {
+      "item_id": "minecraft:shield",
+      "min_rar": "common",
+      "weight": 1
+    },
+    {
+      "item_id": "grimoireofgaia:stone_shield",
+      "min_rar": "uncommon",
+      "weight": 10
+    },
+    {
+      "item_id": "grimoireofgaia:iron_shield",
+      "min_rar": "rare",
+      "weight": 100
+    },
+    {
+      "item_id": "grimoireofgaia:gold_shield",
+      "min_rar": "legendary",
+      "weight": 1000
+    },
+    {
+      "item_id": "hmag:fortress_shield",
+      "min_rar": "mythic",
+      "weight": 10000
+    }
+  ],
+  "req": {
+    "scaling_req": {
+      "strength": 0.5
+    }
+  },
+  "style": "STR",
+  "tags": {
+    "tags": [
+      "shield",
+      "strength",
+      "offhand_family",
+      "armor_stat"
+    ]
+  },
+  "weapon_type": {
+    "can_dual_wield": false,
+    "id": "none",
+    "isProjectile": false,
+    "range": "MELEE",
+    "style": "STR"
+  },
+  "weight": 1000
+}

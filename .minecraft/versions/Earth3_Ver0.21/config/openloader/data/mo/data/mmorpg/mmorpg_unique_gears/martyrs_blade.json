@@ -1,0 +1,36 @@
+{
+  "base_gear": "sword",
+  "flavor_text": "",
+  "force_item_id": "aquamirae:terrible_sword",
+  "guid": "martyrs_blade",
+  "min_tier": 0,
+  "rarity": "unique",
+  "replaces_name": true,
+  "unique_stats": [
+    {
+      "type": "PERCENT",
+      "max": 150.0,
+      "min": 120.0,
+      "stat": "gear_weapon_damage"
+    },
+    {
+      "type": "PERCENT",
+      "max": 10.0,
+      "min": 10.0,
+      "stat": "health"
+    },
+    {
+      "type": "PERCENT",
+      "max": 100.0,
+      "min": 100.0,
+      "stat": "critical_hit"
+    },
+    {
+      "type": "FLAT",
+      "max": 50.0,
+      "min": 50.0,
+      "stat": "critical_damage"
+    }
+  ],
+  "weight": 1000
+}

@@ -1,0 +1,18 @@
+{
+  "base": {
+    "max": 4.5,
+    "min": 0.8
+  },
+  "base_scaling_type": "NORMAL",
+  "cap_to_wep_dmg": 1000.0,
+  "id": "quake_fighter",
+  "stat_scalings": [
+    {
+      "multi": {
+        "max": 0.375,
+        "min": 0.3
+      },
+      "stat": "weapon_damage"
+    }
+  ]
+}

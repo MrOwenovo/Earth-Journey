@@ -1,0 +1,13 @@
+{
+	icon: "cgm:advanced_bullet"
+	id: "60DBE6A35262329B"
+	loot_size: 1
+	order_index: 13
+	rewards: [
+		{ count: 640, item: "cgm:basic_bullet" }
+		{ count: 480, item: "cgm:advanced_bullet" }
+		{ count: 640, item: "cgm:shell" }
+		{ count: 320, item: "cgm:missile" }
+	]
+	title: "子弹"
+}

@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = C:/Users/lmq12/OneDrive/桌面/Earth3 ver0.21fix/.minecraft/versions/Earth3_Ver0.21/saves/猪窝
+}
+

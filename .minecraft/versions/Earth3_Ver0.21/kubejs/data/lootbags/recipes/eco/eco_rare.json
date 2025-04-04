@@ -1,0 +1,22 @@
+{
+  "type": "lootbags:loot",
+  "name": "稀有的积分袋",
+  "rarity": "RARE",
+  "output": {
+    "rolls": 60,
+    "entries": [
+      {
+        "stack": "kubejs:iii",
+        "weight": 60
+      },
+      {
+        "stack": "minecraft:iron_ingot",
+        "weight": 35
+      },
+      {
+        "stack": "minecraft:emerald",
+        "weight": 5
+      }
+    ]
+  }
+}

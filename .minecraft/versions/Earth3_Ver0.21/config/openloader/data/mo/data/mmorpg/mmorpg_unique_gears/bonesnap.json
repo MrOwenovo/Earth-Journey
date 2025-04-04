@@ -1,0 +1,36 @@
+{
+  "base_gear": "hammer",
+  "guid": "bonesnap",
+  "flavor_text": "",
+  "force_item_id": "",
+  "min_tier": 20,
+  "rarity": "unique",
+  "replaces_name": true,
+  "unique_stats": [
+    {
+      "type": "PERCENT",
+      "max": 110.0,
+      "min": 90.0,
+      "stat": "gear_weapon_damage"
+    },
+    {
+      "type": "FLAT",
+      "max": 5.0,
+      "min": 5.0,
+      "stat": "critical_hit"
+    },
+    {
+      "type": "FLAT",
+      "max": 25.0,
+      "min": 15.0,
+      "stat": "water_resist"
+    },
+    {
+      "type": "FLAT",
+      "max": 25.0,
+      "min": 15.0,
+      "stat": "fire_resist"
+    }
+  ],
+  "weight": 1000
+}

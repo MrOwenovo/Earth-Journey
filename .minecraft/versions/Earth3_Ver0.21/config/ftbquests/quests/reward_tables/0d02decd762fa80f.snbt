@@ -1,0 +1,8 @@
+{
+	icon: "minecraft:dirt"
+	id: "0D02DECD762FA80F"
+	loot_size: 1
+	order_index: 11
+	rewards: [{ count: 640, item: "minecraft:dirt" }]
+	title: "泥土等基础建材"
+}

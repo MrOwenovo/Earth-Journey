@@ -1,0 +1,30 @@
+{
+  "base_gear": "necklace",
+  "guid": "sidhebreath",
+  "flavor_text": "",
+  "force_item_id": "",
+  "min_tier": 20,
+  "rarity": "unique",
+  "replaces_name": true,
+  "unique_stats": [
+    {
+      "type": "FLAT",
+      "max": 25.0,
+      "min": 25.0,
+      "stat": "water_resist"
+    },
+    {
+      "type": "FLAT",
+      "max": 25.0,
+      "min": 15.0,
+      "stat": "summon_health"
+    },
+    {
+      "type": "FLAT",
+      "max": 60.0,
+      "min": 40.0,
+      "stat": "summon_duration"
+    }
+  ],
+  "weight": 1000
+}

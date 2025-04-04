@@ -1,0 +1,207 @@
+{
+	"minecraft:wheat": {
+	  "currency": "kubejs:i",
+	  "sellPrice": 1,
+	  "sellAmount": 64
+	},
+	"minecraft:potato": {
+		"currency": "kubejs:i",
+		"sellPrice": 1,
+		"sellAmount": 64
+	},
+	"minecraft:carrot": {
+	  "currency": "kubejs:i",
+	  "sellPrice": 1,
+	  "sellAmount": 64
+	},
+	"minecraft:melon": {
+		"currency": "kubejs:i",
+		"sellPrice": 1,
+		"sellAmount": 64
+	},
+	  "minecraft:pumpkin": {
+		  "currency": "kubejs:i",
+		  "sellPrice": 1,
+		  "sellAmount": 64
+		},
+	  "minecraft:beetroot": {
+		"currency": "kubejs:i",
+		"sellPrice": 1,
+		"sellAmount": 64
+	},
+	  "farmersdelight:tomato": {
+		"currency": "kubejs:i",
+		"sellPrice": 1,
+		"sellAmount": 64
+	},
+	  "farmersdelight:onion": {
+		  "currency": "kubejs:i",
+		  "sellPrice": 1,
+		  "sellAmount": 64
+		},
+		"farmersdelight:cabbage": {
+			"currency": "kubejs:i",
+			"sellPrice": 1,
+			"sellAmount": 64
+		},
+		"farmersdelight:rice_panicle": {
+		  "currency": "kubejs:i",
+		  "sellPrice": 1,
+		  "sellAmount": 64
+		},
+		"youkaishomecoming:soybean_bag": {
+			"currency": "kubejs:i",
+			"sellPrice": 1,
+			"sellAmount": 1
+		},
+		"youkaishomecoming:redbean_bag": {
+			"currency": "kubejs:i",
+			"sellPrice": 1,
+			"sellAmount": 1
+		},
+		"youkaishomecoming:coffee_bean_bag": {
+			"currency": "kubejs:i",
+			"sellPrice": 1,
+			"sellAmount": 1
+		},
+		"youkaishomecoming:tea_leaf_bag": {
+			"currency": "kubejs:i",
+			"sellPrice": 1,
+			"sellAmount": 1
+		},
+		"youkaishomecoming:black_tea_bag": {
+			"currency": "kubejs:i",
+			"sellPrice": 1,
+			"sellAmount": 1
+		},
+		"youkaishomecoming:green_tea_bag": {
+			"currency": "kubejs:i",
+			"sellPrice": 1,
+			"sellAmount": 1
+		},
+		"youkaishomecoming:oolong_tea_bag": {
+			"currency": "kubejs:i",
+			"sellPrice": 1,
+			"sellAmount": 1
+		},
+		"youkaishomecoming:white_tea_bag": {
+			"currency": "kubejs:i",
+			"sellPrice": 1,
+			"sellAmount": 1
+		},
+	  "minecraft:apple": {
+		"currency": "kubejs:i",
+		"sellPrice": 1,
+		"sellAmount": 64
+	  },
+	  "minecraft:egg": {
+		"currency": "kubejs:i",
+		"sellPrice": 1,
+		"sellAmount": 64
+	  },
+	  "minecraft:poisonous_potato": {
+		"currency": "kubejs:i",
+		"sellPrice": 1,
+		"sellAmount": 1
+	  },
+	  "minecraft:coal_ore": {
+		"currency": "kubejs:i",
+		"sellPrice": 1,
+		"sellAmount": 1
+	  },
+	  "minecraft:deepslate_coal_ore": {
+		"currency": "kubejs:i",
+		"sellPrice": 1,
+		"sellAmount": 1
+	  },
+	  "minecraft:iron_ore": {
+		"currency": "kubejs:i",
+		"sellPrice": 1,
+		"sellAmount": 1
+	  },
+	  "minecraft:deepslate_iron_ore": {
+		"currency": "kubejs:i",
+		"sellPrice": 1,
+		"sellAmount": 1
+	  },
+	  "minecraft:copper_ore": {
+		"currency": "kubejs:i",
+		"sellPrice": 1,
+		"sellAmount": 1
+	  },
+	  "minecraft:deepslate_copper_ore": {
+		"currency": "kubejs:i",
+		"sellPrice": 1,
+		"sellAmount": 1
+	  },
+	  "minecraft:gold_ore": {
+		"currency": "kubejs:i",
+		"sellPrice": 1,
+		"sellAmount": 1
+	  },
+	  "minecraft:deepslate_gold_ore": {
+		"currency": "kubejs:i",
+		"sellPrice": 1,
+		"sellAmount": 1
+	  },
+	  "minecraft:redstone_ore": {
+		"currency": "kubejs:i",
+		"sellPrice": 1,
+		"sellAmount": 1
+	  },
+	  "minecraft:deepslate_redstone_ore": {
+		"currency": "kubejs:i",
+		"sellPrice": 1,
+		"sellAmount": 1
+	  },
+	  "minecraft:emerald_ore": {
+		"currency": "kubejs:i",
+		"sellPrice": 1,
+		"sellAmount": 1
+	  },
+	  "minecraft:deepslate_emerald_ore": {
+		"currency": "kubejs:i",
+		"sellPrice": 1,
+		"sellAmount": 1
+	  },
+	  "minecraft:lapis_ore": {
+		"currency": "kubejs:i",
+		"sellPrice": 1,
+		"sellAmount": 1
+	  },
+	  "minecraft:deepslate_lapis_ore": {
+		"currency": "kubejs:i",
+		"sellPrice": 1,
+		"sellAmount": 1
+	  },
+	  "minecraft:diamond_ore": {
+		"currency": "kubejs:i",
+		"sellPrice": 1,
+		"sellAmount": 1
+	  },
+	  "minecraft:deepslate_diamond_ore": {
+		"currency": "kubejs:i",
+		"sellPrice": 1,
+		"sellAmount": 1
+	  },
+	  "minecraft:cod": {
+		"currency": "kubejs:i",
+		"sellPrice": 1,
+		"sellAmount": 1
+	  },
+	  "minecraft:salmon": {
+		"currency": "kubejs:i",
+		"sellPrice": 1,
+		"sellAmount": 1
+	  },
+	  "minecraft:tropical_fish": {
+		"currency": "kubejs:i",
+		"sellPrice": 1,
+		"sellAmount": 1
+	  },
+	  "minecraft:pufferfish": {
+		"currency": "kubejs:i",
+		"sellPrice": 1,
+		"sellAmount": 1
+	  }
+}

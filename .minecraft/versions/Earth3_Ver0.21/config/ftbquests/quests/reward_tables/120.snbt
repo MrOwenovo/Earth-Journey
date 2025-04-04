@@ -1,0 +1,225 @@
+{
+	id: "2C44023DC9588307"
+	loot_size: 1
+	order_index: 6
+	rewards: [
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:stat_soul/family/weapon/rare"
+				tag: {
+					level: 1
+					tier: 0
+				}
+			}
+			weight: 100.0f
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:stat_soul/family/armor/rare"
+				tag: {
+					level: 1
+					tier: 0
+				}
+			}
+			weight: 100.0f
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:stat_soul/family/jewelry/rare"
+				tag: {
+					level: 1
+					tier: 0
+				}
+			}
+			weight: 100.0f
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:stat_soul/family/offhand/rare"
+				tag: {
+					level: 1
+					tier: 0
+				}
+			}
+			weight: 100.0f
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:stat_soul/family/weapon/epic"
+				tag: {
+					level: 1
+					tier: 0
+				}
+			}
+			weight: 36.0f
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:stat_soul/family/armor/epic"
+				tag: {
+					level: 1
+					tier: 0
+				}
+			}
+			weight: 36.0f
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:stat_soul/family/jewelry/epic"
+				tag: {
+					level: 1
+					tier: 0
+				}
+			}
+			weight: 36.0f
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:stat_soul/family/offhand/epic"
+				tag: {
+					level: 1
+					tier: 0
+				}
+			}
+			weight: 36.0f
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:stat_soul/family/weapon/legendary"
+				tag: {
+					level: 1
+					tier: 0
+				}
+			}
+			weight: 10.0f
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:stat_soul/family/armor/legendary"
+				tag: {
+					level: 1
+					tier: 0
+				}
+			}
+			weight: 10.0f
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:stat_soul/family/jewelry/legendary"
+				tag: {
+					level: 1
+					tier: 0
+				}
+			}
+			weight: 10.0f
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:stat_soul/family/offhand/legendary"
+				tag: {
+					level: 1
+					tier: 0
+				}
+			}
+			weight: 10.0f
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:stat_soul/family/weapon/mythic"
+				tag: {
+					level: 1
+					tier: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:stat_soul/family/armor/mythic"
+				tag: {
+					level: 1
+					tier: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:stat_soul/family/jewelry/mythic"
+				tag: {
+					level: 1
+					tier: 0
+				}
+			}
+			title: "&5人造珠宝灵魂"
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:stat_soul/family/offhand/mythic"
+				tag: {
+					level: 1
+					tier: 0
+				}
+			}
+		}
+		{ item: "duckmoney:bundle2", weight: 20.0f }
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:chest/common_gear"
+				tag: {
+					mmorpg_loot_chest: "{\"num\":5,\"rar\":\"rare\",\"lvl\":10,\"id\":\"gear\",\"key\":\"\"}"
+				}
+			}
+			title: "&910级珍稀装备宝箱"
+			weight: 100.0f
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:chest/uncommon_gear"
+				tag: {
+					mmorpg_loot_chest: "{\"num\":5,\"rar\":\"epic\",\"lvl\":10,\"id\":\"gear\",\"key\":\"\"}"
+				}
+			}
+			title: "&d10级史诗装备宝箱"
+			weight: 36.0f
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:chest/currency"
+				tag: {
+					mmorpg_loot_chest: "{\"num\":5,\"rar\":\"legendary\",\"lvl\":10,\"id\":\"gear\",\"key\":\"\"}"
+				}
+			}
+			title: "&e10级传说装备宝箱"
+			weight: 10.0f
+		}
+		{
+			item: {
+				Count: 1b
+				id: "mmorpg:chest/harvest_purple"
+				tag: {
+					mmorpg_loot_chest: "{\"num\":5,\"rar\":\"mythic\",\"lvl\":10,\"id\":\"gear\",\"key\":\"\"}"
+				}
+			}
+			title: "&510级神话装备宝箱"
+		}
+	]
+	title: "装备抽奖1-20"
+}

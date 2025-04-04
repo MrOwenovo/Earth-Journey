@@ -1,0 +1,8 @@
+#010 minecraft:forest
+#467 biomesoplenty:highland
+#498 minecraft:lush_caves
+#056 biomesoplenty:maple_woods
+#73A minecraft:old_growth_pine_taiga
+#169 minecraft:taiga
+#152 minecraft:windswept_forest
+#4C3 minecraft:windswept_hills

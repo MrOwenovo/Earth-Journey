@@ -1,0 +1,42 @@
+{
+  "base_gear": "hammer",
+  "guid": "frostbreath",
+  "flavor_text": "",
+  "force_item_id": "",
+  "min_tier": 40,
+  "rarity": "unique",
+  "replaces_name": true,
+  "unique_stats": [
+    {
+      "type": "PERCENT",
+      "max": 90.0,
+      "min": 70.0,
+      "stat": "gear_weapon_damage"
+    },
+    {
+      "type": "FLAT",
+      "max": 50.0,
+      "min": 50.0,
+      "stat": "phys_to_water"
+    },
+    {
+      "type": "FLAT",
+      "max": 40.0,
+      "min": 30.0,
+      "stat": "fire_resist"
+    },
+    {
+      "type": "FLAT",
+      "max": 50.0,
+      "min": 35.0,
+      "stat": "freeze_duration"
+    },
+    {
+      "type": "FLAT",
+      "max": 20.0,
+      "min": 10.0,
+      "stat": "freeze_damage"
+    }
+  ],
+  "weight": 1000
+}

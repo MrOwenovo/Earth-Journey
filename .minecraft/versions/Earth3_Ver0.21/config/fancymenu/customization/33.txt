@@ -1,0 +1,66 @@
+type = menu
+
+customization-meta {
+  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = config/fancymenu/slideshows/earth/images/image_11.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  original_pos_size_calculation = true
+  x = 152
+  width = 336
+  action = deep_customization_element:drippy_overlay_logo
+  actionid = 5c9035c8-0de7-423a-92a6-3b2e0dc9a9931703827373008
+  y = 126
+  height = 84
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = -1000000
+  width = 0
+  action = deep_customization_element:drippy_overlay_background
+  actionid = 0eb436b7-6c47-4b26-a0de-679253def7d81703827373017
+  y = -1000000
+  height = 0
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  original_pos_size_calculation = true
+  x = 140
+  width = 360
+  action = deep_customization_element:drippy_overlay_progress_bar
+  actionid = fffe7b7d-9049-4847-ad6f-e5d1c7031d9a1703827373017
+  y = 294
+  height = 10
+}
+
+customization {
+  path = config/fancymenu/custom_locals/earth.png
+  orientation = mid-centered
+  x = -111
+  width = 223
+  action = addtexture
+  actionid = a479654e-ddec-4295-813f-d3edc6115fed1703827446740
+  y = -39
+  height = 78
+}
+

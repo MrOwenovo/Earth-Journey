@@ -1,0 +1,13 @@
+{
+  "affected": "Players",
+  "id": "chaos_minus_res",
+  "stats": [
+    {
+      "type": "FLAT",
+      "max": -75.0,
+      "min": -25.0,
+      "stat": "chaos_resist"
+    }
+  ],
+  "weight": 1000
+}

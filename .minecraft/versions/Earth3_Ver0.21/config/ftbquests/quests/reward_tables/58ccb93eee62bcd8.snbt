@@ -1,0 +1,17 @@
+{
+	icon: "minecraft:blue_orchid"
+	id: "58CCB93EEE62BCD8"
+	loot_size: 1
+	order_index: 10
+	rewards: [
+		{ count: 64, item: "minecraft:allium" }
+		{ count: 64, item: "minecraft:azure_bluet" }
+		{ count: 64, item: "minecraft:pink_petals" }
+		{ count: 64, item: "minecraft:dandelion" }
+		{ count: 64, item: "minecraft:lilac" }
+		{ count: 64, item: "minecraft:oxeye_daisy" }
+		{ count: 64, item: "minecraft:cornflower" }
+		{ count: 64, item: "minecraft:peony" }
+	]
+	title: "花"
+}

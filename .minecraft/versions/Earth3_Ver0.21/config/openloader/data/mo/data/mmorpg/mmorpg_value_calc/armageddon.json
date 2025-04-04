@@ -1,0 +1,18 @@
+{
+  "base": {
+    "max": 11.1,
+    "min": 2.7
+  },
+  "base_scaling_type": "NORMAL",
+  "cap_to_wep_dmg": 1000.0,
+  "id": "armageddon",
+  "stat_scalings": [
+    {
+      "multi": {
+        "max": 1.85,
+        "min": 1.35
+      },
+      "stat": "weapon_damage"
+    }
+  ]
+}

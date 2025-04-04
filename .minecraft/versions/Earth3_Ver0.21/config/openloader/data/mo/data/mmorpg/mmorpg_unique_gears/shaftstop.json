@@ -1,0 +1,30 @@
+{
+  "base_gear": "plate_chest",
+  "guid": "shaftstop",
+  "flavor_text": "",
+  "force_item_id": "",
+  "min_tier": 0,
+  "rarity": "unique",
+  "replaces_name": true,
+  "unique_stats": [
+    {
+      "type": "PERCENT",
+      "max": 100.0,
+      "min": 80.0,
+      "stat": "gear_defense"
+    },
+    {
+      "type": "FLAT",
+      "max": -12.0,
+      "min": -8.0,
+      "stat": "dmg_received"
+    },
+    {
+      "type": "PERCENT",
+      "max": 10.0,
+      "min": 5.0,
+      "stat": "health"
+    }
+  ],
+  "weight": 1000
+}

@@ -1,0 +1,18 @@
+{
+  "base": {
+    "max": 3.6000001,
+    "min": 0.6
+  },
+  "base_scaling_type": "NORMAL",
+  "cap_to_wep_dmg": 1000.0,
+  "id": "arrow_storm",
+  "stat_scalings": [
+    {
+      "multi": {
+        "max": 2.0,
+        "min": 1.5
+      },
+      "stat": "weapon_damage"
+    }
+  ]
+}

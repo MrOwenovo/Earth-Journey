@@ -1,0 +1,13 @@
+{
+  "affected": "Mobs",
+  "id": "water_res",
+  "stats": [
+    {
+      "type": "FLAT",
+      "max": 90.0,
+      "min": 30.0,
+      "stat": "water_resist"
+    }
+  ],
+  "weight": 1000
+}

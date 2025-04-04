@@ -1,0 +1,15 @@
+{
+	icon: "lightmanscurrency:coinpile_gold"
+	id: "44A45FD4B0C09191"
+	loot_size: 1
+	order_index: 7
+	rewards: [
+		{ item: "lightmanscurrency:coin_gold", title: "1金币", weight: 48.0f }
+		{ count: 2, item: "lightmanscurrency:coin_gold", title: "2金币", weight: 36.0f }
+		{ count: 3, item: "lightmanscurrency:coin_gold", title: "3金币", weight: 16.0f }
+		{ count: 4, item: "lightmanscurrency:coin_gold", title: "4金币", weight: 8.0f }
+		{ count: 10, icon: "lightmanscurrency:coinpile_gold", item: "lightmanscurrency:coin_gold", title: "10金币", weight: 3.0f }
+		{ count: 3, item: "lightmanscurrency:coin_diamond", title: "钻石币x3" }
+	]
+	title: "随机金币奖励"
+}

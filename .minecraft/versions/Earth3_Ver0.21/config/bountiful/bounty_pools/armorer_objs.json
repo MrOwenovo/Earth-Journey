@@ -1,0 +1,480 @@
+
+{
+	"content": {
+
+        
+        "fisherman_obj_cod": {
+            "type": "item",
+            "content": "alexsmobs:banana",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 600
+        },
+
+
+        "armorer_obj_lava_bucket": {
+            "type": "item",
+            "content": "minecraft:apple",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "armorer_obj_leather_helm": {
+            "type": "item",
+            "content": "pamhc2trees:avocadoitem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "armorer_obj_leather_chest": {
+            "type": "item",
+            "content": "pamhc2trees:candlenutitem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "armorer_obj_leather_legs": {
+            "type": "item",
+            "content": "pamhc2trees:cherryitem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "armorer_obj_leather_boots": {
+            "type": "item",
+            "content": "pamhc2trees:chestnutitem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "armorer_obj_blast_furnace": {
+            "type": "item",
+            "content": "pamhc2trees:gooseberryitem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 5000
+        },
+
+        "armorer_obj_lava_bucket_2": {
+            "type": "item",
+            "content": "pamhc2trees:lemonitem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "pamhc2trees_1": {
+            "type": "item",
+            "content": "pamhc2trees:nutmegitem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "pamhc2trees_2": {
+            "type": "item",
+            "content": "pamhc2trees:orangeitem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "pamhc2trees_3": {
+            "type": "item",
+            "content": "pamhc2trees:peachitem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "pamhc2trees_4": {
+            "type": "item",
+            "content": "pamhc2trees:pearitem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "pamhc2trees_5": {
+            "type": "item",
+            "content": "pamhc2trees:plumitem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "pamhc2trees_6": {
+            "type": "item",
+            "content": "pamhc2trees:walnutitem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "pamhc2trees_7": {
+            "type": "item",
+            "content": "pamhc2trees:hazelnutitem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "pamhc2trees_8": {
+            "type": "item",
+            "content": "pamhc2trees:pawpawitem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "pamhc2trees_9": {
+            "type": "item",
+            "content": "pamhc2trees:soursopitem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "pamhc2trees_10": {
+            "type": "item",
+            "content": "pamhc2trees:acornitem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "pamhc2trees_11": {
+            "type": "item",
+            "content": "pamhc2trees:almonditem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "pamhc2trees_12": {
+            "type": "item",
+            "content": "pamhc2trees:apricotitem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "pamhc2trees_13": {
+            "type": "item",
+            "content": "pamhc2trees:bananaitem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "pamhc2trees_14": {
+            "type": "item",
+            "content": "pamhc2trees:cashewitem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "pamhc2trees_15": {
+            "type": "item",
+            "content": "pamhc2trees:cinnamonitem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "pamhc2trees_16": {
+            "type": "item",
+            "content": "pamhc2trees:coconutitem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "pamhc2trees_17": {
+            "type": "item",
+            "content": "pamhc2trees:dateitem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "pamhc2trees_18": {
+            "type": "item",
+            "content": "pamhc2trees:dragonfruititem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "pamhc2trees_19": {
+            "type": "item",
+            "content": "pamhc2trees:durianitem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "pamhc2trees_20": {
+            "type": "item",
+            "content": "pamhc2trees:figitem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "pamhc2trees_21": {
+            "type": "item",
+            "content": "pamhc2trees:grapefruititem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "pamhc2trees_22": {
+            "type": "item",
+            "content": "pamhc2trees:limeitem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "pamhc2trees_23": {
+            "type": "item",
+            "content": "pamhc2trees:mangoitem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "pamhc2trees_24": {
+            "type": "item",
+            "content": "pamhc2trees:oliveitem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "pamhc2trees_25": {
+            "type": "item",
+            "content": "pamhc2trees:papayaitem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "pamhc2trees_26": {
+            "type": "item",
+            "content": "pamhc2trees:pecanitem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "pamhc2trees_27": {
+            "type": "item",
+            "content": "pamhc2trees:peppercornitem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "pamhc2trees_28": {
+            "type": "item",
+            "content": "pamhc2trees:persimmonitem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "pamhc2trees_29": {
+            "type": "item",
+            "content": "pamhc2trees:pistachioitem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "pamhc2trees_30": {
+            "type": "item",
+            "content": "pamhc2trees:pomegranateitem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "pamhc2trees_31": {
+            "type": "item",
+            "content": "pamhc2trees:starfruititem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "pamhc2trees_32": {
+            "type": "item",
+            "content": "pamhc2trees:vanillabeanitem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "pamhc2trees_33": {
+            "type": "item",
+            "content": "pamhc2trees:breadfruititem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "pamhc2trees_34": {
+            "type": "item",
+            "content": "pamhc2trees:guavaitem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "pamhc2trees_35": {
+            "type": "item",
+            "content": "pamhc2trees:jackfruititem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "pamhc2trees_36": {
+            "type": "item",
+            "content": "pamhc2trees:lycheeitem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "pamhc2trees_37": {
+            "type": "item",
+            "content": "pamhc2trees:passionfruititem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "pamhc2trees_38": {
+            "type": "item",
+            "content": "pamhc2trees:rambutanitem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        },
+
+        "pamhc2trees_39": {
+            "type": "item",
+            "content": "pamhc2trees:tamarinditem",
+            "amount": {
+                "min": 6,
+                "max": 32
+            },
+            "unitWorth": 500
+        }
+
+	}
+
+
+}

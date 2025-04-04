@@ -1,0 +1,112 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "3093F807BF6A7D4D"
+	group: ""
+	id: "3093F807BF6A7D4D"
+	images: [{
+		height: 1.0d
+		image: "ftbquests:textures/gui/alert.png"
+		rotation: 0.0d
+		width: 1.0d
+		x: -11.0d
+		y: -5.0d
+	}]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["05EBBCF7892918C4"]
+			id: "7D7BCA99076AC27C"
+			rewards: [{
+				id: "7A8A958D898712E7"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "gear"
+			subtitle: "此举大概能为玩家带来大约&a30+&7的fps提升。"
+			tasks: [{
+				id: "47FF3950B3ED3788"
+				title: "禁用Distant Horizons模组能为玩家fps带来提升"
+				type: "checkmark"
+			}]
+			title: "当你感觉电脑性能不足时，可以禁用&aDistantHorizons&7模组"
+			x: -11.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["71BFA3EAD0E328BE"]
+			id: "159DC559FDE946C2"
+			rewards: [{
+				id: "590E9B04EE9B6018"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "gear"
+			subtitle: "输入后会开始加载半径范围500格的区块"
+			tasks: [{
+				id: "66D316CC2A2C498F"
+				title: "了解"
+				type: "checkmark"
+			}]
+			title: "使用&a/chunky start&7来提前加载区块"
+			x: -9.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["7D7BCA99076AC27C"]
+			id: "71BFA3EAD0E328BE"
+			shape: "gear"
+			subtitle: "这样你在观看周围环境时就能获得更好的体验，也能避免加载区块时的卡顿"
+			tasks: [{
+				id: "4288FF5977497E09"
+				title: "了解"
+				type: "checkmark"
+			}]
+			title: "如果你选定了一个地方当定居点，那么你可以用指令进行区块预加载"
+			x: -10.0d
+			y: -4.0d
+		}
+		{
+			id: "05EBBCF7892918C4"
+			shape: "rsquare"
+			subtitle: "能让整合包默认8渲染距离下获得更远的景色，但要注意的是，该模组在首次加载区块时会产生卡顿，同时也对CPU带来了挑战。"
+			tasks: [{
+				id: "5CD7688B2F3810ED"
+				title: "了解"
+				type: "checkmark"
+			}]
+			title: "Distant Horizons模组为玩家提供了很好的视觉感受"
+			x: -12.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["159DC559FDE946C2"]
+			id: "34AC65430F93C84D"
+			shape: "gear"
+			subtitle: "或者将1000改为你想要的范围，随后输入&a/chunky start&7开始加载区块"
+			tasks: [{
+				id: "2FE1173046AE4BF3"
+				type: "checkmark"
+			}]
+			title: "输入&a/chunky radius 1000&7可以设定为1000范围"
+			x: -8.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["34AC65430F93C84D"]
+			id: "3E016B4065FDC408"
+			shape: "gear"
+			subtitle: "你可以在启动器里搜索Chunky到百科查看更多指令相关的介绍"
+			tasks: [{
+				id: "741301CAA7D1A280"
+				title: "了解"
+				type: "checkmark"
+			}]
+			title: "此指令为&a预生成区块&7模组功能，能减少跑图时的卡顿"
+			x: -7.0d
+			y: -4.0d
+		}
+	]
+	title: "关于遥远地平线（Distant Horizons）"
+}

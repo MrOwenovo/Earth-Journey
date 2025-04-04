@@ -1,0 +1,26 @@
+{
+  "allowMovement": {
+    "net.minecraft.client.gui.screens.ReceivingLevelScreen": true,
+    "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true,
+    "top.theillusivec4.curios.client.gui.CuriosScreen": true,
+    "dmillerw.menu.gui.RadialMenuScreen": true,
+    "com.robertx22.age_of_exile.gui.screens.character_screen.MainHubScreen": true,
+    "dmillerw.menu.gui.menu.ClickActionScreen": true,
+    "dmillerw.menu.gui.menu.PickKeyScreen": true,
+    "com.nyfaria.nyfsquiver.core.interfaces.QuiverContainerScreen": true,
+    "com.robertx22.age_of_exile.gui.screens.skill_tree.TalentsScreen": true,
+    "com.robertx22.age_of_exile.gui.screens.spell.AscendancyClassScreen": true,
+    "com.robertx22.age_of_exile.capability.player.container.SkillGemsScreen": true,
+    "com.robertx22.age_of_exile.gui.inv_gui.InvGuiScreen": true,
+    "mezz.jei.gui.recipes.RecipesGui": true
+  },
+  "hideBackground": {
+    "top.theillusivec4.curios.client.gui.CuriosScreen": true,
+    "dmillerw.menu.gui.menu.MenuItemScreen": true,
+    "dmillerw.menu.gui.menu.ClickActionScreen": true,
+    "dmillerw.menu.gui.menu.PickKeyScreen": true,
+    "com.nyfaria.nyfsquiver.core.interfaces.QuiverContainerScreen": true,
+    "com.robertx22.age_of_exile.capability.player.container.SkillGemsScreen": true,
+    "mezz.jei.gui.recipes.RecipesGui": true
+  }
+}

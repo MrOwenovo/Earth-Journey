@@ -1,0 +1,894 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "18AF7D08A2552C8B"
+	group: "08BF3784DBFA155F"
+	icon: {
+		Count: 1b
+		id: "sophisticatedstorage:iron_barrel"
+		tag: {
+			accentColor: 3847130
+			mainColor: 3847130
+		}
+	}
+	id: "18AF7D08A2552C8B"
+	images: [{
+		click: ""
+		corner: false
+		dev: false
+		height: 20.0d
+		hover: [ ]
+		image: "mmorpg:textures/ftb/chuansong.png"
+		rotation: 0.0d
+		width: 20.0d
+		x: 7.0d
+		y: -6.5d
+	}]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"制作笼子（下接箱子）和DNA采样器"
+				"用采样器攻击（铁傀儡或苦力怕）提取它们的DNA，用于批量生产铁锭或火药"
+				"将草方块（或干草块）右键笼子做为生产环境"
+				"将铁傀儡DNA右击笼子 放入自动生产铁锭  "
+				"每种生物生产环境不同，请查看JEI确保生产效率最大化"
+			]
+			id: "4A5545E475BC8320"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "60B55A1C2C2AA4F3"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "63B1CD52EB2CCF12"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "5C036BDA0B099E4A"
+					item: "duckmoney:bundle1"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "37BAC5FEA0C15E45"
+					item: "cagedmobs:hopping_mob_cage"
+					type: "item"
+				}
+				{
+					id: "52912386B04AD47F"
+					item: "cagedmobs:dna_sampler"
+					type: "item"
+				}
+			]
+			title: "提取生物DNA 实现资源自由"
+			x: 13.0d
+			y: -10.0d
+		}
+		{
+			description: ["搜索升级 查看更多升级生物笼配件"]
+			id: "16AFC8BB2CD0FB54"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "11CCE96FD38092E6"
+				table_id: 4946183657862762897L
+				type: "random"
+			}]
+			tasks: [{
+				id: "40580527E973B979"
+				item: "cagedmobs:speed_iii_upgrade"
+				type: "item"
+			}]
+			title: "升级笼子功能"
+			x: 14.0d
+			y: -10.0d
+		}
+		{
+			description: ["一物多用 多功能工具"]
+			id: "4F543EDD50EC7716"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "026611C4803B402F"
+				table_id: 4946183657862762897L
+				type: "random"
+			}]
+			tasks: [
+				{
+					id: "00F8D6408F26A1E3"
+					item: {
+						Count: 1b
+						id: "easypaxellite:diamond_paxel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "009684ACA0036CFA"
+					item: {
+						Count: 1b
+						id: "easypaxellite:netherite_paxel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "多功能工具"
+			x: 14.0d
+			y: -8.5d
+		}
+		{
+			description: [
+				"将你的背包和储物桶 升级为更大容量"
+				"鼠标中间单击可整理箱子背包"
+			]
+			id: "0B85D3FB51B94F6E"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2EFF05E2026E3B92"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "17643F7DBC624742"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			shape: "diamond"
+			size: 2.0d
+			tasks: [
+				{
+					id: "42E77B7F91D09B15"
+					item: "sophisticatedbackpacks:netherite_backpack"
+					type: "item"
+				}
+				{
+					id: "63731BF080C9F878"
+					item: {
+						Count: 1b
+						id: "sophisticatedstorage:netherite_barrel"
+						tag: {
+							accentColor: 16351261
+							mainColor: 16351261
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "提升储物空间"
+			x: 12.0d
+			y: -12.0d
+		}
+		{
+			description: [
+				"将&9箱子整合器 &r放置于需要整理的箱子和桶附近  &9合成终端&r放置于整合器附近"
+				"可管理大量箱子内物品"
+			]
+			id: "7DB7FFF16EC72BAF"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7B0EE3C245A72949"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4F995F654E9EC33A"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "5CCC6D5DDD36A65E"
+					item: "duckmoney:bundle1"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "4B874F1F2423B1B8"
+					item: "toms_storage:ts.inventory_connector"
+					type: "item"
+				}
+				{
+					id: "62626A450694FF8D"
+					item: "toms_storage:ts.crafting_terminal"
+					type: "item"
+				}
+			]
+			title: "库存整理存取"
+			x: 16.0d
+			y: -12.0d
+		}
+		{
+			description: ["在村庄的雕像 进行祈祷 获取更多的耐力条"]
+			id: "1BC133EB12014171"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "368E5A6BAADFA8B0"
+				table_id: 4946183657862762897L
+				type: "random"
+			}]
+			tasks: [{
+				id: "662716C0226AFA07"
+				item: "paraglider:spirit_orb"
+				type: "item"
+			}]
+			title: "升级你的滑翔伞/闪避耐力"
+			x: 13.0d
+			y: -8.5d
+		}
+		{
+			description: ["放置水下  内置食物  等待收获"]
+			id: "1B4BB44BBD048BF5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "16DEEDB9F57221AA"
+				table_id: 4946183657862762897L
+				type: "random"
+			}]
+			tasks: [{
+				id: "589E6694D88F8D84"
+				item: "growthcraft_trapper:fishtrap_oak"
+				type: "item"
+			}]
+			title: "捕鱼陷阱"
+			x: 16.0d
+			y: -10.0d
+		}
+		{
+			description: ["随意放置就行  会缓慢抽水上来"]
+			id: "4986EB5FA1F258F7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2138C8E6324B103C"
+				table_id: 4946183657862762897L
+				type: "random"
+			}]
+			tasks: [{
+				id: "08035C9F1E111F3C"
+				item: "well:well"
+				type: "item"
+			}]
+			title: "打井抽水"
+			x: 17.0d
+			y: -10.0d
+		}
+		{
+			description: ["将村民招募板放置地面  旁边放绿宝石块  次日早晨便会有无业村民来应聘"]
+			id: "4E590F2A2494A1B7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "72BA3145F431B0BC"
+				table_id: 4946183657862762897L
+				type: "random"
+			}]
+			tasks: [
+				{
+					id: "451022EBC3FDC5D0"
+					item: "helpwanted:villagerpost"
+					type: "item"
+				}
+				{
+					id: "029619B2C7E8D90C"
+					item: "minecraft:emerald_block"
+					type: "item"
+				}
+			]
+			title: "村民招募"
+			x: 13.0d
+			y: -7.5d
+		}
+		{
+			description: ["将你的背包和桶，进行堆叠升级，储物量指数翻倍"]
+			id: "0BB23104D9F6159E"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "37125E85497713CF"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6E899399AEE2262A"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "78361F534D251D9A"
+					item: "sophisticatedbackpacks:stack_upgrade_tier_1"
+					type: "item"
+				}
+				{
+					id: "224A48F9A15CECC7"
+					item: "sophisticatedbackpacks:stack_upgrade_tier_4"
+					type: "item"
+				}
+				{
+					id: "30F8E66DBD07E986"
+					item: "sophisticatedstorage:stack_upgrade_tier_1"
+					type: "item"
+				}
+				{
+					id: "70B441B626AC3DFA"
+					item: "sophisticatedstorage:stack_upgrade_tier_4"
+					type: "item"
+				}
+			]
+			title: "堆叠升级"
+			x: 14.0d
+			y: -12.0d
+		}
+		{
+			description: [
+				"对背包进行功能升级，拥有熔炼矿物，背包工作台功能"
+				"更多升级配件，请查看JEI"
+			]
+			id: "2A118450BBCE6E04"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "174D1224648C6906"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "651CE3334918501C"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "79604F2D555CB966"
+					item: "sophisticatedbackpacks:crafting_upgrade"
+					type: "item"
+				}
+				{
+					id: "3117D18EA2EED719"
+					item: "sophisticatedbackpacks:auto_smelting_upgrade"
+					type: "item"
+				}
+			]
+			title: "功能性升级"
+			x: 15.0d
+			y: -12.0d
+		}
+		{
+			description: ["在怪物掉落的战利品袋里有几率开出物品"]
+			id: "71F08309EF20FDFF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2A9FE4CAA27622FA"
+				table_id: 4946183657862762897L
+				type: "random"
+			}]
+			tasks: [{
+				id: "53A3CEEF0A39A653"
+				item: "lootbag:magic_mirror"
+				type: "item"
+			}]
+			title: "快速回家"
+			x: 21.0d
+			y: -12.0d
+		}
+		{
+			description: [
+				"制作传送票后，将你的票送给你的队友，此时他使用此物品会传送到你的附近"
+				"互相赠送以相互传送"
+			]
+			id: "60784D90D412AF7D"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4ACF6376942826C1"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "15981D7855AFA80B"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [
+				{
+					id: "2DDFF11231F38D21"
+					item: "telepass:gold_telepass"
+					type: "item"
+				}
+				{
+					id: "5A2DF7E7F744CF71"
+					item: "telepass:diamond_telepass"
+					type: "item"
+				}
+			]
+			title: "队友传送"
+			x: 22.5d
+			y: -12.0d
+		}
+		{
+			description: [
+				"奏响音乐，会吸引可驯服生物，强制驯服成功"
+				"只能通过货币抽奖获得"
+			]
+			id: "65B4D5DAA1122185"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2AA7E48F687BEDD0"
+				table_id: 4946183657862762897L
+				type: "random"
+			}]
+			tasks: [{
+				id: "276ACA67D5DB7969"
+				item: {
+					Count: 1b
+					id: "taming_flute:taming_flute"
+					tag: {
+						Damage: 1
+					}
+				}
+				type: "item"
+			}]
+			title: "万用驯服长笛"
+			x: 14.0d
+			y: -7.5d
+		}
+		{
+			description: ["可以帮你找以你为中心半径10000格内的群系，海洋，丛林，草原，沼泽，沙漠等~~~提示！使用键盘右侧的方向键选择你想搜索的结构，然后鼠标点搜索，如果找不到，那可能是附近没有，或者你不在对应的维度"]
+			id: "266FE51E740BC17B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4842B79C29543B4B"
+				table_id: 4946183657862762897L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0588269FCA1C6CBE"
+				item: {
+					Count: 1b
+					id: "naturescompass:naturescompass"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 20.0d
+			y: -12.0d
+		}
+		{
+			description: ["探险家指南针可以帮你找以你为中心半径10000格内的结构，找地牢找要塞找BOSS必备！使用键盘右侧的方向键选择你想搜索的结构，然后鼠标点搜索，如果找不到，那可能是附近没有，或者你不在对应的维度（&9提示！大部分结构都是英文名，不知道结构怎么找就先去百度看看结构对应的英文名字）"]
+			id: "3C62842B7CC1AEE7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7E2187B322EC75C0"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "36E6DEE15FB8A48E"
+				item: {
+					Count: 1b
+					id: "explorerscompass:explorerscompass"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 19.0d
+			y: -12.0d
+		}
+		{
+			description: ["可储存原版经验值"]
+			id: "104F77700281A99F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5F3127E79495B341"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "14C0389D828218B3"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "009666C1BEC41FF2"
+				item: {
+					Count: 1b
+					id: "experienceobelisk:experience_obelisk"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "经验储存"
+			x: 18.0d
+			y: -10.0d
+		}
+		{
+			description: [
+				"犁可以快速开垦荒地，放置犁，给犁装上3把锄头，右击放下锄头,小键盘1键拉起犁开始耕地"
+				"马车和生物运输车都是小键盘1键拉车，包括骑马拉车"
+				"运输动物的时候，shift+右键可以将动物从车上放下来"
+				"马车右键点击可以直接装货"
+				"{@pagebreak}"
+			]
+			id: "078C6F286AF9E547"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "02DCBF54858AD418"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					id: "746C3AA6C2AAC088"
+					item: "lightmanscurrency:coin_diamond"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2A813FEF806C2DF8"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "72C957028FEBF472"
+					item: "astikorcarts:plow"
+					type: "item"
+				}
+				{
+					id: "36CA4F66C688E803"
+					item: "astikorcarts:animal_cart"
+					type: "item"
+				}
+				{
+					id: "6C9C241CE92A61EB"
+					item: "astikorcarts:supply_cart"
+					type: "item"
+				}
+			]
+			title: "犁田/运输"
+			x: 16.0d
+			y: -8.5d
+		}
+		{
+			description: [
+				"制作&9扫描器&r 开始&9透视挖矿"
+				"制作&9充能站&r并放置，添加煤炭等燃料为充能站给与&9电力"
+				"将扫描器放入充能站&9充电"
+				"随后制作&9扫描模块：稀有矿石&r，手持扫描器shift+右键，打开扫描器放入矿石模块"
+				"长按扫描器，就可以扫描附近的稀有矿石"
+				"制作&9扫描模块：方块&r,领取铁矿石并放置，使用模块绑定铁矿石后，将模块放入扫描器，就可以扫描自己需要的矿石"
+			]
+			id: "1A4D1A1DD6096A12"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "573FF85C99459564"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0A488760B4508AAB"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "4926818C9EBFE2E4"
+					item: {
+						Count: 1b
+						id: "mininggadgets:mininggadget_simple"
+						tag: {
+							battery_tier: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0107B4DF9CBC4C94"
+					item: "minecraft:iron_ore"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "71712EE140D18B59"
+					item: {
+						Count: 1b
+						id: "scannable:scanner"
+						tag: {
+							energy: 5000
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6F4DFF4303DA8CA8"
+					item: {
+						Count: 1b
+						id: "charginggadgets:charging_station"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "392E28D5A1FC1E00"
+					item: "scannable:rare_ores_module"
+					type: "item"
+				}
+				{
+					id: "1D74113A717616AE"
+					item: "scannable:block_module"
+					type: "item"
+				}
+			]
+			title: "透视挖矿"
+			x: 14.0d
+			y: -13.0d
+		}
+		{
+			description: [
+				"获取&9采掘小帮手&r后，放入&9充能站&r充电，然后就可以&9激光采矿"
+				"制作改装台用于升级采矿枪，将枪放入改装台"
+				"制作升级模块，放入改装台为采矿枪添加功能强化"
+			]
+			id: "1A984B0C6A204B7D"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7C9DB54F22065308"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2C921EF39957016F"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "74284A8438D3D5FC"
+					item: {
+						Count: 1b
+						id: "mininggadgets:mininggadget_simple"
+						tag: {
+							battery_tier: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "362E05E79E07E9A0"
+					item: "mininggadgets:modificationtable"
+					type: "item"
+				}
+				{
+					id: "4F2907B6AB70C08D"
+					item: "mininggadgets:upgrade_magnet"
+					type: "item"
+				}
+				{
+					id: "46F8A07B0AE37E24"
+					item: "mininggadgets:upgrade_efficiency_1"
+					type: "item"
+				}
+			]
+			title: "激光采矿"
+			x: 15.0d
+			y: -13.0d
+		}
+		{
+			id: "5726FD17F2B877BB"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1BE4DBCF339426B4"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2B9D88F11D2FAF6F"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "7CC8CCDF4C0350B7"
+					item: {
+						Count: 1b
+						id: "mininggadgets:mininggadget"
+						tag: {
+							battery_tier: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "74B7CA438F1D4B46"
+					item: "mininggadgets:upgrade_efficiency_5"
+					type: "item"
+				}
+				{
+					id: "788706EC1FDE4E79"
+					item: "mininggadgets:upgrade_range_1"
+					type: "item"
+				}
+			]
+			x: 16.0d
+			y: -13.0d
+		}
+		{
+			description: ["拿在手中右键合成终端绑定，把高级终端戴在饰品栏腰带上，在你家合成终端附近搭建一个4级信标并激活（一定要让信标尽可能靠近合成终端），然后你按J既可随时打开你仓库（前提是合成终端附近有人或者区块一直处于被加载状态，建议做把仓库做在出生点），非常方便！"]
+			id: "744FF22B67FD2E55"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4A82968977961E39"
+				table_id: 4946183657862762897L
+				type: "random"
+			}]
+			tasks: [{
+				id: "138BBF0516F454FF"
+				item: "toms_storage:ts.adv_wireless_terminal"
+				type: "item"
+			}]
+			title: "高级无线终端"
+			x: 17.0d
+			y: -12.0d
+		}
+		{
+			description: ["武器模版开战利品箱和战利品袋子都有概率获取，使用燧石右键黑曜石既可有概率获得黑曜石碎片，这把工具可以同下界合金镐一样，可挖掘基岩获得简单基岩~"]
+			id: "1AEC53EE2D5A1240"
+			rewards: [{
+				id: "0CB1DDA2E8C9D4C9"
+				type: "xp"
+				xp: 1000
+			}]
+			tasks: [{
+				id: "5E6E31096EEECDEB"
+				item: {
+					Count: 1b
+					id: "twm:obsidian_tipped_diamond_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "下界合金镐的平替"
+			x: 17.0d
+			y: -13.0d
+		}
+		{
+			description: ["跳跃并按右键既可在脚下生成霜冰，开战利品袋有几率获得,以及完成暮色任务获得"]
+			id: "050228C88DC71814"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6BEFC322FB038B3D"
+				table_id: 9035571325655313302L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "159813C22C392A00"
+				item: {
+					Count: 1b
+					id: "lootbag:frost_wand"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "快乐法杖"
+			x: 19.0d
+			y: -13.0d
+		}
+		{
+			description: ["请在设置中将&9设置菜单&r绑定按键后使用"]
+			id: "72A7F424CAF95289"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3477DAEE53A6B459"
+				table_id: 4946183657862762897L
+				type: "random"
+			}]
+			subtitle: "建筑玩家的福音"
+			tasks: [
+				{
+					id: "0ADD43FF6CAC0701"
+					item: "buildinggadgets2:gadget_building"
+					type: "item"
+				}
+				{
+					id: "7CBAAB727D8EE06D"
+					item: {
+						Count: 1b
+						id: "buildinggadgets2:gadget_exchanging"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "599D94F0E96C60F3"
+					item: {
+						Count: 1b
+						id: "buildinggadgets2:gadget_copy_paste"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "7787249CBC309CD5"
+					item: {
+						Count: 1b
+						id: "buildinggadgets2:gadget_cut_paste"
+						tag: {
+							pastereplace: 1b
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "33925AFF8B1AE521"
+					item: "buildinggadgets2:gadget_destruction"
+					type: "item"
+				}
+			]
+			title: "建造工具"
+			x: 13.0d
+			y: -6.5d
+		}
+		{
+			description: ["伤害测试"]
+			id: "798549B14A06140D"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2253D1C2623AA5A4"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7F1CCC93E68D4AD0"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "431C57E01DCC7031"
+				item: "dummmmmmy:target_dummy"
+				type: "item"
+			}]
+			x: 19.0d
+			y: -10.0d
+		}
+	]
+	title: "实用道具"
+}

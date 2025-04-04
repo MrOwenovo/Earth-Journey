@@ -1,0 +1,9 @@
+
+[setting_tab_count]
+	#3 tabs instead of 1 in the creative inventory. Possible values: true or false (default: true)
+	more_creative_tabs = true
+
+[setting_oxidation]
+	#Metal fences will oxidize over time. Possible values: true or false (default: true)
+	metal_oxidation = true
+

@@ -1,0 +1,36 @@
+{
+  "base_gear": "sword",
+  "guid": "ichimonji",
+  "flavor_text": "",
+  "force_item_id": "",
+  "min_tier": 0,
+  "rarity": "unique",
+  "replaces_name": true,
+  "unique_stats": [
+    {
+      "type": "PERCENT",
+      "max": 120.0,
+      "min": 100.0,
+      "stat": "gear_weapon_damage"
+    },
+    {
+      "type": "FLAT",
+      "max": 30.0,
+      "min": 20.0,
+      "stat": "attack_speed"
+    },
+    {
+      "type": "FLAT",
+      "max": 20.0,
+      "min": 15.0,
+      "stat": "aura_effect"
+    },
+    {
+      "type": "FLAT",
+      "max": 10.0,
+      "min": 5.0,
+      "stat": "spirit_cost"
+    }
+  ],
+  "weight": 50
+}

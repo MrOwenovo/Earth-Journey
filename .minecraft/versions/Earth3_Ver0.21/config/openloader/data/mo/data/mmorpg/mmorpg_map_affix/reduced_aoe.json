@@ -1,0 +1,13 @@
+{
+  "affected": "Players",
+  "id": "reduced_aoe",
+  "stats": [
+    {
+      "type": "FLAT",
+      "max": -60.0,
+      "min": -20.0,
+      "stat": "inc_aoe"
+    }
+  ],
+  "weight": 1000
+}

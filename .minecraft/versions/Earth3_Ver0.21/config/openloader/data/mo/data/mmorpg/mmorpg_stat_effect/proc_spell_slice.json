@@ -1,0 +1,6 @@
+{
+  "id": "proc_spell_slice",
+  "pos": "CASTER",
+  "ser": "proc_spell",
+  "spellId": "slice"
+}

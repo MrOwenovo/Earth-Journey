@@ -1,0 +1,4911 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "exo"
+	group: ""
+	icon: "exoticbirds:nest"
+	id: "5ED5E69A286AA768"
+	images: [
+		{
+			height: 1.0d
+			image: "exoticbirds:item/nest_empty"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: 17.5d
+		}
+		{
+			height: 1.0d
+			image: "exoticbirds:item/nest_empty"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: 17.5d
+		}
+		{
+			height: 1.0d
+			image: "exoticbirds:item/nest_empty"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.0d
+			y: 17.5d
+		}
+		{
+			height: 1.0d
+			image: "exoticbirds:item/nest_empty"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.0d
+			y: 17.5d
+		}
+		{
+			height: 1.0d
+			image: "exoticbirds:item/nest_empty"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.0d
+			y: 17.5d
+		}
+		{
+			height: 1.0d
+			image: "exoticbirds:item/nest_empty"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.0d
+			y: 17.5d
+		}
+		{
+			height: 1.0d
+			image: "exoticbirds:item/nest_empty"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: 19.0d
+		}
+		{
+			height: 1.0d
+			image: "exoticbirds:item/nest_empty"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: 19.0d
+		}
+		{
+			height: 1.0d
+			image: "exoticbirds:item/nest_empty"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.0d
+			y: 19.0d
+		}
+		{
+			height: 1.0d
+			image: "exoticbirds:item/nest_empty"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.0d
+			y: 19.0d
+		}
+		{
+			height: 1.0d
+			image: "exoticbirds:item/nest_empty"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.0d
+			y: 19.0d
+		}
+		{
+			height: 1.0d
+			image: "exoticbirds:item/nest_empty"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.0d
+			y: 19.0d
+		}
+		{
+			height: 1.0d
+			image: "exoticbirds:item/nest_empty"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: 20.5d
+		}
+		{
+			height: 1.0d
+			image: "exoticbirds:item/nest_empty"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.0d
+			y: 20.5d
+		}
+		{
+			height: 1.0d
+			image: "exoticbirds:item/nest_empty"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.0d
+			y: 20.5d
+		}
+		{
+			height: 1.0d
+			image: "exoticbirds:item/nest_empty"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.0d
+			y: 20.5d
+		}
+		{
+			height: 1.0d
+			image: "exoticbirds:item/nest_empty"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.0d
+			y: 20.5d
+		}
+		{
+			height: 1.0d
+			image: "exoticbirds:item/nest_empty"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: 20.5d
+		}
+		{
+			height: 1.0d
+			image: "exoticbirds:item/nest_empty"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: 22.0d
+		}
+		{
+			height: 1.0d
+			image: "exoticbirds:item/nest_empty"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: 22.0d
+		}
+		{
+			height: 1.0d
+			image: "exoticbirds:item/nest_empty"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.0d
+			y: 22.0d
+		}
+		{
+			height: 1.0d
+			image: "exoticbirds:item/nest_empty"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.0d
+			y: 22.0d
+		}
+		{
+			height: 1.0d
+			image: "exoticbirds:item/nest_empty"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.0d
+			y: 22.0d
+		}
+		{
+			height: 1.0d
+			image: "exoticbirds:item/nest_empty"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.0d
+			y: 22.0d
+		}
+		{
+			height: 1.0d
+			image: "exoticbirds:item/nest_empty"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: 23.5d
+		}
+		{
+			height: 1.0d
+			image: "exoticbirds:item/nest_empty"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: 23.5d
+		}
+		{
+			height: 1.0d
+			image: "exoticbirds:item/nest_empty"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.0d
+			y: 23.5d
+		}
+		{
+			height: 1.0d
+			image: "exoticbirds:item/nest_empty"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.0d
+			y: 23.5d
+		}
+		{
+			height: 1.0d
+			image: "exoticbirds:item/nest_empty"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.0d
+			y: 23.5d
+		}
+		{
+			height: 1.0d
+			image: "exoticbirds:item/nest_empty"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.0d
+			y: 23.5d
+		}
+		{
+			height: 3.0d
+			image: "exoticbirds:item/nest_empty"
+			rotation: 0.0d
+			width: 3.0d
+			x: 18.0d
+			y: 21.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:textures/particle/glint.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 18.5d
+			y: 20.0d
+		}
+		{
+			height: 1.0d
+			image: "farmersdelight:textures/particle/steam_8.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 19.0d
+			y: 18.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 16.5d
+			y: 21.5d
+		}
+		{
+			height: 1.5d
+			image: "exoticbirds:item/nest_empty"
+			rotation: 0.0d
+			width: 1.5d
+			x: -1.0d
+			y: 20.0d
+		}
+		{
+			height: 1.5d
+			image: "exoticbirds:item/nest_empty"
+			rotation: 0.0d
+			width: 1.5d
+			x: 0.5d
+			y: 18.0d
+		}
+		{
+			height: 1.0d
+			image: "exoticbirds:item/eggshell"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: 20.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/feather"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: 19.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/soul_campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 19.5d
+			y: 19.0d
+		}
+		{
+			height: 1.5d
+			image: "alexsmobs:block/ender_residue_3"
+			rotation: 0.0d
+			width: 1.5d
+			x: 19.5d
+			y: 21.5d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:icons/toggle_night"
+			rotation: 0.0d
+			width: 1.0d
+			x: 16.0d
+			y: 18.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:textures/mob_effect/water_breathing.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 18.0d
+			y: 17.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/snowball"
+			rotation: 0.0d
+			width: 1.0d
+			x: 16.5d
+			y: 20.0d
+		}
+		{
+			height: 5.0d
+			image: "untamedwilds:item/tools/logo"
+			rotation: 0.0d
+			width: 5.0d
+			x: 40.5d
+			y: 11.0d
+		}
+		{
+			height: 1.0d
+			image: "chococraft:block/gysahl_green4"
+			rotation: 0.0d
+			width: 1.0d
+			x: 27.5d
+			y: -3.5d
+		}
+		{
+			height: 5.0d
+			image: "untamedwilds:textures/icon/bear/panda.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: 0.5d
+			y: -26.5d
+		}
+		{
+			height: 13.0d
+			image: "kubejs:block/stdwy"
+			order: -3
+			rotation: 0.0d
+			width: 43.65137614678899d
+			x: 1.5d
+			y: -24.0d
+		}
+		{
+			height: 1.0d
+			image: "exoticbirds:item/nest_full"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -25.0d
+		}
+		{
+			height: 3.0d
+			image: "alexsmobs:textures/mob_effect/sunbird_blessing.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: 11.0d
+			y: -27.0d
+		}
+		{
+			height: 1.0d
+			image: "untamedwilds:textures/icon/terror_bird/category.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -21.5d
+		}
+		{
+			height: 5.0d
+			image: "minecraft:block/cherry_sapling"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 11.5d
+			y: -23.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/respawn_anchor_top"
+			rotation: 0.0d
+			width: 0.03125d
+			x: 36.5d
+			y: 10.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:textures/mob_effect/dolphins_grace.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.5d
+			y: -22.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dandelion1"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.5d
+			y: -22.0d
+		}
+		{
+			height: 1.0d
+			image: "kubejs:block/naturalist_butterfly"
+			rotation: 0.0d
+			width: 1.552511415525114d
+			x: -2.0d
+			y: -28.0d
+		}
+		{
+			height: 2.0d
+			image: "snowyspirit:block/wreath"
+			rotation: 0.0d
+			width: 2.0d
+			x: -4.5d
+			y: -24.0d
+		}
+		{
+			height: 8.0d
+			image: "kubejs:block/naturalist_giraffe"
+			order: -3
+			rotation: 0.0d
+			width: 4.954462659380692d
+			x: 17.5d
+			y: -25.0d
+		}
+		{
+			height: 4.0d
+			image: "kubejs:block/naturalist_zebra"
+			order: -2
+			rotation: 0.0d
+			width: 4.0d
+			x: 20.0d
+			y: -23.0d
+		}
+		{
+			height: 1.0d
+			image: "farmersdelight:block/red_mushroom_colony_stage2"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -21.5d
+		}
+		{
+			height: 4.601273885350318d
+			image: "kubejs:block/alexelephants"
+			order: -3
+			rotation: 0.0d
+			width: 4.0d
+			x: 17.5d
+			y: -22.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bamboo_small_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.0d
+			y: -25.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bamboo_small_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.0d
+			y: -26.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bamboo_small_leaves"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -21.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bamboo_small_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -26.0d
+		}
+		{
+			height: 1.0d
+			image: "untamedwilds:block/flora/bush_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -26.0d
+		}
+		{
+			height: 1.0d
+			image: "untamedwilds:block/flora/bush_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -23.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bamboo_small_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: -25.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bamboo_small_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: -26.0d
+		}
+		{
+			height: 15.0d
+			image: "kubejs:block/tree1"
+			order: -4
+			rotation: 0.0d
+			width: 15.0d
+			x: -8.0d
+			y: -26.0d
+		}
+		{
+			height: 15.0d
+			image: "kubejs:block/tree3"
+			order: -4
+			rotation: 0.0d
+			width: 15.0d
+			x: 17.5d
+			y: -26.5d
+		}
+		{
+			height: 14.0d
+			image: "kubejs:block/yun2"
+			order: -6
+			rotation: 0.0d
+			width: 38.0d
+			x: 2.5d
+			y: -26.5d
+		}
+		{
+			height: 10.0d
+			image: "kubejs:block/alex_20"
+			rotation: 0.0d
+			width: 14.296636085626911d
+			x: -10.5d
+			y: -34.5d
+		}
+		{
+			height: 5.0d
+			image: "kubejs:item/alexmobs"
+			order: -5
+			rotation: 0.0d
+			width: 5.0d
+			x: 33.5d
+			y: 11.0d
+		}
+		{
+			height: 5.0d
+			image: "kubejs:block/naturalist"
+			rotation: 0.0d
+			width: 5.0d
+			x: -13.5d
+			y: -8.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/zr_26"
+			rotation: 0.0d
+			width: 3.0508474576271185d
+			x: -16.5d
+			y: -14.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/zr_10"
+			rotation: 0.0d
+			width: 3.0d
+			x: -14.5d
+			y: -12.0d
+		}
+		{
+			height: 4.0d
+			image: "kubejs:block/zr_11"
+			rotation: 0.0d
+			width: 5.0d
+			x: -6.0d
+			y: -10.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/zr_12"
+			rotation: 0.0d
+			width: 3.0d
+			x: -5.5d
+			y: -13.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/zr_13"
+			rotation: 0.0d
+			width: 3.6804979253112036d
+			x: -11.5d
+			y: -13.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/zr_14"
+			rotation: 0.0d
+			width: 3.6875800256081943d
+			x: -9.5d
+			y: -10.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/zr_15"
+			rotation: 0.0d
+			width: 3.0d
+			x: -14.0d
+			y: -15.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/zr_16"
+			rotation: 0.0d
+			width: 3.767281105990784d
+			x: -19.0d
+			y: -3.0d
+		}
+		{
+			height: 4.0d
+			image: "kubejs:block/zr_17"
+			rotation: 0.0d
+			width: 5.0d
+			x: -9.0d
+			y: -7.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/zr_2"
+			rotation: 0.0d
+			width: 3.0d
+			x: -20.0d
+			y: -6.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/zr_3"
+			rotation: 0.0d
+			width: 4.014522821576763d
+			x: -16.0d
+			y: -3.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/zr_4"
+			rotation: 0.0d
+			width: 3.1180327868852458d
+			x: -17.0d
+			y: -5.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/zr_5"
+			rotation: 0.0d
+			width: 3.0d
+			x: -19.0d
+			y: -14.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/zr_6"
+			rotation: 0.0d
+			width: 4.0220820189274455d
+			x: -20.5d
+			y: -9.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/zr_8"
+			rotation: 0.0d
+			width: 3.9132743362831857d
+			x: -10.5d
+			y: -15.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/zr_9"
+			rotation: 0.0d
+			width: 2.9484029484029484d
+			x: -7.5d
+			y: -16.5d
+		}
+		{
+			height: 4.0d
+			image: "kubejs:block/zr_30"
+			rotation: 0.0d
+			width: 4.0d
+			x: -10.0d
+			y: -3.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/zr_29"
+			rotation: 0.0d
+			width: 3.2231404958677685d
+			x: -13.0d
+			y: -2.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/zr_24"
+			rotation: 0.0d
+			width: 3.0d
+			x: -19.0d
+			y: -12.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/zr_18"
+			rotation: 0.0d
+			width: 3.0d
+			x: -17.5d
+			y: -8.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/zr_19"
+			rotation: 0.0d
+			width: 3.3177339901477834d
+			x: -3.0d
+			y: -11.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/zr_20"
+			rotation: 0.0d
+			width: 3.0d
+			x: -1.0d
+			y: -10.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/zr_21"
+			rotation: 0.0d
+			width: 3.4329896907216493d
+			x: -5.0d
+			y: -15.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/zr_22"
+			rotation: 0.0d
+			width: 3.0d
+			x: -3.0d
+			y: -14.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/zr_23"
+			rotation: 0.0d
+			width: 3.0d
+			x: -3.0d
+			y: -8.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/zr_25"
+			rotation: 0.0d
+			width: 3.2274590163934427d
+			x: -8.5d
+			y: -13.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/zr_27"
+			rotation: 0.0d
+			width: 3.0d
+			x: -5.0d
+			y: -6.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/zr_28"
+			rotation: 0.0d
+			width: 3.0d
+			x: -7.0d
+			y: -4.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/zr_31"
+			rotation: 0.0d
+			width: 4.524193548387097d
+			x: -13.5d
+			y: -5.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/zr_32"
+			rotation: 0.0d
+			width: 3.0d
+			x: -17.0d
+			y: -11.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/aa_1"
+			rotation: 0.0d
+			width: 3.5060240963855422d
+			x: 3.5d
+			y: 3.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/aa_10"
+			rotation: 0.0d
+			width: 2.973722627737226d
+			x: 12.0d
+			y: 1.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/aa_11"
+			rotation: 0.0d
+			width: 3.0d
+			x: 8.5d
+			y: 9.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/aa_12"
+			rotation: 0.0d
+			width: 2.8782816229116945d
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/aa_13"
+			rotation: 0.0d
+			width: 2.8344155844155843d
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/aa_14"
+			rotation: 0.0d
+			width: 3.0d
+			x: 0.5d
+			y: 8.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/aa_15"
+			rotation: 0.0d
+			width: 2.9287020109689212d
+			x: 20.5d
+			y: 9.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/aa_16"
+			rotation: 0.0d
+			width: 2.802439024390244d
+			x: 17.5d
+			y: 9.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/aa_17"
+			rotation: 0.0d
+			width: 2.9915254237288136d
+			x: 8.5d
+			y: 6.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/aa_18"
+			rotation: 0.0d
+			width: 2.9308755760368665d
+			x: 20.0d
+			y: 6.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/aa_19"
+			rotation: 0.0d
+			width: 2.8523076923076927d
+			x: 2.5d
+			y: 11.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/aa_2"
+			rotation: 0.0d
+			width: 2.895652173913043d
+			x: 6.5d
+			y: 3.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/aa_20"
+			rotation: 0.0d
+			width: 3.089171974522293d
+			x: 16.5d
+			y: 7.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/aa_21"
+			rotation: 0.0d
+			width: 2.9291666666666667d
+			x: 18.0d
+			y: 3.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/aa_22"
+			rotation: 0.0d
+			width: 2.8346938775510204d
+			x: 20.5d
+			y: 3.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/aa_23"
+			rotation: 0.0d
+			width: 3.1424332344213655d
+			x: 18.0d
+			y: 0.0d
+		}
+		{
+			height: 4.0d
+			image: "kubejs:block/aa_24"
+			rotation: 0.0d
+			width: 3.7547169811320753d
+			x: 13.5d
+			y: 8.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/aa_25"
+			rotation: 0.0d
+			width: 3.0632911392405062d
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/aa_26"
+			rotation: 0.0d
+			width: 3.044859813084112d
+			x: 5.5d
+			y: 10.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/aa_27"
+			rotation: 0.0d
+			width: 3.0d
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			height: 4.0d
+			image: "kubejs:block/aa_28"
+			rotation: 0.0d
+			width: 3.9753846153846153d
+			x: 11.0d
+			y: 11.5d
+		}
+		{
+			height: 4.0d
+			image: "kubejs:block/aa_29"
+			rotation: 0.0d
+			width: 4.321070234113712d
+			x: 12.0d
+			y: 5.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/aa_31"
+			rotation: 0.0d
+			width: 3.315363881401617d
+			x: 15.0d
+			y: 1.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/aa_35"
+			rotation: 0.0d
+			width: 3.105882352941177d
+			x: 9.0d
+			y: 2.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/aa_36"
+			rotation: 0.0d
+			width: 3.2514450867052025d
+			x: 6.0d
+			y: 0.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/aa_38"
+			rotation: 0.0d
+			width: 3.0d
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/aa_39"
+			rotation: 0.0d
+			width: 3.0388768898488125d
+			x: -2.0d
+			y: 9.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/aa_4"
+			rotation: 0.0d
+			width: 3.0d
+			x: -2.5d
+			y: 3.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/aa_5"
+			rotation: 0.0d
+			width: 4.0d
+			x: 14.5d
+			y: 11.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/aa_6"
+			rotation: 0.0d
+			width: 3.0311418685121105d
+			x: -2.5d
+			y: 6.5d
+		}
+		{
+			height: 3.0481283422459895d
+			image: "kubejs:block/aa_7"
+			rotation: 0.0d
+			width: 3.0d
+			x: 15.0d
+			y: 4.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/aa_8"
+			rotation: 0.0d
+			width: 2.9459459459459456d
+			x: 0.0d
+			y: 11.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/aa_9"
+			rotation: 0.0d
+			width: 2.876565295169946d
+			x: 10.5d
+			y: 8.0d
+		}
+		{
+			height: 5.0d
+			image: "kubejs:block/aa"
+			rotation: 0.0d
+			width: 5.0d
+			x: 4.5d
+			y: 7.0d
+		}
+		{
+			height: 4.0d
+			image: "kubejs:block/theduck_1"
+			rotation: 0.0d
+			width: 4.0d
+			x: 29.0d
+			y: -0.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/hamsters_1"
+			rotation: 0.0d
+			width: 2.9609665427509295d
+			x: 23.5d
+			y: -1.5d
+		}
+		{
+			height: 5.0d
+			image: "kubejs:block/chococraft_1"
+			order: -2
+			rotation: 0.0d
+			width: 5.0d
+			x: 26.5d
+			y: -4.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/habitat_2"
+			rotation: 0.0d
+			width: 3.0d
+			x: 32.0d
+			y: 1.0d
+		}
+		{
+			height: 8.0d
+			image: "kubejs:block/tree1"
+			order: -2
+			rotation: 0.0d
+			width: 8.0d
+			x: 0.5d
+			y: 20.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/eb_1"
+			rotation: 0.0d
+			width: 3.1019108280254777d
+			x: 4.0d
+			y: 27.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/eb_10"
+			rotation: 0.0d
+			width: 3.382978723404255d
+			x: -2.5d
+			y: 28.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/eb_11"
+			rotation: 0.0d
+			width: 3.220930232558139d
+			x: -0.5d
+			y: 16.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/eb_12"
+			rotation: 0.0d
+			width: 3.310344827586207d
+			x: 4.0d
+			y: 24.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/eb_13"
+			rotation: 0.0d
+			width: 3.0955882352941178d
+			x: 8.5d
+			y: 28.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/eb_14"
+			rotation: 0.0d
+			width: 3.0d
+			x: 1.0d
+			y: 28.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/eb_15"
+			rotation: 0.0d
+			width: 3.0d
+			x: 6.5d
+			y: 26.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/eb_16"
+			rotation: 0.0d
+			width: 3.0d
+			x: 6.0d
+			y: 30.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/eb_17"
+			rotation: 0.0d
+			width: 3.0d
+			x: 14.0d
+			y: 25.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/eb_18"
+			rotation: 0.0d
+			width: 3.0d
+			x: 21.0d
+			y: 23.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/eb_19"
+			rotation: 0.0d
+			width: 3.2707100591715976d
+			x: 12.5d
+			y: 27.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/eb_2"
+			rotation: 0.0d
+			width: 3.2970297029702973d
+			x: -6.5d
+			y: 17.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/eb_20"
+			rotation: 0.0d
+			width: 3.0d
+			x: 0.5d
+			y: 25.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/eb_21"
+			rotation: 0.0d
+			width: 3.0d
+			x: -4.0d
+			y: 22.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/eb_22"
+			rotation: 0.0d
+			width: 3.0d
+			x: 18.5d
+			y: 15.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/eb_23"
+			rotation: 0.0d
+			width: 3.0d
+			x: 23.5d
+			y: 21.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/eb_24"
+			rotation: 0.0d
+			width: 3.0d
+			x: -5.0d
+			y: 24.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/eb_25"
+			rotation: 0.0d
+			width: 3.0672823218997363d
+			x: -6.5d
+			y: 20.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/eb_26"
+			rotation: 0.0d
+			width: 3.0d
+			x: -9.5d
+			y: 21.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/eb_27"
+			rotation: 0.0d
+			width: 3.18343949044586d
+			x: 16.5d
+			y: 27.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/eb_28"
+			rotation: 0.0d
+			width: 3.1705685618729094d
+			x: -3.5d
+			y: 16.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/eb_29"
+			rotation: 0.0d
+			width: 3.0d
+			x: 10.5d
+			y: 25.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/eb_3"
+			rotation: 0.0d
+			width: 3.0d
+			x: 23.5d
+			y: 24.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/eb_30"
+			rotation: 0.0d
+			width: 3.0d
+			x: 21.0d
+			y: 17.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/eb_31"
+			rotation: 0.0d
+			width: 3.0d
+			x: -8.5d
+			y: 26.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/eb_32"
+			rotation: 0.0d
+			width: 3.0d
+			x: 22.0d
+			y: 19.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/eb_33"
+			rotation: 0.0d
+			width: 3.0d
+			x: -2.5d
+			y: 25.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/eb_34"
+			rotation: 0.0d
+			width: 3.0d
+			x: 3.0d
+			y: 30.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/eb_35"
+			rotation: 0.0d
+			width: 3.0d
+			x: -6.0d
+			y: 27.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/eb_36"
+			rotation: 0.0d
+			width: 3.0d
+			x: -4.5d
+			y: 19.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/eb_37"
+			rotation: 0.0d
+			width: 3.048780487804878d
+			x: -7.5d
+			y: 23.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/eb_38"
+			rotation: 0.0d
+			width: 3.0366598778004072d
+			x: 12.0d
+			y: 30.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/eb_4"
+			rotation: 0.0d
+			width: 3.0d
+			x: -9.0d
+			y: 19.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/eb_5"
+			rotation: 0.0d
+			width: 3.0d
+			x: 17.5d
+			y: 24.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/eb_6"
+			rotation: 0.0d
+			width: 3.0d
+			x: 19.0d
+			y: 28.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/eb_7"
+			rotation: 0.0d
+			width: 3.0d
+			x: 9.0d
+			y: 30.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/eb_8"
+			rotation: 0.0d
+			width: 3.2991329479768785d
+			x: 15.0d
+			y: 29.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/eb_9"
+			rotation: 0.0d
+			width: 3.0d
+			x: 20.0d
+			y: 26.0d
+		}
+		{
+			height: 8.0d
+			image: "supplementaries:block/cannon_target"
+			rotation: 0.0d
+			width: 8.0d
+			x: 2.5d
+			y: -32.5d
+		}
+		{
+			height: 3.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: 2.5d
+			y: -36.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/cac_2"
+			rotation: 0.0d
+			width: 3.0d
+			x: 7.5d
+			y: -14.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/cac_3"
+			rotation: 0.0d
+			width: 3.0d
+			x: 13.0d
+			y: -9.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/cac_4"
+			rotation: 0.0d
+			width: 3.0d
+			x: 16.0d
+			y: -10.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/cac_5"
+			rotation: 0.0d
+			width: 3.0d
+			x: 9.0d
+			y: -6.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/cac_6"
+			rotation: 0.0d
+			width: 3.0d
+			x: 6.0d
+			y: -7.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/cac_7"
+			rotation: 0.0d
+			width: 3.0d
+			x: 13.5d
+			y: -12.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/cac_8"
+			rotation: 0.0d
+			width: 3.0d
+			x: 5.0d
+			y: -11.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/cac_9"
+			rotation: 0.0d
+			width: 3.0d
+			x: 12.0d
+			y: -5.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/cac_11"
+			rotation: 0.0d
+			width: 3.0d
+			x: 14.5d
+			y: -7.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/cac_10"
+			rotation: 0.0d
+			width: 3.0d
+			x: 11.0d
+			y: -14.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/quark_1"
+			rotation: 0.0d
+			width: 3.0d
+			x: 28.5d
+			y: 2.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/quark_2"
+			rotation: 0.0d
+			width: 3.0d
+			x: 25.5d
+			y: 1.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/quark_3"
+			rotation: 0.0d
+			width: 3.0d
+			x: 30.0d
+			y: -5.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/fat_1"
+			rotation: 0.0d
+			width: 3.043388429752066d
+			x: -28.5d
+			y: 10.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/fat_10"
+			rotation: 0.0d
+			width: 3.0d
+			x: -15.5d
+			y: 6.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/fat_11"
+			rotation: 0.0d
+			width: 3.0d
+			x: -12.5d
+			y: 6.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/fat_12"
+			rotation: 0.0d
+			width: 3.0d
+			x: -19.5d
+			y: 12.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/fat_13"
+			rotation: 0.0d
+			width: 3.0d
+			x: -22.5d
+			y: 5.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/fat_14"
+			rotation: 0.0d
+			width: 3.0d
+			x: -23.0d
+			y: 12.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/fat_15"
+			rotation: 0.0d
+			width: 3.0d
+			x: -18.5d
+			y: 15.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/fat_16"
+			rotation: 0.0d
+			width: 3.0d
+			x: -27.0d
+			y: 7.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/fat_17"
+			rotation: 0.0d
+			width: 3.0d
+			x: -30.0d
+			y: 7.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/fat_18"
+			rotation: 0.0d
+			width: 3.0d
+			x: -25.5d
+			y: 4.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/fat_19"
+			rotation: 0.0d
+			width: 3.0d
+			x: -23.0d
+			y: 2.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/fat_2"
+			rotation: 0.0d
+			width: 3.0d
+			x: -28.0d
+			y: 13.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/fat_20"
+			rotation: 0.0d
+			width: 3.0d
+			x: -15.5d
+			y: 13.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/fat_21"
+			rotation: 0.0d
+			width: 3.0d
+			x: -25.5d
+			y: 11.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/fat_22"
+			rotation: 0.0d
+			width: 3.304740406320542d
+			x: -10.5d
+			y: 4.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/fat_23"
+			rotation: 0.0d
+			width: 3.0d
+			x: -25.0d
+			y: 14.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/fat_24"
+			rotation: 0.0d
+			width: 3.0d
+			x: -21.5d
+			y: 15.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/fat_25"
+			rotation: 0.0d
+			width: 3.0d
+			x: -11.5d
+			y: 9.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/fat_26"
+			rotation: 0.0d
+			width: 3.0d
+			x: -12.5d
+			y: 12.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/fat_3"
+			rotation: 0.0d
+			width: 3.0d
+			x: -19.5d
+			y: 5.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/fat_4"
+			rotation: 0.0d
+			width: 3.0d
+			x: -17.0d
+			y: 3.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/fat_5"
+			rotation: 0.0d
+			width: 3.0d
+			x: -14.0d
+			y: 3.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/fat_6"
+			rotation: 0.0d
+			width: 3.0d
+			x: -20.0d
+			y: 2.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/fat_7"
+			rotation: 0.0d
+			width: 3.0d
+			x: -17.5d
+			y: 9.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/fat_8"
+			rotation: 0.0d
+			width: 3.0d
+			x: -14.5d
+			y: 9.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/fat_9"
+			rotation: 0.0d
+			width: 3.0d
+			x: -24.5d
+			y: 8.0d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:block/ss_1"
+			rotation: 0.0d
+			width: 3.078066914498141d
+			x: 22.5d
+			y: -4.5d
+		}
+		{
+			height: 5.0d
+			image: "kubejs:block/butter"
+			order: -2
+			rotation: 0.0d
+			width: 5.0d
+			x: 33.5d
+			y: 16.5d
+		}
+		{
+			height: 1.0d
+			image: "butterflies:item/caterpillar/caterpillar_morpho"
+			rotation: 0.0d
+			width: 1.0d
+			x: 33.0d
+			y: 17.5d
+		}
+		{
+			height: 1.0d
+			image: "butterflies:item/bottled_butterfly/bottled_rainbow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 32.0d
+			y: 16.5d
+		}
+		{
+			height: 3.0d
+			image: "butterflies:item/butterfly_net/butterfly_net"
+			rotation: 0.0d
+			width: 3.0d
+			x: 38.5d
+			y: 17.0d
+		}
+		{
+			height: 1.0d
+			image: "butterflies:item/caterpillar/caterpillar_swallowtail"
+			rotation: 0.0d
+			width: 1.0d
+			x: 33.0d
+			y: 18.0d
+		}
+		{
+			height: 1.0d
+			image: "butterflies:textures/entity/chrysalis/chrysalis_heath.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 34.0d
+			y: 18.0d
+		}
+		{
+			height: 1.0d
+			image: "kubejs:block/naturalist_butterfly"
+			rotation: 0.0d
+			width: 1.0d
+			x: 32.5d
+			y: 14.5d
+		}
+		{
+			height: 1.0d
+			image: "untamedwilds:textures/icon/butterfly/emperor.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 32.0d
+			y: 17.5d
+		}
+		{
+			height: 5.0d
+			image: "kubejs:textures/png/cac.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: 9.0d
+			y: -10.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:textures/png/faunify_1.png"
+			rotation: 0.0d
+			width: 3.1864864864864866d
+			x: 33.0d
+			y: -5.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:textures/png/faunify_2.png"
+			rotation: 0.0d
+			width: 3.01931330472103d
+			x: 34.0d
+			y: -1.5d
+		}
+		{
+			height: 3.0d
+			image: "kubejs:textures/png/faunify_3.png"
+			rotation: 0.0d
+			width: 3.1116504854368934d
+			x: 31.5d
+			y: -3.0d
+		}
+		{
+			height: 4.0d
+			image: "kubejs:textures/png/fins.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: -21.5d
+			y: 8.5d
+		}
+		{
+			height: 2.0d
+			image: "kubejs:block/unusualfish"
+			rotation: 0.0d
+			width: 2.0d
+			x: -22.0d
+			y: 22.0d
+		}
+		{
+			height: 16.0d
+			image: "ftbquests:textures/shapes/rsquare/outline.png"
+			rotation: 0.0d
+			width: 18.0d
+			x: 37.5d
+			y: 14.0d
+		}
+		{
+			height: 1.0d
+			image: "yuushya:block/fish_tank/bubble"
+			rotation: 0.0d
+			width: 1.0d
+			x: -18.0d
+			y: 7.5d
+		}
+		{
+			height: 3.0d
+			image: "wan_ancient_beasts:textures/gui/tab_icon.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: 23.5d
+			y: -14.5d
+		}
+		{
+			height: 1.0d
+			image: "wan_ancient_beasts:item/nest"
+			rotation: 0.0d
+			width: 1.0d
+			x: 23.0d
+			y: -13.0d
+		}
+	]
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["1488A57D51678DC9"]
+			description: [
+				"仅适用于鼠标对准鸟类"
+				"上方显示为Exotic Birds的生物"
+				""
+			]
+			id: "37B06F4B85E08B7A"
+			shape: "rsquare"
+			size: 1.5d
+			subtitle: "仅适用于珍奇鸟类Exotic Birds"
+			tasks: [{
+				id: "32F3CDF9267D296B"
+				item: "exoticbirds:bird_book"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 20.0d
+		}
+		{
+			description: [
+				"在野外探索，你很少能发现这些鸟类。"
+				"想要获得并收集这些鸟类，你需要从&3鸟蛋分析器&f里去分析那些神秘鸟蛋！"
+			]
+			id: "1488A57D51678DC9"
+			shape: "gear"
+			size: 2.0d
+			subtitle: "一般能在树上的鸟巢里找到"
+			tasks: [{
+				id: "776296F52B82617A"
+				item: "exoticbirds:mystery_egg"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 20.0d
+		}
+		{
+			dependencies: ["37B06F4B85E08B7A"]
+			description: ["将神秘鸟蛋放入后，添加红石粉来作为能源驱动"]
+			id: "266E89D5B189482C"
+			rewards: [{
+				id: "0C88FF0876B19D69"
+				item: "minecraft:redstone"
+				random_bonus: 5
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			subtitle: "能够分析神秘鸟蛋为何种鸟类的蛋"
+			tasks: [{
+				id: "309DD8A801F89EA2"
+				item: "exoticbirds:egg_identifier"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 20.0d
+		}
+		{
+			dependencies: ["266E89D5B189482C"]
+			description: ["将鸟类的蛋放入后，添加烈焰粉来作为能源驱动"]
+			id: "45DD20AA9B90F7D2"
+			rewards: [
+				{
+					id: "2309E828BC89217A"
+					item: "minecraft:blaze_powder"
+					random_bonus: 5
+					type: "item"
+				}
+				{
+					id: "47E3AC8FA96FB63D"
+					item: "exoticbirds:bird_book"
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.5d
+			subtitle: "提高蛋类的生成概率"
+			tasks: [{
+				id: "1999CC82CF89E1C2"
+				item: "exoticbirds:egg_incubator"
+				type: "item"
+			}]
+			x: 8.25d
+			y: 20.0d
+		}
+		{
+			description: [
+				"附近的鸟类也会在它周围的鸟巢中下蛋 &7（但不会自动孵化）"
+				"&3需要用精准采集的工具来获取"
+			]
+			id: "4B7433428A5EE5DB"
+			shape: "rsquare"
+			subtitle: "放置后一段时间会生成神秘鸟蛋"
+			tasks: [{
+				id: "1F907DE8645ACB7A"
+				item: "exoticbirds:nest"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 18.5d
+		}
+		{
+			id: "6C2E215A5E05923E"
+			shape: "rsquare"
+			subtitle: "鸟舍会收集附近鸟类下的蛋"
+			tasks: [{
+				id: "31F0AF1473851CC0"
+				item: "exoticbirds:white_birdhouse"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 18.5d
+		}
+		{
+			dependencies: ["339BCFB460F2109B"]
+			description: [
+				"&a①&f先用鸟笼右键已驯服的鸽子"
+				"&a②&f随后再拿装有鸽子的鸟笼右键鸽子巢箱来绑定"
+				"&a③&f绑定后，将鸟笼放置在地面，左键破坏放出鸽子"
+				""
+				"&a④&f潜行右键打开鸽子的GUI面板"
+				"&7（需要鸽子已装备鸽子背包）"
+				"右键则改变鸽子状态蹲下/站立"
+				"&7（蹲下方便寄物品）"
+				""
+				"&a⑤&f将想要带回去的物品放入后，再点击右边的按钮"
+				"鸽子就会瞬间回到刚刚绑定的鸽子巢箱里"
+				""
+				"&a⑥&f右键鸽子巢箱后就能看到物品"
+				"点击右边的按钮可以释放鸽子"
+			]
+			id: "74F75C32D190970D"
+			rewards: [{
+				id: "3A8C9A49030A6FEC"
+				item: "exoticbirds:oak_birdcage"
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "用于鸽子长途运输物品"
+			tasks: [{
+				id: "44D9006877A01C40"
+				item: "exoticbirds:roost_box"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["2F0C31EB5D0DA2F9"]
+			description: ["装备后可以潜行右键打开GUI"]
+			id: "339BCFB460F2109B"
+			shape: "diamond"
+			subtitle: "右键给已经驯服的鸽子戴上"
+			tasks: [{
+				id: "1C0C17C87740A644"
+				item: "exoticbirds:pigeon_backpack"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 21.5d
+		}
+		{
+			id: "2F0C31EB5D0DA2F9"
+			shape: "gear"
+			subtitle: "用面包驯服一只鸽子"
+			tasks: [{
+				advancement: "exoticbirds:default/tame_pigeon"
+				criterion: ""
+				id: "7673DE8F1CCD6012"
+				type: "advancement"
+			}]
+			x: 5.0d
+			y: 21.5d
+		}
+		{
+			description: [
+				"鸟笼可被放置或悬挂"
+				"手持空鸟笼右击一只鸟即可将其装入鸟笼"
+				""
+				"&3更多样式可以在物品栏界面右下角搜索 &f鸟笼"
+			]
+			id: "49949535F7ED877D"
+			shape: "rsquare"
+			subtitle: "用于便携地运输鸟类"
+			tasks: [{
+				id: "425932C191B64B61"
+				item: "exoticbirds:oak_birdcage"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 18.5d
+		}
+		{
+			dependencies: ["266E89D5B189482C"]
+			hide_dependency_lines: true
+			hide_until_deps_visible: true
+			id: "18643FA82FCFC1C4"
+			subtitle: "重复生物已禁止自然生成，但你可以从鸟巢中获得此蛋"
+			tasks: [{
+				id: "2F467A798BFA92C8"
+				item: "exoticbirds:bluejay_egg"
+				type: "item"
+			}]
+			x: 15.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["266E89D5B189482C"]
+			hide_dependency_lines: true
+			hide_until_deps_visible: true
+			id: "0660B8F78A2655F6"
+			tasks: [{
+				id: "36215C42DB1B4D5F"
+				item: "exoticbirds:gouldianfinch_egg"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 21.5d
+		}
+		{
+			id: "6F3D2F875CB0BCEA"
+			rewards: [{
+				id: "0DBCF72644017D15"
+				item: "exoticbirds:ambrosia"
+				random_bonus: 2
+				type: "item"
+			}]
+			size: 1.5d
+			subtitle: "通过对神秘鸟蛋的分析有小概率获取"
+			tasks: [{
+				id: "79D14EAD4EF192C3"
+				item: "exoticbirds:phoenix_egg"
+				type: "item"
+			}]
+			x: 18.0d
+			y: 20.75d
+		}
+		{
+			id: "2F841B394809D2ED"
+			tasks: [{
+				id: "41AEF20B1840BDC1"
+				item: "exoticbirds:fire_phoenix_egg"
+				type: "item"
+			}]
+			x: 16.5d
+			y: 22.0d
+		}
+		{
+			id: "198BF6D78779ABBA"
+			shape: "gear"
+			size: 3.0d
+			subtitle: "右键打开以查看有关Alex的生物详细信息"
+			tasks: [{
+				id: "2D0E9D2C89E503EF"
+				item: "alexsmobs:animal_dictionary"
+				type: "item"
+			}]
+			x: 35.5d
+			y: 11.5d
+		}
+		{
+			id: "32741073FE173D11"
+			shape: "gear"
+			size: 3.0d
+			subtitle: "右键可以查看生物的一些信息，例如品种，血量，性别等。另外需要注意，该模组的生物仅在幼崽时期可以被驯服。&7“一本书+任意该模组生物的皮可以合成一本关于这些动物信息的书籍”"
+			tasks: [
+				{
+					id: "52AAA69957CB1232"
+					item: "untamedwilds:debug_analyzer"
+					type: "item"
+				}
+				{
+					id: "03A0B7EF2B1392E2"
+					item: {
+						Count: 1
+						id: "patchouli:guide_book"
+						tag: {
+							"patchouli:book": "untamedwilds:encyclopedia_of_life"
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "该模组生物已禁止自然生成可以到小市场购买生物蛋"
+			x: 41.5d
+			y: 11.5d
+		}
+		{
+			id: "4D1AFD3844A4F7E3"
+			subtitle: "重复生物已禁止生成"
+			tasks: [{
+				id: "0141962B86ABE4ED"
+				item: "naturalist:duck_spawn_egg"
+				type: "item"
+			}]
+			x: -17.0d
+			y: -6.5d
+		}
+		{
+			id: "604A5F5E7CBB692E"
+			subtitle: "沼泽地里的隐形者，它们不喜欢人，但如果喂食它们最喜欢的食物，它们就会忠于你！"
+			tasks: [{
+				id: "455147006609EF6C"
+				item: "naturalist:lizard_spawn_egg"
+				type: "item"
+			}]
+			x: -13.0d
+			y: -3.5d
+		}
+		{
+			id: "139280500DD1CD0E"
+			subtitle: "沼泽生物"
+			tasks: [{
+				id: "2108428889740279"
+				item: "naturalist:bass_bucket"
+				type: "item"
+			}]
+			x: -7.0d
+			y: -5.5d
+		}
+		{
+			id: "71FC74681A30BB70"
+			tasks: [{
+				id: "4CCD908BAE8A38D5"
+				item: "naturalist:snail_bucket"
+				type: "item"
+			}]
+			x: -19.0d
+			y: -4.0d
+		}
+		{
+			id: "23C9AD9C1EE57158"
+			subtitle: "重复生物已禁止生成"
+			tasks: [{
+				id: "2BF03F2F19ECE129"
+				item: "naturalist:catfish_bucket"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -7.5d
+		}
+		{
+			id: "6EC58BA1F228FE52"
+			subtitle: "在沼泽中里悠闲散步，寻找它们的食物。它们因其坚硬的外壳而闻名！"
+			tasks: [{
+				id: "60FA5DF741732181"
+				item: "naturalist:tortoise_spawn_egg"
+				type: "item"
+			}]
+			x: -16.0d
+			y: -4.0d
+		}
+		{
+			id: "01F3D154A6175C6C"
+			subtitle: "喜欢在沼泽地里嗡嗡的自由翱翔！我在一个矿井中里发现了一张纸条，上面说它们喜欢 紫颂果 。那是什么东西？"
+			tasks: [{
+				id: "6148B1FBD60183C8"
+				item: "naturalist:dragonfly_spawn_egg"
+				type: "item"
+			}]
+			x: -20.0d
+			y: -7.0d
+		}
+		{
+			id: "5C854EB74F548655"
+			subtitle: "出现在草地、草沼等群系，四处飞舞，寻找着花朵或庄稼授粉。可以通过花朵来繁殖"
+			tasks: [{
+				id: "09AFFD1E8250CCFC"
+				item: "naturalist:butterfly_spawn_egg"
+				type: "item"
+			}]
+			x: -18.5d
+			y: -14.0d
+		}
+		{
+			id: "21ADA12CB94A566F"
+			subtitle: "会拼尽全力保护它的蛋。不要距离太近！"
+			tasks: [{
+				id: "1EF2ED39231653E2"
+				item: "naturalist:alligator_spawn_egg"
+				type: "item"
+			}]
+			x: -13.5d
+			y: -6.0d
+		}
+		{
+			id: "1138B321CBD57876"
+			subtitle: "由蝴蝶繁殖后产生，会在树木上化蛹成蝶，蛹可以通过精准采集获得"
+			tasks: [{
+				id: "02FB364B1A99B6AC"
+				item: "naturalist:caterpillar_spawn_egg"
+				type: "item"
+			}]
+			x: -19.5d
+			y: -13.0d
+		}
+		{
+			id: "2A561EB91461A27A"
+			subtitle: "飞来飞去，在空中叫喊。夜幕降临，它们会主动攻击僵尸。当玩家生命值低时，秃鹰会俯冲下来，偷走玩家手中的物品。如果秃鹰偷了一件物品，它们会在飞行时随身携带。如果把腐肉扔在地上，它们会和你交换它们持有的物品"
+			tasks: [{
+				id: "0ABC12472BD2C98E"
+				item: "naturalist:vulture_spawn_egg"
+				type: "item"
+			}]
+			x: -14.5d
+			y: -16.0d
+		}
+		{
+			id: "598D3B9BD13BDF26"
+			subtitle: "四处游荡，它们会在受到攻击时进行反击"
+			tasks: [{
+				id: "0B739ABCC898C7C7"
+				item: "naturalist:elephant_spawn_egg"
+				type: "item"
+			}]
+			x: -12.0d
+			y: -14.0d
+		}
+		{
+			id: "22B087F7310115AB"
+			subtitle: "会在树梢之间飞舞着歌唱,可以通过种子来驯服"
+			tasks: [{
+				id: "421A6B9A1235E3C8"
+				item: "naturalist:robin_spawn_egg"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -16.5d
+		}
+		{
+			id: "04F21D387863A799"
+			subtitle: "温和的食草动物，会主动避开灰熊。可以通过苹果来繁殖"
+			tasks: [{
+				id: "7E68917E3FEF72BA"
+				item: "naturalist:deer_spawn_egg"
+				type: "item"
+			}]
+			x: -10.5d
+			y: -11.0d
+		}
+		{
+			id: "40CF45A6F4D56371"
+			subtitle: "会在树梢之间飞舞着歌唱,可以通过种子来驯服"
+			tasks: [{
+				id: "2FF2CD8DFE44E878"
+				item: "naturalist:canary_spawn_egg"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -11.0d
+		}
+		{
+			id: "171D78F2FBD8B6ED"
+			subtitle: "白天会钻入草丛中，夜晚会起来活动，并发着光。生活在森林、平原和沼泽等生物群系中"
+			tasks: [{
+				id: "1628BBB1B166718C"
+				item: "naturalist:firefly_spawn_egg"
+				type: "item"
+			}]
+			x: -20.5d
+			y: -10.0d
+		}
+		{
+			id: "0FB74F9BB31273F5"
+			subtitle: "会在树梢之间飞舞着歌唱,可以通过种子来驯服"
+			tasks: [{
+				id: "42701D555244D540"
+				item: "naturalist:bluejay_spawn_egg"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -12.5d
+		}
+		{
+			id: "07C3618DDABB5C19"
+			subtitle: "如果你给它们喂金苹果，它们会让你骑乘 30 秒。在此期间使用地图半径大大增加。可用干草块繁殖！"
+			tasks: [{
+				id: "33ACB5269C82A896"
+				item: "naturalist:giraffe_spawn_egg"
+				type: "item"
+			}]
+			x: -8.0d
+			y: -17.5d
+		}
+		{
+			id: "3CC259331CD38841"
+			subtitle: "会在树梢之间飞舞着歌唱,可以通过种子来驯服"
+			tasks: [{
+				id: "3EA9D57A52AE9A6E"
+				item: "naturalist:cardinal_spawn_egg"
+				type: "item"
+			}]
+			x: -6.5d
+			y: -13.5d
+		}
+		{
+			id: "3004BE7F48E1C206"
+			subtitle: "相当于热带草原的马，并且可以以类似的方式驯服。不过，它们是一群速度很快的动物，如果靠近它们就会逃跑！然而，一旦被驯服，它们在水中跑得比马快，而且可以为其装上箱子"
+			tasks: [{
+				id: "70EB356905F6139D"
+				item: "naturalist:zebra_spawn_egg"
+				type: "item"
+			}]
+			x: -10.5d
+			y: -16.5d
+		}
+		{
+			id: "30D3D35C2CD8F6DC"
+			subtitle: "热带草原的统治者，会在夜间猎杀其它生物"
+			tasks: [{
+				id: "3102FF3B6AC9A7F4"
+				item: "naturalist:lion_spawn_egg"
+				type: "item"
+			}]
+			x: -16.5d
+			y: -15.5d
+		}
+		{
+			id: "799F69ED4BF30953"
+			subtitle: "本是在热带草原生物群系中取代猪的中立生物，但一直无法找到，所以你可以在&a小市场&7里购买。当受到攻击时，它们会反击，并在生命值低时逃跑。如果它们被闪电击中，会变为僵尸疣猪兽"
+			tasks: [{
+				id: "19A79D9D0B705E66"
+				item: "naturalist:boar_spawn_egg"
+				type: "item"
+			}]
+			x: -8.5d
+			y: -14.5d
+		}
+		{
+			id: "7CDCD23A250221C7"
+			subtitle: "温和的掠食者，只要不激怒它们，或靠近它们的幼崽，就不会有事。会捕食鹿，也会吃蜂蜜、浆果等。可以通过鱼来繁殖"
+			tasks: [{
+				id: "1DAEAB18434BA35C"
+				item: "naturalist:bear_spawn_egg"
+				type: "item"
+			}]
+			x: -9.0d
+			y: -8.5d
+		}
+		{
+			id: "40C3CDC229239355"
+			subtitle: "有些种类含有毒素。它是低等的掠食者，会捕食小鸡、蜗牛等"
+			tasks: [{
+				id: "40794EA6DD035B77"
+				item: "naturalist:coral_snake_spawn_egg"
+				type: "item"
+			}]
+			x: -17.5d
+			y: -9.0d
+		}
+		{
+			id: "56DEDF736F27F56D"
+			subtitle: "倾向于呆在水边，它们会攻击船只和任何进入它们水池的玩家。如果要繁殖它们，请在它们在水中时喂它们一个闪烁的西瓜片或西瓜"
+			tasks: [{
+				id: "41E0651025CFF10F"
+				item: "naturalist:hippo_spawn_egg"
+				type: "item"
+			}]
+			x: -10.0d
+			y: -4.5d
+		}
+		{
+			id: "284EC13A099EDEED"
+			subtitle: "有些种类含有毒素。它是低等的掠食者，会捕食小鸡、蜗牛等"
+			tasks: [{
+				id: "03EDD34921CD516F"
+				item: "naturalist:rattlesnake_spawn_egg"
+				type: "item"
+			}]
+			x: -14.5d
+			y: -13.0d
+		}
+		{
+			id: "04743AA648ACF56D"
+			subtitle: "通常很温顺，除非它们身边有一个宝宝。如果被激怒了，或者如果玩家靠近它们的宝宝时，它们会在冲锋前用脚摩擦地面 4-5 次！"
+			tasks: [{
+				id: "7891E076EDB6FC27"
+				item: "naturalist:rhino_spawn_egg"
+				type: "item"
+			}]
+			x: -6.5d
+			y: -11.0d
+		}
+		{
+			id: "3064FDB6B8CAF179"
+			subtitle: "出现在草沼群系，有些种类含有毒素。它是低等的掠食者，会捕食小鸡、蜗牛等"
+			tasks: [{
+				id: "58F085722F353E72"
+				item: "naturalist:snake_spawn_egg"
+				type: "item"
+			}]
+			x: -17.0d
+			y: -12.0d
+		}
+		{
+			id: "28718EDF33D878E0"
+			subtitle: "用树皮右键鸭仔鼠妇来获得蜕皮"
+			tasks: [{
+				id: "4F73E81901A5FE60"
+				item: "ambientadditions:bark"
+				type: "item"
+			}]
+			x: 9.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["28718EDF33D878E0"]
+			id: "30A78074AB6093C0"
+			tasks: [{
+				id: "74B4383213F8C3F0"
+				item: {
+					Count: 1
+					id: "ambientadditions:ducky_mask"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.5d
+			y: 6.5d
+		}
+		{
+			id: "67D306CF8D14090D"
+			subtitle: "生活在温暖海洋"
+			tasks: [{
+				id: "550AEDC1F40C6E4F"
+				item: "ambientadditions:longhorn_cowfish_bucket"
+				type: "item"
+			}]
+			x: 15.0d
+			y: 0.0d
+		}
+		{
+			id: "3D9FD4E10812B74C"
+			tasks: [{
+				id: "62A463CA5CCB9F8E"
+				item: "ambientadditions:yeti_crab_bucket"
+				type: "item"
+			}]
+			x: 20.0d
+			y: 5.0d
+		}
+		{
+			id: "130D6C2A76A11AD4"
+			subtitle: "也许沼泽能找到"
+			tasks: [{
+				id: "3C3D900C750A2F0A"
+				item: "ambientadditions:leaf_frog_bowl"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 10.0d
+		}
+		{
+			id: "021529D81F565997"
+			subtitle: "生活在温水海洋中的生物，离开水一段时间后会窒息"
+			tasks: [{
+				id: "416F3DDCB66FD364"
+				item: "ambientadditions:shame_faced_crab_bucket"
+				type: "item"
+			}]
+			x: 16.0d
+			y: 6.0d
+		}
+		{
+			id: "2A7364D3808AEB64"
+			tasks: [{
+				id: "06EE329DDA876E92"
+				item: "ambientadditions:chocolate_chip_starfish_bucket"
+				type: "item"
+			}]
+			x: 20.5d
+			y: 8.0d
+		}
+		{
+			id: "5CB75A72D34943F4"
+			subtitle: "出现在平原和森林"
+			tasks: [{
+				id: "0B4188D7EFCA2A38"
+				item: "ambientadditions:mole_bucket"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 2.5d
+		}
+		{
+			id: "42A1A74393BC0D68"
+			subtitle: "出现在丛林群系"
+			tasks: [{
+				id: "18E7880B8F352A44"
+				item: "ambientadditions:pinocchio_anole_pot"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 10.0d
+		}
+		{
+			id: "26F68928E8D23929"
+			subtitle: "生活在温水海洋中的生物，它们会向海星发起攻击"
+			tasks: [{
+				id: "47BA8CC8236EC3B2"
+				item: "ambientadditions:harlequin_shrimp_bucket"
+				type: "item"
+			}]
+			x: 17.5d
+			y: 8.5d
+		}
+		{
+			id: "784C4CED638FB7D3"
+			subtitle: "我在针叶林相关群系见过这种昆虫"
+			tasks: [{
+				id: "79D7E8EE2CA96AE3"
+				item: "ambientadditions:stag_beetle_bottle"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			id: "493A1147364B0F0E"
+			subtitle: "生活在平原、草地、苔原等地形，可用种子驯服和繁殖，潜行右键可以变为物品模式，靠近跑轮就会上去运动"
+			tasks: [
+				{
+					icon: {
+						Count: 1
+						id: "hamsters:hamster"
+						tag: {
+							Variant: 0
+						}
+					}
+					id: "2F46008581E47F3F"
+					observe_type: 5
+					timer: 30L
+					to_observe: "hamsters:hamster"
+					type: "observation"
+				}
+				{
+					id: "07497EE745049FF9"
+					item: "hamsters:hamster_wheel"
+					type: "item"
+				}
+			]
+			title: "可爱的小仓鼠"
+			x: 23.0d
+			y: -2.0d
+		}
+		{
+			id: "705D238AA436F2A3"
+			tasks: [{
+				id: "6DA92C9AA460E542"
+				item: "theducksmod:mallard_duck_spawn_egg"
+				type: "item"
+			}]
+			x: 28.0d
+			y: -1.5d
+		}
+		{
+			id: "0EA9527F8C9F8185"
+			tasks: [{
+				id: "3F8978D39D575A64"
+				item: "theducksmod:pekin_duck_spawn_egg"
+				type: "item"
+			}]
+			x: 30.0d
+			y: -1.5d
+		}
+		{
+			description: [
+				"Donald（唐老鸭皮肤）"
+				"Scrooge McDuck（史高治·麦克达克皮肤）"
+				"Darkwing Duck（狡猾飞天德皮肤）"
+				"Ducktor（医生鸭皮肤）"
+				"Daffy Duck（达菲鸭皮肤）"
+				"Dewey (路儿/唐老鸭中的蓝色小鸭皮肤)"
+				"Louie (杜儿/唐老鸭中的绿色小鸭皮肤)"
+				"Huey (辉儿/唐老鸭中的红色小鸭皮肤)"
+			]
+			id: "290A20B08B8615B1"
+			subtitle: "可通过命名牌重命名以下英文来改变鸭鸭的皮肤"
+			tasks: [{
+				id: "65261365E660E480"
+				item: "minecraft:name_tag"
+				type: "item"
+			}]
+			title: "自定义皮肤"
+			x: 29.0d
+			y: -2.0d
+		}
+		{
+			id: "4BF4ED6E710B50E3"
+			tasks: [{
+				id: "35CDC9BFEEE91324"
+				item: "chococraft:chocopedia"
+				type: "item"
+			}]
+			x: 26.5d
+			y: -5.5d
+		}
+		{
+			id: "5FD9EB7C7E4010B5"
+			subtitle: "生活在丛林、雨林群系"
+			tasks: [{
+				id: "69F31C5E0C3CC4B1"
+				item: "ambientadditions:white_fruit_bat_spawn_egg"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -0.5d
+		}
+		{
+			id: "379B52D11697C2E0"
+			subtitle: "出现在恶地类型群系"
+			tasks: [{
+				id: "6E09990205924300"
+				item: "ambientadditions:nine_banded_armadillo_spawn_egg"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 2.0d
+		}
+		{
+			id: "660251C9592C774B"
+			subtitle: "出现在沙漠群系"
+			tasks: [{
+				id: "543497EAA1C1C363"
+				item: "ambientadditions:pink_fairy_armadillo_spawn_egg"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 2.5d
+		}
+		{
+			id: "4027902734A0F485"
+			subtitle: "出现在丛林等群系里"
+			tasks: [{
+				id: "20F7518C147FD39B"
+				item: "ambientadditions:veiled_chameleon_spawn_egg"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 8.5d
+		}
+		{
+			id: "18DF3CCF09E5A4C4"
+			subtitle: "生活在平原或森林，可喂食南瓜派来驯服，喂食肉类可以繁殖"
+			tasks: [{
+				id: "247EC5C8D7B6A560"
+				item: "ambientadditions:pembroke_corgi_spawn_egg"
+				type: "item"
+			}]
+			x: 15.0d
+			y: 11.0d
+		}
+		{
+			id: "67444424F472BDE2"
+			subtitle: "生活在平原或森林，可喂食南瓜派来驯服，喂食肉类可以繁殖"
+			tasks: [{
+				id: "4096A24AB4432AB4"
+				item: "ambientadditions:cardigan_corgi_spawn_egg"
+				type: "item"
+			}]
+			x: 14.0d
+			y: 10.5d
+		}
+		{
+			id: "4412015D934FBBA9"
+			subtitle: "出现在林地"
+			tasks: [{
+				id: "7384526FD15E4ED3"
+				item: "ambientadditions:naked_mole_rat_spawn_egg"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 5.5d
+		}
+		{
+			id: "29F776C63C149BB9"
+			subtitle: "出现在丛林群系"
+			tasks: [{
+				id: "1CB7DBDEEBAF6C4B"
+				item: "ambientadditions:moustached_tamarin_spawn_egg"
+				type: "item"
+			}]
+			x: 15.0d
+			y: 3.5d
+		}
+		{
+			id: "3A5630AE6025F8D2"
+			subtitle: "生活在温暖海洋"
+			tasks: [{
+				id: "51CEE51150647B13"
+				item: "ambientadditions:napoleon_wrasse_spawn_egg"
+				type: "item"
+			}]
+			x: 18.0d
+			y: 2.5d
+		}
+		{
+			id: "064ECA3D6DD509A9"
+			subtitle: "生活在丛林中的鸟类，喜欢吃花蜜，喂食蒲公英或虞美人等花朵可以将其驯服，驯服后可以坐在原地或者站在主人肩膀上。"
+			tasks: [{
+				id: "112164966732F049"
+				item: "ambientadditions:iiwi_spawn_egg"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 1.0d
+		}
+		{
+			id: "610C5F7D9D58D3A1"
+			subtitle: "生活在丛林、雨林群系"
+			tasks: [{
+				id: "0440568467B48FFC"
+				item: "ambientadditions:aye_aye_spawn_egg"
+				type: "item"
+			}]
+			x: 10.5d
+			y: 7.0d
+		}
+		{
+			id: "018F9AD39E5FCB6C"
+			subtitle: "生活在丛林中的生物，会跟随手持蒲公英的玩家"
+			tasks: [{
+				id: "647236EEC4E2507C"
+				item: "ambientadditions:ring_tailed_lemur_spawn_egg"
+				type: "item"
+			}]
+			x: 12.5d
+			y: 0.5d
+		}
+		{
+			id: "132E37EEDD469C39"
+			subtitle: "生活在丛林、雨林群系，喂食胡萝卜或苹果可以繁殖"
+			tasks: [{
+				id: "398D8023CD2FBD06"
+				item: "ambientadditions:siamang_gibbon_spawn_egg"
+				type: "item"
+			}]
+			x: 12.0d
+			y: 4.0d
+		}
+		{
+			id: "3E12EBC2BA35F611"
+			subtitle: "出现在森林、平原等群系里"
+			tasks: [{
+				id: "5E0DB0B209E9B5A6"
+				item: "ambientadditions:marten_spawn_egg"
+				type: "item"
+			}]
+			x: 8.5d
+			y: 8.5d
+		}
+		{
+			id: "5D710A7C1EC87B03"
+			subtitle: "出现在热带草原群系"
+			tasks: [{
+				id: "1772C8F24ADC67CB"
+				item: "ambientadditions:giant_land_snail_pot"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			id: "2A3890EA8E64C099"
+			subtitle: "其仿佛长有兔耳，故得名兔螺。橙兔螺生活在河流和冻河中"
+			tasks: [{
+				id: "4CF082DC60E6704B"
+				item: "ambientadditions:rabbit_snail_pot"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			id: "7532253D3EC2B572"
+			subtitle: "生活在沙漠群系"
+			tasks: [{
+				id: "09529E9145983D12"
+				item: "ambientadditions:spider_tailed_adder_spawn_egg"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 7.0d
+		}
+		{
+			id: "3138101D1E760B57"
+			subtitle: "生活在丛林群系"
+			tasks: [{
+				id: "0489A3754C3D7D4C"
+				item: "ambientadditions:rubber_ducky_isopod_spawn_egg"
+				type: "item"
+			}]
+			x: 8.5d
+			y: 5.0d
+		}
+		{
+			id: "4F28B4130A9B9220"
+			subtitle: "无记录，但我在冷水海洋见过这种鱼"
+			tasks: [{
+				id: "4A495838D7B3CD44"
+				item: "ambientadditions:opah_spawn_egg"
+				type: "item"
+			}]
+			x: 20.5d
+			y: 2.0d
+		}
+		{
+			id: "5BFF68AF1CD18428"
+			subtitle: "出现在热带草原、林地"
+			tasks: [{
+				id: "3DCAEC5B0E790818"
+				item: "ambientadditions:red_river_hog_spawn_egg"
+				type: "item"
+			}]
+			x: 13.5d
+			y: 7.0d
+		}
+		{
+			id: "3708D18EB72AA1A7"
+			subtitle: "生活在丛林、雨林群系"
+			tasks: [{
+				id: "10AE1DB0C86836B3"
+				item: "ambientadditions:blunthead_tree_snake_spawn_egg"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			id: "4816DA7333E8AEC5"
+			subtitle: "生活在红树林沼泽"
+			tasks: [{
+				id: "7EB6713A98D0D4E5"
+				item: "ambientadditions:mata_mata_spawn_egg"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 9.5d
+		}
+		{
+			id: "0F2E1BB31B07D27B"
+			tasks: [{
+				id: "2D8CF032C6D2CCAB"
+				item: "ambientadditions:blue_spotted_stingray_spawn_egg"
+				type: "item"
+			}]
+			x: 18.0d
+			y: -1.0d
+		}
+		{
+			id: "7703C7D122FEA555"
+			subtitle: "我在丛林地形见过这种生物"
+			tasks: [{
+				id: "09F2B814EA1A42D2"
+				item: "ambientadditions:pancake_slug_pot"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -2.5d
+		}
+		{
+			id: "073C713EBC037117"
+			subtitle: "无记录，但我在灌木林地，热带高原见过它"
+			tasks: [{
+				id: "1410E160E6442061"
+				item: "ambientadditions:sloth_bear_spawn_egg"
+				type: "item"
+			}]
+			x: 11.0d
+			y: 10.0d
+		}
+		{
+			id: "0BC8211DD397656D"
+			subtitle: "会在树梢之间飞舞着歌唱,可以通过种子来驯服"
+			tasks: [{
+				id: "1623375A50878C0B"
+				item: "naturalist:finch_spawn_egg"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -15.0d
+		}
+		{
+			id: "2790157997DC91E2"
+			subtitle: "会在树梢之间飞舞着歌唱,可以通过种子来驯服"
+			tasks: [{
+				id: "6D8EE38E8361A988"
+				item: "naturalist:sparrow_spawn_egg"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -9.0d
+		}
+		{
+			id: "3772DF7914853C44"
+			subtitle: "出现在黑森林里的一圈仙环菇下，在地图上尤其显眼"
+			tasks: [{
+				id: "5A0D7F11A7D13712"
+				item: "habitat:pooka_spawn_egg"
+				type: "item"
+			}]
+			x: 32.0d
+			y: 0.0d
+		}
+		{
+			id: "4C61577570E8F402"
+			shape: "gear"
+			size: 5.0d
+			subtitle: "只有珍奇鸟类那一块有完成任务的设置！大多数生物都只是为了添加了介绍方便查阅，你可以查看生成群系或者生物的特色！此外，并非所有重复生物都被禁止生成，一些较有特色的重复生物有被保留生成，或是因为外形或是因为设定等原因。。"
+			tasks: [{
+				id: "1F62A43590D32DD5"
+				title: "了解整合包有多少种动物"
+				type: "checkmark"
+			}]
+			title: "此章节只为帮助玩家了解有多少种动物"
+			x: 2.5d
+			y: -32.5d
+		}
+		{
+			id: "5CF98F03569F954D"
+			subtitle: "在深海中生活，当玩家即将溺水时，附近的小飞象章鱼会给予帮助"
+			tasks: [{
+				id: "7182090E294024C2"
+				item: "crittersandcompanions:dumbo_octopus_bucket"
+				type: "item"
+			}]
+			x: 14.5d
+			y: -8.0d
+		}
+		{
+			id: "6110507100A66BB3"
+			subtitle: "生活在河流中，成群的锦鲤会带来好运"
+			tasks: [{
+				id: "6CDE67F19E10ED50"
+				item: "crittersandcompanions:koi_fish_bucket"
+				type: "item"
+			}]
+			x: 9.0d
+			y: -7.5d
+		}
+		{
+			id: "45EC66B044AB6A74"
+			subtitle: "生活在海洋中"
+			tasks: [{
+				id: "5625350E7759B405"
+				item: "crittersandcompanions:sea_bunny_bucket"
+				type: "item"
+			}]
+			x: 12.0d
+			y: -6.5d
+		}
+		{
+			id: "470B6A092FCCA32F"
+			subtitle: "生活在丛林中的生物，喜欢白天睡觉，可以用竹子繁殖，甜浆果驯服，驯服后的小熊猫会吓跑具有攻击性的中立生物。"
+			tasks: [{
+				id: "3AAAFAE9B821C923"
+				item: "crittersandcompanions:red_panda_spawn_egg"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -12.0d
+		}
+		{
+			id: "4C893145703D80E2"
+			subtitle: "在河流中生活，水獭会打开蛤蜊寻找珍珠--蛤蜊可以通过钓鱼获得，珍珠可用于制作项链。"
+			tasks: [{
+				id: "343CA178FB7DF44E"
+				item: "crittersandcompanions:otter_spawn_egg"
+				type: "item"
+			}]
+			x: 13.5d
+			y: -13.5d
+		}
+		{
+			id: "68944A315D5918DE"
+			subtitle: "生活在森林中，会随着音乐起舞"
+			tasks: [{
+				id: "25DF544CFE9D79F9"
+				item: "crittersandcompanions:leaf_insect_spawn_egg"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -8.5d
+		}
+		{
+			id: "2515D631353EC03C"
+			subtitle: "可用蜻蜓翅驯服，会保护玩家。掉落丝线，可用来制作栓绳和抓钩。丝线也会从丝茧中掉落"
+			tasks: [{
+				id: "0BC237B52A10CDBD"
+				item: "crittersandcompanions:jumping_spider_spawn_egg"
+				type: "item"
+			}]
+			x: 16.0d
+			y: -11.5d
+		}
+		{
+			id: "31D09C6B30F7531D"
+			subtitle: "在平原和森林中生活，可以用生兔肉驯服，会帮助你猎杀兔子和鸡"
+			tasks: [{
+				id: "17B4E5FEA692AE28"
+				item: "crittersandcompanions:ferret_spawn_egg"
+				type: "item"
+			}]
+			x: 13.0d
+			y: -10.5d
+		}
+		{
+			id: "52D2C0C69708B993"
+			subtitle: "生活在河流等群系，可用蜘蛛眼驯服，驯服后可穿戴专用铠"
+			tasks: [
+				{
+					id: "3C52413CE8D64E44"
+					item: "crittersandcompanions:dragonfly_spawn_egg"
+					type: "item"
+				}
+				{
+					id: "2B4D9595E51A0049"
+					item: "crittersandcompanions:iron_dragonfly_armor"
+					type: "item"
+				}
+				{
+					id: "29BFB3F274D64D16"
+					item: "crittersandcompanions:gold_dragonfly_armor"
+					type: "item"
+				}
+				{
+					id: "46B7C1CCE18A3F63"
+					item: "crittersandcompanions:diamond_dragonfly_armor"
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: -15.0d
+		}
+		{
+			id: "376A7170A3CB3B15"
+			subtitle: "生活在积雪群系，可用种子驯服。"
+			tasks: [{
+				id: "190FC08217EEDF11"
+				item: "crittersandcompanions:shima_enaga_spawn_egg"
+				type: "item"
+			}]
+			x: 11.0d
+			y: -15.5d
+		}
+		{
+			id: "09546E64D4497152"
+			tasks: [{
+				id: "22640CAC74A72573"
+				item: "quark:crab_bucket"
+				type: "item"
+			}]
+			x: 25.5d
+			y: 0.0d
+		}
+		{
+			id: "5607D590D173D712"
+			tasks: [{
+				id: "41114805405830C9"
+				item: "quark:shiba_spawn_egg"
+				type: "item"
+			}]
+			x: 28.5d
+			y: 1.5d
+		}
+		{
+			id: "76CFBA4E7728017D"
+			subtitle: "常生活在矿洞内，背部的矿物可用镐子左键获取"
+			tasks: [{
+				id: "3F69E796200B7C7B"
+				item: "quark:toretoise_spawn_egg"
+				type: "item"
+			}]
+			x: 30.0d
+			y: -6.5d
+		}
+		{
+			id: "199AFEBF1B67017F"
+			tasks: [{
+				id: "6105D67D17F3834B"
+				item: "finsandtails:blu_wee_bucket"
+				type: "item"
+			}]
+			x: -28.0d
+			y: 12.0d
+		}
+		{
+			id: "1BB4B2ADA26C3707"
+			tasks: [{
+				id: "405677151D234C4C"
+				item: "finsandtails:pea_wee_bucket"
+				type: "item"
+			}]
+			x: -28.5d
+			y: 9.0d
+		}
+		{
+			id: "3711D638943EED4D"
+			tasks: [{
+				id: "558734EEC490CA0E"
+				item: "finsandtails:banded_redback_shrimp_bucket"
+				type: "item"
+			}]
+			x: -19.5d
+			y: 4.5d
+		}
+		{
+			id: "68BC6AD847108C7E"
+			tasks: [{
+				id: "2303C0B7A9AE11E1"
+				item: "finsandtails:teal_arrowfish_bucket"
+				type: "item"
+			}]
+			x: -17.0d
+			y: 2.5d
+		}
+		{
+			id: "296732AADD16FD26"
+			tasks: [{
+				id: "2184F5DC5CFA5223"
+				item: "finsandtails:swamp_mucker_bucket"
+				type: "item"
+			}]
+			x: -14.0d
+			y: 2.5d
+		}
+		{
+			id: "20E32BC2EA5C9D23"
+			tasks: [{
+				id: "134853C9078AFBE0"
+				item: "finsandtails:flatback_sucker_bucket"
+				type: "item"
+			}]
+			x: -20.5d
+			y: 1.0d
+		}
+		{
+			id: "33440EDC81FBD7DE"
+			tasks: [{
+				id: "68B311E89FCD4BB3"
+				item: "finsandtails:high_finned_blue_bucket"
+				type: "item"
+			}]
+			x: -17.5d
+			y: 8.0d
+		}
+		{
+			id: "39E0BB911BD40CE9"
+			tasks: [{
+				id: "70E18587938C154F"
+				item: "finsandtails:phantom_nudibranch_bucket"
+				type: "item"
+			}]
+			x: -15.5d
+			y: 5.0d
+		}
+		{
+			id: "3DD096B4822A7C96"
+			tasks: [{
+				id: "1B6421B276B5945B"
+				item: "finsandtails:ornate_bugfish_bucket"
+				type: "item"
+			}]
+			x: -24.5d
+			y: 7.0d
+		}
+		{
+			id: "74E20859EC6EC5DA"
+			tasks: [{
+				id: "1420B0DF1EB4BF25"
+				item: "finsandtails:penglil_bucket"
+				type: "item"
+			}]
+			x: -12.5d
+			y: 5.5d
+		}
+		{
+			id: "4248A6DD014CBD9C"
+			tasks: [{
+				id: "099D1ADEAD69CEA0"
+				item: "finsandtails:spindly_gem_crab_bucket"
+				type: "item"
+			}]
+			x: -19.5d
+			y: 10.5d
+		}
+		{
+			id: "338E120FB78BABCC"
+			tasks: [{
+				id: "12063F12ECE7869B"
+				item: "finsandtails:wee_wee_bucket"
+				type: "item"
+			}]
+			x: -27.0d
+			y: 6.0d
+		}
+		{
+			id: "71500F3936EEFB74"
+			tasks: [{
+				id: "747FF7822F706085"
+				item: "finsandtails:red_bull_crab_bucket"
+				type: "item"
+			}]
+			x: -23.0d
+			y: 11.0d
+		}
+		{
+			id: "00202A9F7CEAB83F"
+			tasks: [{
+				id: "4DCE57D7F21C14E3"
+				item: "finsandtails:white_bull_crab_bucket"
+				type: "item"
+			}]
+			x: -18.5d
+			y: 14.0d
+		}
+		{
+			id: "597BF04EE72A6742"
+			tasks: [{
+				id: "234252B47CA140B3"
+				item: "finsandtails:vibra_wee_bucket"
+				type: "item"
+			}]
+			x: -30.0d
+			y: 6.0d
+		}
+		{
+			id: "52B2F8E813A64898"
+			tasks: [{
+				id: "0AB63D357F2FCD55"
+				item: "finsandtails:golden_river_ray_bucket"
+				type: "item"
+			}]
+			x: -15.0d
+			y: 12.0d
+		}
+		{
+			id: "0B36B7FB9D82B9F2"
+			tasks: [{
+				id: "3E1A725B219CF98D"
+				item: "finsandtails:flatback_leaf_snail_pot"
+				type: "item"
+			}]
+			x: -22.5d
+			y: 4.5d
+		}
+		{
+			id: "29CD5CC0BA81C961"
+			tasks: [{
+				id: "2C1E870806BA4460"
+				item: "finsandtails:river_pebble_snail_pot"
+				type: "item"
+			}]
+			x: -26.0d
+			y: 3.0d
+		}
+		{
+			id: "296B6AE5A7DDDB19"
+			tasks: [{
+				id: "5AC37BDBE4DFB571"
+				item: "finsandtails:siderol_whiskered_snail_pot"
+				type: "item"
+			}]
+			x: -23.0d
+			y: 1.5d
+		}
+		{
+			id: "5879C9EE023D8100"
+			tasks: [{
+				id: "3B1519AD73C47E1A"
+				item: "finsandtails:night_light_squid_bucket"
+				type: "item"
+			}]
+			x: -25.5d
+			y: 10.0d
+		}
+		{
+			id: "0CC28ED8DF41904F"
+			tasks: [{
+				id: "200C90EF744BADFB"
+				item: "finsandtails:gopjet_bucket"
+				type: "item"
+			}]
+			x: -25.0d
+			y: 13.5d
+		}
+		{
+			id: "722351B0FDFC83CA"
+			tasks: [{
+				id: "434D24BF7470DE5E"
+				item: "finsandtails:papa_wee_bucket"
+				type: "item"
+			}]
+			x: -21.5d
+			y: 14.0d
+		}
+		{
+			id: "31C9F55181736337"
+			tasks: [{
+				id: "77B7A504E56DBF83"
+				item: "finsandtails:baby_horatee_bucket"
+				type: "item"
+			}]
+			x: -12.5d
+			y: 11.5d
+		}
+		{
+			id: "39DAFE38E341C0F2"
+			tasks: [{
+				id: "26652E0F62F5C473"
+				item: "finsandtails:wherbling_pot"
+				type: "item"
+			}]
+			x: -11.5d
+			y: 8.5d
+		}
+		{
+			id: "69E8BE6AD0B9E48A"
+			tasks: [{
+				id: "284D88F33B2E22B5"
+				item: "finsandtails:rubber_belly_glider_spawn_egg"
+				type: "item"
+			}]
+			x: -11.0d
+			y: 3.5d
+		}
+		{
+			id: "7C9F3AF4D469E499"
+			subtitle: "生活在沼泽群系的氛围生物"
+			tasks: [{
+				id: "3636D380F3ADE3D7"
+				item: "swampier_swamps:dragonfly_spawn_egg"
+				type: "item"
+			}]
+			x: 22.5d
+			y: -5.0d
+		}
+		{
+			id: "5C36B71E7EC491B7"
+			tasks: [{
+				id: "30D8EEEE86D47F74"
+				item: "finsandtails:mudhorse_leather"
+				type: "item"
+			}]
+			x: -14.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["266E89D5B189482C"]
+			hide_dependency_lines: true
+			hide_until_deps_visible: true
+			id: "7DE78305A20A3D8F"
+			tasks: [{
+				id: "1D11338C4C42958B"
+				item: "exoticbirds:kiwi_egg"
+				type: "item"
+			}]
+			x: 11.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["266E89D5B189482C"]
+			hide_dependency_lines: true
+			hide_until_deps_visible: true
+			id: "0DD72C7E19F5346B"
+			tasks: [{
+				id: "09946D37FAFA23A6"
+				item: "exoticbirds:ostrich_egg"
+				type: "item"
+			}]
+			x: 11.0d
+			y: 18.5d
+		}
+		{
+			dependencies: ["266E89D5B189482C"]
+			hide_dependency_lines: true
+			hide_until_deps_visible: true
+			id: "3D2FB0004ECD5521"
+			tasks: [{
+				id: "097300CFFEACBA75"
+				item: "exoticbirds:owl_egg"
+				type: "item"
+			}]
+			x: 12.0d
+			y: 18.5d
+		}
+		{
+			dependencies: ["266E89D5B189482C"]
+			hide_dependency_lines: true
+			hide_until_deps_visible: true
+			id: "63496CCD39F31D68"
+			tasks: [{
+				id: "4BCC8EE12D81A978"
+				item: "exoticbirds:kingfisher_egg"
+				type: "item"
+			}]
+			x: 15.0d
+			y: 23.0d
+		}
+		{
+			dependencies: ["266E89D5B189482C"]
+			hide_dependency_lines: true
+			hide_until_deps_visible: true
+			id: "1C740281B426A541"
+			subtitle: "重复生物已禁止自然生成，但你可以从鸟巢中获得此蛋"
+			tasks: [{
+				id: "64FCDB15CD91BFBF"
+				item: "exoticbirds:toucan_egg"
+				type: "item"
+			}]
+			x: 14.0d
+			y: 23.0d
+		}
+		{
+			dependencies: ["266E89D5B189482C"]
+			hide_dependency_lines: true
+			hide_until_deps_visible: true
+			id: "460F8CDF4F0F9665"
+			tasks: [{
+				id: "02CF9DE027AE38DC"
+				item: "exoticbirds:swan_egg"
+				type: "item"
+			}]
+			x: 13.0d
+			y: 23.0d
+		}
+		{
+			dependencies: ["266E89D5B189482C"]
+			hide_dependency_lines: true
+			hide_until_deps_visible: true
+			id: "3934C73F6AA0DCDE"
+			tasks: [{
+				id: "710B29F1252BA64C"
+				item: "exoticbirds:macaw_egg"
+				type: "item"
+			}]
+			x: 12.0d
+			y: 23.0d
+		}
+		{
+			dependencies: ["266E89D5B189482C"]
+			hide_dependency_lines: true
+			hide_until_deps_visible: true
+			id: "57DACB73B8A49078"
+			tasks: [{
+				id: "0152175BD22565E9"
+				item: "exoticbirds:lyrebird_egg"
+				type: "item"
+			}]
+			x: 11.0d
+			y: 23.0d
+		}
+		{
+			dependencies: ["266E89D5B189482C"]
+			hide_dependency_lines: true
+			hide_until_deps_visible: true
+			id: "47FF7B27E9D774B6"
+			tasks: [{
+				id: "194C621922BC172F"
+				item: "exoticbirds:kookaburra_egg"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 23.0d
+		}
+		{
+			dependencies: ["266E89D5B189482C"]
+			hide_dependency_lines: true
+			hide_until_deps_visible: true
+			id: "7B6054091C0CA074"
+			subtitle: "重复生物已禁止自然生成，但你可以从鸟巢中获得此蛋"
+			tasks: [{
+				id: "521F58F0961FA8CF"
+				item: "exoticbirds:gull_egg"
+				type: "item"
+			}]
+			x: 11.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["266E89D5B189482C"]
+			hide_dependency_lines: true
+			hide_until_deps_visible: true
+			id: "44BA26493EC160EB"
+			tasks: [{
+				id: "37E51FE4EC4F012B"
+				item: "exoticbirds:woodpecker_egg"
+				type: "item"
+			}]
+			x: 12.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["266E89D5B189482C"]
+			hide_dependency_lines: true
+			hide_until_deps_visible: true
+			id: "65B3BDF9332C8EB4"
+			subtitle: "重复生物已禁止自然生成，但你可以从鸟巢中获得此蛋"
+			tasks: [{
+				id: "48ECC40072D0F9ED"
+				item: "exoticbirds:duck_egg"
+				type: "item"
+			}]
+			x: 13.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["266E89D5B189482C"]
+			hide_dependency_lines: true
+			hide_until_deps_visible: true
+			id: "00B73B3BBBDF3DEA"
+			tasks: [{
+				id: "5174AF61C986ED3A"
+				item: "exoticbirds:heron_egg"
+				type: "item"
+			}]
+			x: 14.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["266E89D5B189482C"]
+			hide_dependency_lines: true
+			hide_until_deps_visible: true
+			id: "595955F391F6CA87"
+			subtitle: "重复生物已禁止自然生成，但你可以从鸟巢中获得此蛋"
+			tasks: [{
+				id: "7E3476B9CA186503"
+				item: "exoticbirds:roadrunner_egg"
+				type: "item"
+			}]
+			x: 15.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["266E89D5B189482C"]
+			hide_dependency_lines: true
+			hide_until_deps_visible: true
+			id: "3C33ED8A3C0D5F05"
+			subtitle: "重复生物已禁止自然生成，但你可以从鸟巢中获得此蛋，与alex'mobs的蜂鸟不同，其只是观赏鸟类"
+			tasks: [{
+				id: "15AF0A66818F79DE"
+				item: "exoticbirds:hummingbird_egg"
+				type: "item"
+			}]
+			x: 14.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["266E89D5B189482C"]
+			hide_dependency_lines: true
+			hide_until_deps_visible: true
+			id: "439C5C8D5CED8209"
+			tasks: [{
+				id: "523CC16BB997A2BC"
+				item: "exoticbirds:crane_egg"
+				type: "item"
+			}]
+			x: 13.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["266E89D5B189482C"]
+			hide_dependency_lines: true
+			hide_until_deps_visible: true
+			id: "45BC456B71B571B8"
+			tasks: [{
+				id: "47FA92A29D009520"
+				item: "exoticbirds:cassowary_egg"
+				type: "item"
+			}]
+			x: 12.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["266E89D5B189482C"]
+			hide_dependency_lines: true
+			hide_until_deps_visible: true
+			id: "6E5D74615AC3DA4E"
+			tasks: [{
+				id: "032E414E6898314E"
+				item: "exoticbirds:budgerigar_egg"
+				type: "item"
+			}]
+			x: 11.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["266E89D5B189482C"]
+			hide_dependency_lines: true
+			hide_until_deps_visible: true
+			id: "248FB5BCE779E3F8"
+			tasks: [{
+				id: "3E22E8B4127BF502"
+				item: "exoticbirds:pigeon_egg"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["266E89D5B189482C"]
+			hide_dependency_lines: true
+			hide_until_deps_visible: true
+			id: "1081CE0FA9F105F7"
+			tasks: [{
+				id: "2670492C60818799"
+				item: "exoticbirds:flamingo_egg"
+				type: "item"
+			}]
+			x: 13.0d
+			y: 18.5d
+		}
+		{
+			dependencies: ["266E89D5B189482C"]
+			hide_dependency_lines: true
+			hide_until_deps_visible: true
+			id: "6934926242363080"
+			tasks: [{
+				id: "5EEBD5A96A54D0CA"
+				item: "exoticbirds:cardinal_egg"
+				type: "item"
+			}]
+			x: 14.0d
+			y: 18.5d
+		}
+		{
+			dependencies: ["266E89D5B189482C"]
+			hide_dependency_lines: true
+			hide_until_deps_visible: true
+			id: "30DF1B476309CCA6"
+			tasks: [{
+				id: "752BA69FE9FBE7AB"
+				item: "exoticbirds:booby_egg"
+				type: "item"
+			}]
+			x: 15.0d
+			y: 18.5d
+		}
+		{
+			dependencies: ["266E89D5B189482C"]
+			hide_dependency_lines: true
+			hide_until_deps_visible: true
+			id: "1B1E2BBC5AB7791C"
+			tasks: [{
+				id: "63F748C2A8648410"
+				item: "exoticbirds:penguin_egg"
+				type: "item"
+			}]
+			x: 15.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["266E89D5B189482C"]
+			hide_dependency_lines: true
+			hide_until_deps_visible: true
+			id: "7AEA7281453C9C8D"
+			tasks: [{
+				id: "52ED9CD6B1DC18C3"
+				item: "exoticbirds:pelican_egg"
+				type: "item"
+			}]
+			x: 14.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["266E89D5B189482C"]
+			hide_dependency_lines: true
+			hide_until_deps_visible: true
+			id: "1A9D2EC130312FB9"
+			tasks: [{
+				id: "013AA8056B4F1D7F"
+				item: "exoticbirds:peafowl_egg"
+				type: "item"
+			}]
+			x: 13.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["266E89D5B189482C"]
+			hide_dependency_lines: true
+			hide_until_deps_visible: true
+			id: "2B8F2C21E90FFDE9"
+			tasks: [{
+				id: "188EA89562488235"
+				item: "exoticbirds:robin_egg"
+				type: "item"
+			}]
+			x: 12.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["266E89D5B189482C"]
+			hide_dependency_lines: true
+			hide_until_deps_visible: true
+			id: "01F1B82DB9D72747"
+			tasks: [{
+				id: "62B1AC3FD4F17942"
+				item: "exoticbirds:cockatoo_egg"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["266E89D5B189482C"]
+			hide_dependency_lines: true
+			hide_until_deps_visible: true
+			id: "323AE74E3CDC88C7"
+			tasks: [{
+				id: "65FD76B39E4ABE2C"
+				item: "exoticbirds:magpie_egg"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 18.5d
+		}
+		{
+			id: "5527CB60099BDEDB"
+			tasks: [{
+				id: "351AA092DB3959BF"
+				item: "exoticbirds:ender_phoenix_egg"
+				type: "item"
+			}]
+			x: 19.5d
+			y: 21.5d
+		}
+		{
+			id: "6D439E69FF8501A2"
+			tasks: [{
+				id: "76DDB137D5CB1642"
+				item: "exoticbirds:desert_phoenix_egg"
+				type: "item"
+			}]
+			x: 20.0d
+			y: 20.5d
+		}
+		{
+			id: "163370C1B170D151"
+			tasks: [{
+				id: "1E8B9CB531B6AA51"
+				item: "exoticbirds:nether_phoenix_egg"
+				type: "item"
+			}]
+			x: 19.5d
+			y: 19.5d
+		}
+		{
+			id: "0E9E510C120B63AE"
+			tasks: [{
+				id: "4CECBB03B4903BC4"
+				item: "exoticbirds:cloud_phoenix_egg"
+				type: "item"
+			}]
+			x: 18.5d
+			y: 18.5d
+		}
+		{
+			id: "17B905E30A6E0127"
+			tasks: [{
+				id: "1E5450E93072E78D"
+				item: "exoticbirds:water_phoenix_egg"
+				type: "item"
+			}]
+			x: 17.5d
+			y: 18.0d
+		}
+		{
+			id: "75503C5829ECA3BC"
+			tasks: [{
+				id: "6DE4C44F5F35743F"
+				item: "exoticbirds:skeleton_phoenix_egg"
+				type: "item"
+			}]
+			x: 17.5d
+			y: 19.5d
+		}
+		{
+			id: "3478E8DB2F61E5E6"
+			tasks: [{
+				id: "4705589710FC22A8"
+				item: "exoticbirds:twilight_phoenix_egg"
+				type: "item"
+			}]
+			x: 16.5d
+			y: 19.0d
+		}
+		{
+			id: "1E79C09E7B5900D0"
+			tasks: [{
+				id: "6C3472C16F4CD9A3"
+				item: "exoticbirds:snowy_phoenix_egg"
+				type: "item"
+			}]
+			x: 16.0d
+			y: 20.5d
+		}
+		{
+			dependencies: ["154FD3E1E005F7A3"]
+			id: "382500DC2054CB9A"
+			subtitle: "将蝴蝶卷轴与这本书合成后其内容会显示在上面"
+			tasks: [
+				{
+					id: "42B2D740198EBBC3"
+					item: "butterflies:butterfly_book"
+					type: "item"
+				}
+				{
+					id: "2888F498192A2B4E"
+					item: {
+						Count: 1
+						id: "butterflies:butterfly_scroll_admiral"
+						tag: { }
+					}
+					title: "卷轴制作示例"
+					type: "item"
+				}
+			]
+			x: 38.0d
+			y: 15.5d
+		}
+		{
+			id: "154FD3E1E005F7A3"
+			size: 1.5d
+			tasks: [{
+				id: "2B31587EBCD4BB3C"
+				item: {
+					Count: 1
+					id: "butterflies:butterfly_net"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 38.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["154FD3E1E005F7A3"]
+			description: ["&a提示：&7玻璃瓶也可用于右键捕捉不羁野性的蝴蝶"]
+			id: "1A1FAD8CACC575F2"
+			subtitle: "将蝴蝶装瓶后可以放置在地面"
+			tasks: [{
+				id: "1F974ACCBD9BC769"
+				item: "minecraft:glass_bottle"
+				type: "item"
+			}]
+			x: 39.5d
+			y: 17.0d
+		}
+		{
+			description: [
+				"该模组的蝴蝶具有完整的生命周期，从小到要用望远镜放大来看的蝴蝶卵，到破茧而出的毛毛虫，再到悬挂在树叶上的蝴蝶蛹，最后长大成蝴蝶，你可以用&a蝴蝶网&f来捕捉它们，或者结合&a空瓶子&f将它们放入瓶中，放置在地面进行观赏，亦或者将它们变为卷轴，类似标本的样子挂在墙上。"
+				""
+				"&6繁殖&f-&7如果有俩只蝴蝶靠近树叶，它们就会在树叶上产卵，卵最终会孵化成毛毛虫。玩家可以敲掉卵重新放置在其他树叶上。"
+			]
+			id: "1B0151D2B09A567E"
+			rewards: [{
+				id: "65B615F9AACFAB49"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "gear"
+			size: 3.0d
+			subtitle: "模组添加了十几种蝴蝶 -“大部分以现实生活中为原型的蝴蝶，但也有一些纯粹是幻想蝴蝶”另外还有不羁野性的蝴蝶，也拥有多个变种，其次就是自然主义的巨大蝴蝶，你可以将它们一并收集并放在你的蝴蝶园里。"
+			tasks: [{
+				id: "0393E0D554FBE84A"
+				type: "checkmark"
+			}]
+			title: "蝴蝶"
+			x: 35.5d
+			y: 17.0d
+		}
+		{
+			id: "309D05CD5FBD81AF"
+			size: 1.5d
+			subtitle: "专门针对自然主义的蝴蝶"
+			tasks: [{
+				id: "3DA0E5F3A60C2388"
+				item: {
+					Count: 1
+					id: "naturalist:bug_net"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 41.5d
+			y: 17.0d
+		}
+		{
+			dependencies: ["309D05CD5FBD81AF"]
+			id: "5DC41DFDDB7D060D"
+			subtitle: "四处飞舞，寻找着花朵或庄稼授粉。可以通过花朵来繁殖"
+			tasks: [{
+				id: "30995EA8ADD31021"
+				item: "naturalist:butterfly"
+				type: "item"
+			}]
+			x: 43.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["309D05CD5FBD81AF"]
+			id: "53AFF94AA1E94991"
+			rewards: [
+				{
+					id: "3EABE25C70F78709"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "0A521A234E3357F0"
+					item: "minecraft:emerald"
+					random_bonus: 5
+					type: "item"
+				}
+			]
+			subtitle: "由蝴蝶繁殖后产生，会在树木上化蛹成蝶，蛹可以通过精准采集获得"
+			tasks: [{
+				id: "1A27443C5052F7BB"
+				item: "naturalist:caterpillar"
+				type: "item"
+			}]
+			x: 44.0d
+			y: 17.0d
+		}
+		{
+			id: "4B99E36B3B98FD13"
+			subtitle: "一种常见的鼬科动物，出现在森林和平原上。在雪地群系中还可以看到白色的鼬鼠！它们可以用生兔肉驯服，如果你给它们扔一个鸡蛋，它们会在沙砾、沙子或泥土中挖掘出物品！"
+			tasks: [{
+				id: "271ADAAE7752E298"
+				item: "faunify:weasel_spawn_egg"
+				type: "item"
+			}]
+			x: 33.0d
+			y: -6.0d
+		}
+		{
+			id: "50E6C3BF1BBE3D00"
+			subtitle: "一种可爱的小狐狸，出现在沙漠和荒地中。它们可以被生鸡肉驯服！虽然很弱，但它们会用刺耳的叫声来提醒你附近有怪物。"
+			tasks: [{
+				id: "3587393919E30069"
+				item: "faunify:fennec_spawn_egg"
+				type: "item"
+			}]
+			x: 33.5d
+			y: -2.5d
+		}
+		{
+			id: "1380E2C2DC1EE9F0"
+			subtitle: "可爱、蓬松、温顺的啮齿动物，出现在山地或草原上。可以用蒲公英来驯服它们。它们喜欢在沙砾上打滚，并将其变成灰尘块，灰尘块可以挖出灰尘，可以用来向怪物投掷，以减缓它们的速度并使它们失明！还可以你可以带龙猫去挖掘可疑的沙砾，出现稀有物品的几率会高出30%！"
+			tasks: [{
+				id: "73516BE1F688B27C"
+				item: "faunify:chinchilla_spawn_egg"
+				type: "item"
+			}]
+			x: 31.0d
+			y: -3.0d
+		}
+		{
+			id: "08260AC061473554"
+			tasks: [{
+				id: "5EB6F118EBCFB581"
+				item: "unusualfishmod:aero_mono_bucket"
+				type: "item"
+			}]
+			x: -27.5d
+			y: 20.0d
+		}
+		{
+			id: "51289FBF9FC4B5AB"
+			tasks: [{
+				id: "685F3E372D781AC8"
+				item: "unusualfishmod:duality_damselfish_bucket"
+				type: "item"
+			}]
+			x: -25.5d
+			y: 20.0d
+		}
+		{
+			id: "20BD494E58785933"
+			tasks: [{
+				id: "55F496719CB4F87E"
+				item: "unusualfishmod:drooping_gourami_bucket"
+				type: "item"
+			}]
+			x: -26.5d
+			y: 20.5d
+		}
+		{
+			id: "0A52A7BBFCA760B6"
+			tasks: [{
+				id: "1761B506DF0FBFD9"
+				item: "unusualfishmod:mossthorn_bucket"
+				type: "item"
+			}]
+			x: -24.5d
+			y: 20.5d
+		}
+		{
+			id: "1B2EBFD6537C6765"
+			tasks: [{
+				id: "165977CBAC340851"
+				item: "unusualfishmod:sailor_barb_bucket"
+				type: "item"
+			}]
+			x: -23.5d
+			y: 20.0d
+		}
+		{
+			id: "0866D6BFD030014C"
+			tasks: [{
+				id: "0E6DDDF40B46E526"
+				item: "unusualfishmod:triple_twirl_pleco_bucket"
+				type: "item"
+			}]
+			x: -27.5d
+			y: 21.5d
+		}
+		{
+			id: "62AE11EC2E362EFA"
+			tasks: [{
+				id: "0E50975A2F31F072"
+				item: "unusualfishmod:spindlefish_bucket"
+				type: "item"
+			}]
+			x: -25.5d
+			y: 21.5d
+		}
+		{
+			id: "60925D08B7BBAC2C"
+			tasks: [{
+				id: "2681E7DB674BBF63"
+				item: "unusualfishmod:ripper_bucket"
+				type: "item"
+			}]
+			x: -23.5d
+			y: 21.5d
+		}
+		{
+			id: "5F1F6A6294BCE891"
+			tasks: [{
+				id: "2CA5DE33FFC3B185"
+				item: "unusualfishmod:sea_spider_bucket"
+				type: "item"
+			}]
+			x: -27.5d
+			y: 23.0d
+		}
+		{
+			id: "1960BCB14706110D"
+			tasks: [{
+				id: "4DD6DF957AA260FE"
+				item: "unusualfishmod:clownthorn_shark_bucket"
+				type: "item"
+			}]
+			x: -26.5d
+			y: 23.5d
+		}
+		{
+			id: "48EBC2EDE8B79F96"
+			tasks: [{
+				id: "23C0A431DE98698F"
+				item: "unusualfishmod:sneepsnorp_bucket"
+				type: "item"
+			}]
+			x: -26.5d
+			y: 22.0d
+		}
+		{
+			id: "5A217EB1EB834865"
+			tasks: [{
+				id: "23D9CB12B3655224"
+				item: "unusualfishmod:blackcap_snail_bucket"
+				type: "item"
+			}]
+			x: -24.5d
+			y: 22.0d
+		}
+		{
+			id: "6B7A3320D59B0C6E"
+			tasks: [{
+				id: "5AFD7AC05C6D2EBD"
+				item: "unusualfishmod:brick_snail_bucket"
+				type: "item"
+			}]
+			x: -25.5d
+			y: 23.0d
+		}
+		{
+			id: "30254726A5CF3170"
+			tasks: [{
+				id: "480EEFCC6D457707"
+				item: "unusualfishmod:deep_crawler_bucket"
+				type: "item"
+			}]
+			x: -24.5d
+			y: 23.5d
+		}
+		{
+			id: "4FDCC5D319E49373"
+			tasks: [{
+				id: "1720EB7A5615E6FE"
+				item: "unusualfishmod:wizard_jelly_bucket"
+				type: "item"
+			}]
+			x: -23.5d
+			y: 23.0d
+		}
+		{
+			id: "50DCFEEA852E8EB7"
+			tasks: [{
+				id: "659F8FB5CF10183F"
+				item: "unusualfishmod:porcupine_lobsta_bucket"
+				type: "item"
+			}]
+			x: -27.5d
+			y: 24.5d
+		}
+		{
+			id: "4F572963E875EC25"
+			tasks: [{
+				id: "0910540BC0C22FBE"
+				item: "unusualfishmod:freshwater_mantis_bucket"
+				type: "item"
+			}]
+			x: -26.5d
+			y: 25.0d
+		}
+		{
+			id: "0304700BBB56C506"
+			tasks: [{
+				id: "1B0249BAAA3B515D"
+				item: "unusualfishmod:bark_angelfish_bucket"
+				type: "item"
+			}]
+			x: -25.5d
+			y: 24.5d
+		}
+		{
+			id: "172D1739E0D9AF38"
+			tasks: [{
+				id: "3B449388E0AE7854"
+				item: "unusualfishmod:lobed_skipper_bucket"
+				type: "item"
+			}]
+			x: -24.5d
+			y: 25.0d
+		}
+		{
+			id: "078E387EF51CFFC9"
+			tasks: [{
+				id: "25797159BCF2D119"
+				item: "unusualfishmod:beaked_herring_bucket"
+				type: "item"
+			}]
+			x: -23.5d
+			y: 24.5d
+		}
+		{
+			id: "2C19BF564D5BE57E"
+			tasks: [{
+				id: "6BCB7537312EAA72"
+				item: "unusualfishmod:picklefish_bucket"
+				type: "item"
+			}]
+			x: -22.0d
+			y: 24.5d
+		}
+		{
+			id: "11CB5351D6C98B8A"
+			tasks: [{
+				id: "2ACC1E80523F3885"
+				item: "unusualfishmod:blind_sailfin_bucket"
+				type: "item"
+			}]
+			x: -22.0d
+			y: 23.0d
+		}
+		{
+			id: "5779DFBDEC70E6EF"
+			tasks: [{
+				id: "00ADE5277B342B6D"
+				item: "unusualfishmod:demon_herring_bucket"
+				type: "item"
+			}]
+			x: -22.0d
+			y: 20.0d
+		}
+		{
+			id: "1C24462F294AC776"
+			tasks: [{
+				id: "291CAD092D1BAB81"
+				item: "unusualfishmod:amber_goby_bucket"
+				type: "item"
+			}]
+			x: -17.5d
+			y: 25.0d
+		}
+		{
+			id: "5C5BCD1129D69161"
+			tasks: [{
+				id: "1650A7F5DD105382"
+				item: "unusualfishmod:hatchet_fish_bucket"
+				type: "item"
+			}]
+			x: -22.0d
+			y: 21.5d
+		}
+		{
+			id: "61B598554D7F4692"
+			tasks: [{
+				id: "27DC19961B8905CA"
+				item: "unusualfishmod:copperflame_bucket"
+				type: "item"
+			}]
+			x: -20.5d
+			y: 24.5d
+		}
+		{
+			id: "1C6169EF83EA6F97"
+			tasks: [{
+				id: "78EA9D122A28140B"
+				item: "unusualfishmod:squoddle_bucket"
+				type: "item"
+			}]
+			x: -19.5d
+			y: 25.0d
+		}
+		{
+			id: "2D9CDA006C30CCCF"
+			tasks: [{
+				id: "645A13424E91D586"
+				item: "unusualfishmod:sea_mosquito_bucket"
+				type: "item"
+			}]
+			x: -17.5d
+			y: 23.5d
+		}
+		{
+			id: "6C978BB9BD7867D0"
+			tasks: [{
+				id: "39396754F035AA03"
+				item: "unusualfishmod:forkfish_bucket"
+				type: "item"
+			}]
+			x: -16.5d
+			y: 24.5d
+		}
+		{
+			id: "45F743E4B4536C6F"
+			tasks: [{
+				id: "4FBD23BE396D6C80"
+				item: "unusualfishmod:spoon_shark_bucket"
+				type: "item"
+			}]
+			x: -16.5d
+			y: 20.0d
+		}
+		{
+			id: "072764FA124BE049"
+			tasks: [{
+				id: "620EB72DB22A0469"
+				item: "unusualfishmod:coral_skrimp_bucket"
+				type: "item"
+			}]
+			x: -20.5d
+			y: 20.0d
+		}
+		{
+			id: "0BB2D2B95AB2D3B5"
+			tasks: [{
+				id: "03038ED9989FA350"
+				item: "unusualfishmod:circus_fish_bucket"
+				type: "item"
+			}]
+			x: -19.5d
+			y: 20.5d
+		}
+		{
+			id: "0594CAD4E72604AC"
+			tasks: [{
+				id: "4F1CA05A5FED9A1A"
+				item: "unusualfishmod:eyelash_fish_bucket"
+				type: "item"
+			}]
+			x: -18.5d
+			y: 24.5d
+		}
+		{
+			id: "397C42A9544BCA3A"
+			tasks: [{
+				id: "6F11D374BF709ABA"
+				item: "unusualfishmod:snowflake_tail_fish_bucket"
+				type: "item"
+			}]
+			x: -17.5d
+			y: 20.5d
+		}
+		{
+			id: "17513D16A455AC7D"
+			tasks: [{
+				id: "41DF3D8808F9A77A"
+				item: "unusualfishmod:crimsonshell_squid_bucket"
+				type: "item"
+			}]
+			x: -16.5d
+			y: 21.5d
+		}
+		{
+			id: "159B86E0EBFFDE7F"
+			tasks: [{
+				id: "616C4BFED0495891"
+				item: "unusualfishmod:volt_angler_bucket"
+				type: "item"
+			}]
+			x: -20.5d
+			y: 21.5d
+		}
+		{
+			id: "155C0BB72377ECFA"
+			tasks: [{
+				id: "49DB3F4B906A21C9"
+				item: "unusualfishmod:blizzardfin_bucket"
+				type: "item"
+			}]
+			x: -18.5d
+			y: 23.0d
+		}
+		{
+			id: "25B0F907D3B7A9D0"
+			tasks: [{
+				id: "6E24A30454E596B5"
+				item: "unusualfishmod:muddytop_snail_bucket"
+				type: "item"
+			}]
+			x: -18.5d
+			y: 20.0d
+		}
+		{
+			id: "0FBAFDC0D77CDE70"
+			tasks: [{
+				id: "18FFAB9D0BAD354A"
+				item: "unusualfishmod:shockcat_bucket"
+				type: "item"
+			}]
+			x: -18.5d
+			y: 21.5d
+		}
+		{
+			id: "2AAAD340578B2239"
+			tasks: [{
+				id: "42D5B8F31941B5F6"
+				item: "unusualfishmod:pinkfin_idol_bucket"
+				type: "item"
+			}]
+			x: -16.5d
+			y: 23.0d
+		}
+		{
+			id: "2215DFA0B378800D"
+			tasks: [{
+				id: "7F68C9A8C16F31F1"
+				item: "unusualfishmod:tiger_puffer_bucket"
+				type: "item"
+			}]
+			x: -20.5d
+			y: 23.0d
+		}
+		{
+			id: "468FB327A28881CB"
+			tasks: [{
+				id: "135C8250CB368BC6"
+				item: "unusualfishmod:stout_bichir_bucket"
+				type: "item"
+			}]
+			x: -19.5d
+			y: 22.0d
+		}
+		{
+			id: "5867C3F6E77B5B34"
+			tasks: [{
+				id: "43951051954FDF0F"
+				item: "unusualfishmod:tribble_bucket"
+				type: "item"
+			}]
+			x: -19.5d
+			y: 23.5d
+		}
+		{
+			id: "49ED31A39FBC9F75"
+			tasks: [{
+				id: "714A1D256DF504C7"
+				item: "unusualfishmod:trumpet_squid_bucket"
+				type: "item"
+			}]
+			x: -17.5d
+			y: 22.0d
+		}
+		{
+			dependencies: ["154AE248A11623BC"]
+			description: [
+				"它会驱逐周围的每一个生物（除了凋零和末影龙）"
+				"要注意，它的攻击能够破盾"
+				"当它受到攻击时，它会发出咆哮"
+				"这会给玩家带来几秒钟的“恐惧”效果"
+				"&7（玩家将无法控制自身）"
+				"如果你右键喂它一些“远古生物肉”"
+				"它会产生2:30分钟左右的“始源”效果"
+				"&7（每击杀一个生物，攻击力增加半颗心）"
+				"每当它击杀一个生物，它就有可能掉落一颗牙齿"
+				"&7（牙齿可用于制作一种新武器）"
+				"&3你可以用各种肉类右键来繁殖它们"
+			]
+			id: "3E6D62BD5D04D6F5"
+			subtitle: "中立生物，无法驯服 &7(只有当你离它太近或靠近其幼崽时才会攻击)"
+			tasks: [{
+				id: "2E102F1A99E3D7FB"
+				item: "wan_ancient_beasts:eater_egg"
+				type: "item"
+			}]
+			x: 26.5d
+			y: -13.0d
+		}
+		{
+			dependencies: ["7DFA979258CA53BC"]
+			description: [
+				"在幼崽时期喂食孢子花才能被驯服"
+				"而在成年时期喂食则只能进行繁殖&7(掉落一颗蛋)"
+				""
+				"驯服且长大后，可以为其装备箱子"
+				"潜行右键可以打开GUI"
+				"可以装备鞍来骑乘"
+				"最多同时容纳4名玩家"
+				"能够越过栅栏或围墙"
+				"受伤时可以用杜鹃树叶来治愈"
+			]
+			id: "5452A323E7506E47"
+			subtitle: "被动型生物"
+			tasks: [{
+				id: "34D510BDBC1EF298"
+				item: "wan_ancient_beasts:walker_egg"
+				type: "item"
+			}]
+			x: 32.5d
+			y: -11.0d
+		}
+		{
+			dependencies: ["6A616190B9B74A62"]
+			description: [
+				"可以用垂根繁殖"
+				"它坚硬的壳能够免疫投射物，例如弓箭，三叉戟等"
+				"你可以用凿子偷走它的一根尖刺，但这会让它生气"
+			]
+			id: "71632DB799B3F28D"
+			subtitle: "中立且无法驯服"
+			tasks: [{
+				id: "2C092CA28CFACDE1"
+				item: "wan_ancient_beasts:crusher_egg"
+				type: "item"
+			}]
+			x: 25.5d
+			y: -13.0d
+		}
+		{
+			dependencies: ["042DA9E95FB3743C"]
+			description: [
+				"可以喂其河豚来驯服"
+				"驯服后可以右键让它坐下"
+				"当唱片机播放音乐时，它会开始跳舞"
+				"跳舞时，它会掉落一些&a羽毛"
+				"&3可以喂其鲑鱼来繁殖"
+			]
+			id: "59C605A9A4A8081A"
+			subtitle: "被动生物"
+			tasks: [{
+				id: "2FA15AFE77E424FD"
+				item: "wan_ancient_beasts:glider_egg"
+				type: "item"
+			}]
+			x: 29.5d
+			y: -13.0d
+		}
+		{
+			description: [
+				"它会主动攻击Toxlacanth"
+				"可以用生Toxlacanth驯服"
+				"驯服后，你可以给它套上鞍来骑乘"
+				"骑乘后可长按空格煽动翅膀来进行飞行"
+				"它在空中会滑翔一段距离"
+				"再次长按空格煽动翅膀可以飞的高一些"
+				"需留意左上角的体力值"
+				"每次长按空格后都会消耗"
+				"你可以通过喂其Toxlacanth来恢复"
+				"这样会快一些，或者停下来耐心等待"
+				"&3可以喂其河豚来繁殖"
+			]
+			id: "2B0E81833E5FAD01"
+			subtitle: "中立生物 &7(只有当你攻击它时才会还击)"
+			tasks: [{
+				id: "3210D313290898DD"
+				item: "wan_ancient_beasts:soarer_egg"
+				type: "item"
+			}]
+			x: 28.0d
+			y: -13.0d
+		}
+		{
+			dependencies: ["3E6D62BD5D04D6F5"]
+			id: "4469A5E92A8AD5E4"
+			subtitle: "一种新武器，坚固如铁斧，但速度如普通剑"
+			tasks: [{
+				id: "221EB344B959AFE5"
+				item: {
+					Count: 1
+					id: "wan_ancient_beasts:ancient_club"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 26.5d
+			y: -12.0d
+		}
+		{
+			dependencies: [
+				"1D887ECB62FAC9DE"
+				"608715FDB4317892"
+			]
+			id: "129CD5FE8571D0B4"
+			subtitle: "盾牌上的尖刺会对攻击者造成伤害"
+			tasks: [{
+				id: "2539A13BB8D2D58E"
+				item: {
+					Count: 1
+					id: "wan_ancient_beasts:reinforced_shield"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 25.0d
+			y: -11.0d
+		}
+		{
+			id: "1D887ECB62FAC9DE"
+			subtitle: "通过结构内的可疑方块获得"
+			tasks: [{
+				id: "078A5F6EDEB8C7D3"
+				item: "wan_ancient_beasts:ancient_upgrade_smithing_template"
+				type: "item"
+			}]
+			x: 24.5d
+			y: -12.0d
+		}
+		{
+			dependencies: ["59C605A9A4A8081A"]
+			id: "2F49044431811CED"
+			tasks: [{
+				id: "79B6369224B643B0"
+				item: {
+					Count: 1
+					id: "wan_ancient_beasts:hang_glider"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 29.5d
+			y: -12.0d
+		}
+		{
+			description: [
+				"&3非常罕见，可以在以下地方找到："
+				"&7积水的洞穴"
+				"&7暖水海洋"
+				"&7沼泽"
+				"&7红树林沼泽"
+				"&4不能被钓上来"
+				"&3击中它会产生导致恶心、中毒和虚弱的效果云"
+			]
+			id: "66821DE8755CB5EC"
+			subtitle: "也许和\"coelacanth\"（腔棘鱼）有关"
+			tasks: [{
+				id: "2A75164C2AEB5A77"
+				item: "wan_ancient_beasts:toxlacanth_bucket"
+				type: "item"
+			}]
+			x: 24.5d
+			y: -13.0d
+		}
+		{
+			id: "440F735C5D2C1CDA"
+			subtitle: "冰刺城堡"
+			tasks: [{
+				id: "7DC4665EE5A6D62B"
+				structure: "wan_ancient_beasts:ice_castle"
+				type: "structure"
+			}]
+			x: 32.5d
+			y: -14.0d
+		}
+		{
+			dependencies: ["440F735C5D2C1CDA"]
+			id: "609510483B82CFF5"
+			tasks: [{
+				icon: "wan_ancient_beasts:suspicious_ice"
+				id: "6EE8DDB445160678"
+				observe_type: 0
+				timer: 30L
+				title: "需要凿子"
+				to_observe: "wan_ancient_beasts:suspicious_ice"
+				type: "observation"
+			}]
+			x: 32.5d
+			y: -13.0d
+		}
+		{
+			dependencies: ["609510483B82CFF5"]
+			id: "7DFA979258CA53BC"
+			subtitle: "持续右键，即可像刷子一样扫出一些藏在冰里的物品"
+			tasks: [{
+				id: "296BA6C26EA5DAE9"
+				item: {
+					Count: 1
+					id: "wan_ancient_beasts:chisel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 32.5d
+			y: -12.0d
+		}
+		{
+			description: ["获得后，可以放置在地面进行孵化，或者制作稻草窝加速孵化。"]
+			id: "3D318F57172D675D"
+			shape: "gear"
+			size: 2.0d
+			subtitle: "模组的蛋有概率从结构内的可疑方块获取"
+			tasks: [{
+				id: "58B0712F401C9D74"
+				title: "了解"
+				type: "checkmark"
+			}]
+			title: "模组内的蛋获取方式"
+			x: 22.5d
+			y: -15.0d
+		}
+		{
+			id: "6A616190B9B74A62"
+			subtitle: "沙漠神庙"
+			tasks: [{
+				id: "728E8B86C39A0F43"
+				structure: "wan_ancient_beasts:desert_temple"
+				type: "structure"
+			}]
+			x: 25.5d
+			y: -14.0d
+		}
+		{
+			id: "154AE248A11623BC"
+			subtitle: "恶地神庙"
+			tasks: [{
+				id: "374665A6363B2116"
+				structure: "wan_ancient_beasts:badlands_temple"
+				type: "structure"
+			}]
+			x: 26.5d
+			y: -14.0d
+		}
+		{
+			id: "593A5E60D67195D5"
+			subtitle: "远古巢穴"
+			tasks: [{
+				id: "6870C3F708F3DBA4"
+				structure: "wan_ancient_beasts:ancient_nest_single"
+				type: "structure"
+			}]
+			x: 27.5d
+			y: -14.0d
+		}
+		{
+			id: "2E5C19C72C707941"
+			subtitle: "远古巢穴"
+			tasks: [{
+				id: "4968E3356D1D83CA"
+				structure: "wan_ancient_beasts:ancient_nest_double"
+				type: "structure"
+			}]
+			x: 28.5d
+			y: -14.0d
+		}
+		{
+			id: "042DA9E95FB3743C"
+			subtitle: "废弃的村庄"
+			tasks: [{
+				id: "19A5801EB2A2A314"
+				structure: "wan_ancient_beasts:abandoned_village"
+				type: "structure"
+			}]
+			x: 29.5d
+			y: -14.0d
+		}
+		{
+			id: "13387926159BA595"
+			subtitle: "废弃小屋"
+			tasks: [{
+				id: "2B1D5FFA4A267E14"
+				structure: "wan_ancient_beasts:abandoned_hut"
+				type: "structure"
+			}]
+			x: 30.5d
+			y: -14.0d
+		}
+		{
+			id: "6DD320CDDAA8F280"
+			subtitle: "废弃房子"
+			tasks: [{
+				id: "16FE04E5D3A0778D"
+				structure: "wan_ancient_beasts:abandoned_housing"
+				type: "structure"
+			}]
+			x: 31.5d
+			y: -14.0d
+		}
+		{
+			dependencies: ["71632DB799B3F28D"]
+			id: "608715FDB4317892"
+			tasks: [{
+				id: "65673247804E7839"
+				item: "wan_ancient_beasts:crusher_spike"
+				type: "item"
+			}]
+			x: 25.5d
+			y: -12.0d
+		}
+		{
+			dependencies: ["3D318F57172D675D"]
+			id: "38B1BF7D0AC19E0A"
+			subtitle: "比放在地面孵化要快"
+			tasks: [{
+				id: "1032E53BBC6BB3EF"
+				item: "wan_ancient_beasts:nest"
+				type: "item"
+			}]
+			x: 22.5d
+			y: -13.0d
+		}
+	]
+	title: "动物园"
+}

@@ -1,0 +1,1816 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "2F79C686817F71CC"
+	group: ""
+	icon: {
+		Count: 1b
+		id: "hmag:insomnia_sword"
+		tag: {
+			Damage: 0
+			hmag.level: 5b
+		}
+	}
+	id: "2F79C686817F71CC"
+	images: [{
+		click: ""
+		corner: false
+		dev: false
+		height: 21.0d
+		hover: [ ]
+		image: "mmorpg:textures/ftb/shu.png"
+		rotation: 0.0d
+		width: 20.0d
+		x: 0.5d
+		y: -1.5d
+	}]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["27DAC6D202AE7284"]
+			dependency_requirement: "one_completed"
+			description: [
+				"寻找一个临时避难所用于存放地图装置 并在&9附近设定好出生点(副本难度较高 复活用）"
+				"打开&9战利品箱获取地图"
+				"将&9地图装置放置地面，用冒险地图右击装置激活"
+				"最后右击装置进入迷宫探险"
+				"&5冒险地图品质越高，战利品越好，同时难度也更高"
+				"&5探索完毕，使用归家珍珠回到主世界"
+				"&5如果地图内阵亡，可以接着进入挑战，直到激活新地图"
+			]
+			icon: "mmorpg:map"
+			id: "651E44EC330F3CE5"
+			rewards: [
+				{
+					id: "6A817756C989AF63"
+					item: "mmorpg:teleporter"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "09DA9AB1A334CFA7"
+					item: "mmorpg:tp_back"
+					type: "item"
+				}
+				{
+					id: "5C8DB19CCED95208"
+					item: {
+						Count: 1b
+						id: "mmorpg:chest/harvest_blue"
+						tag: {
+							mmorpg_loot_chest: "{\"num\":2,\"rar\":\"uncommon\",\"lvl\":3,\"id\":\"map\",\"key\":\"\"}"
+						}
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "640369E2B9CA8CDE"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4D3B3039FFC2AD4A"
+					table_id: 7906379700992951605L
+					type: "random"
+				}
+			]
+			size: 1.0d
+			subtitle: "获取极品装备的重要途径，也可用于提升等级"
+			tasks: [{
+				days: 3
+				id: "72171B3B00544BDF"
+				title: "到达第三天"
+				type: "questsadditions:days"
+			}]
+			title: "进入冒险地图（装备副本）"
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			description: ["探险家指南针搜&9frigate large"]
+			icon: "twilightforest:firefly"
+			id: "2B7FE75905002A4E"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "56796E9C8AD64918"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7E02E4C978FFC40A"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "1C8D0C69648566DF"
+				structure: "awesomedungeonocean:frigate_large"
+				type: "structure"
+			}]
+			title: "探索大型海洋船只"
+			x: -4.0d
+			y: 4.0d
+		}
+		{
+			description: ["探险家指南针搜&9lost castle"]
+			icon: "twilightforest:firefly"
+			id: "0067DA437123FC8F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6D567FA91AD8A9DF"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "62DF1D93109AA61F"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			subtitle: "前往维度冒险 任务栏"
+			tasks: [{
+				id: "74EF1D3A70236AC9"
+				structure: "tlc:lost_castle"
+				type: "structure"
+			}]
+			title: "探索大型城堡"
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["651E44EC330F3CE5"]
+			description: [
+				"&9到达15级后前往维度冒险任务栏&r，进入不同维度探险"
+				"此页面后续任务皆为主世界探索成就任务"
+				"通过地牢或夜晚刷怪（夜晚怪物更多），或&9进入冒险地图刷等级"
+				"15级后前往维度探险任务栏继续提升等级"
+				"15级后尝试前往下界提升等级探索"
+			]
+			icon: {
+				Count: 1b
+				id: "l2weaponry:fiery_spear"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "63504516567C98C9"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1F72F9928ACB0950"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "072EE45913950EE6"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					id: "174ADDCCA5B0044C"
+					item: "duckmoney:bundle1"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "11BA5B28065C97E6"
+					item: "minecraft:diamond"
+					type: "item"
+				}
+				{
+					id: "3D7BE8E6C7B64D15"
+					item: "minecraft:obsidian"
+					type: "item"
+				}
+			]
+			title: "探索主世界并提升至15级"
+			x: 0.5d
+			y: 3.0d
+		}
+		{
+			description: ["探险家指南针搜&9world Tree Manor"]
+			icon: "twilightforest:firefly"
+			id: "0DD0E99569E88027"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "73DF842E543CBE38"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0BBF8AA3483A9A9A"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "1778ED19A305F557"
+				structure: "shrines:world_tree_manor"
+				type: "structure"
+			}]
+			title: "发现世界树！"
+			x: -2.0d
+			y: 2.5d
+		}
+		{
+			description: ["探险家指南针搜索&9desert temple"]
+			icon: "twilightforest:firefly"
+			id: "2C1B3A471F6F17B8"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "67661795483C0CA9"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "61B38EF0E42C7C2A"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					id: "040A1452AFA836C0"
+					item: "duckmoney:bundle1"
+					type: "item"
+				}
+			]
+			subtitle: "沙漠神殿"
+			tasks: [{
+				id: "6430EE442205D6A3"
+				structure: "#betterdeserttemples:better_desert_temples"
+				type: "structure"
+			}]
+			title: "探索大型沙漠神殿"
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			description: ["使用刷子，在金字塔内可疑沙子里获取项链，唤醒古老的生物"]
+			icon: "aquamirae:ship_graveyard_echo"
+			id: "52F5E6F73755297F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "744F32F82276070F"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "55BB25C1B8177F2C"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					count: 3
+					id: "6B1B02546572B5DF"
+					item: "duckmoney:bundle2"
+					type: "item"
+				}
+			]
+			shape: "square"
+			subtitle: "探险家指南针搜&9cursed Pyramid"
+			tasks: [
+				{
+					id: "3196907C769F4FF8"
+					structure: "cataclysm:cursed_pyramid"
+					type: "structure"
+				}
+				{
+					id: "76C641587633E049"
+					item: "minecraft:suspicious_sand"
+					type: "item"
+				}
+				{
+					id: "6DB692D6FB811448"
+					item: "cataclysm:necklace_of_the_desert"
+					type: "item"
+				}
+				{
+					id: "338FA1BF641E829A"
+					item: {
+						Count: 1b
+						id: "minecraft:brush"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "发现危险的诅咒金字塔"
+			x: 0.5d
+			y: -7.5d
+		}
+		{
+			description: [
+				"&9寻找地牢结构或夜晚进行清除怪物"
+				"熟悉战斗系统 注意技能使用 技能是非常强力的战斗方法"
+				"V键可以投掷照明棒辅助照明"
+				"注意&9ALT键可以闪避&r拉开距离，&9长按CTRL键可以快速冲刺"
+				"&e任务目标：击杀15只生物"
+				"人造史诗武器灵魂可以给你的白板武器装备提供强大属性"
+			]
+			icon: {
+				Count: 1b
+				id: "l2weaponry:eternium_spear"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "27DAC6D202AE7284"
+			rewards: [
+				{
+					id: "48EE2D24AF0FCA34"
+					item: {
+						Count: 1b
+						id: "mmorpg:chest/rare_gear"
+						tag: {
+							mmorpg_loot_chest: "{\"num\":5,\"rar\":\"rare\",\"lvl\":4,\"id\":\"gear\",\"key\":\"\"}"
+						}
+					}
+					title: "LV 4随机装备箱（珍稀品质）"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2BA489AC6822B0E3"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					id: "026AF023D4B0D5A4"
+					item: {
+						Count: 1b
+						id: "mmorpg:stat_soul/family/weapon/epic"
+						tag: {
+							level: 1
+							tier: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6E97EFD36EAC7D15"
+					table_id: 7906379700992951605L
+					type: "random"
+				}
+			]
+			shape: "diamond"
+			size: 2.5d
+			subtitle: "清理怪物"
+			tasks: [{
+				id: "7D4B993392EBA94E"
+				stat: "minecraft:mob_kills"
+				title: "击杀15只生物"
+				type: "stat"
+				value: 15
+			}]
+			title: "战斗新手"
+			x: -1.0d
+			y: 6.0d
+		}
+		{
+			icon: "aquamirae:ship_graveyard_echo"
+			id: "2E8F4A750346BAEB"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2451376E5FAF8752"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "50F7040F18DE1617"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					count: 3
+					id: "2E082164EC200C8A"
+					item: "duckmoney:bundle2"
+					type: "item"
+				}
+			]
+			shape: "square"
+			subtitle: "使用机械之眼寻找"
+			tasks: [
+				{
+					id: "1E932B6EBD434B35"
+					structure: "cataclysm:ancient_factory"
+					type: "structure"
+				}
+				{
+					id: "2070A709BAC4C815"
+					item: "minecraft:nether_star"
+					type: "item"
+				}
+				{
+					id: "39055DA0332C43FA"
+					item: "cataclysm:mech_eye"
+					type: "item"
+				}
+			]
+			title: "发现远古机械文明"
+			x: 3.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["2E8F4A750346BAEB"]
+			description: ["下届之心激活里面的先驱者"]
+			icon: "born_in_chaos_v1:death_totem"
+			id: "4DF534ACEDEFC99A"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "631C00C61E415FEF"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "380A5A8C20841D07"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "4763BA8019301B15"
+					item: "duckmoney:bundle5"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4029F70C47B2679D"
+					table_id: 7906379700992951605L
+					type: "random"
+				}
+			]
+			shape: "square"
+			tasks: [{
+				entity: "cataclysm:the_harbinger"
+				id: "0B3F9FE755DC32F3"
+				type: "kill"
+				value: 1L
+			}]
+			title: "击杀boss"
+			x: 4.5d
+			y: -8.5d
+		}
+		{
+			description: ["探险家指南针搜对应结构名称英文名"]
+			icon: "twilightforest:firefly"
+			id: "53453713D1BBC0BD"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "43B5CB40B2ABAE21"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4D47C08B8C4FB014"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "62DBAA42C6ECDF25"
+					structure: "shrines:abandoned_villa"
+					type: "structure"
+				}
+				{
+					id: "65626D1E61BC1663"
+					structure: "shrines:luxury_villa"
+					type: "structure"
+				}
+				{
+					id: "30596426C21A058E"
+					structure: "shrines:modern_villa"
+					type: "structure"
+				}
+			]
+			title: "野生别野"
+			x: 4.0d
+			y: -2.5d
+		}
+		{
+			description: [
+				"探险家指南针搜&9sunken City"
+				"似乎有远古的文明沉没于海底"
+			]
+			icon: "aquamirae:ship_graveyard_echo"
+			id: "4C3B5D0125A1CC97"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7C11D43D1C28186A"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "70F41A85E7C71F4E"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					count: 3
+					id: "75F699C53C0E53A1"
+					item: "duckmoney:bundle2"
+					type: "item"
+				}
+			]
+			shape: "square"
+			tasks: [{
+				id: "7230E5C3B063C55C"
+				structure: "cataclysm:sunken_city"
+				type: "structure"
+			}]
+			title: "沉没之城"
+			x: -1.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["4C3B5D0125A1CC97"]
+			description: ["在沉没之城水下中心，使用深渊祭品激活祭坛，唤醒沉睡的海神"]
+			icon: "born_in_chaos_v1:death_totem"
+			id: "1A75D68D20C6FE30"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4D6EE43188885832"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "553738F1D314DAC1"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					count: 3
+					id: "64C42B34117F09F5"
+					item: "duckmoney:bundle5"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4A0D8F3BDE8BABA6"
+					table_id: 7906379700992951605L
+					type: "random"
+				}
+			]
+			shape: "square"
+			tasks: [
+				{
+					entity: "cataclysm:the_leviathan"
+					id: "591CE6D810F5DDB7"
+					type: "kill"
+					value: 1L
+				}
+				{
+					id: "5136BCC767FFFA9E"
+					item: "cataclysm:abyssal_sacrifice"
+					type: "item"
+				}
+			]
+			title: "击杀boss"
+			x: -3.5d
+			y: -8.5d
+		}
+		{
+			description: ["探险家指南针搜索&9ocean monument"]
+			icon: "twilightforest:firefly"
+			id: "20EE67DD6782E916"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "541BFC02753F50BE"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "159557573BD717EB"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "3039E039A4F3410E"
+				structure: "betteroceanmonuments:ocean_monument"
+				type: "structure"
+			}]
+			title: "发现大型海底遗迹"
+			x: 6.0d
+			y: -2.5d
+		}
+		{
+			description: [
+				"通过钓鱼获取珍贵战利品"
+				"潜水装备可以在海王的恩惠宝箱里开出，钓鱼获取珍稀宝藏"
+			]
+			icon: "aquamirae:ship_graveyard_echo"
+			id: "7DDD700AFE57C150"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0DAAC7D84EE52FC9"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6970D67EFBFD4C17"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					count: 3
+					id: "303A7260701F0157"
+					item: "duckmoney:bundle2"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3B678D02E8244EBE"
+					table_id: 7906379700992951605L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "074FA44D4AB73A06"
+				item: {
+					Count: 1b
+					id: "aquaculture:neptunium_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "获取水下呼吸装备"
+			x: 4.5d
+			y: -1.0d
+		}
+		{
+			icon: "twilightforest:firefly"
+			id: "4949384FA9DDA294"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "429A2151448213AC"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4E5248BF3A8F4ADC"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			subtitle: "探险家指南针搜索&9crypt"
+			tasks: [{
+				id: "40343E06E082255C"
+				structure: "graveyard:crypt"
+				type: "structure"
+			}]
+			title: "发现地下大型墓穴"
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["62ED741384FA8FC3"]
+			description: ["手持匕首，副手拿玻璃瓶，击杀村民获取血液直到装满血瓶"]
+			icon: "alexsmobs:blood_sac"
+			id: "605C9B45884D925F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7DC10F8C12A41DC3"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "431D01FEA41C81E8"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			shape: "square"
+			tasks: [
+				{
+					id: "2A0E6530213D9316"
+					item: {
+						Count: 1b
+						id: "graveyard:bone_dagger"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4806468688B47BFA"
+					item: "minecraft:glass_bottle"
+					type: "item"
+				}
+			]
+			title: "活人献祭"
+			x: -6.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["78C4888B2F7655BD"]
+			description: ["在墓穴墓地结构，获取骨杖碎片"]
+			id: "62ED741384FA8FC3"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "466E655DA18D9E28"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "077DA1C9B2659F5A"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					count: 5
+					id: "3ADCB9B3F1697D47"
+					item: "duckmoney:bundle2"
+					type: "item"
+				}
+			]
+			shape: "square"
+			tasks: [
+				{
+					id: "0601A84A5AFEC495"
+					item: "graveyard:upper_bone_staff"
+					type: "item"
+				}
+				{
+					id: "3B4AFFD73306973F"
+					item: "graveyard:middle_bone_staff"
+					type: "item"
+				}
+				{
+					id: "16D0E5502CFDE3FA"
+					item: "graveyard:lower_bone_staff"
+					type: "item"
+				}
+			]
+			x: -5.0d
+			y: -2.5d
+		}
+		{
+			description: ["阴森的地方 似乎藏着什么秘密等待揭开"]
+			icon: "twilightforest:firefly"
+			id: "2889A34961A3D19F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "42F41EAEDA94BB2F"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0753C5B1013B6A24"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			subtitle: "探险家指南针搜&9dead tree"
+			tasks: [{
+				id: "3EA281893A2A4D71"
+				structure: "graveyard:dead_tree"
+				type: "structure"
+			}]
+			title: "死树"
+			x: -4.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["605C9B45884D925F"]
+			description: [
+				"寻找位于海洋上空的监狱"
+				"夜晚时分 祭坛周围血迹上放置3个骨杖碎片  将血瓶倒入祭坛中央  "
+				"唤醒boss"
+			]
+			icon: "born_in_chaos_v1:death_totem"
+			id: "38881128815459B7"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "28CCBCD1B7E60011"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4CE0A5AD1CE5C3F6"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					count: 2
+					id: "7ECF066821200B0C"
+					item: "duckmoney:bundle5"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "745E61FB48F33EA3"
+					table_id: 7906379700992951605L
+					type: "random"
+				}
+			]
+			shape: "square"
+			subtitle: "探险家指南针搜&9lich Prison"
+			tasks: [{
+				id: "55C322B97E39779C"
+				structure: "graveyard:lich_prison"
+				type: "structure"
+			}]
+			title: "血祭仪式"
+			x: -5.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["52F5E6F73755297F"]
+			icon: "born_in_chaos_v1:death_totem"
+			id: "32B3F036707F1417"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1E5080D74E25C9C5"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0A4460A079DD85F7"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					id: "7DCC628D6444986E"
+					item: "duckmoney:bundle5"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0725BF2BF1F5E8A4"
+					table_id: 7906379700992951605L
+					type: "random"
+				}
+			]
+			shape: "square"
+			tasks: [{
+				entity: "cataclysm:ancient_remnant"
+				id: "78CE6F19E0A578CC"
+				type: "kill"
+				value: 1L
+			}]
+			title: "击杀boss"
+			x: 1.5d
+			y: -9.5d
+		}
+		{
+			description: ["探险家指南针搜&9ancient city"]
+			icon: "aquamirae:ship_graveyard_echo"
+			id: "28C574AC31BEF9AD"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "53BE147E51EF2A2C"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4862A62EF47B9AC5"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					count: 3
+					id: "3CD6ACF9C70657B0"
+					item: "duckmoney:bundle2"
+					type: "item"
+				}
+			]
+			shape: "square"
+			subtitle: "远古城市"
+			tasks: [{
+				id: "2EEA3D8020DDA7F1"
+				structure: "minecraft:ancient_city"
+				type: "structure"
+			}]
+			title: "深埋地下的远古城市"
+			x: 4.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["28C574AC31BEF9AD"]
+			icon: "born_in_chaos_v1:death_totem"
+			id: "6E660BF7F1CA9081"
+			rewards: [
+				{
+					id: "5C891466BEB71BFA"
+					item: "duckmoney:bundle5"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6BEE3ACD3E710A53"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5C8483AF74E2F551"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0CBECD7DFC5EC3C5"
+					table_id: 7906379700992951605L
+					type: "random"
+				}
+			]
+			shape: "square"
+			tasks: [{
+				entity: "minecraft:warden"
+				id: "1F5BA4D05B74BC33"
+				type: "kill"
+				value: 1L
+			}]
+			title: "直面恐惧"
+			x: 6.0d
+			y: -6.0d
+		}
+		{
+			id: "00ED5E6297EA8DE9"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "28C506484F6B8744"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "326EDB0373D30A4B"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [{
+				biome: "biomesoplenty:lavender_field"
+				id: "798D48371B49476B"
+				title: "访问薰衣草平原"
+				type: "biome"
+			}]
+			title: "访问薰衣草花海"
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["63504516567C98C9"]
+			description: [
+				"前往&9挖砍装备进阶/副职业任务栏&r  进行装备系统进阶学习"
+				"钩爪基础使用方法：左键发射后，按住左键牵引自己移动"
+				"Shift+左键：松开钩爪"
+			]
+			icon: {
+				Count: 1b
+				id: "adhooks:spear_launcher"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "78B1350307DDC426"
+			rewards: [{
+				id: "481D999BF73FB6FB"
+				item: {
+					Count: 1b
+					id: "adhooks:spear_launcher"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "2D250716C9305031"
+				title: "学习"
+				type: "checkmark"
+			}]
+			title: "学习装备系统进阶教程"
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			description: [
+				"发光的南瓜？像是某种仪式"
+				"挖走试试"
+			]
+			icon: "born_in_chaos_v1:infernal_evil_pumpkin_s"
+			id: "47D6980F47DEE7EE"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "72FF53DE715DB857"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "13BC3BB470358A67"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "44EB50F377FADF44"
+					item: "duckmoney:bundle1"
+					type: "item"
+				}
+			]
+			shape: "square"
+			tasks: [{
+				id: "06A3162961CEE3B7"
+				observe_type: 0
+				timer: 40L
+				title: "观察恶魔南瓜"
+				to_observe: "born_in_chaos_v1:infernal_evil_pumpkin_s"
+				type: "observation"
+			}]
+			title: "神秘仪式"
+			x: -0.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["78B1350307DDC426"]
+			description: [
+				"寻找旷野高塔，获取滑翔伞"
+				"获得滑翔伞和钩爪后，并提升等级到15级，前往维度探险任务栏，开始进入下界探险"
+			]
+			id: "035794107B064A19"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "40F9D76664392901"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "33A014E104E6678B"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "5A6171CEF0AEEAEF"
+				item: "paraglider:paraglider"
+				type: "item"
+			}]
+			title: "增强机动装置"
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			description: [
+				"如果路上遇到报废的带着竹蜻蜓一样的机械生物36号"
+				"喂食它金锭也许能够唤醒它"
+				"使用铁可以给它修复回血"
+			]
+			icon: "twilightforest:firefly"
+			id: "45774708B6A009F2"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0520BF76EB9EE8A0"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3752C98580684509"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "76EF49345B96449B"
+					item: "minecraft:gold_ingot"
+					type: "item"
+				}
+				{
+					id: "6E3EBF444F8FB6DC"
+					type: "checkmark"
+				}
+			]
+			title: "奇怪的机器 36"
+			x: 0.5d
+			y: -5.0d
+		}
+		{
+			icon: "aquamirae:ship_graveyard_echo"
+			id: "78C4888B2F7655BD"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2E016C2B82B9556A"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1F198DB2EFE41F26"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			shape: "square"
+			tasks: [
+				{
+					id: "3B1889D06D701E5C"
+					observe_type: 0
+					timer: 40L
+					title: "观察骨杖碎片"
+					to_observe: "graveyard:lower_bone_staff"
+					type: "observation"
+				}
+				{
+					id: "2DE17266C77F9828"
+					observe_type: 0
+					timer: 40L
+					title: "观察骨杖碎片"
+					to_observe: "graveyard:middle_bone_staff"
+					type: "observation"
+				}
+				{
+					id: "1C4D11C37C802A36"
+					observe_type: 0
+					timer: 40L
+					title: "观察骨杖碎片"
+					to_observe: "graveyard:upper_bone_staff"
+					type: "observation"
+				}
+			]
+			title: "死神低语"
+			x: -3.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["035794107B064A19"]
+			description: [
+				"1-60 主世界寻找等级相近怪物（夜晚怪物更多）"
+				"15-100 下界怪物最低15级，然后与玩家等级同步  "
+				"25-100 暮色森林怪物最低25级，随后等级同步玩家"
+				"35-100 恒晓之地和永昼之地最低35级，等级同步"
+				"45-100 末地最低45级  等级同步"
+				"1-100 冒险地图  经验略有降低，但装备爆率高"
+				"&e此界面后续任务皆为主世界自由探索成就任务"
+				"&5指引你寻找大型结构和击杀boss引导"
+				"&e15级后可前往维度冒险任务栏，指引你探索新的结构和boss"
+				"也可继续主世界探索提升等级装备"
+			]
+			id: "314C98C759C42B88"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "250F71A784697FA3"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6586AFC8FE6DFAF5"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "6E77F7D3576B4EB3"
+					item: "duckmoney:bundle1"
+					type: "item"
+				}
+			]
+			subtitle: "前往维度探险任务栏获取详细攻略"
+			tasks: [{
+				days: 7
+				id: "20402B5D32084F10"
+				title: "到达第7天"
+				type: "questsadditions:days"
+			}]
+			title: "提升等级推荐"
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			icon: "twilightforest:firefly"
+			id: "3623181C8F1FC0B8"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2CA192E51572F0E4"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "367DB6E40C7E1EC2"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "6905BBF58A3E3CA2"
+					item: "duckmoney:bundle2"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2755B29E8BBF104F"
+				structure: "dungeons_arise:bandit_towers"
+				type: "structure"
+			}]
+			title: "发现大型塔楼"
+			x: 3.0d
+			y: 4.5d
+		}
+		{
+			icon: "twilightforest:firefly"
+			id: "2F7FA42F0554706B"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7C40082FB4AB4380"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6071861510B66170"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "6D21541C5C819633"
+				structure: "dungeons_arise:illager_fort"
+				type: "structure"
+			}]
+			title: "发现城堡"
+			x: 3.5d
+			y: 2.0d
+		}
+		{
+			icon: "twilightforest:firefly"
+			id: "1746AE62A0E37929"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "527A7B0E603BC45A"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4776AEC68D7D5C5F"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "73558EAF743D4640"
+				structure: "dungeons_arise:infested_temple"
+				type: "structure"
+			}]
+			title: "发现大型神庙"
+			x: -3.5d
+			y: -7.0d
+		}
+		{
+			icon: "twilightforest:firefly"
+			id: "132A9D7C0D7A687B"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "52DB7CE08FC3FF8B"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "150A94D032EFBBE1"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "1A560AC011F6F52C"
+				structure: "dungeons_arise:jungle_tree_house"
+				type: "structure"
+			}]
+			title: "发现丛林树屋"
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			icon: "twilightforest:firefly"
+			id: "6C8948A7C5768296"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "79BB2CBD563CEFBA"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "68CD37854974BAF0"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "2647A3FF334A2053"
+					item: "duckmoney:bundle1"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1CF256888C0823F8"
+				structure: "dungeons_arise:thornborn_towers"
+				type: "structure"
+			}]
+			title: "发现大型城堡"
+			x: -2.5d
+			y: -5.5d
+		}
+		{
+			icon: "aquamirae:ship_graveyard_echo"
+			id: "5424E6C8E38794E6"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3137F831BD691E73"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5115D491B902FAF1"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "603D008B0CB76DB5"
+					item: "duckmoney:bundle2"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "50A8863567811B1E"
+					table_id: 7906379700992951605L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "4BFD0F1F26E08B98"
+				structure: "dungeons_arise:keep_kayra"
+				type: "structure"
+			}]
+			title: "发现巨型神殿"
+			x: -1.5d
+			y: -4.0d
+		}
+		{
+			icon: "twilightforest:firefly"
+			id: "7538562435832B8C"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "70E8F82B3B508313"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "55777B712F3B437F"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "0EE77B024C68B0F5"
+				structure: "dungeons_arise:aviary"
+				type: "structure"
+			}]
+			title: "发现大型塔楼"
+			x: 0.5d
+			y: -3.0d
+		}
+		{
+			icon: "aquamirae:ship_graveyard_echo"
+			id: "27D9297F02379675"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7CB397D06162174E"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3B3DF03BB3243861"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "0F0BBD04C9894081"
+					item: "duckmoney:bundle2"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "76C467E349C1EF2C"
+				structure: "dungeons_arise:shiraz_palace"
+				type: "structure"
+			}]
+			title: "发现巨型宫殿"
+			x: 5.5d
+			y: -4.0d
+		}
+		{
+			icon: "twilightforest:firefly"
+			id: "513B062AD0F738E1"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "10C53DA50399E6E1"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "44C2EA936D7BB8D2"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "61E787233509AAFC"
+				structure: "dungeons_arise:heavenly_challenger"
+				type: "structure"
+			}]
+			title: "发现空艇"
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			icon: "twilightforest:firefly"
+			id: "0C4040CDA45A49F1"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5311221FCFFF7BA7"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "02720AC8F29EDB97"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "1AD7B7A1BD02A0DC"
+				structure: "dungeons_arise:undead_pirate_ship"
+				type: "structure"
+			}]
+			title: "发现幽灵船"
+			x: -0.5d
+			y: 1.0d
+		}
+		{
+			icon: "twilightforest:firefly"
+			id: "3040521C28E5E231"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "619AF2D7F708A899"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5CD1FBBE15298DC8"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "3E6E3D6825A0320B"
+				structure: "dungeons_arise:foundry"
+				type: "structure"
+			}]
+			title: "发现地下工厂"
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			description: [
+				"收集灵魂之星 击杀怪物概率获取"
+				"用于寻找高塔和激活祭坛"
+				"在高塔里激活祭坛 召唤击败boss"
+			]
+			icon: "born_in_chaos_v1:death_totem"
+			id: "08434EC847709F39"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "28C004DB8DC215D1"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "67C93ACBA70FDC79"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6807C144F7D1CFE2"
+					table_id: 7906379700992951605L
+					type: "random"
+				}
+				{
+					id: "59CB7BF1DBEC0A2D"
+					item: "duckmoney:bundle2"
+					type: "item"
+				}
+			]
+			shape: "square"
+			tasks: [
+				{
+					id: "485FB69296A4F0A9"
+					structure: "bosses_of_mass_destruction:lich_tower"
+					type: "structure"
+				}
+				{
+					count: 4L
+					id: "69EFCF0CC2F1DDFD"
+					item: "bosses_of_mass_destruction:soul_star"
+					type: "item"
+				}
+			]
+			title: "高塔巫师"
+			x: 2.0d
+			y: -6.0d
+		}
+		{
+			description: ["制作虚空百合，指引你前往虚空繁茂洞穴,并击败boss"]
+			icon: "born_in_chaos_v1:death_totem"
+			id: "78165956C3B368BB"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "46C9B628C25C9E5A"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6A913CFC2BBEDBB4"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2D37EBA7431FAF69"
+					table_id: 7906379700992951605L
+					type: "random"
+				}
+				{
+					id: "5B52D0CCD2D489B7"
+					item: "duckmoney:bundle1"
+					type: "item"
+				}
+			]
+			shape: "square"
+			tasks: [
+				{
+					id: "12D706E183D15027"
+					item: "bosses_of_mass_destruction:void_lily"
+					type: "item"
+				}
+				{
+					id: "3BFC400BE6D4B3DA"
+					structure: "bosses_of_mass_destruction:void_blossom"
+					type: "structure"
+				}
+			]
+			title: "繁茂荆棘"
+			x: 2.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["7DDD700AFE57C150"]
+			description: [
+				"前往冰川地带，寻找结构"
+				"击杀怪物找到号角"
+			]
+			icon: {
+				Count: 1b
+				id: "l2weaponry:eternium_javelin"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "1FF7CB38F8487557"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "216C9C039FFADA95"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "43821840CDC0031F"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3150F7BED2446FCF"
+					table_id: 7906379700992951605L
+					type: "random"
+				}
+				{
+					id: "4E70D9556FAB1E98"
+					item: "duckmoney:bundle2"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "0B0FBABFAE926458"
+					structure: "aquamirae:ship"
+					type: "structure"
+				}
+				{
+					id: "48972E491FD2253C"
+					structure: "aquamirae:ice_maze/common"
+					type: "structure"
+				}
+				{
+					id: "6081253B7BD99338"
+					structure: "aquamirae:outpost"
+					type: "structure"
+				}
+				{
+					entity: "aquamirae:maze_mother"
+					id: "7063BFC80B0843E2"
+					type: "kill"
+					value: 1L
+				}
+			]
+			title: "探索冰原"
+			x: 6.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["1FF7CB38F8487557"]
+			description: ["击杀怪物，寻找号角，唤醒沉睡的亡灵"]
+			icon: "born_in_chaos_v1:death_totem"
+			id: "65D2B96954944928"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7CD3CBA648710B39"
+					table_id: 7906379700992951605L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "500E39A2BF6C30C7"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "07DF777C14245464"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "363070580C8D5CAB"
+					item: "duckmoney:bundle2"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "6BAD3C3C3904CD62"
+					item: "aquamirae:shell_horn"
+					type: "item"
+				}
+				{
+					entity: "aquamirae:captain_cornelia"
+					id: "3A76795EDA901C8E"
+					type: "kill"
+					value: 1L
+				}
+			]
+			title: "亡魂"
+			x: 7.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["65D2B96954944928"]
+			description: [
+				"寻找冰窟避难所 "
+				"寻找宝藏"
+			]
+			icon: "aquamirae:treasure_pouch"
+			id: "028C04E8AC14D521"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "108C338CA0B40740"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "47BB29D095DC5FC0"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "224A48723C29ACA1"
+					table_id: 7906379700992951605L
+					type: "random"
+				}
+				{
+					id: "35DF4BAED3032E16"
+					item: "duckmoney:bundle2"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "453576E1C3CD6742"
+					structure: "aquamirae:shelter"
+					type: "structure"
+				}
+				{
+					id: "52D05FD6753DCCE0"
+					item: "aquamirae:frozen_key"
+					type: "item"
+				}
+				{
+					entity: "aquamirae:eel"
+					id: "0BF8B9720880B1A1"
+					type: "kill"
+					value: 1L
+				}
+			]
+			title: "宝藏"
+			x: 7.0d
+			y: -3.5d
+		}
+	]
+	subtitle: ["LV1-60"]
+	title: "主要事件（主世界指引）"
+}

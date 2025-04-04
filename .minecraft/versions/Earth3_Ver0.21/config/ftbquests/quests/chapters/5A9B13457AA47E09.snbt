@@ -1,0 +1,1008 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "5A9B13457AA47E09"
+	group: ""
+	icon: "yuushya:butterfly_blue"
+	id: "5A9B13457AA47E09"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"一觉醒来，我已经在这里了，似乎记忆被抽空一样一片空白，什么都记不起了"
+				"&5（点击任务目标，领取奖励，G键快捷菜单可打开任务界面）"
+				"&5（PS：开启首选推荐光影，获得更好视觉体验）"
+			]
+			icon: "yuushya:butterfly_blue"
+			id: "428C3DCB791805EB"
+			rewards: [
+				{
+					count: 10
+					id: "406B647EA3D780A4"
+					item: "minecraft:apple"
+					type: "item"
+				}
+				{
+					id: "6585BA81B241D7CA"
+					item: "minecraft:oak_boat"
+					type: "item"
+				}
+				{
+					id: "3E45E8437EBBC064"
+					item: {
+						Count: 1b
+						id: "minecraft:stone_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 2.0d
+			tasks: [{
+				id: "30D4127B791DB7AA"
+				title: "点击此处"
+				type: "checkmark"
+			}]
+			title: "确认情况"
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["0504A1F4F0256782"]
+			description: [
+				"这里很危险，夜晚都是亡灵徘徊。。。"
+				"我必须寻找临时避难所！"
+				"(&e通过G键饰品菜单将背包和钱包放入饰品栏&r，&9B&r键打开背包，&9钱包装备后G键菜单可以打开钱包,钱包自动收集获取的金钱，或丢弃金币再拾取）"
+				"{image:mmorpg:textures/Gjian.png width:200 height:200 align:1}"
+			]
+			icon: "sophisticatedbackpacks:backpack"
+			id: "1CDDA734E7A4F649"
+			rewards: [
+				{
+					id: "2C761D3EADD7030B"
+					item: "sophisticatedbackpacks:diamond_backpack"
+					type: "item"
+				}
+				{
+					id: "06CAEB5AF380A046"
+					item: {
+						Count: 1b
+						id: "lightmanscurrency:wallet_diamond"
+						tag: {
+							AutoConvert: 1b
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4FA2A5883A8FF017"
+				item: {
+					Count: 1b
+					id: "minecraft:iron_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "主线：活下去"
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["1CDDA734E7A4F649"]
+			description: [
+				"{image:mmorpg:textures/caozuojiemian.png width:200 height:80 align:1}"
+				"认识你的操作界面，战斗系统被称为&e挖砍系统"
+				"主世界的&e怪物将根据距离增强&r，确保与怪物等级相近"
+				"左下角是你的&e等级/生命值/魔法盾&r  ,右下角是&9法力值&r和&2能量"
+				"屏幕左侧是你的&e技能栏"
+			]
+			icon: {
+				Count: 1b
+				id: "l2weaponry:eternium_spear"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "03BA1945D58396C6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1892BF2AEB03334E"
+				table_id: 4946183657862762897L
+				type: "random"
+			}]
+			tasks: [{
+				id: "30976CCC8CC64226"
+				item: {
+					Count: 1b
+					id: "lightmanscurrency:wallet_diamond"
+					tag: {
+						AutoConvert: 1b
+					}
+				}
+				type: "item"
+			}]
+			title: "学习战斗系统，选择战斗武器风格"
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["428C3DCB791805EB"]
+			description: [
+				"通过砍伐树木&e提交10个任意原木"
+				"&9（点击submit即可提交物品）"
+			]
+			id: "0504A1F4F0256782"
+			rewards: [{
+				id: "3DF466511368EFA2"
+				item: {
+					Count: 1b
+					id: "minecraft:iron_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 10L
+				id: "0148433CD02621EE"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "minecraft:logs"
+					}
+				}
+				title: "点击提交任意原木"
+				type: "item"
+			}]
+			title: "获取资源"
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["03BA1945D58396C6"]
+			description: [
+				"你将走上近战武器大师的流派，战士擅长各种&4近战武器，长矛，戟，镰刀，长剑，锤，匕首&r等等"
+				"拥有较高的生命值和盾牌防御（部分双手武器无法持盾，双持单手武器时，副手武器造成25%伤害）"
+				"副手推荐：&4盾牌"
+				"主要属性：&4力量"
+				"推荐护甲类型：&4板甲"
+				"你可以&5双持单手剑，成为二刀流战士"
+			]
+			icon: {
+				Count: 1b
+				id: "twm:katana"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "795FD8F401268FDA"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "297C8C4DA5F8F7F5"
+					table_id: 6089204803441863362L
+					type: "choice"
+				}
+				{
+					id: "1D02290574A2713B"
+					item: {
+						Count: 1b
+						id: "minecraft:shield"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5ABFA201B255A463"
+					item: {
+						Count: 1b
+						id: "mmorpg:stat_soul/family/weapon/common"
+						tag: {
+							level: 1
+							tier: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "选择一种战斗风格"
+			tasks: [{
+				id: "08D0A49FA1AD7143"
+				type: "checkmark"
+			}]
+			title: "战斗风格（近战/武器大师）"
+			x: 5.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["03BA1945D58396C6"]
+			description: [
+				"你将走上暴力输出的&2弓箭十字弩&r流派，拥有高爆发远程作战（拥有制箭技能，无需担心箭矢问题）"
+				"副手推荐：&2图腾"
+				"主要属性：&2灵巧"
+				"推荐护甲类型：&2皮甲"
+				"推荐武器：&2霰弹枪"
+			]
+			icon: {
+				Count: 1b
+				id: "twilightforest:ender_bow"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "23D9307E9199664F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3EA7040E046016E1"
+					table_id: 7660856860348728152L
+					type: "choice"
+				}
+				{
+					id: "32523D27A561CE06"
+					item: "mmorpg:offhand/dodge/wood"
+					type: "item"
+				}
+				{
+					id: "6DFA2DE0957B03EE"
+					item: {
+						Count: 1b
+						id: "mmorpg:stat_soul/family/weapon/common"
+						tag: {
+							level: 1
+							tier: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "选择一种战斗风格"
+			tasks: [{
+				id: "04FC90A3797E0A75"
+				type: "checkmark"
+			}]
+			title: "战斗风格（弓弩/枪械）"
+			x: 5.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["03BA1945D58396C6"]
+			description: [
+				"你将走上&9法术输出或召唤师道路&r，群体输出能力均衡"
+				"副手推荐：&9法典"
+				"主要属性：&9智力"
+				"推荐护甲类型：&9布甲"
+			]
+			icon: {
+				Count: 1b
+				id: "mmorpg:weapon/staff/iron"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "69D9268417C064EC"
+			rewards: [
+				{
+					id: "7F69085D8DC52DFF"
+					item: {
+						Count: 1b
+						id: "mmorpg:weapon/staff/wood"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "39C6C111437897AF"
+					item: "mmorpg:offhand/tome/wood"
+					type: "item"
+				}
+				{
+					id: "6802812D38EE9C49"
+					item: {
+						Count: 1b
+						id: "mmorpg:stat_soul/family/weapon/common"
+						tag: {
+							level: 1
+							tier: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "选择一种战斗风格"
+			tasks: [{
+				id: "2CFF40665B0C3E91"
+				type: "checkmark"
+			}]
+			title: "战斗风格（法术/召唤）"
+			x: 5.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"6169A58172F0B52C"
+				"34CDAA076A15205D"
+				"5511DC5ABBAFD270"
+			]
+			dependency_requirement: "one_completed"
+			description: [
+				"{image:mmorpg:textures/zhuangbeijineng.png width:190 height:60 align:1}"
+				"H键属性页面，点&9技能页面进入图中的技能装备界面&r，点击图片黄色框+号装备你刚学习的技能"
+				"装备完成后如下图，&9屏幕最左边显示技能和按键&r，默认QRFC释放技能，Caps Lock键切换第二页技能"
+				"{image:mmorpg:textures/jineng.png width:30 height:80 align:1}"
+				"&9部分技能有武器需求&r，释放技能请使用对应武器类型"
+			]
+			icon: "twilightforest:magic_map_focus"
+			id: "2C35FAD2FD22F701"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "49651B844B3E8125"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4E4C38012EC8D812"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "01BD06364E74E18C"
+				type: "checkmark"
+			}]
+			title: "装备技能并释放"
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["24728E3210F76C10"]
+			description: [
+				"&9装备属性灵魂&e可以直接右键开出随机对应&r的砍杀属性装备"
+				"或者像&9人造属性灵魂&r一样，可以给白板装备附加砍杀属性"
+				""
+				"&9装备属性灵魂&r可以直接&e右键开出随机&r的砍杀属性装备"
+				"&9装备属性灵魂&r可以直接&e右键开出随机&r的砍杀属性装备"
+				"长矛的属性灵魂开对应的长矛战戟装备"
+			]
+			icon: {
+				Count: 1b
+				id: "mmorpg:stat_soul"
+				tag: {
+					CustomModelData: 16
+					mmorpg_stat_soul: "{\"tier\":0,\"slot\":\"spear\",\"rar\":\"uncommon\",\"fam\":\"NONE\",\"uniq\":\"\",\"can_sal\":true}"
+				}
+			}
+			id: "4A6990CB7575A70B"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "79F3502EC4488F5C"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "21DDB6DB5613F5BB"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+			]
+			subtitle: "重要提示"
+			tasks: [{
+				id: "179B8F7118DCBA14"
+				item: {
+					Count: 1b
+					id: "mmorpg:stat_soul"
+					tag: {
+						CustomModelData: 16
+						mmorpg_stat_soul: "{\"tier\":0,\"slot\":\"spear\",\"rar\":\"uncommon\",\"fam\":\"NONE\",\"uniq\":\"\",\"can_sal\":true}"
+					}
+				}
+				type: "item"
+			}]
+			title: "装备属性灵魂（重要）"
+			x: 9.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5F6F7D937FCEE736"]
+			description: [
+				"&5提升砍杀等级会获得属性点和天赋技能点"
+				"{image:mmorpg:textures/tianfu.png width:200 height:180 align:1}"
+				"&e图片高亮处是天赋起始点，选择想发展的武器类型进行天赋加点"
+				"&5通过H键后鼠标移到右侧天赋的选项来打开图中天赋界面"
+				"&5（如果加错天赋，右键可以重置少量天赋）"
+			]
+			id: "2A970E958669E3ED"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "56226DA2F9E4E2B3"
+				table_id: 4946183657862762897L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2EACC4F7ED9AFB5D"
+				type: "checkmark"
+			}]
+			title: "完成天赋加点"
+			x: 7.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"23D9307E9199664F"
+				"69D9268417C064EC"
+				"795FD8F401268FDA"
+			]
+			dependency_requirement: "one_completed"
+			description: [
+				"含有图片框内文字的装备称为白板装备，不提供属性，将&e人造武器灵魂拖到&r你的武器上 ，给武器附加&e挖砍属性"
+				"如果&9没有附加挖砍属性的装备，不提供属性加成"
+				"确保使用挖砍属性的装备，&e否则难以造成伤害"
+				"{image:mmorpg:textures/baibanzhuangbei.png width:200 height:120 align:1}"
+			]
+			icon: {
+				Count: 1b
+				id: "born_in_chaos_v1:nightmare_scythe"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "167D7831AF5408DA"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6C25C207307D5A76"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "70D63D01DDFEB6F5"
+					item: {
+						Count: 1b
+						id: "mmorpg:stat_soul/family/offhand/common"
+						tag: {
+							level: 1
+							tier: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "重要提示"
+			tasks: [{
+				id: "4B00AC58F7B94802"
+				item: {
+					Count: 1b
+					id: "mmorpg:stat_soul/family/weapon/common"
+					tag: {
+						level: 1
+						tier: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "装备白板和附加挖砍属性"
+			x: 7.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["4A6990CB7575A70B"]
+			description: [
+				"按H键呼出&e属性界面"
+				"图片左侧完成&e属性加点 "
+				"随后&e学习技能，装备技能,天赋加点&r都在右侧这个界面"
+				"&5按G键也有快捷菜单，可进入此属性界面"
+				"{image:mmorpg:textures/wakanjiemian.png width:200 height:100 align:1}"
+			]
+			id: "5F6F7D937FCEE736"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3B6FF2A301FDD8E7"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3CA532B4B238C505"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "10FFAAABF4234108"
+				type: "checkmark"
+			}]
+			title: "完成属性加点"
+			x: 9.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2A970E958669E3ED"]
+			description: [
+				"{image:mmorpg:textures/zhanshijiadian.png width:120 height:150 align:1}"
+				"H键呼出属性界面 打开&e职业界面"
+				"&c红色框箭头处切换&r为&e战士的职业技能树"
+				"学习&e战斗姿态技能，5级后学习猛打技能"
+				"开启战斗姿态可以强化后续技能范围伤害和效果"
+				"&9确保时刻开启&r&e战斗姿态或防御姿态"
+				"否则后续伤害技能输出下降很多"
+				"&9图片左侧蓝色框是技能需求等级"
+			]
+			icon: {
+				Count: 1b
+				id: "twm:katana"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "6169A58172F0B52C"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2E22B43AECE6CE8F"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2220CC3A2920BFD1"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "2FF7F60D5D272554"
+				title: "完成战士加点"
+				type: "checkmark"
+			}]
+			title: "战士技能学习"
+			x: 5.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2A970E958669E3ED"]
+			description: [
+				"{image:mmorpg:textures/gongjianjiadian.png width:120 height:140 align:1}"
+				"H键打开&9职业界面 &r ,红色框按键切换到&9猎人的职业技能树&r"
+				"&e学习1级制箭术  ,1级连绵箭雨"
+				"制箭术可以给你箭矢，&9弓手攻击和技能都消耗箭矢"
+				"箭袋使用方法：点击箭矢拖到箭袋上面,按鼠标右键放入箭袋"
+				"&5图片左侧蓝色框是技能需求等级"
+			]
+			icon: {
+				Count: 1b
+				id: "twilightforest:ender_bow"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "5511DC5ABBAFD270"
+			rewards: [
+				{
+					id: "579ECC51579E2FC9"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							Parent: {
+								Items: [ ]
+								SelectedSlot: 0
+								Size: 6
+							}
+						}
+						id: "supplementaries:quiver"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1C531A0CD9DD3214"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7294BFB8CFC56A66"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "1C8FD3453717365E"
+				title: "猎人技能加点"
+				type: "checkmark"
+			}]
+			title: "猎人技能学习"
+			x: 5.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2A970E958669E3ED"]
+			description: [
+				"{image:mmorpg:textures/fashijiadian.png width:120 height:140 align:1}"
+				"1级学习&9法师职业&r的&9冰球术&r 也可尝试学习&5死灵职业&r里的&5召唤僵尸，可同时学习这2个职业的技能"
+				"H键打开属性界面，选择职业界面进入图片的技能学习页面"
+				"&c红色框按键切换到法师技能树或死灵职业技能树"
+			]
+			icon: {
+				Count: 1b
+				id: "mmorpg:weapon/staff/iron"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "34CDAA076A15205D"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4F09D272D29A040E"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "71FDB3B5565D81D6"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "737A0106AE6607ED"
+				title: "法师技能加点"
+				type: "checkmark"
+			}]
+			title: "法师技能学习"
+			x: 5.5d
+			y: 4.0d
+		}
+		{
+			description: [
+				"随时更换职业，技能和武器流派可多修   可以同时学习2个职业的技能  "
+				"自行搭配流派风格   使用重置药水 重置加点"
+				"&5（需要转职时再领取奖励）"
+			]
+			icon: "mmorpg:potions/reset_all_perks"
+			id: "4402A3B958A7D4B2"
+			rewards: [
+				{
+					count: 4
+					id: "604BA9CC870CF68E"
+					item: "mmorpg:potions/reset_all_perks"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "1CC5518CB9208A7C"
+					item: "mmorpg:potions/reset_stats"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "4AFED1268B1E3332"
+					item: "mmorpg:potions/reset_spells"
+					type: "item"
+				}
+			]
+			subtitle: "多点尝试"
+			tasks: [{
+				id: "51856481BBB4D862"
+				type: "checkmark"
+			}]
+			title: "重置加点 尝试不同流派"
+			x: 3.0d
+			y: 6.5d
+		}
+		{
+			description: [
+				"常用键位&9G:打开浓缩菜单"
+				"&9Ctrl:快速奔跑"
+				" &9Alt:闪避"
+				"CapsLock:左侧技能栏翻页"
+				"~：连锁采集"
+				"&9鼠标中键：背包整理"
+				"&9QRFC:砍杀技能释放"
+				"Shift:鼠标悬停装备上可对比穿戴装备属性"
+				"&9X：阴暗的爬行"
+				"M:世界地图"
+				" &9V：投掷照明弹"
+				" ~：枪械换弹匣"
+				"Delete:鼠标悬停物品上按,可以删除物品"
+				"&9H:砍杀系统属性界面"
+				"F6:开启真实第一人称"
+			]
+			icon: "yuushya:butterfly_blue"
+			id: "4177D1F63F6AB343"
+			rewards: [
+				{
+					id: "79759170E1D0A41F"
+					item: "sophisticatedbackpacks:gold_backpack"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2CDA35EC0502E1ED"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "229971D340E91A77"
+				title: "基础按键操作指南"
+				type: "checkmark"
+			}]
+			title: "常用按键指南"
+			x: 3.0d
+			y: 5.25d
+		}
+		{
+			dependencies: ["2C35FAD2FD22F701"]
+			description: [
+				"&9进入下一章内容"
+				"鼠标左移任务栏左侧，前往下一章 主要事件"
+				"&e装备抽奖券，可以在任务栏左侧的道具抽奖任务界面，进行装备抽奖"
+			]
+			id: "5BFB001CA9F36E65"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2C683A41C8B15168"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "679C4CA1E506BD05"
+					item: "duckmoney:bundle1"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "529731BABEFE1231"
+				title: "后续任务转至维度冒险栏"
+				type: "checkmark"
+			}]
+			title: "后续任务转至冒险任务栏里的主要事件"
+			x: 2.5d
+			y: 3.0d
+		}
+		{
+			description: [
+				"你可以创建队伍共享经验，免疫友伤或治疗你的队友，创建队伍指令&9/mine_and_slash teams create"
+				"&r邀请朋友A入队指令&9/mine_and-slash teams invite A "
+				"&r朋友A同意入队输入指令&9/mine_and-slash teams join B"
+				"A和B 代指玩家姓名"
+			]
+			id: "7FF6DB5ECC8E6A78"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4A770FEC3C7E289B"
+				table_id: 9035571325655313302L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4B33AC75ACF16AFC"
+				title: "与朋友组队共享经验"
+				type: "checkmark"
+			}]
+			x: 4.5d
+			y: 5.5d
+		}
+		{
+			description: ["不知道物品用途时候，鼠标放在物品处按R可以看物品合成方式，按U可以看物品的使用方法"]
+			id: "079ED9CCA9F88FD9"
+			rewards: [{
+				count: 10
+				id: "508D804E52E5B2C7"
+				item: "minecraft:bread"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3B24916749784F0E"
+				type: "checkmark"
+			}]
+			title: "JEI教程"
+			x: 1.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["167D7831AF5408DA"]
+			description: [
+				"同样方法使用&e人造副手灵魂&r，给你的副手武器（盾牌/法典/图腾）附加属性"
+				"副手武器佩戴在副手提供属性"
+				"注意装备有&5等级需求和力量/智力/灵巧属性需求"
+				"&e强行佩戴不满足要求装备，不提供属性"
+				"{image:mmorpg:textures/wakanwuqi.png width:150 height:200 align:1}"
+			]
+			icon: {
+				Count: 1b
+				id: "hmag:fortress_shield"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "24728E3210F76C10"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "55C6C63CE58B4AFA"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					id: "51D73EEADAF553F2"
+					item: {
+						Count: 1b
+						id: "mmorpg:stat_soul"
+						tag: {
+							CustomModelData: 16
+							mmorpg_stat_soul: "{\"tier\":0,\"slot\":\"spear\",\"rar\":\"uncommon\",\"fam\":\"NONE\",\"uniq\":\"\",\"can_sal\":true}"
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "给副手武器附加属性"
+			tasks: [{
+				id: "5D203478D7329DE9"
+				item: {
+					Count: 1b
+					id: "mmorpg:stat_soul/family/offhand/common"
+					tag: {
+						level: 1
+						tier: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "装备的等级属性要求 "
+			x: 9.0d
+			y: -1.0d
+		}
+		{
+			description: [
+				"如果你不善打怪，可以领取一只女仆"
+				"前往 &e离出生点较远的区域 &r，观察周围怪物等级，使用 &e魂符召唤女仆"
+				"你将获得一只 &e与周围怪物相同等级的女仆帮助你打怪"
+				"主世界最高等级60级，可以前往60级区域放置女仆"
+				"再传送回出生点区域，或开启和平模式 休闲养老"
+				"学习治疗系的技能 给你的女仆回血吧"
+			]
+			id: "42D4EDA1B347E2C5"
+			rewards: [
+				{
+					id: "5C22A82988EFA696"
+					item: "touhou_little_maid:smart_slab_init"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "4C7A8801B019B6DE"
+					item: "duckmoney:bundle1"
+					type: "item"
+				}
+			]
+			secret: true
+			subtitle: "给新人玩家的礼物"
+			tasks: [{
+				icon: "realmrpg_skeletons:bow_skeleton"
+				id: "3BF7767D35B8C6D1"
+				stat: "minecraft:deaths"
+				type: "stat"
+				value: 3
+			}]
+			title: "萌新手残救助站"
+			x: 7.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["795FD8F401268FDA"]
+			description: [
+				"刺客擅长用匕首，爪子等极高攻速武器，机动性强，推荐双持高攻速武器"
+				"近战分支职业：刺客"
+				"&5副手武器推荐：匕首、镰刀"
+				"&5主要属性推荐：敏捷、力量"
+				"&5防具推荐：板甲、皮甲"
+			]
+			icon: {
+				Count: 1b
+				id: "aquamirae:dagger_of_greed"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "533B7679780483D4"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "754DFCEE26CA2197"
+					table_id: 7492359741362168160L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "001AB276F270D6D3"
+					table_id: 7492359741362168160L
+					type: "choice"
+				}
+				{
+					count: 2
+					id: "52F2EBF7CEA06510"
+					item: {
+						Count: 1b
+						id: "mmorpg:stat_soul/family/weapon/common"
+						tag: {
+							level: 1
+							tier: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6367C0B524E14A1C"
+				title: "战斗风格（匕首）"
+				type: "checkmark"
+			}]
+			title: "战斗风格（匕首/刺客）"
+			x: 5.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["2A970E958669E3ED"]
+			description: [
+				"{image:mmorpg:textures/cikejiadian.png width:160 height:180 align:1}"
+				"&e学习黄色框内技能，5级后再学习其他技能"
+				"&5H键呼出属性界面 右侧职业界面进入图片中技能学习界面"
+			]
+			icon: {
+				Count: 1b
+				id: "cte2modpackarmors:venom_tears_dagger"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "0140B0C7E0AA3355"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "48AF56BE689B9BB2"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "57A3F3FEF5BD76F1"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "47E937A70259C1BF"
+				type: "checkmark"
+			}]
+			title: "刺客技能学习"
+			x: 5.5d
+			y: 1.0d
+		}
+	]
+	subtitle: ["基础教程"]
+	title: "初入世界"
+}

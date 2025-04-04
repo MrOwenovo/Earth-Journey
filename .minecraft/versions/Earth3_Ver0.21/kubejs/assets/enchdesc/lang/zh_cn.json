@@ -1,0 +1,13 @@
+{
+  "enchantment.alexsmobsinteraction.stabilizer": "稳定剂",
+  "enchantment.alexsmobsinteraction.stabilizer.desc": "在面对瞻远者时稳定玩家的心理",
+  "enchantment.alexsmobsinteraction.trample": "踩踏",
+  "enchantment.alexsmobsinteraction.trample.desc": "穿戴有此附魔的靴子后，骑乘獠牙兽碰到的生物会受到冲撞伤害",
+  "enchantment.alexsmobsinteraction.final_stand": "最终一战",
+  "enchantment.alexsmobsinteraction.final_stand.desc": "允许玩家以护盾耐久性为代价眩晕生物(经测试效果未知)",
+  "enchantment.alexsmobsinteraction.lightweight": "重量轻",
+  "enchantment.alexsmobsinteraction.lightweight.desc": "让驯服的宙游鲟在携带重型玩家时不会受到处罚(经测试效果未知)",
+  "enchantment.alexsmobsinteraction.rolling_thunder": "滚滚雷声",
+  "enchantment.alexsmobsinteraction.rolling_thunder.desc": "允许穿戴岩壳胸甲在液体中滚动(经测试效果未知)"
+
+}

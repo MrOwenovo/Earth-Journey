@@ -1,0 +1,36 @@
+{
+  "base_gear": "spear",
+  "guid": "insight",
+  "flavor_text": "",
+  "force_item_id": "",
+  "min_tier": 20,
+  "rarity": "unique",
+  "replaces_name": true,
+  "unique_stats": [
+    {
+      "type": "PERCENT",
+      "max": 80.0,
+      "min": 60.0,
+      "stat": "gear_weapon_damage"
+    },
+    {
+      "type": "PERCENT",
+      "max": 30.0,
+      "min": 20.0,
+      "stat": "mana_regen"
+    },
+    {
+      "type": "PERCENT",
+      "max": 20.0,
+      "min": 15.0,
+      "stat": "mana"
+    },
+    {
+      "type": "FLAT",
+      "max": 25.0,
+      "min": 15.0,
+      "stat": "fire_resist"
+    }
+  ],
+  "weight": 1000
+}

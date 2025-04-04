@@ -1,0 +1,3 @@
+#65C biomesoplenty:lavender_field
+#47F biomesoplenty:mediterranean_forest
+#720 terralith:steppe

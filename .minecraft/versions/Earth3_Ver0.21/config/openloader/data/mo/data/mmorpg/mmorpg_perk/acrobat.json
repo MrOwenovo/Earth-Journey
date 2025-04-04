@@ -1,0 +1,21 @@
+{
+  "type": "MAJOR",
+  "icon": "mmorpg:textures/gui/stat_icons/game_changers/acrobat.png",
+  "id": "acrobat",
+  "is_entry": false,
+  "max_lvls": 1,
+  "stats": [
+    {
+      "type": "FLAT",
+      "scale_to_lvl": true,
+      "stat": "spell_dodge",
+      "v1": 25.0
+    },
+    {
+      "type": "MORE",
+      "scale_to_lvl": false,
+      "stat": "armor",
+      "v1": -20.0
+    }
+  ]
+}

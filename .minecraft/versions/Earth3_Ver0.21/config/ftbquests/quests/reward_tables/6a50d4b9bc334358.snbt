@@ -1,0 +1,26 @@
+{
+	id: "6A50D4B9BC334358"
+	loot_size: 1
+	order_index: 21
+	rewards: [
+		{
+			item: {
+				Count: 1b
+				id: "minecraft:bow"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "minecraft:crossbow"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+	]
+	title: "弓新手装备"
+}

@@ -1,0 +1,36 @@
+{
+  "base_gear": "hammer",
+  "guid": "mjolner",
+  "flavor_text": "",
+  "force_item_id": "",
+  "min_tier": 60,
+  "rarity": "unique",
+  "replaces_name": true,
+  "unique_stats": [
+    {
+      "type": "PERCENT",
+      "max": 100.0,
+      "min": 70.0,
+      "stat": "gear_weapon_damage"
+    },
+    {
+      "type": "FLAT",
+      "max": 25.0,
+      "min": 20.0,
+      "stat": "chaining_spell_dmg"
+    },
+    {
+      "type": "FLAT",
+      "max": 10.0,
+      "min": 10.0,
+      "stat": "mana_cost"
+    },
+    {
+      "type": "FLAT",
+      "max": 20.0,
+      "min": 10.0,
+      "stat": "all_lightning_damage"
+    }
+  ],
+  "weight": 200
+}

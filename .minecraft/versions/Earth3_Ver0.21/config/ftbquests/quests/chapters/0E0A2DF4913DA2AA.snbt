@@ -1,0 +1,321 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "0E0A2DF4913DA2AA"
+	group: "34CCF47C94C2A563"
+	icon: "yuushya:potted_fern"
+	id: "0E0A2DF4913DA2AA"
+	images: [{
+		click: ""
+		corner: false
+		dev: false
+		height: 8.0d
+		hover: [ ]
+		image: "mmorpg:textures/ftb/huapen.png"
+		rotation: 0.0d
+		width: 10.0d
+		x: 6.0d
+		y: 1.0d
+	}]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"放置画  点击创建新画  将自己的图片拖入界面 选择尺寸数据 摆放"
+				"{image:mmorpg:textures/huihua.png width:200 height:100 align:1}"
+			]
+			id: "29D3735D7AD3D08F"
+			shape: "diamond"
+			size: 2.0d
+			tasks: [{
+				id: "609245C0BEA101FF"
+				item: "immersive_paintings:painting"
+				type: "item"
+			}]
+			title: "自定义绘画"
+			x: 9.0d
+			y: -3.0d
+		}
+		{
+			id: "66CC7D8B411A7FA2"
+			tasks: [
+				{
+					id: "382482BC5C300131"
+					item: "yuushya:wire"
+					type: "item"
+				}
+				{
+					id: "61F6340AF4C3A41A"
+					item: "yuushya:deployed_utility_service_drop"
+					type: "item"
+				}
+			]
+			title: "装饰用线"
+			x: 9.0d
+			y: -1.5d
+		}
+		{
+			id: "3F61FCC77D8A4C2E"
+			tasks: [{
+				id: "40834B6DF2C07EEE"
+				item: "chimes:bamboo_chimes"
+				type: "item"
+			}]
+			x: 9.0d
+			y: -0.5d
+		}
+		{
+			id: "17635FDFAB35296B"
+			tasks: [{
+				id: "78F96FC2DA6D89EB"
+				title: "任务待更新"
+				type: "checkmark"
+			}]
+			title: "更多装饰品自行查看Jei"
+			x: 9.0d
+			y: 2.5d
+		}
+		{
+			id: "02F375A9CDA2247E"
+			tasks: [{
+				id: "791AA424A1C0F1C8"
+				item: "yuushya:potted_maple_sprout"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 0.5d
+		}
+		{
+			id: "11288AC93CDE1FFB"
+			tasks: [{
+				id: "3FE58859E0E2CC2D"
+				item: "yuushya:hanging_maple_sprout"
+				type: "item"
+			}]
+			x: 10.0d
+			y: -0.5d
+		}
+		{
+			id: "2678CB8B3C1ACED7"
+			tasks: [{
+				id: "0C8B3674914CECAE"
+				item: "yuushya:beef"
+				type: "item"
+			}]
+			x: 10.0d
+			y: -1.5d
+		}
+		{
+			id: "1E02611028191054"
+			tasks: [{
+				id: "6160BF5DEE1B0A5E"
+				item: "yuushya:sushi_set"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 0.5d
+		}
+		{
+			id: "40F103946C75125A"
+			tasks: [{
+				id: "04640A82CB643BC5"
+				item: "yuushya:melon"
+				type: "item"
+			}]
+			x: 11.0d
+			y: -1.5d
+		}
+		{
+			id: "65EB77EA76FB6794"
+			tasks: [{
+				id: "39FDA464574196EA"
+				item: "yuushya:soda"
+				type: "item"
+			}]
+			x: 11.0d
+			y: -0.5d
+		}
+		{
+			id: "63A2CAAA9F480F85"
+			tasks: [{
+				id: "5D3976AF38F19BDA"
+				item: "yuushya:sea_salt_tea"
+				type: "item"
+			}]
+			x: 11.0d
+			y: 0.5d
+		}
+		{
+			id: "75FD70AD73A2B354"
+			tasks: [{
+				id: "0802AA2C5E17DB4A"
+				item: "yuushya:bread_with_egg"
+				type: "item"
+			}]
+			x: 11.0d
+			y: 1.5d
+		}
+		{
+			id: "30527343D53E6359"
+			tasks: [{
+				id: "201D54A179855490"
+				item: "yuushya:goods_shelf_wine"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 1.5d
+		}
+		{
+			id: "0711A43C27DC216B"
+			tasks: [{
+				id: "2083FFD1EB8E8928"
+				item: "yuushya:recycle_bin_5"
+				type: "item"
+			}]
+			x: 12.0d
+			y: -1.5d
+		}
+		{
+			id: "0D766A6F1A07BC19"
+			tasks: [{
+				id: "3ED5AC3914175B89"
+				item: "yuushya:fire_hydrant"
+				type: "item"
+			}]
+			x: 12.0d
+			y: -0.5d
+		}
+		{
+			id: "52B42F0C16608280"
+			tasks: [{
+				id: "7F3CDCBFE4336D00"
+				item: "yuushya:cctv_camera"
+				type: "item"
+			}]
+			x: 12.0d
+			y: 0.5d
+		}
+		{
+			id: "36BB8AFF7B8915CA"
+			tasks: [{
+				id: "32117E81146ACE8A"
+				item: "yuushya:tissue_"
+				type: "item"
+			}]
+			x: 12.0d
+			y: 1.5d
+		}
+		{
+			id: "255ACE31DAE09E85"
+			tasks: [{
+				id: "07915EDB07F12701"
+				item: "yuushya:switch"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 1.5d
+		}
+		{
+			id: "482DD9B4990231A9"
+			tasks: [{
+				id: "62999502A7A86C05"
+				item: "yuushya:wastepaper_basket"
+				type: "item"
+			}]
+			x: 13.0d
+			y: -1.5d
+		}
+		{
+			id: "1533D03435EEFBCB"
+			tasks: [{
+				id: "42728161AA64258F"
+				item: "yuushya:mounted_cloth_0"
+				type: "item"
+			}]
+			x: 13.0d
+			y: -0.5d
+		}
+		{
+			id: "2FCD6FE6D17F2648"
+			tasks: [{
+				id: "7B6049CD7337D4AC"
+				item: "yuushya:hanged_clothes"
+				type: "item"
+			}]
+			x: 13.0d
+			y: 0.5d
+		}
+		{
+			id: "531F266B18D85B64"
+			tasks: [{
+				id: "7DE672355FB7C04B"
+				item: "yuushya:big_package"
+				type: "item"
+			}]
+			x: 13.0d
+			y: 1.5d
+		}
+		{
+			id: "5502904BD5F55F35"
+			tasks: [{
+				id: "0402DCD50CF2A2A3"
+				item: "yuushya:carpet_5"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 2.5d
+		}
+		{
+			id: "371082DC25C4E98D"
+			tasks: [{
+				id: "00DE4847FF84988A"
+				item: "yuushya:desk_lamp_0"
+				type: "item"
+			}]
+			x: 14.0d
+			y: -1.5d
+		}
+		{
+			id: "6DBA34553B668813"
+			tasks: [{
+				id: "76E096F21961B038"
+				item: "yuushya:air_conditioning_condenser"
+				type: "item"
+			}]
+			x: 14.0d
+			y: -0.5d
+		}
+		{
+			id: "65D5D6149E3721D5"
+			tasks: [{
+				id: "3D72749FDFF9067F"
+				item: "yuushya:tv_online"
+				type: "item"
+			}]
+			x: 14.0d
+			y: 0.5d
+		}
+		{
+			id: "66E891B0BA343C4A"
+			tasks: [{
+				id: "06BCB412E286C654"
+				item: "yuushya:fan_"
+				type: "item"
+			}]
+			x: 14.0d
+			y: 1.5d
+		}
+		{
+			id: "2D4088758F8E739D"
+			tasks: [{
+				id: "3093EB8041B3CE88"
+				item: "yuushya:washing_machine_sym"
+				type: "item"
+			}]
+			x: 11.0d
+			y: 2.5d
+		}
+	]
+	title: "装饰"
+}

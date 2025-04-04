@@ -1,0 +1,89 @@
+{
+	id: "54813381B9C12AC2"
+	loot_size: 1
+	order_index: 22
+	rewards: [
+		{
+			item: {
+				Count: 1b
+				id: "l2weaponry:iron_spear"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "divine_weaponry:iron_dagger"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "divine_weaponry:iron_rapier"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "minecraft:iron_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "twm:iron_mace"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "divine_weaponry:iron_scythe"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "divine_weaponry:iron_hammer"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "minecraft:iron_axe"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "dungeonsweaponry:claymore"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+	]
+	title: "近战新手装备"
+}

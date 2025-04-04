@@ -1,0 +1,6 @@
+{
+  "id": "proc_spell_splinter",
+  "pos": "TARGET",
+  "ser": "proc_spell",
+  "spellId": "splinter"
+}

@@ -1,0 +1,117 @@
+{
+  "favorites": [
+    {
+      "stack": {
+        "type": "item",
+        "id": "lightmanscurrency:coin_iron",
+        "amount": 9
+      }
+    },
+    {
+      "stack": "item:patchouli:guide_book{\"patchouli:book\":\"grimoireofgaia:gaiapedia\"}",
+      "recipe": "grimoireofgaia:gaiapedia"
+    },
+    {
+      "stack": "item:exoticbirds:bird_book",
+      "recipe": "exoticbirds:bird_book"
+    }
+  ],
+  "lookup_history": [
+    "item:ftbquests:missing_item{Item:{Count:1b,id:\"youkaishomecoming:seven_colored_yokan\"}}",
+    "item:farmingforblockheads:market",
+    "item:touhou_little_maid:entity_placeholder{RecipeId:\"touhou_little_maid:altar/spawn_box\"}",
+    "item:mmorpg:weapon/staff/wood{Damage:0}",
+    "item:mmorpg:stat_soul/family/weapon/common{level:1,tier:0}",
+    "item:minecraft:stripped_dark_oak_wood",
+    "item:blue_skies:zeal_lighter{Damage:0}",
+    "item:exoticbirds:bird_book",
+    "item:patchouli:guide_book{\"patchouli:book\":\"grimoireofgaia:gaiapedia\"}",
+    "item:yuushya:butterfly_blue",
+    {
+      "type": "item",
+      "id": "minecraft:copper_ingot",
+      "amount": 27
+    },
+    "item:minecraft:chain",
+    "item:minecraft:oak_hanging_sign",
+    "item:minecraft:oak_sign",
+    "item:minecraft:spruce_sign",
+    "item:minecraft:iron_ingot",
+    "item:minecraft:water_bucket",
+    {
+      "type": "item",
+      "id": "biomesoplenty:jacaranda_planks",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "biomesoplenty:jacaranda_door",
+      "amount": 3
+    },
+    "item:minecraft:command_block",
+    "item:duckmoney:bundle1",
+    "item:minecraft:oak_log",
+    "item:touhou_little_maid:smart_slab_init",
+    "item:sophisticatedstorage:chest{woodType:\"jungle\"}",
+    "item:sophisticatedstorage:chest{woodType:\"dark_oak\"}",
+    "item:sophisticatedstorage:chest{woodType:\"acacia\"}",
+    "item:sophisticatedstorage:chest{accentColor:16383998,mainColor:16383998}",
+    "item:sophisticatedstorage:iron_chest{accentColor:16383998,mainColor:16383998}",
+    "item:toms_storage:ts.crafting_terminal",
+    "item:minecraft:crafting_table",
+    "item:minecraft:chest",
+    "item:minecraft:blast_furnace",
+    "item:sophisticatedstorage:diamond_chest{accentColor:13061821,mainColor:13061821}",
+    "item:born_in_chaos_v1:diamond_termite_shard",
+    "item:minecraft:polished_andesite_stairs",
+    "item:minecraft:dark_oak_door",
+    "item:minecolonies:composted_dirt",
+    "item:minecraft:dirt",
+    "item:aquaculture:neptunium_ingot",
+    "item:aquaculture:neptunium_chestplate{Damage:0}",
+    "item:aquamirae:oxygelium",
+    "item:aquamirae:oxygen_tank",
+    "item:aquamirae:three_bolt_helmet{Damage:0}",
+    "item:aquamirae:dead_sea_scroll",
+    "item:aquamirae:shell_horn",
+    "item:cuisinedelight:seafood_fried_rice",
+    "item:cuisinedelight:meat_with_vegetables",
+    "item:cuisinedelight:scrambled_egg_and_tomato",
+    "item:cuisinedelight:ham_fried_rice",
+    "item:cuisinedelight:suspicious_mix",
+    "item:cuisinedelight:meat_with_seafood",
+    "item:farmersdelight:rice_panicle",
+    "item:farmersdelight:rice",
+    "item:cuisinedelight:fried_rice",
+    "item:bosses_of_mass_destruction:void_lily",
+    "item:touhou_little_maid:hakurei_gohei{Damage:0}",
+    "item:cataclysm:monstrous_eye",
+    "item:mmorpg:socket_extractor",
+    "item:mmorpg:jewel/unique_crafted",
+    "item:undergarden:catalyst",
+    "item:farmersdelight:kelp_roll",
+    "item:farmersdelight:kelp_roll_slice",
+    "item:croptopia:beef_wellington",
+    "item:delightful:matcha_latte",
+    "item:farmersdelight:shepherds_pie_block",
+    "item:delightful:deluxe_cheeseburger",
+    "item:croptopia:beef_stew",
+    "item:mmorpg:currency/mastery_seal0",
+    "item:mmorpg:soul_cleaner",
+    "item:mmorpg:soul_extractor/uncommon",
+    "item:mmorpg:enchantment/family/weapon/common{level:1,tier:0}",
+    "item:mmorpg:currency/socket_adder",
+    "item:mmorpg:seafood/lesser_loot{level:1,tier:0}",
+    "item:minecraft:iron_pickaxe{Damage:0}"
+  ],
+  "craft_history": [
+    "minecraft:chain"
+  ],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

@@ -1,0 +1,40 @@
+# 通用
+[common]
+sweep-period = 10  # 扫地周期（分钟）
+sweep-notify = 20  # 提前通知时间（秒）
+sweep-discount = 5  # 倒计时时间（秒）
+sweep-notice = "<演变> 注意：还有 {0} 秒就要去你家吃饭了~"  # 通知提示
+sweep-notice-complete = "<演变> 这次一共吃掉了 {0} 个掉落物， {1} 个生物 {2} 个经验球和 {3} 个其他实体~"  # 清扫完通知提示
+
+# 物品
+[item]
+is-item-entity-cleanup-enable = true  # 物品实体清理功能
+item-white-mode = true  # 白名单模式
+item-black-mode = true  # 黑名单模式
+item-entities-whitelist = ["minecraft:diamond", "minecraft:emerald"]  # 白名单(优先级高于黑名单),使用<modid:*>实现通配符功能
+item-entities-blacklist = []  # 黑名单,使用<modid:*>实现通配符功能
+
+# 生物
+[mob]
+is-mob-entity-cleanup-enable = false  # 生物实体清理功能(最高优先级)
+is-exp-on = false  # 生物清理是否掉落经验
+is-animal-entities-cleanup-enable = true  # 动物实体清理功能(次级)
+is-monster-entities-cleanup-enable = true  # 怪物实体清理功能(次级)
+mob-white-mode = true  # 白名单模式
+mob-black-mode = true  # 黑名单模式
+mob-entities-whitelist = ["minecraft:chicken", "minecraft:cat", "minecraft:mule", "minecraft:wolf", "minecraft:horse", "minecraft:donkey", "minecraft:wither", "minecraft:guardian", "minecraft:villager", "minecraft:iron_golem", "minecraft:snow_golem", "minecraft:vindicator", "minecraft:ender_dragon", "minecraft:elder_guardian"]  # 生物白名单(优先级高于黑名单),使用<modid:*>实现通配符功能
+mob-entities-blacklist = []  # 生物黑名单,使用<modid:*>实现通配符功能
+
+# 其他
+[other]
+is-experience-orb-entity-cleanup-enable = true  # 经验球实体清理功能
+is-falling-blocks-entity-cleanup-enable = true  # 下落方块实体清理功能
+is-arrow-entity-cleanup-enable = true  # 箭头实体清理功能
+is-trident-entity-cleanup-enable = false  # 三叉戟实体清理功能
+is-damaging-projectile-entity-cleanup-enable = false  # 投射物实体清理功能
+is-shulker-bullet-entity-cleanup-enable = true  # 子弹实体清理功能
+is-firework-rocket-entity-cleanup-enable = false  # 烟花火箭实体清理功能
+is-item-frame-entity-cleanup-enable = false  # 物品框实体清理功能
+is-painting-entity-cleanup-enable = false  # 画实体清理功能
+is-boat-entity-cleanup-enable = false  # 船实体清理功能
+is-t-n-t-entity-cleanup-enable = true  # TNT实体清理功能

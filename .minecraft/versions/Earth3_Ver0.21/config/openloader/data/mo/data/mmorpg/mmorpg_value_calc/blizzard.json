@@ -1,0 +1,25 @@
+{
+  "base": {
+    "max": 2.4,
+    "min": 0.4
+  },
+  "base_scaling_type": "NORMAL",
+  "cap_to_wep_dmg": 3.0,
+  "id": "blizzard",
+  "stat_scalings": [
+    {
+      "multi": {
+        "max": 1.0,
+        "min": 0.7
+      },
+      "stat": "weapon_damage"
+    },
+    {
+      "multi": {
+        "max": 0.12,
+        "min": 0.08
+      },
+      "stat": "magic_shield"
+    }
+  ]
+}

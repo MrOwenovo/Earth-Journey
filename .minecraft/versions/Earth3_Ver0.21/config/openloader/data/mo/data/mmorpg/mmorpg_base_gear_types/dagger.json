@@ -1,0 +1,130 @@
+{
+  "base_stats": [
+    {
+      "type": "FLAT",
+      "max": 6.0,
+      "min": 3.0,
+      "stat": "weapon_damage"
+    },
+	{
+	  "type": "FLAT",
+	  "max": 6.0,
+	  "min": 3.0,
+	  "stat": "mana_on_basic_hit"
+	}
+  ],
+  "gear_slot": "dagger",
+  "guid": "dagger",
+  "possible_items": [
+    {
+      "item_id": "farmersdelight:flint_knife",
+      "min_rar": "common",
+      "weight": 1
+    },
+	{
+      "item_id": "divine_weaponry:wooden_sickle",
+      "min_rar": "common",
+      "weight": 1
+    },
+	{
+      "item_id": "l2weaponry:iron_dagger",
+      "min_rar": "common",
+      "weight": 1
+    },
+	{
+      "item_id": "l2weaponry:iron_claw",
+      "min_rar": "common",
+      "weight": 1
+    },
+    {
+      "item_id": "farmersdelight:iron_knife",
+      "min_rar": "rare",
+      "weight": 100
+    },
+	{
+      "item_id": "l2weaponry:gold_claw",
+      "min_rar": "rare",
+      "weight": 100
+    },
+	{
+      "item_id": "l2weaponry:gold_dagger",
+      "min_rar": "rare",
+      "weight": 100
+    },
+	{
+      "item_id": "divine_weaponry:iron_sickle",
+      "min_rar": "rare",
+      "weight": 100
+    },
+    {
+      "item_id": "farmersdelight:diamond_knife",
+      "min_rar": "legendary",
+      "weight": 1000
+    },
+	{
+      "item_id": "l2weaponry:diamond_claw",
+      "min_rar": "legendary",
+      "weight": 1000
+    },
+	 {
+      "item_id": "l2weaponry:diamond_dagger",
+      "min_rar": "legendary",
+      "weight": 1000
+    },
+	{
+      "item_id": "divine_weaponry:diamond_sickle",
+      "min_rar": "legendary",
+      "weight": 1000
+    },
+	{
+      "item_id": "l2weaponry:netherite_dagger",
+      "min_rar": "mythic",
+      "weight": 10000
+    },
+	{
+      "item_id": "l2weaponry:netherite_claw",
+      "min_rar": "mythic",
+      "weight": 10000
+    },
+	{
+      "item_id": "divine_weaponry:netherite_dagger",
+      "min_rar": "mythic",
+      "weight": 10000
+    },
+	{
+      "item_id": "divine_weaponry:netherite_sickle",
+      "min_rar": "mythic",
+      "weight": 10000
+    },
+    {
+      "item_id": "farmersdelight:netherite_knife",
+      "min_rar": "mythic",
+      "weight": 10000
+    }
+  ],
+  "req": {
+    "scaling_req": {
+      "intelligence": 0.25,
+      "dexterity": 0.25
+    }
+  },
+  "style": "DEX",
+  "tags": {
+    "tags": [
+      "mage_weapon",
+      "dagger",
+      "weapon_family",
+      "melee_weapon",
+      "intelligence",
+      "dexterity"
+    ]
+  },
+  "weapon_type": {
+    "can_dual_wield": true,
+    "id": "dagger",
+    "isProjectile": false,
+    "range": "MELEE",
+    "style": "DEX"
+  },
+  "weight": 1000
+}

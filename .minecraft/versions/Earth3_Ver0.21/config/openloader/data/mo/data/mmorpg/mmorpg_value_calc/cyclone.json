@@ -1,0 +1,18 @@
+{
+  "base": {
+    "max": 3.0,
+    "min": 0.5
+  },
+  "base_scaling_type": "NORMAL",
+  "cap_to_wep_dmg": 1000.0,
+  "id": "cyclone",
+  "stat_scalings": [
+    {
+      "multi": {
+        "max": 0.75,
+        "min": 0.5
+      },
+      "stat": "weapon_damage"
+    }
+  ]
+}

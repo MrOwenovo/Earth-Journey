@@ -1,0 +1,208 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "19678782595985CF"
+	group: "39BBF18F45BD53C2"
+	icon: {
+		Count: 1b
+		id: "touhou_little_maid:entity_placeholder"
+		tag: {
+			RecipeId: "touhou_little_maid:altar/reborn_maid"
+		}
+	}
+	id: "19678782595985CF"
+	images: [{
+		click: ""
+		corner: false
+		dev: false
+		height: 20.0d
+		hover: [ ]
+		image: "mmorpg:textures/ftb/chewan.png"
+		rotation: 0.0d
+		width: 20.0d
+		x: -9.0d
+		y: -2.5d
+	}]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"领取指导书"
+				"根据记忆中的幻想乡中记载方式建造祭坛"
+				"点击书中可视化按钮 右击地面放置模板 对应位置摆放红色羊毛和橡木原木"
+				"用博丽的御币右击指定位置激活祭坛"
+			]
+			id: "778A98C6D7E969A3"
+			rewards: [
+				{
+					id: "087BF67658642DCD"
+					item: {
+						Count: 1b
+						id: "patchouli:guide_book"
+						tag: {
+							"patchouli:book": "touhou_little_maid:memorizable_gensokyo"
+						}
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "649397AE02DFD467"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5E20C3A08269897B"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					id: "0D9E1577DF9273D0"
+					item: "lightmanscurrency:coinpile_diamond"
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 2.0d
+			tasks: [{
+				id: "4113ACAE7EF3661C"
+				item: {
+					Count: 1b
+					id: "touhou_little_maid:hakurei_gohei"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "女仆"
+			x: -9.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["778A98C6D7E969A3"]
+			description: [
+				"将6种物品放置于祭坛柱子上方 "
+				"P点通过击杀妖精女仆 战利品箱获取"
+				"召唤后使用蛋糕驯服"
+			]
+			id: "312126C05BA05C9C"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "76C7099C7B456FD9"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1EAEBAA8C117685F"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "5C0607D208383419"
+					item: "minecraft:diamond"
+					type: "item"
+				}
+				{
+					id: "3B62A7D733513868"
+					item: "minecraft:iron_ingot"
+					type: "item"
+				}
+				{
+					id: "51592406161FE6AF"
+					item: "minecraft:coal"
+					type: "item"
+				}
+				{
+					id: "4CDDB245E7965C79"
+					item: "minecraft:redstone"
+					type: "item"
+				}
+				{
+					id: "217295C4CB6ED44B"
+					item: "minecraft:gold_ingot"
+					type: "item"
+				}
+				{
+					id: "75C3F41FE4D3205F"
+					item: "minecraft:lapis_lazuli"
+					type: "item"
+				}
+			]
+			title: "准备材料开始召唤"
+			x: -9.5d
+			y: -4.0d
+		}
+		{
+			description: [
+				"制作相机 携带女仆"
+				"女仆对话框可更换女仆模型"
+			]
+			id: "63D74767DB56304D"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2E9746FBE64C52E3"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2FE46AADD546AB30"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "1833ABD89FF0FB16"
+				item: {
+					Count: 1b
+					id: "touhou_little_maid:camera"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "女仆便携储存"
+			x: -9.5d
+			y: 0.0d
+		}
+		{
+			description: [
+				"将女仆工作模式切换到游戏模式"
+				"放置棋盘后 和女仆切磋五子棋吧！"
+			]
+			id: "26448019E875E9FC"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "42E8FB40348BD8D5"
+					table_id: 9035571325655313302L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "71F9B0B1CCCFA5A9"
+					table_id: 4946183657862762897L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "5F65862CC0DE69DF"
+				item: "touhou_little_maid:gomoku"
+				type: "item"
+			}]
+			title: "和女仆一起下棋"
+			x: -7.5d
+			y: -2.0d
+		}
+	]
+	title: "女仆"
+}

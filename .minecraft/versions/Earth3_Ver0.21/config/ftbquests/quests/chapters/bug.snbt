@@ -1,0 +1,1598 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "bug"
+	group: ""
+	icon: "minecraft:oak_log"
+	id: "2F5B62684167A8F7"
+	images: [
+		
+		{
+			height: 1.0d
+			image: "minecraft:item/spyglass"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:textures/misc/spyglass_scope.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/firework_rocket"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: -6.0d
+		}
+		
+		{
+			height: 1.0d
+			image: "minecraft:textures/mob_effect/health_boost.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:icons/map"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "mca:textures/banner.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 10.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/respawn_anchor_top"
+			rotation: 0.0d
+			width: 0.03125d
+			x: 16.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "enchdesc:textures/logo.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.5d
+			y: -3.5d
+		}
+		
+		{
+			height: 1.0d
+			image: "minecraft:item/clock_00"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "sophisticatedbackpacks:item/empty_pickaxe_slot"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "sophisticatedbackpacks:item/empty_axe_slot"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:block/loot_crate_opener"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:block/barrier_open"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:textures/mob_effect/instant_health.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:textures/mob_effect/jump_boost.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/elytra"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/book"
+			rotation: 0.0d
+			width: 1.0d
+			x: 17.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/iron_sword"
+			rotation: 0.0d
+			width: 1.0d
+			x: 17.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "kubejs:block/jeiss"
+			rotation: 0.0d
+			width: 4.848214285714286d
+			x: 22.5d
+			y: -5.5d
+		}
+		{
+			height: 2.0d
+			image: "kubejs:block/di1"
+			rotation: 0.0d
+			width: 2.1518151815181517d
+			x: 30.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "bountiful:block/bountyboard"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "bountiful:item/bounty-epic"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "kubejs:item/iii"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: -3.0d
+		}
+		
+		{
+			height: 1.0d
+			image: "minecraft:block/jungle_log_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "camera:item/camera"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "untamedwilds:block/trap_cage"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "kubejs:block/naturalist"
+			order: 1
+			rotation: 0.0d
+			width: 1.0034482758620689d
+			x: -20.5d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "ambientadditions:item/crate_empty"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "touhou_little_maid:item/memorizable_gensokyo"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/stonecutter_saw"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/stonecutter_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:item/globes/globe_the_world"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "constructionwand:item/stone_wand"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "splash_milk:item/splash_milk_bottle"
+			rotation: 0.0d
+			width: 1.0d
+			x: 17.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "aquatictorches:block/aquatic_torch"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 17.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/light"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 17.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/stone1"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.0d
+			y: -5.5d
+		}
+		
+		{
+			height: 1.0d
+			image: "domesticationinnovation:item/deed_of_ownership_bound"
+			rotation: 0.0d
+			width: 1.0d
+			x: 28.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "domesticationinnovation:textures/giant_bubble.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 28.5d
+			y: -5.0d
+		}
+		{
+			height: 6.0d
+			image: "kubejs:block/tree1"
+			rotation: 0.0d
+			width: 6.0d
+			x: -19.5d
+			y: -9.0d
+		}
+		{
+			height: 6.0d
+			image: "ftbquests:textures/shapes/rsquare/outline.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: 29.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "menu:textures/gui/mine_menu_radial.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:item/book"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/bamboo_chest_raft"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/alert.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -19.5d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:block/barrier_open"
+			rotation: 0.0d
+			width: 1.0d
+			x: -19.5d
+			y: -8.0d
+		}
+		{
+			height: 1.5d
+			image: "alexsmobs:textures/mob_effect/bug_pheromones.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: -18.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/barrier"
+			rotation: 0.0d
+			width: 1.0d
+			x: -18.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "touhou_little_maid:item/broom"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/alert.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -21.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/alert.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -18.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:icons/bed"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/emerald"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.5d
+			y: -5.5d
+		}
+		{
+			height: 6.0d
+			image: "ftbquests:textures/shapes/rsquare/outline.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: 22.5d
+			y: -4.0d
+		}
+		{
+			height: 6.0d
+			image: "ftbquests:textures/shapes/rsquare/outline.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: -12.5d
+			y: -4.0d
+		}
+		{
+			height: 6.0d
+			image: "ftbquests:textures/shapes/rsquare/outline.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: -5.5d
+			y: -4.0d
+		}
+		{
+			height: 6.0d
+			image: "ftbquests:textures/shapes/rsquare/outline.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: 1.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "musketmod:item/musket_upgrade_smithing_template"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			height: 6.0d
+			image: "ftbquests:textures/shapes/rsquare/outline.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: 8.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:icons/right"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:icons/right"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:icons/right"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -4.0d
+		}
+		{
+			height: 6.0d
+			image: "ftbquests:textures/shapes/rsquare/outline.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: 15.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:icons/right"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:icons/right"
+			rotation: 0.0d
+			width: 1.0d
+			x: 19.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:icons/right"
+			rotation: 0.0d
+			width: 1.0d
+			x: 26.0d
+			y: -4.0d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "16C45FD33C40AA2F"
+			shape: "gear"
+			subtitle: "空格+潜行+空格可以攀爬并跨越2格高的障碍"
+			tasks: [{
+				id: "7B9FCA980D6727B5"
+				item: {
+					Count: 1
+					id: "minecraft:enchanted_book"
+					tag: {
+						StoredEnchantments: [{
+							id: "walljump:doublejump"
+							lvl: 1s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			title: "二段跳附魔"
+			x: -5.5d
+			y: -2.5d
+		}
+		{
+			id: "0B3C49E90EDD6269"
+			rewards: [{
+				id: "37B7A837D99DB4B7"
+				item: "minecraft:book"
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "拥有之后可以按C来进行放大缩小"
+			tasks: [{
+				id: "259E16D7E4E8A258"
+				item: "minecraft:spyglass"
+				type: "item"
+			}]
+			x: -14.0d
+			y: -2.5d
+		}
+		{
+			id: "4DB35C6E87F1FF2E"
+			rewards: [{
+				count: 3
+				id: "211C29E0989D7D34"
+				item: {
+					Count: 1
+					id: "minecraft:firework_rocket"
+					tag: {
+						Fireworks: {
+							Flight: 1b
+						}
+					}
+				}
+				random_bonus: 9
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "穿戴后右键烟花火箭可以直接起飞"
+			tasks: [{
+				id: "6ED638D9E395EEE7"
+				item: {
+					Count: 1
+					id: "minecraft:elytra"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "鞘翅改动"
+			x: 8.5d
+			y: -4.5d
+		}
+		{
+			id: "2DAF4A5D5D777B39"
+			rewards: [
+				{
+					auto: "enabled"
+					id: "2DEBF0E9C7FBC343"
+					item: {
+						Count: 1
+						id: "minecraft:stone_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					auto: "enabled"
+					id: "54D3FFAEAFC416D8"
+					item: "simplehats:hatbag_rare"
+					type: "item"
+				}
+				{
+					auto: "enabled"
+					exclude_from_claim_all: true
+					id: "62361A5401274FD9"
+					table_id: 6431482041305168552L
+					type: "random"
+				}
+				{
+					auto: "no_toast"
+					id: "0235F799C84E297A"
+					item: "ftbquests:book"
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 6.0d
+			subtitle: "&a先找个地方定居吧！ &7- “怪物生成高度被设置为低于64才会生成，但一些掠夺者还是正常生成在据点” &4下界＆末地：&7怪物正常生成-地形由超多生物群系模组改变！"
+			tasks: [{
+				dimension: "minecraft:overworld"
+				id: "2DF23888687240DE"
+				title: "欢迎体验自然之旅1.20.1"
+				type: "dimension"
+			}]
+			x: -19.5d
+			y: -4.0d
+		}
+		{
+			id: "30948AB22C3307AF"
+			rewards: [
+				{
+					id: "5E7F687E3BE25E69"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 6
+					id: "23E1E835854B2C76"
+					item: "minecraft:paper"
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			subtitle: "消耗一张纸，拍下沿途风景"
+			tasks: [
+				{
+					id: "31C2D5B2718E4CD2"
+					item: "camera:camera"
+					type: "item"
+				}
+				{
+					id: "7D830FF117C9CE10"
+					item: "camera:image_frame"
+					type: "item"
+				}
+				{
+					id: "38D7CB4000C477EA"
+					item: "camera:album"
+					type: "item"
+				}
+			]
+			title: "拍下沿途风景"
+			x: 3.0d
+			y: -4.5d
+		}
+		{
+			id: "6610E664033FAABE"
+			rewards: [{
+				id: "660E19D769A1FC06"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "rsquare"
+			subtitle: "快速铺路好帮手"
+			tasks: [
+				{
+					id: "2581B900BEE9E5F0"
+					item: {
+						Count: 1
+						id: "constructionwand:stone_wand"
+						tag: {
+							Damage: 0
+							wand_options: { }
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3384329FA1D2A2F6"
+					item: {
+						Count: 1
+						id: "constructionwand:iron_wand"
+						tag: {
+							Damage: 0
+							wand_options: { }
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0C1FF33B100D1AA3"
+					item: {
+						Count: 1
+						id: "constructionwand:diamond_wand"
+						tag: {
+							Damage: 0
+							wand_options: { }
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "16CCF7CE571C2806"
+					item: {
+						Count: 1
+						id: "constructionwand:infinity_wand"
+						tag: {
+							wand_options: { }
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 14.0d
+			y: -4.5d
+		}
+		{
+			id: "73D27BB662FB36CD"
+			rewards: [{
+				id: "18B65906F67319EA"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "gear"
+			subtitle: "按G切换，当开启时，左键破坏方块会自动使用快捷栏对应的工具，例如空手撸树时，快捷栏有斧头就会自动切换使用。"
+			tasks: [{
+				id: "4F9FE4D482FCE737"
+				title: "自动切换工具"
+				type: "checkmark"
+			}]
+			x: -7.0d
+			y: -2.5d
+		}
+		{
+			id: "1E33E00157ECCA96"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "398F1CA8B3D75019"
+				table_id: 6431482041305168552L
+				type: "random"
+			}]
+			shape: "rsquare"
+			subtitle: "血量需要通过吃不同的食物来提升"
+			tasks: [
+				{
+					id: "02F73FBBFF3FA4D7"
+					item: "solcarrot:food_book"
+					type: "item"
+				}
+				{
+					id: "2AFD107A43ABE7FD"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							Parent: {
+								Items: [ ]
+								Open: 0b
+								SelectedSlot: 0b
+								Size: 6
+							}
+						}
+						id: "supplementaries:lunch_basket"
+					}
+					type: "item"
+				}
+			]
+			x: -11.0d
+			y: -2.5d
+		}
+		{
+			id: "313BE6326B1D0663"
+			rewards: [{
+				id: "68E2DD25AA5231B6"
+				item: "minecraft:book"
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "祛魔不会损失装备"
+			tasks: [{
+				id: "71D44D8428050D63"
+				item: "minecraft:grindstone"
+				type: "item"
+			}]
+			x: 17.0d
+			y: -2.5d
+		}
+		{
+			id: "216535B94652AED6"
+			rewards: [{
+				id: "5EFF92F738DD2DDC"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "5EED3E9D16782AAE"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "corail_woodcutter:woodcutters"
+					}
+				}
+				title: "任意锯木机"
+				type: "item"
+			}]
+			title: "任意锯木机"
+			x: 14.0d
+			y: -2.5d
+		}
+		{
+			id: "4A9641F5AA22429D"
+			rewards: [{
+				id: "470B654E7AF01AF1"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "rsquare"
+			subtitle: "更便捷的附魔方式"
+			tasks: [
+				{
+					id: "60A83AC572068B4E"
+					item: "enchantinginfuser:enchanting_infuser"
+					type: "item"
+				}
+				{
+					id: "7EC871105626A4CD"
+					item: "enchantinginfuser:advanced_enchanting_infuser"
+					type: "item"
+				}
+			]
+			x: 15.5d
+			y: -2.5d
+		}
+		{
+			id: "3D032871BDEF015A"
+			rewards: [{
+				id: "58C74B638B62E55F"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "rsquare"
+			subtitle: "苦力怕不再破坏地形，但TNT等爆炸物依然可以破坏地形"
+			tasks: [{
+				id: "5BE649518EBC5C0A"
+				title: "烟花苦力怕"
+				type: "checkmark"
+			}]
+			x: 7.0d
+			y: -4.5d
+		}
+		{
+			id: "63EF821F45FF98C9"
+			shape: "rsquare"
+			subtitle: "可购买一些物资"
+			tasks: [{
+				id: "5922E28070F54EA8"
+				item: "farmingforblockheads:market"
+				type: "item"
+			}]
+			x: 8.5d
+			y: -2.5d
+		}
+		{
+			id: "436E2AB191238E70"
+			rewards: [{
+				id: "4D58059107BA92BC"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "gear"
+			subtitle: "N键是区块地图，M键是常规大地图。深入矿洞时，可以按N键(作弊模式按T)传送回地面，需要圈地保护时，也可以通过N键地图进行。"
+			tasks: [{
+				id: "2E0011A144773E77"
+				title: "地图"
+				type: "checkmark"
+			}]
+			title: "俩种世界地图"
+			x: -7.0d
+			y: -4.5d
+		}
+		{
+			id: "6DDAD98DBF3A22A5"
+			rewards: [{
+				count: 15
+				id: "69131BD451FDB92C"
+				item: "musketmod:cartridge"
+				random_bonus: 63
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "小心掠夺者！它们也会持有这些火枪"
+			tasks: [
+				{
+					id: "25A40F9C9A0D4BF9"
+					item: {
+						Count: 1
+						id: "musketmod:pistol"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "28188AC5B0B184F5"
+					item: {
+						Count: 1
+						id: "musketmod:musket"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "348163453624F147"
+					item: {
+						Count: 1
+						id: "musketmod:musket_with_bayonet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "13BFFAA35ABA043D"
+					item: {
+						Count: 1
+						id: "musketmod:musket_with_scope"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			id: "20F04AE3691FF1FD"
+			rewards: [{
+				id: "3EA010137096AFAE"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "gear"
+			subtitle: "如果你想要原版村民，可以到小市场的杂货里购买，&a注意：&7搬运、捕捉笼、储物箱都会将原版村民重新变为MCA村民。那咋办？用栓绳拉到飞艇上进行运输吧"
+			tasks: [{
+				id: "2F569A894A8E5A4E"
+				title: "凡家物语村民"
+				type: "checkmark"
+			}]
+			x: 10.0d
+			y: -4.5d
+		}
+		{
+			id: "26CD99AE72FFC812"
+			rewards: [{
+				id: "22DC4136F3C8902C"
+				item: "untamedwilds:trap_cage"
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "放置在地面，当生物碰到则会收起，用于捕捉地面生物，飞行生物可配合栓绳拖动到捕捉笼处"
+			tasks: [{
+				id: "15D19CB72F1B9CCB"
+				item: "untamedwilds:trap_cage"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -2.5d
+		}
+		{
+			id: "786142CA09D3DA8C"
+			rewards: [{
+				id: "19E4B24270D692BC"
+				item: "minecraft:carrot"
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "按住~连锁，代价是消耗饱食度"
+			tasks: [{
+				id: "6B4383B4E99C3A1C"
+				title: "连锁挖掘"
+				type: "checkmark"
+			}]
+			x: -12.5d
+			y: -2.5d
+		}
+		{
+			id: "218F4696E44D229D"
+			rewards: [{
+				id: "47D511C131735271"
+				item: "domesticationinnovation:collar_tag"
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 2.0d
+			subtitle: "放置在附魔台上可附魔宠物专属附魔效果，强化可驯服生物。"
+			tasks: [{
+				id: "0DDC4C3E5CEF9501"
+				item: "domesticationinnovation:collar_tag"
+				type: "item"
+			}]
+			x: 29.5d
+			y: -4.0d
+		}
+		{
+			id: "021877CA3E38429D"
+			rewards: [{
+				id: "15558030AEAAEBA5"
+				item: "minecraft:amethyst_shard"
+				type: "item"
+			}]
+			shape: "gear"
+			subtitle: "整合包将一天时间设定为30分钟，白天将有20分钟，晚上则是正常的10分钟。"
+			tasks: [{
+				id: "518A54574FF708E1"
+				title: "游戏时间"
+				type: "checkmark"
+			}]
+			x: -11.0d
+			y: -4.5d
+		}
+		{
+			id: "495141361DFF30A9"
+			rewards: [{
+				id: "54C93C84AAA7AA85"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "rsquare"
+			subtitle: "定位群系坐标"
+			tasks: [{
+				id: "7C0334A8D413E234"
+				item: {
+					Count: 1
+					id: "naturescompass:naturescompass"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: -4.5d
+		}
+		{
+			description: ["将宠物带到宠物床上，头上出现“zzz”即代表成功设置复活点，可使用羽毛钓竿吸引宠物到床上。"]
+			id: "6CE942428E3CC757"
+			rewards: [{
+				id: "649E90D7D5328496"
+				item: {
+					Count: 1
+					id: "domesticationinnovation:feather_on_a_stick"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "如果宠物死亡，第二天会在宠物床处复活(需绑定)"
+			tasks: [{
+				id: "689B370852667C1C"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "domesticationinnovation:pet_beds"
+					}
+				}
+				title: "制作任意颜色宠物床"
+				type: "item"
+			}]
+			title: "任意颜色宠物床"
+			x: 31.0d
+			y: -3.5d
+		}
+		{
+			id: "640E592DCDFF7CAB"
+			rewards: [{
+				id: "4A013FCE4B4B2BED"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "右击驯服的宠物与契约绑定，若把契约给其他玩家则相当于转移了宠物的所有权"
+			tasks: [{
+				id: "50A5408790674D83"
+				item: "domesticationinnovation:deed_of_ownership"
+				type: "item"
+			}]
+			x: 28.0d
+			y: -4.0d
+		}
+		{
+			id: "628F3EAE3E2E92A3"
+			rewards: [{
+				id: "23097D9986787AB3"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "右键控制周围已驯服宠物的行为模式，受鼓影响的生物会获得3秒发光buff；可用红石激活。"
+			tasks: [{
+				id: "1ADFFBB8D2BD7070"
+				item: "domesticationinnovation:drum"
+				type: "item"
+			}]
+			x: 30.5d
+			y: -2.5d
+		}
+		{
+			id: "1AC1A7F4ED15FBD5"
+			rewards: [{
+				id: "435E9157D1DB0A7B"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "仅可在林地府邸找到，喂给僵尸马使其变成骷髅马，或喂给已驯服的兔子使其变成杀手兔。"
+			tasks: [{
+				id: "6F178D5D7A1AC4BC"
+				item: "domesticationinnovation:sinister_carrot"
+				type: "item"
+			}]
+			x: 29.0d
+			y: -5.5d
+		}
+		{
+			id: "43C30D0BA95FB331"
+			rewards: [{
+				id: "7C1FA58AD1C3770E"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "丢在地上的苹果自然消失时有概率生成，或与驯兽师职业的村民交易获得，也可在林地府邸找到。喂给马可使其变成僵尸马。"
+			tasks: [{
+				id: "67C1FB23BC501C49"
+				item: "domesticationinnovation:rotten_apple"
+				type: "item"
+			}]
+			x: 28.0d
+			y: -5.0d
+		}
+		{
+			description: [
+				"按住左ALT，鼠标移到需要的位置按一下左键执行"
+				"如果需要删除，则按住ALT的时候按潜行，再移动到对应需要删除的键位上即可。"
+				""
+				"&a\"发生乱码时可以用JAVA17启动\""
+				"&3\"或者同时按潜行手动编辑对应功能的中文即可\""
+			]
+			id: "6CE65805ADA5F811"
+			rewards: [{
+				id: "78EC49DAFB9F9F27"
+				item: "minecraft:raw_copper"
+				type: "item"
+			}]
+			shape: "gear"
+			subtitle: "当有按键冲突时可设置在菜单上"
+			tasks: [{
+				id: "0500D9113BA85078"
+				title: "按住ALT打开按键菜单"
+				type: "checkmark"
+			}]
+			title: "&a按住ALT&7打开按键菜单"
+			x: -12.5d
+			y: -4.5d
+		}
+		{
+			id: "5F940D49A3A25A94"
+			rewards: [{
+				id: "0715AFFA2A2DAA35"
+				item: "minecraft:raw_copper"
+				type: "item"
+			}]
+			shape: "gear"
+			subtitle: "适合查看美食菜单和生态动物园这种做的比较大范围的任务章节"
+			tasks: [{
+				id: "2DD196D21FE618F0"
+				title: "ctrl+滚轮放大缩小任务界面"
+				type: "checkmark"
+			}]
+			title: "&a按住ctrl+滚轮&f可以放大或缩小任务界面"
+			x: -14.0d
+			y: -4.5d
+		}
+		{
+			id: "4E9C160D5AA8F04F"
+			rewards: [{
+				id: "5EC6D01D2D5864EF"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "需垂直上下放置，如何使用？站上去，下时按潜行，上时按空格"
+			tasks: [{
+				count: 2L
+				id: "00C757A1C3955C30"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "elevatorid:elevators"
+					}
+				}
+				title: "制作任意颜色电梯x2"
+				type: "item"
+			}]
+			title: "任意颜色电梯"
+			x: 22.0d
+			y: -3.5d
+		}
+		{
+			id: "6A7259BC1B84EB83"
+			rewards: [{
+				id: "202AD09BC9487442"
+				item: {
+					Count: 1
+					id: "selectable_painting:selectable_painting"
+					tag: {
+						selected_painting: { }
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "对着空气右键可进入选择界面"
+			tasks: [{
+				id: "197F4373CC64BE2B"
+				item: {
+					Count: 1
+					id: "selectable_painting:selectable_painting"
+					tag: {
+						selected_painting: { }
+					}
+				}
+				type: "item"
+			}]
+			x: 21.0d
+			y: -3.5d
+		}
+		{
+			id: "61E243200B578447"
+			subtitle: "@supplementaries"
+			tasks: [{
+				id: "707E3CB8869454DF"
+				title: "锦致装饰"
+				type: "checkmark"
+			}]
+			x: 24.0d
+			y: -3.5d
+		}
+		{
+			id: "4724E5A67BC3F102"
+			rewards: [{
+				id: "1F6F177DB7135B37"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			size: 1.0d
+			subtitle: "JEI在哪？&a通过按E打开物品栏，在右下角可以看见搜索框，如下图↓，输入@模组英文，即可查看对应内容！&6你并不需要输入全部英文，在没有相同英文名称模组的情况下，&f如锦致装饰@supp即可！"
+			tasks: [{
+				id: "6144684E7AFCB21C"
+				title: "通过JEI搜索来了解同一模组下所有装饰物品"
+				type: "checkmark"
+			}]
+			x: 22.5d
+			y: -4.5d
+		}
+		{
+			id: "57406DB68E23DA9B"
+			rewards: [{
+				id: "75D4BED299A4911F"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "gear"
+			subtitle: "&a按住潜行+右键&7可以搬运实体、箱子熔炉等物品，也正因为这样，一些宠物本来可以潜行右键来改变状态的却会被抱起来，此时则需要玩家距离生物一格外再操作即可改变其状态。"
+			tasks: [{
+				id: "192C9FF28EA85CA8"
+				title: "搬运"
+				type: "checkmark"
+			}]
+			x: -4.0d
+			y: -4.5d
+		}
+		{
+			id: "2E713A151E6FCBB4"
+			rewards: [{
+				id: "291B27E5AD3A7D89"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					id: "77815935055CA8CC"
+					item: "chimes:bamboo_chimes"
+					type: "item"
+				}
+				{
+					id: "06985020B967E895"
+					item: "chimes:iron_chimes"
+					type: "item"
+				}
+				{
+					id: "7260501F31D925F9"
+					item: "chimes:carved_bamboo_chimes"
+					type: "item"
+				}
+				{
+					id: "7B96C8B8DB1911B9"
+					item: "chimes:copper_chimes"
+					type: "item"
+				}
+				{
+					id: "12CF26CD4A3CA84E"
+					item: "chimes:amethyst_chimes"
+					type: "item"
+				}
+				{
+					id: "742426FFCD6081E9"
+					item: "chimes:glass_bells"
+					type: "item"
+				}
+			]
+			title: "风铃"
+			x: 23.0d
+			y: -3.5d
+		}
+		{
+			description: [
+				"搜索对应想要禁止生成的生物id，例如我想禁用不羁野性模组里的巨蟒，搜索&alarge_snake&f就能找到这些信息"
+				"{image:kubejs:block/txt width:200 height:200 align:1}"
+				"\"只需要修改allowNormalSpawning = false即可\" &a保存后重启游戏"
+				""
+			]
+			id: "0C11C0C478F870D9"
+			rewards: [{
+				id: "60E2272F54B25FD2"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "gear"
+			size: 1.0d
+			subtitle: "在版本文件夹里找到config文件夹/再找到badmobs-common打开"
+			tasks: [{
+				id: "15D9D653496937DC"
+				title: "我该如何禁止我不喜欢的生物生成？"
+				type: "checkmark"
+			}]
+			x: -18.0d
+			y: -7.5d
+		}
+		{
+			id: "4A94AE65D0F80223"
+			rewards: [{
+				id: "3D30E7FA80DCD957"
+				item: {
+					Count: 1
+					id: "bountiful:decree"
+					tag: {
+						"bountiful:decree_data": "{}"
+					}
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "15CCE747CF19F4EA"
+				item: "bountiful:bountyboard"
+				type: "item"
+			}]
+			x: 7.0d
+			y: -2.5d
+		}
+		{
+			id: "71BDBCFB02274771"
+			rewards: [{
+				id: "303820B52D21C6AB"
+				item: "kubejs:iii"
+				random_bonus: 63
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "“记忆中的幻想乡”一书会教你如何生成女仆以及相关的知识"
+			tasks: [{
+				id: "299736B0CC8DB01A"
+				item: {
+					Count: 1
+					id: "touhou_little_maid:entity_placeholder"
+					tag: {
+						RecipeId: "touhou_little_maid:altar/spawn_box"
+					}
+				}
+				type: "item"
+			}]
+			x: 10.0d
+			y: -2.5d
+		}
+		{
+			id: "0F280EC3CB3AD018"
+			rewards: [{
+				id: "3889894B011B9197"
+				type: "xp"
+				xp: 30
+			}]
+			shape: "rsquare"
+			subtitle: "有用的小道具"
+			tasks: [
+				{
+					id: "0AA074BB6075FFC1"
+					item: "aquatictorches:aquatic_torch"
+					type: "item"
+				}
+				{
+					id: "0B62DD0D4CF9BA76"
+					item: "splash_milk:splash_milk_bottle"
+					type: "item"
+				}
+			]
+			title: "水下火把与喷溅奶瓶"
+			x: 17.0d
+			y: -4.5d
+		}
+		{
+			description: ["&7“难以想象我用它捕捉了一头抹香鲸，虽然崩溃了一次，但是成功了”"]
+			id: "7C35CB79E1EFBF00"
+			rewards: [{
+				count: 5
+				id: "77FB8DF34B15A5F9"
+				item: "ambientadditions:dart"
+				random_bonus: 16
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "先用吹枪射中想要捕捉的生物，一般需要多次射击，直到冒出zzz的提示即可用储物箱右键装入，部分动物不可被装入，可改用陷阱笼捕捉"
+			tasks: [
+				{
+					id: "13223C462FFA8F29"
+					item: "ambientadditions:crate"
+					type: "item"
+				}
+				{
+					id: "3FB1A5B6C3286FC3"
+					item: {
+						Count: 1
+						id: "ambientadditions:blowgun"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "麻醉后捕捉"
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			id: "099ACB70EF7B4BB0"
+			shape: "gear"
+			subtitle: "1.如遇地形崩溃可尝试禁用&aDistant Horizons&7模组 2.删除世界失败可在重启整合包后进行删除 3.搬运某个物品放不下来可以先禁用carryon模组，恢复后再重新启用模组"
+			tasks: [{
+				id: "6B9DBE886873B6CF"
+				title: "常见问题"
+				type: "checkmark"
+			}]
+			x: -19.5d
+			y: -8.0d
+		}
+		{
+			description: [
+				"搜索\"minheight\"，将64改到想要正常生成的高度即可，&7(注意64前面有空格别删掉)&f或者将内容删除，如果不会怕出错，可以改到256高度或更高。"
+				""
+				"&3incontrol模组也影响生物数量，觉得生物少也可以禁用该模组。"
+			]
+			id: "0B088AEF00E04AA7"
+			shape: "gear"
+			subtitle: "打开config\\incontrol，找到spwan打开，可右键txt(记事本)文档方式打开"
+			tasks: [{
+				id: "6EF882BAD514F308"
+				title: "如何取消高度64以上不刷怪限制"
+				type: "checkmark"
+			}]
+			x: -21.0d
+			y: -7.5d
+		}
+		{
+			id: "65334BF535A43BC1"
+			shape: "gear"
+			subtitle: "掉落物清理会每隔30分钟自动清理一次，你也可以手动输入指令进行清理"
+			tasks: [{
+				id: "0334407AC7B34A62"
+				title: "手动执行掉落物清理/atomsweep items"
+				type: "checkmark"
+			}]
+			x: -5.5d
+			y: -4.5d
+		}
+		{
+			id: "50631F956044F44C"
+			shape: "gear"
+			subtitle: "注意，v1.3开始已采用以方块小镇为主要装饰，最初发布视频内的大多数装饰模组都已删除"
+			tasks: [{
+				id: "1D18D605AC7AE487"
+				item: "yuushya:block_blueprint"
+				type: "item"
+			}]
+			x: 22.5d
+			y: -2.5d
+		}
+		{
+			id: "41DA95046490941F"
+			shape: "rsquare"
+			subtitle: "方便旅行"
+			tasks: [{
+				id: "16130523C4243AC7"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "comforts:sleeping_bags"
+					}
+				}
+				title: "睡袋"
+				type: "item"
+			}]
+			title: "任意睡袋"
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			description: ["      “用绿宝石块右键村民可以让其补货”"]
+			id: "49DFC14300FA9799"
+			shape: "rsquare"
+			subtitle: "放置后可以统一查看周围村民的交易"
+			tasks: [{
+				id: "68107D4BC26A9149"
+				item: "tradingpost:trading_post"
+				type: "item"
+			}]
+			x: 15.5d
+			y: -4.5d
+		}
+	]
+	title: "游玩指引"
+}

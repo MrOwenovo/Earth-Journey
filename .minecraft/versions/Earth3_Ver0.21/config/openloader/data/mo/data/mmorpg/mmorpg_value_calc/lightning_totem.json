@@ -1,0 +1,25 @@
+{
+  "base": {
+    "max": 6.0,
+    "min": 1.0
+  },
+  "base_scaling_type": "NORMAL",
+  "cap_to_wep_dmg": 3.0,
+  "id": "lightning_totem",
+  "stat_scalings": [
+    {
+      "multi": {
+        "max": 1.15,
+        "min": 0.9
+      },
+      "stat": "weapon_damage"
+    },
+    {
+      "multi": {
+        "max": 0.08,
+        "min": 0.05
+      },
+      "stat": "mana"
+    }
+  ]
+}

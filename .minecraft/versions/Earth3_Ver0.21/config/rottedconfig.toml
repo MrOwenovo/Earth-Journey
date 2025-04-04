@@ -1,0 +1,71 @@
+
+[Miner]
+	#Default 16
+	#Range: 6.0 ~ 1.7976931348623157E308
+	"Sets Miner's Max health" = 16.0
+	#Default 4
+	#Range: 2.0 ~ 1.7976931348623157E308
+	"Sets Miner's Damage" = 4.0
+
+[Spawns]
+	#Default false
+	"Should mobs spawn after a few days?" = false
+	"mob|weight|minimum|maximum" = ["rotted:marine|1|0|1", "rotted:firefighter|1|0|1", "rotted:doctor|0|0|1", "rotted:farmer|1|0|1", "rotted:miner|1|0|1"]
+	#Default minecraft:is_overworld
+	"Dictates in what biome the zombies spawn" = ["minecraft:is_overworld"]
+	#Default 50
+	MobCap = 50
+	#Default 3
+	"Days before zombies start spawning" = 3
+
+[Marine]
+	#Default 20
+	#Range: 10.0 ~ 1.7976931348623157E308
+	"Sets Marine's Max health" = 20.0
+	#Default 4
+	#Range: 2.0 ~ 1.7976931348623157E308
+	"Sets Marine's Damage" = 4.0
+
+[Firefighter]
+	#Default 25
+	#Range: 10.0 ~ 1.7976931348623157E308
+	"Sets Firefighter's Max health" = 25.0
+	#Default 6
+	#Range: 2.0 ~ 1.7976931348623157E308
+	"Sets Firefighter's Damage" = 6.0
+
+[Doctor]
+	"Potions that are used to attack others , NOT effects" = ["minecraft:weakness", "minecraft:poison"]
+	"Potions that are used to buff the zombies , NOT effects" = ["minecraft:fire_resistance", "minecraft:regeneration", "minecraft:strength"]
+	#Default 60
+	#Range: > 1
+	"Sets the time before throwing a potion when attacking" = 60
+	#Default 15
+	#Range: 5.0 ~ 1.7976931348623157E308
+	"Sets Doctor's Max health" = 15.0
+	#Default 3
+	#Range: 1.0 ~ 1.7976931348623157E308
+	"Sets Doctor's Damage" = 3.0
+	#Default true
+	"Should Doctors use Potions?" = true
+	#Default 40
+	#Range: > 1
+	"Sets the time before throwing a potion when buffing" = 40
+
+[Farmer]
+	#Default 4
+	#Range: 2.0 ~ 1.7976931348623157E308
+	"Sets Farmer's Damage" = 4.0
+	#Default 12
+	#Range: 6.0 ~ 1.7976931348623157E308
+	"Sets Farmer's Max health" = 12.0
+
+["Past Loot"]
+	#Default 0.15
+	#Range: 0.0 ~ 1.0
+	"Sets the past-loot drop chance( loot from the zombie's past life )" = 0.15
+
+	["Past Loot"."Should Farmers or other Zombies drop past-loot( wheat, iron_ore, carrot, etc"]
+		#Default true
+		" )?" = true
+

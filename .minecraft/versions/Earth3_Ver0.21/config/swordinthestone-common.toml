@@ -1,0 +1,4 @@
+#Add the ids of sword abilities here to disabled them. Ex. "swordinthestone:thunder_smite"
+#Please note that you will not receive an error if you mis-type these values. That ability will just not be disabled
+disabledAbilities = []
+

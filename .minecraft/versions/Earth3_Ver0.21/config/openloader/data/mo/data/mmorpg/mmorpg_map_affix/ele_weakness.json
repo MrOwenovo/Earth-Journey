@@ -1,0 +1,13 @@
+{
+  "affected": "Players",
+  "id": "ele_weakness",
+  "stats": [
+    {
+      "type": "FLAT",
+      "max": -45.0,
+      "min": -15.0,
+      "stat": "elemental_resist"
+    }
+  ],
+  "weight": 1000
+}
